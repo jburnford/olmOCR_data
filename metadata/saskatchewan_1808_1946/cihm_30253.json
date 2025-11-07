@@ -1,0 +1,61 @@
+{
+  "title": "What farmers say [microform] : the experience of farmers cultivating the lands of Manitoba, Assiniboia, Alberta and the Saskatchewan",
+  "subject": [
+    "Agriculture",
+    "Agriculture"
+  ],
+  "description": [
+    "\"Letters and reports from farmers who have settled in the provinces of western Canada.\"",
+    "Filmed from a copy of the original publication held by the University of Alberta, Edmonton",
+    "43"
+  ],
+  "publisher": "[S.l. : s.n.]",
+  "date": "1892",
+  "language": "eng",
+  "isbn": "0665302533",
+  "page-progression": "lr",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "operator": "zack@archive.org",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scandate": "20100605034026",
+  "imagecount": "27",
+  "updatedate": "2010-06-07 14:52:21",
+  "updater": "zack@archive.org",
+  "identifier": "cihm_30253",
+  "uploader": "curtisficheop@archive.org",
+  "addeddate": "2010-06-07 14:52:21",
+  "publicdate": "2010-06-07 14:52:23",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_30253",
+  "identifier-ark": "ark:/13960/t44q8kq1b",
+  "curation": "[curator]sharda@archive.org[/curator][date]20100702202605[/date][state]approved[/state]",
+  "sponsordate": "20100630",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "city": "[S.l.",
+  "oclc-id": [
+    "13672137",
+    "471083831",
+    "719968312",
+    "77473796"
+  ],
+  "backup_location": "ia903605_21",
+  "openlibrary_edition": "OL24241270M",
+  "openlibrary_work": "OL16740302W",
+  "external-identifier": "urn:oclc:record:1042045859",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.3"
+}

@@ -1,0 +1,39 @@
+{
+  "identifier": "WCW_M000246",
+  "collection": [
+    "wcw_peel",
+    "wcw",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "coordinates": "w140xxxx/n062xxxx w085xxxx/n063xxxx w093xxxx/n045xxxx w129xxxx/n044xxxx\n\n",
+  "creator": "James S. Virtue",
+  "date": "1858",
+  "extent": "1 map : col. ; 22.7 x 30.3 cm. on sheet 25.2 x 30.5 cm.",
+  "genre": [
+    "map",
+    "Digital maps",
+    "Early maps"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "notes": "Scale in English miles. ",
+  "publisher": "London: James S. Virtue",
+  "scale": "1:10,000,000.",
+  "scanner": "Internet Archive Python library 1.7.7",
+  "subject": "Canada, Western",
+  "title": "British Columbia, Vancouver Island, and the valley of the Saskatchewan",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "publicdate": "2021-07-02 23:45:32",
+  "addeddate": "2021-07-02 23:45:32",
+  "identifier-access": "http://archive.org/details/WCW_M000246",
+  "identifier-ark": "ark:/13960/t4pm26j73",
+  "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.13",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.14"
+}

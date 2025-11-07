@@ -1,0 +1,54 @@
+{
+  "identifier": "P001957",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Lacombe, Albert, 1827-1916. (author)",
+  "date": "1891",
+  "description": "Lacombe, Albert: 1827-1916. Born at St Sulpice, Quebec; became Oblate and ordained priest, 1849; studied Cree at Pembina, North Dakota, 1849-1851; curate in Montreal until offered his services to Mgr Alexandre Taché and went to Edmonton, 1852; to Lac Sainte Anne, 1853; founded Saint-Joachim mission at Fort Edmonton, 1858; founded mission at St Albert, 1863; appointed to parish of Fort Garry and responsibility for colonization in Manitoba, 1872; sent to eastern Canada to promote colonization, 1875; appointed Vicar General of Saint Boniface, 1879; chaplain to CPR workers, 1880-1882; first parish priest in Calgary, 1880; notable influence on Blackfoot during Riel Rebellion, 1885; influential in development of education in Alberta; moved to Pincher Creek, 1904; died at Midnapore, Alberta.",
+  "format": "13 p., illus., fold. map.; 22 cm.",
+  "identifier-bib": [
+    "local:peel1: 882",
+    "local:peel2: 1183",
+    "local:peel3: 1957",
+    "local:peel-procite-id: 1955"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([s.l.])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Settling the West--Immigration Literature",
+    "Migration, Internal",
+    "Migration intérieure",
+    "Prairie Provinces--Population",
+    "1891"
+  ],
+  "title": "Un nouveau champ de colonisation: la vallée de la Saskatchewan, branche nord, districts d'Alberta et de Saskatchewan, territoires de l'ouest",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 14:00:39",
+  "addeddate": "2025-03-19 14:00:39",
+  "identifier-access": "http://archive.org/details/P001957",
+  "identifier-ark": "ark:/13960/s26bhc80rwz",
+  "imagecount": "26",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.5022",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

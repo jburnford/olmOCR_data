@@ -1,0 +1,37 @@
+{
+  "identifier": "WCW_M000806",
+  "collection": [
+    "wcw_peel",
+    "wcw",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "coordinates": "\n\n",
+  "creator": "Rand, McNally &amp; Co.",
+  "date": "1891",
+  "genre": [
+    "map",
+    "Digital maps"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "notes": "Library has 1891 and 1902 editions. Includes Alberta, Saskatchewan and Assiniboia. Railways, indian reservations, Hudson Bay posts, drainage and settlements. Relief shown by hachures. 1891 (pg. 21-22). On verso: British Columbia Railroads, British Columbia Creeks, islands, lakes, mountains, rivers and towns. 1902 (pg 377-378) \"Rand McNally &amp; Co.'s New Business Atlas of North-West Territories.\" On verso: Northwest Territories Railroads in operation. Index to districts, creeks, lakes, mountains rivers and towns. ",
+  "publisher": "Chicago: Rand, McNally &amp; Co.",
+  "scale": "Ca. 1:2,500,000",
+  "scanner": "Internet Archive Python library 1.7.7",
+  "subject": "Political geography--Western Canada",
+  "title": "Rand, McNally &amp; Co.'s North West (Northwest) Territories",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "publicdate": "2021-07-27 18:57:33",
+  "addeddate": "2021-07-27 18:57:33",
+  "identifier-access": "http://archive.org/details/WCW_M000806",
+  "identifier-ark": "ark:/13960/t20d70q7x",
+  "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.13",
+  "ocr_detected_script": "Japanese",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "la",
+  "ocr_detected_lang_conf": "0.9324",
+  "pdf_module_version": "0.0.15"
+}

@@ -1,0 +1,39 @@
+{
+  "identifier": "WCW_M000051",
+  "collection": [
+    "wcw_peel",
+    "wcw",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "coordinates": "w1132925/n0533204\n\n",
+  "creator": "McDonald, James",
+  "date": "1892",
+  "extent": "1 map : photocopy ; 28.2 x 33.2 cm. on sheet 31.7 x 43.2 cm.",
+  "genre": [
+    "map",
+    "Digital maps",
+    "Cadastral maps"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "notes": "Handwritten notes mark the H.B.C. reserve boundary to the north as now bordered by Norwood Boulevard or 111th Avenue, and the Edmonton town boundary on the east as now comprising 95th St. Two ferries across the North Saskatchewan are marked - Durdle's ferry downstream, and Walter's ferry upstream directly across from the old Fort. ",
+  "publisher": "Edmonton?: s.n.",
+  "scale": "ca. 1:12,000",
+  "scanner": "Internet Archive Python library 1.7.7",
+  "subject": "Edmonton (Alta.)",
+  "title": "Plan of the Town of Edmonton, N.W.T. - Compiled from registered plans by James McDonald for Edmonton District Directory",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "publicdate": "2021-06-29 19:28:20",
+  "addeddate": "2021-06-29 19:28:20",
+  "identifier-access": "http://archive.org/details/WCW_M000051",
+  "identifier-ark": "ark:/13960/t9c65ct5c",
+  "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.13",
+  "ocr_detected_script": "Arabic",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "lb",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.14"
+}

@@ -1,0 +1,58 @@
+{
+  "identifier": "P001996",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Canadian Pacific Railway (author)",
+  "date": "1892",
+  "description": "Cover title: \"Canadian North West.\" Primarily letters from successful settlers.",
+  "format": "16 p., illus.; 22 cm.",
+  "identifier-bib": [
+    "local:peel2: 1257",
+    "local:peel3: 1996",
+    "local:peel-procite-id: 1994"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[Canadian Pacific Railway] ([London])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Settling the West--Immigration Literature",
+    "Farmers",
+    "Agriculteurs",
+    "Letters",
+    "Lettres (Genre littéraire)",
+    "Prairie Provinces--Description and travel",
+    "Railroad land",
+    "Railroad land grants",
+    "Concessions ferroviaires",
+    "1892"
+  ],
+  "title": "What farmers say: The experience of farmers cultivating the lands of Manitoba, Assiniboia, Alberta, and the Saskatchewan: Letters and reports from farmers who have settled in the provinces of western Canada",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 14:23:45",
+  "addeddate": "2025-03-19 14:23:45",
+  "identifier-access": "http://archive.org/details/P001996",
+  "identifier-ark": "ark:/13960/s2wpbz13mb5",
+  "imagecount": "20",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.6961",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

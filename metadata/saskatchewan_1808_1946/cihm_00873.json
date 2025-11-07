@@ -1,0 +1,59 @@
+{
+  "title": "The Blake demonstration at the Pavilion, Horticultural Gardens, Monday evening September 19th, 1892 [microform]",
+  "creator": "Blake, Edward, 1833-1912",
+  "subject": [
+    "Home rule (Ireland)",
+    "Home rule (Irlande)"
+  ],
+  "description": [
+    "Caption title",
+    "Filmed from a copy of the original publication held by the University of Saskatchewan Library",
+    "43"
+  ],
+  "publisher": "[S.l. : s.n.",
+  "date": "1892",
+  "language": "eng",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "operator": "microficheop@archive.org",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scandate": "20080904223443",
+  "imagecount": "29",
+  "updatedate": "2008-10-22 19:18:53",
+  "updater": "Microfiche Operator",
+  "identifier": "cihm_00873",
+  "uploader": "microficheop@archive.org",
+  "addeddate": "2008-10-22 19:18:53",
+  "publicdate": "2008-10-22 19:19:01",
+  "notes": "This microform is of good quality.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_00873",
+  "identifier-ark": "ark:/13960/t23b69m4q",
+  "scanfactors": "0",
+  "curation": "[curator]sharda@archive.org[/curator][date]20091124195330[/date][state]approved[/state]",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "backup_location": "ia903602_17",
+  "openlibrary_edition": "OL20423877M",
+  "openlibrary_work": "OL1151811W",
+  "external-identifier": "urn:oclc:record:1041779830",
+  "filesxml": [
+    "Thu Dec 31 21:36:24 UTC 2020",
+    "Sun Oct 3 14:17:00 UTC 2021"
+  ],
+  "isbn": "0665008732",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "81",
+  "page_number_module_version": "1.0.3"
+}

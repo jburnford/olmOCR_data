@@ -1,0 +1,56 @@
+{
+  "identifier": "P001963",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Osler, Hammond & Nanton (author)",
+    "Qu'Appelle, Long Lake and Saskatchewan Railroad and Steamboat Company (author)"
+  ],
+  "date": "1891",
+  "format": "folder incl.16 p., map.; 25.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 886",
+    "local:peel2: 1232",
+    "local:peel3: 1963",
+    "local:peel-procite-id: 1961"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Osler, Hammond & Nanton (Winnipeg)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Settling the West--Immigration Literature",
+    "Frontier and pioneer life--Saskatchewan",
+    "Real property--Saskatchewan",
+    "Saskatchewan--Description and travel",
+    "1891"
+  ],
+  "title": "The Qu'Appelle, Long Lake and Saskatchewan Railroad and Steamboat Co. has 1,000,000 acres of odd numbered sections in the old settled districts between Regina, the capital city of the Canadian Northwest, and Prince Albert",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 14:02:52",
+  "addeddate": "2025-03-19 14:02:52",
+  "identifier-access": "http://archive.org/details/P001963",
+  "identifier-ark": "ark:/13960/s2kh5vvmvxh",
+  "imagecount": "8",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.4914",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

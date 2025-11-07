@@ -1,0 +1,37 @@
+{
+  "identifier": "UAA-1974-169-9-2-5-5-7-001",
+  "collection": [
+    "pearce",
+    "university_of_alberta_archives",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "contributor": "University of Alberta Archives",
+  "date": "1884",
+  "description": "Item consists of a map showing the south east portion of Alberta and the south west portion of Saskatchewan.",
+  "folder_number": "UAA-1974-169-9/2/5/5:7-10",
+  "genre": "Map",
+  "language": "eng-handwritten",
+  "licenseurl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "location": "RCRF Main Map Drawers",
+  "mediatype": "texts",
+  "notes": [
+    "Poor condition- torn along many folds, must be encapsulated",
+    "Material larger than 11 x 16 inches has been digitized as separate images to ensure a high resolution and legibility of fine print."
+  ],
+  "scanner": "Internet Archive Python library 3.0.0",
+  "title": "Alberta and Saskatchewan",
+  "uploader": "digitization@ualberta.ca",
+  "publicdate": "2023-08-28 16:59:24",
+  "addeddate": "2023-08-28 16:59:24",
+  "identifier-access": "http://archive.org/details/UAA-1974-169-9-2-5-5-7-001",
+  "identifier-ark": "ark:/13960/s2kg59r3q00",
+  "imagecount": "9",
+  "ocr": "tesseract 5.3.0-3-g9920: language not currently OCRable",
+  "ocr_module_version": "0.0.21",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.3",
+  "pdf_module_version": "0.0.23",
+  "year": "1884",
+  "citation-use-notes": "University of Alberta Archives, UAA-1974-169-9-2-5-5-7-001, Alberta and Saskatchewan, 1884."
+}

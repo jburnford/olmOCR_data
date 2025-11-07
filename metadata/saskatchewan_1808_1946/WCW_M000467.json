@@ -1,0 +1,41 @@
+{
+  "identifier": "WCW_M000467",
+  "collection": [
+    "wcw_peel",
+    "wcw",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "coordinates": "w11140xx/n052xxxx w101xxxx/n052xxxx w10120xx/n049xxxx w11130xx/n049xxxx\n\n",
+  "creator": [
+    "J. H. Brownlee",
+    "The North-West Council"
+  ],
+  "date": "1888",
+  "extent": "1 map : col., mounted on linen ; 47.5 x 99.4 cm. on sheet 51.8 x 102.5 cm.",
+  "genre": [
+    "map",
+    "Digital maps"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "notes": "Printed by The Canada Bank Note Co., Montreal. Districts bordered in red; shows also post offices, schools, Mounted Police posts, government and other trails and telegraph lines. ",
+  "publisher": "Regina: The North-West Council",
+  "scale": "ca. 1:760,000",
+  "scanner": "Internet Archive Python library 1.7.7",
+  "subject": "Political and administrative divisions--Saskatchewan",
+  "title": "Brownlee's Land Map of the Provisional District of Assiniboia, North-West Territories, Canada - Published by authority of The North-West Council",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "publicdate": "2021-07-03 04:26:29",
+  "addeddate": "2021-07-03 04:26:29",
+  "identifier-access": "http://archive.org/details/WCW_M000467",
+  "identifier-ark": "ark:/13960/t7kq9tj36",
+  "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.13",
+  "ocr_detected_script": "Cyrillic",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.14"
+}

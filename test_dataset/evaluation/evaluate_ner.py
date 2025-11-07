@@ -321,17 +321,20 @@ def main():
     """Main evaluation workflow."""
     parser = argparse.ArgumentParser(description='Evaluate NER model predictions')
     parser.add_argument('model_name', help='Name of model (e.g., "spacy", "dell_harvard")')
-    parser.add_argument('--gold-dir', default='test_dataset/gold_standard',
-                       help='Directory containing gold standard files')
+    parser.add_argument('--gold-dir', default=None,
+                        help='Directory with gold files (default: test_dataset/gold_standard relative to this script)')
     parser.add_argument('--pred-dir', default=None,
-                       help='Directory containing prediction files (default: test_dataset/predictions/{model_name})')
+                        help='Directory with prediction files (default: test_dataset/predictions/{model_name} relative to this script)')
     parser.add_argument('--output', default=None,
-                       help='Output JSON file for detailed results')
+                        help='Output JSON file for detailed results')
 
     args = parser.parse_args()
 
-    gold_dir = Path(args.gold_dir)
-    pred_dir = Path(args.pred_dir) if args.pred_dir else Path(f'test_dataset/predictions/{args.model_name}')
+    # Resolve default paths relative to repository layout regardless of CWD
+    script_dir = Path(__file__).parent
+    test_dir = script_dir.parent
+    gold_dir = Path(args.gold_dir) if args.gold_dir else (test_dir / 'gold_standard')
+    pred_dir = Path(args.pred_dir) if args.pred_dir else (test_dir / 'predictions' / args.model_name)
 
     if not gold_dir.exists():
         print(f"ERROR: Gold standard directory not found: {gold_dir}")

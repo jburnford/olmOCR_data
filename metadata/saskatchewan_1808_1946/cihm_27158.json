@@ -1,0 +1,72 @@
+{
+  "title": "David Têtu et les raiders de Saint-Alban [microforme] : épisode de la guerre américaine, 1864-1865",
+  "creator": "Têtu, Henri, 1849-1915",
+  "subject": [
+    "Têtu, David, né 1829",
+    "Têtu, David, b. 1829",
+    "Saint Albans, Raid confédéré sur, 1864",
+    "St. Albans Confederate Raid, 1864"
+  ],
+  "description": [
+    "Attribué à Henri Têtu--Dictionary of Canadian biography / W.S. Wallace; attribué aussi à Henri Trêtu et à Henri Raymond Casgrain--National Union Catalog pre-1956 imprints",
+    "Microfiche de l'exemplaire de l'édition originale se trouvant à la University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "Québec : N.S. Hardy",
+  "date": "1891",
+  "language": "fre",
+  "isbn": "0665271581",
+  "page-progression": "lr",
+  "sponsor": "University of Ottawa",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "operator": "zack@archive.org",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scandate": "20100128225116",
+  "imagecount": "170",
+  "updatedate": "2010-02-01 18:46:20",
+  "updater": "zack@archive.org",
+  "identifier": "cihm_27158",
+  "uploader": "curtisficheop@archive.org",
+  "addeddate": "2010-02-01 18:46:20",
+  "publicdate": "2010-02-01 18:46:31",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_27158",
+  "identifier-ark": "ark:/13960/t7kp8n70x",
+  "curation": "[curator]sharda@archive.org[/curator][date]20100208030300[/date][state]approved[/state]",
+  "sponsordate": "20100131",
+  "city": "Québec",
+  "edition": "2e éd.",
+  "oclc-id": [
+    "12561504",
+    "471057495",
+    "77468744"
+  ],
+  "related-external-id": [
+    "urn:isbn:0665122306",
+    "urn:oclc:470971309",
+    "urn:oclc:725807214",
+    "urn:oclc:77398684",
+    "urn:oclc:8401247"
+  ],
+  "backup_location": "ia903604_27",
+  "collection": [
+    "universityofottawa",
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "openlibrary_edition": "OL24148387M",
+  "openlibrary_work": "OL10754955W",
+  "external-identifier": "urn:oclc:record:1042040228",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.3"
+}

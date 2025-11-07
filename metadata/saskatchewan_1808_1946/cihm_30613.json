@@ -1,0 +1,71 @@
+{
+  "title": "The hero of the Saskatchewan [microform] : life among the Ojibway and Cree Indians in Canada",
+  "creator": "Maclean, John, 1851-1928",
+  "subject": [
+    "McDougall, George, 1820-1876",
+    "McDougall, George, 1820-1876",
+    "Missionaries",
+    "Indians of North America",
+    "Missionnaires",
+    "Indiens"
+  ],
+  "description": [
+    "\"Reprinted from The Barrie Examiner\"",
+    "Filmed from a copy of the original publication held by the Douglas Library, Queen's University",
+    "43"
+  ],
+  "publisher": "Barrie, Ont. : The Barrie Examiner",
+  "date": "1891",
+  "language": "eng",
+  "isbn": "066530613X",
+  "page-progression": "lr",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "operator": "zack@archive.org",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scandate": "20100610104137",
+  "imagecount": "68",
+  "updatedate": "2010-06-10 18:41:00",
+  "updater": "zack@archive.org",
+  "identifier": "cihm_30613",
+  "uploader": "curtisficheop@archive.org",
+  "addeddate": "2010-06-10 18:41:00",
+  "publicdate": "2010-06-10 18:41:05",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_30613",
+  "identifier-ark": "ark:/13960/t5r791r1k",
+  "curation": "[curator]sharda@archive.org[/curator][date]20100702202605[/date][state]approved[/state]",
+  "sponsordate": "20100630",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "city": "Barrie, Ont.",
+  "oclc-id": [
+    "13694696",
+    "471084607",
+    "5277463",
+    "635617965",
+    "833511338"
+  ],
+  "lccn": "86601327",
+  "related-external-id": [
+    "urn:isbn:0659969009",
+    "urn:oclc:70585074",
+    "urn:oclc:77171278"
+  ],
+  "backup_location": "ia903605_22",
+  "external-identifier": "urn:oclc:record:1041984143",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "22",
+  "page_number_module_version": "1.0.3"
+}

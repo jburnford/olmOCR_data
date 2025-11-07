@@ -1,0 +1,46 @@
+{
+  "identifier": "WCW_M000418",
+  "collection": [
+    "wcw_peel",
+    "wcw",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "coordinates": "w10520xx/n05410xx w09530xx/n05410xx w09530xx/n05040xx w10520xx/n05040xx\n\n",
+  "creator": "Legislative Assembly",
+  "date": "1859",
+  "extent": "1 map : mounted on linen ; 42.2 x 76.8 cm. on sheet 45.7 x 83.4 cm.",
+  "genre": [
+    "map",
+    "Digital maps",
+    "Early maps"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "notes": "Horizontal scale is 1 inch = 80 feet; vertical scale 1 inch = 40 feet. Areas measured: The Red River at Dr. Bunn's house; The Assinniboine River at Lane's Post, at Little Souris, at Fort Ellice and at its mouth; Little Saskatchewan or Dauphin River 5 miles from its mouth; South branch of the Saskatchewan near the elbow; The Saskatchewan river at Fort a la Corne and at Bigstone River; Fishing Lake no. 3 in the Qu'Apelle Valley; and Valley of the Assinniboine near Fort Ellice. Part of collection of maps from the 1858 Assinniboine &amp; Saskatchewan Exploring Expedition. To accompany text by Henry Youle Hind. Toronto: John Lovell, 1859. ",
+  "publisher": "Toronto: Legislative Assembly",
+  "scale": "ca. 1:390,000",
+  "scanner": "Internet Archive Python library 1.7.7",
+  "subject": [
+    "Prairie Provinces",
+    "Assiniboine River (Sask. and Man.)",
+    "Red River of the North",
+    "Saskatchewan River (Sask. and Man.)",
+    "Souris River",
+    "South Saskatchewan River (Alta. and Sask.)"
+  ],
+  "title": "Cross-section of portions of Rupert's Land surveyed and examined by the Assiniboine and Saskatchewan Exploring Expedition in the year 1858 - under instructions from the Provincial Secretary, Canada",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "publicdate": "2021-07-02 22:34:15",
+  "addeddate": "2021-07-02 22:34:15",
+  "identifier-access": "http://archive.org/details/WCW_M000418",
+  "identifier-ark": "ark:/13960/t2g856h11",
+  "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.13",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "0.9830",
+  "pdf_module_version": "0.0.14"
+}

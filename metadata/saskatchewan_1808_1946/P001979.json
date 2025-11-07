@@ -1,0 +1,54 @@
+{
+  "identifier": "P001979",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Bjarnason, Jóhann Magnús, 1866-1945. (author)",
+  "date": "1892",
+  "description": "Bjarnason, Jóhann Magnús: 1866-1945. Emigrated from Iceland to Nova Scotia with his parents at age nine; became a schoolteacher in western Canada, 1889; after retirement lived at Elfros, Saskatchewan (Kirkconnell, <i>Canadian overtones</i>). // Contents: \"Íslendingurinn\"; \"Maðurinn í fornfálegu yfirhöfninni\"; \"Hún dó af 'heart disease'\"; \"Steinn Steinsson\"; \"Vitskerti ritstjórinn\"; \"Litla stúlkan\"; and \"Ungu hetjurnar.\"",
+  "format": "64 p.; 16 cm.",
+  "identifier-bib": [
+    "local:peel1: 892",
+    "local:peel2: 1243",
+    "local:peel3: 1979",
+    "local:peel-procite-id: 1977"
+  ],
+  "language": "Icelandic",
+  "mediatype": "texts",
+  "publisher": "Prentsmiðja Lögbergs (Winnipeg)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Literary Works--Poetry, Icelandic",
+    "Poetry",
+    "Poetry",
+    "Poésie",
+    "1892"
+  ],
+  "title": "Sögur og kvæði",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 14:10:00",
+  "addeddate": "2025-03-19 14:10:00",
+  "identifier-access": "http://archive.org/details/P001979",
+  "identifier-ark": "ark:/13960/s2fjqwz1x54",
+  "imagecount": "52",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l isl",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "is",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

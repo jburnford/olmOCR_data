@@ -1,0 +1,61 @@
+{
+  "identifier": "P001777",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Dennis, John Stoughton younger, 1856-1938. (author)",
+  "date": "1892",
+  "description": "Dennis, John Stoughton younger: 1856-1938. Son of John Stoughton Dennis (elder); civil engineer; to the West as a surveyor, 1872; served for four years as surveyor with HBC; commanded Dennis' Scouts during Saskatchewan Rebellion; inspector of surveys for Dominion government, 1887-1894; chief engineer with the irrigation branch, 1894-1902; deputy-commissioner of public works for the NWT, 1897-1902; became chief commissioner of CPR's Department of Colonization and Development, 1902; appointed assistant to the president of CPR, 1911; Director of Transportation and Intelligence for Canadian brigade in Siberia during First World War (Morgan, <i>Canadian men and women of the time</i>, 1912; <i>Who's who in Canada</i>, 1922; MacRae, <i>History of the province of Alberta</i>).",
+  "format": "vi, 98 p.",
+  "identifier-bib": [
+    "local:peel1: 901",
+    "local:peel2: 1261",
+    "local:peel3: 1777",
+    "local:peel-procite-id: 1775"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "s.n. (Ottawa)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Explorers, Surveyors and Travellers--Surveys, Topographical",
+    "Canada--Description and travel",
+    "Land utilization--Laws, legislation, regulations, etc.",
+    "Land use--Law and legislation",
+    "Sol, Utilisation du--Droit--Législation",
+    "Surveys, Governmental",
+    "Surveys",
+    "Levés",
+    "Surveys--History",
+    "Surveys--History",
+    "Levés--Histoire",
+    "1889"
+  ],
+  "title": "A short history of the surveys performed under the Dominion lands system, 1869 to 1889",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 12:44:22",
+  "addeddate": "2025-03-19 12:44:22",
+  "identifier-access": "http://archive.org/details/P001777",
+  "identifier-ark": "ark:/13960/s21psm4v1z9",
+  "imagecount": "102",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "93",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

@@ -1,0 +1,39 @@
+{
+  "identifier": "WCW_M000625",
+  "collection": [
+    "wcw_peel",
+    "wcw",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "coordinates": "w10745xx/n05120xx w102xxxx/n05120xx w102xxxx/n049xxxx w10745xx/n049xxxx\n\n",
+  "creator": "Dominion Lands Office, Department of the Interior",
+  "date": "1883 (25th Jan.)",
+  "extent": "1 map : 1 col., mounted on linen ; 74.7 x 111.5 cm. on sheet 80.7 x 115.5 cm.",
+  "genre": [
+    "map",
+    "Digital maps",
+    "Topographic maps"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "notes": "Railway lands and railway reserves are coloured in red. \"Published by authority of the Honorable the Minister of the Interior.\" ",
+  "publisher": "Ottawa: Department of the Interior",
+  "scale": "ca. 1:360,000",
+  "scanner": "Internet Archive Python library 1.7.7",
+  "subject": "Saskatchewan",
+  "title": "Map of part of the District of Assiniboia shewing Dominion Lands surveyed to 31st December 1882 - North West Territories of the Dominion of Canada",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "publicdate": "2021-07-03 02:16:33",
+  "addeddate": "2021-07-03 02:16:33",
+  "identifier-access": "http://archive.org/details/WCW_M000625",
+  "identifier-ark": "ark:/13960/t2f885n6n",
+  "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.13",
+  "ocr_detected_script": "Cyrillic",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "af",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.14"
+}
