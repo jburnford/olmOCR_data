@@ -1,0 +1,985 @@
+{
+  "document_id": "cihm_29478",
+  "metadata": {
+    "title": "Prince Albert and the North Saskatchewan [microform] : a guide to \" the fertile belt\" now being opened up by railway from Regina to Prince Albert, the central city! and capital of Saskatchewan",
+    "year": 1890,
+    "language": "eng",
+    "collection": "university_of_alberta_libraries_microfilm; university_of_alberta_libraries; toronto; microfilm; additional_collections",
+    "doc_type": "book",
+    "word_count": 13216,
+    "char_count": 80137,
+    "total_pages": 81,
+    "extraction_strategy": "large_doc",
+    "num_snippets": 10
+  },
+  "annotation_date": "2025-11-07T20:35:00",
+  "annotator": "claude_ai",
+  "model": "claude-sonnet-4-5",
+  "status": "draft",
+  "total_snippets": 10,
+  "total_entities": 92,
+  "snippets": [
+    {
+      "snippet_id": "001",
+      "text": "It naturally inclines to produce timber; and where a prairie escapes the yearly fires for any length of time it speedily becomes overgrown with vigorous young aspens and willows. In such regions the process of alternate prairie and forest making may be constantly observed, fire being the great factor on one hand, and natural tendency on the other. The prairie soils, it may hence be inferred, are peculiarly rich in nitrates and phosphates, those great nourishers of plant life, and it is from these virgin regions that America must ultimately draw its supply of wheat.\nCARSCADEN,\nPECK & CO.,\nMANUFACTURERS OF\nCLOTHING\nHats, Caps, Fur Goods\nAnd Men's Furnishings\nWHOLESALE.\n\nManufactory—622 St. Lawrence Main Street, Montreal.\nWarehouses—Cor. Princess and McDermott Sts., Winnipeg;\nVan Horne Block, Vancouver, B.C.",
+      "char_start": 6804,
+      "char_end": 7621,
+      "entities": [
+        {
+          "text": "America",
+          "start": 527,
+          "end": 534,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "North America"
+        },
+        {
+          "text": "CARSCADEN,\nPECK & CO.",
+          "start": 577,
+          "end": 598,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Clothing manufacturer"
+        },
+        {
+          "text": "St. Lawrence Main Street",
+          "start": 711,
+          "end": 735,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Street address in Montreal"
+        },
+        {
+          "text": "Montreal",
+          "start": 737,
+          "end": 745,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Montreal, Quebec"
+        },
+        {
+          "text": "Princess",
+          "start": 768,
+          "end": 776,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Princess Street"
+        },
+        {
+          "text": "McDermott Sts.",
+          "start": 781,
+          "end": 795,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "McDermott Street"
+        },
+        {
+          "text": "Winnipeg",
+          "start": 797,
+          "end": 805,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Winnipeg, Manitoba"
+        },
+        {
+          "text": "Van Horne Block",
+          "start": 807,
+          "end": 822,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Building in Vancouver"
+        },
+        {
+          "text": "Vancouver",
+          "start": 824,
+          "end": 833,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Vancouver, British Columbia"
+        },
+        {
+          "text": "B.C.",
+          "start": 835,
+          "end": 839,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "British Columbia"
+        }
+      ]
+    },
+    {
+      "snippet_id": "002",
+      "text": "It is said that he ascended the river to its forks, and thence followed up the north branch to the present site of Prince Albert, where he established a post, placing it on one of the islands opposite the present town, for security doubtless against attack by the savages. Numerous old Indian graves attest that the Prince Albert flat must in early days have been a meeting place of the Indians, owing no doubt to its easy landings and to its large area of camping ground; but more perhaps to its central situation, for the Indians had a keen eye to convenience, and their ancient rallying points are invariably the sites of the white men's cities of to-day.\n\nThese features, no doubt, commended the spot to the subsequent founder of the Mission of Prince Albert in 1866, the late Mr. Nisbett, around whose farm has extended within recent years what is now the well-known capital of Saskatchewan.",
+      "char_start": 9905,
+      "char_end": 10802,
+      "entities": [
+        {
+          "text": "Prince Albert",
+          "start": 117,
+          "end": 130,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Prince Albert, Saskatchewan"
+        },
+        {
+          "text": "Prince Albert",
+          "start": 320,
+          "end": 333,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Prince Albert flat/area"
+        },
+        {
+          "text": "Mission of Prince Albert",
+          "start": 735,
+          "end": 760,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Mission established 1866"
+        },
+        {
+          "text": "Mr. Nisbett",
+          "start": 779,
+          "end": 790,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "James Nisbett, founder of Prince Albert mission"
+        },
+        {
+          "text": "Saskatchewan",
+          "start": 885,
+          "end": 897,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Saskatchewan territory/province"
+        }
+      ]
+    },
+    {
+      "snippet_id": "003",
+      "text": "Lots suitable for Warehouses or Lumber Yards, either on River Front or on Line of R. & L. L. Ry.\n\nPrices from $25 up, according to location. Torrens Title. Easy Terms Apply to\n\nJ. A. MACDONALD.\n\nOFFICE—J. M. Campbell's Block, River-st., Prince Albert\n\nJ. A. MACDONALD & SONS,\n\nWHOLESALE AND RETAIL BUTCHERS,\n\nRIVER STREET, - PRINCE ALBERT\n\nWE HAVE ALWAYS ON HAND A CHOICE LOT OF Beef, Pork, Mutton, Sausage, Ham, Bacon. Vegetables and Game in Season.\n\nOrders promptly delivered to all parts of the Town. Cattle bought and sold.\n\nJohn A. Macdonald & Sons.\nC. R. STOVEL,\nDENTIST.\n\nPRINCE ALBERT, SASK.\n\nGold Filling and Crown Work, and Artificial Teeth Inserted on Vulcanite, Celluloid and Metal Bases.\n\nNitrous Oxide Gas administered for Painless Extraction of Teeth.\n\nOver Hudson's Bay Company's Branch Store, Tait's Block.\n\ndifficult to eradicate as the thistle of the eastern provinces.",
+      "char_start": 23520,
+      "char_end": 24410,
+      "entities": [
+        {
+          "text": "R. & L. L. Ry.",
+          "start": 84,
+          "end": 98,
+          "type": "ORG",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Regina and Long Lake Railway"
+        },
+        {
+          "text": "J. A. MACDONALD",
+          "start": 182,
+          "end": 197,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Real estate and business owner"
+        },
+        {
+          "text": "J. M. Campbell's Block",
+          "start": 206,
+          "end": 228,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Building in Prince Albert"
+        },
+        {
+          "text": "River-st.",
+          "start": 230,
+          "end": 239,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "River Street"
+        },
+        {
+          "text": "Prince Albert",
+          "start": 241,
+          "end": 254,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Prince Albert, Saskatchewan"
+        },
+        {
+          "text": "J. A. MACDONALD & SONS",
+          "start": 256,
+          "end": 278,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Butcher business"
+        },
+        {
+          "text": "RIVER STREET",
+          "start": 315,
+          "end": 327,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "River Street"
+        },
+        {
+          "text": "PRINCE ALBERT",
+          "start": 331,
+          "end": 344,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Prince Albert"
+        },
+        {
+          "text": "John A. Macdonald & Sons",
+          "start": 541,
+          "end": 565,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Business name"
+        },
+        {
+          "text": "C. R. STOVEL",
+          "start": 567,
+          "end": 579,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Dentist"
+        },
+        {
+          "text": "PRINCE ALBERT",
+          "start": 593,
+          "end": 606,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Prince Albert"
+        },
+        {
+          "text": "SASK.",
+          "start": 608,
+          "end": 613,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Saskatchewan (abbreviated)"
+        },
+        {
+          "text": "Hudson's Bay Company",
+          "start": 809,
+          "end": 829,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Famous fur trading company"
+        },
+        {
+          "text": "Tait's Block",
+          "start": 845,
+          "end": 857,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Building in Prince Albert"
+        }
+      ]
+    },
+    {
+      "snippet_id": "004",
+      "text": "The reserves of the Hudson's Bay Company end with the North Branch of the Saskatchewan; colonization companies have no footing here; no railway reserves have been established, and therefore the immigrant will find in this region a fair field with no interested speculator to stand betwixt him and his patent.\n\nNorth and east of this region lie the great lakes of the Saskatchewan, to which reference has been made, some of which are of immense size and all of which abound with trout, pike and whitefish which will be a permanent supply for home and for export if properly preserved.\n\nThere are other resources known to exist in the Fertile Belt which,\nJ. L. JOHNSON & CO'Y,\nDEALERS IN\nHardware, Stoves, Tinware and Settlers'\nGENERAL SUPPLIES.\n\nGLASS—all sizes; PAINTS—White Lead, Mixed Colors;\nPUTTY; ALABASTINE; OILS—Machine, Paint.",
+      "char_start": 29165,
+      "char_end": 30000,
+      "entities": [
+        {
+          "text": "Hudson's Bay Company",
+          "start": 20,
+          "end": 40,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson's Bay Company"
+        },
+        {
+          "text": "North Branch",
+          "start": 54,
+          "end": 66,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "North Saskatchewan River"
+        },
+        {
+          "text": "Saskatchewan",
+          "start": 74,
+          "end": 86,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Saskatchewan River/region"
+        },
+        {
+          "text": "Saskatchewan",
+          "start": 366,
+          "end": 378,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Great lakes of Saskatchewan"
+        },
+        {
+          "text": "Fertile Belt",
+          "start": 637,
+          "end": 649,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Fertile Belt region"
+        },
+        {
+          "text": "J. L. JOHNSON & CO'Y",
+          "start": 663,
+          "end": 683,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Hardware dealer business"
+        }
+      ]
+    },
+    {
+      "snippet_id": "005",
+      "text": "What is required after railway facilities is the influx of a few thousand settlers of the right stamp, those having the will and the ability to develop the great natural resources which are here spread out before them.\nR. C. WIGMORE\n\nIMPORTER OF\n\nDry Goods,\nClothing,\nHats, Caps,\nFur Goods,\nGroceries,\nCrockery, Etc.\n\nPrince Albert, Sask.\nPractical Experience Establishes FACTS!\n\nSpeaking at a dinner, given by the Lorne Agricultural Society, of Prince Albert, in 1888, Mr. Chas. Robertson, president of the Carrot River Society, remarked: \"as a stock-raising country, I believe no part of this great North West Territory offers superior advantages to our own district. The climate, food and water are all that can be desired. Within the past five years this great branch of our future wealth has made some wonderful strides; every year has seen not only the natural increase but large herds of the best grades imported, and today there is no question as to its future for all kinds of stock raising purposes.",
+      "char_start": 52839,
+      "char_end": 53849,
+      "entities": [
+        {
+          "text": "R. C. WIGMORE",
+          "start": 218,
+          "end": 231,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Importer and merchant"
+        },
+        {
+          "text": "Prince Albert",
+          "start": 324,
+          "end": 337,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Prince Albert, Saskatchewan"
+        },
+        {
+          "text": "Sask.",
+          "start": 339,
+          "end": 344,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Saskatchewan (abbreviated)"
+        },
+        {
+          "text": "Lorne Agricultural Society",
+          "start": 416,
+          "end": 442,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Agricultural organization"
+        },
+        {
+          "text": "Prince Albert",
+          "start": 447,
+          "end": 460,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Prince Albert"
+        },
+        {
+          "text": "Mr. Chas. Robertson",
+          "start": 471,
+          "end": 490,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "President of Carrot River Society"
+        },
+        {
+          "text": "Carrot River Society",
+          "start": 510,
+          "end": 530,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Agricultural society"
+        },
+        {
+          "text": "North West Territory",
+          "start": 624,
+          "end": 644,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "North-West Territories"
+        }
+      ]
+    },
+    {
+      "snippet_id": "006",
+      "text": "It was established in 1866 by the late Rev. Jas. Nisbet, as a mission for Indians, and the church and schools carried on by that devoted missionary, and his successors have, in a great measure, assisted in the wonderful development which has here taken place. Enjoying all the conveniences of modern times; surrounded by the richest of agricultural and timber lands; already possessing a large and energetic population our future is assured and we can confidently recommend our district as a most desirable locality for those seeking new homes. The great pioneers of civilization have long since been represented here, and to-day no settlement can be found without its place of worship. Within the incorporated area of the Town, the Presbyterian, English, Methodist and Roman Catholic Churches, representing the four largest Christian bodies within the Dominion, have established themselves and each own commodious places of worship where services are held weekly in each.",
+      "char_start": 57178,
+      "char_end": 58151,
+      "entities": [
+        {
+          "text": "Rev. Jas. Nisbet",
+          "start": 43,
+          "end": 59,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Reverend James Nisbet, founder of Prince Albert mission"
+        },
+        {
+          "text": "Presbyterian",
+          "start": 734,
+          "end": 746,
+          "type": "ORG",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Presbyterian Church"
+        },
+        {
+          "text": "English",
+          "start": 748,
+          "end": 755,
+          "type": "ORG",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Anglican/English Church"
+        },
+        {
+          "text": "Methodist",
+          "start": 757,
+          "end": 766,
+          "type": "ORG",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Methodist Church"
+        },
+        {
+          "text": "Roman Catholic Churches",
+          "start": 771,
+          "end": 794,
+          "type": "ORG",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Roman Catholic Church"
+        },
+        {
+          "text": "Dominion",
+          "start": 851,
+          "end": 859,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Dominion of Canada"
+        }
+      ]
+    },
+    {
+      "snippet_id": "007",
+      "text": "In addition to these institutions our public school accommodation has lately been increased by the addition of a High School branch, thus making Prince Albert one of the most important educational centres within the Territories. Apart from these public institutions the Rev.\nQUEEN'S HOTEL,\nCHURCH STREET,\nPRINCE ALBERT, SASKATCHEWAN.\n\nThe Largest and Most Comfortable Hotel in the District.\nBoard by the Day or Week.\nThe Travelling Public will Receive the Best of Attention.\n\nTHE BAR WILL BE FOUND SUPPLIED WITH\nCHOICE BRANDS OF CIGARS,\nFOUR PER CENT BEER, CIDER\nAND BLACKWOOD'S SOFT DRINKS.\n\nTHOMAS ORAM, PROPRIETOR.\nMothers of St. Ann's Convent carry on an educational work of much importance and Roman Catholic Separate Schools have been established in both the East and West Ends of the town.\n\nTwo ably conducted newspapers enjoy a large circulation, and the legal and medical professions are both represented by men of ability.",
+      "char_start": 61796,
+      "char_end": 62730,
+      "entities": [
+        {
+          "text": "Prince Albert",
+          "start": 147,
+          "end": 160,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Prince Albert"
+        },
+        {
+          "text": "Territories",
+          "start": 217,
+          "end": 228,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "North-West Territories"
+        },
+        {
+          "text": "QUEEN'S HOTEL",
+          "start": 279,
+          "end": 292,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Hotel business"
+        },
+        {
+          "text": "CHURCH STREET",
+          "start": 294,
+          "end": 307,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Church Street"
+        },
+        {
+          "text": "PRINCE ALBERT",
+          "start": 309,
+          "end": 322,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Prince Albert"
+        },
+        {
+          "text": "SASKATCHEWAN",
+          "start": 324,
+          "end": 336,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Saskatchewan"
+        },
+        {
+          "text": "THOMAS ORAM",
+          "start": 619,
+          "end": 630,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Hotel proprietor"
+        },
+        {
+          "text": "Mothers of St. Ann's Convent",
+          "start": 644,
+          "end": 672,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Religious educational institution"
+        },
+        {
+          "text": "Roman Catholic Separate Schools",
+          "start": 724,
+          "end": 755,
+          "type": "ORG",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Catholic school system"
+        }
+      ]
+    },
+    {
+      "snippet_id": "008",
+      "text": "These are things which are known to exist, and when it is considered how long they remained undiscovered, it is but fair to assume that a few years more will reveal other treasures, equally valuable, still hidden from the knowledge of men.\" — Wm. Laurie, 1883.\nBLACKWOOD BROS.,\nMANUFACTURERS OF ALL\nÆERATED WATERS & CHOICEST FRUIT SYRUPS\nBottlers of Seltzer, Vichy, Potass and Other Mineral Waters.\n\nDIPLOMA AWARDED PROVINCIAL EXHIBITION 1877.\n\nMake no shipment of \"Returned Empties\" less in weight than 400 lbs.\n\nMedals were awarded by the United States Centennial Commission for Blackwood's Ginger Ale, Lemonade, Soda Water and Mineral Waters. The only Ginger Ale in the Dominion awarded a medal at the Centennial.\n\nCor. Portage Avenue and Colony Street, Winnipeg, Can.\n\nWHO SHOULD COME.\n\nWhile our district offers inducements to industrious emigrants of all nationalities, the class most certain to succeed at this stage of our development are men of some means and practical farmers.",
+      "char_start": 64819,
+      "char_end": 65807,
+      "entities": [
+        {
+          "text": "Wm. Laurie",
+          "start": 244,
+          "end": 254,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Author/source of quote"
+        },
+        {
+          "text": "BLACKWOOD BROS.",
+          "start": 262,
+          "end": 277,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Aerated waters manufacturer"
+        },
+        {
+          "text": "United States Centennial Commission",
+          "start": 549,
+          "end": 584,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "US Centennial Exhibition authority"
+        },
+        {
+          "text": "Dominion",
+          "start": 680,
+          "end": 688,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Dominion of Canada"
+        },
+        {
+          "text": "Centennial",
+          "start": 714,
+          "end": 724,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "US Centennial Exhibition 1876"
+        },
+        {
+          "text": "Portage Avenue",
+          "start": 731,
+          "end": 745,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Portage Avenue"
+        },
+        {
+          "text": "Colony Street",
+          "start": 750,
+          "end": 763,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Colony Street"
+        },
+        {
+          "text": "Winnipeg",
+          "start": 765,
+          "end": 773,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Winnipeg, Manitoba"
+        },
+        {
+          "text": "Can.",
+          "start": 775,
+          "end": 779,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Canada (abbreviated)"
+        }
+      ]
+    },
+    {
+      "snippet_id": "009",
+      "text": "MANITOBA.\nWith its Unrivalled Wheat Lands, Railroad Lines, Market Towns, Schools, Churches and Prosperous Settlements.\n\nASSINIBOIA AND ALBERTA.\nWith their Natural Advantages for Mixed Farming, their Matchless Stock-Rising Lands, Boundless Supplies of Coal, Unexcelled Climate and Natural Beauty.\n\nSASKATCHEWAN!\nWith its Far-famed Saskatchewan Valley Lands, its Park Country, its Luxuriant Meadows, its Picturesque Rivers and Lakes.\n\nTHE MARCH OF SETTLEMENT\nIs Westward! Nothing can check the Rush of Settlers that has set in to occupy The Virgin Lands of these Provinces.\n\nMaps, Pamphlets and full particulars will be sent free on application, to\n\nL. A. HAMILTON,\nC. P. R. Land Commissioner,\nWinnipeg.\nHOMESTEAD REGULATIONS.\n\nAll even-numbered sections of Dominion Lands in Manitoba or the North West Territories, excepting 8 and 26, which have not been homesteaded, reserved to provide wood lots for settlers, or other purposes, may be homesteaded by any person who is the sole head of a family, or any male over 18 years of age, to the extent of one quarter section of 160 acres, more or less.",
+      "char_start": 72595,
+      "char_end": 73692,
+      "entities": [
+        {
+          "text": "MANITOBA",
+          "start": 0,
+          "end": 8,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Province of Manitoba"
+        },
+        {
+          "text": "ASSINIBOIA",
+          "start": 120,
+          "end": 130,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "District of Assiniboia"
+        },
+        {
+          "text": "ALBERTA",
+          "start": 135,
+          "end": 142,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "District/Province of Alberta"
+        },
+        {
+          "text": "SASKATCHEWAN",
+          "start": 302,
+          "end": 314,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Saskatchewan district/province"
+        },
+        {
+          "text": "Saskatchewan Valley",
+          "start": 335,
+          "end": 354,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Saskatchewan River Valley"
+        },
+        {
+          "text": "L. A. HAMILTON",
+          "start": 669,
+          "end": 683,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "C.P.R. Land Commissioner"
+        },
+        {
+          "text": "C. P. R.",
+          "start": 685,
+          "end": 693,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Canadian Pacific Railway"
+        },
+        {
+          "text": "Winnipeg",
+          "start": 712,
+          "end": 720,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Winnipeg, Manitoba"
+        },
+        {
+          "text": "Dominion Lands",
+          "start": 773,
+          "end": 787,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Federal public lands"
+        },
+        {
+          "text": "Manitoba",
+          "start": 791,
+          "end": 799,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Manitoba province"
+        },
+        {
+          "text": "North West Territories",
+          "start": 807,
+          "end": 829,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "North-West Territories"
+        }
+      ]
+    },
+    {
+      "snippet_id": "010",
+      "text": "INFORMATION.\n\nFull information respecting the land, timber, coal and mineral laws, and copies of these Regulations, as well as those respecting Dominion Lands in the Railway Belt in British Columbia, may be obtained upon application to the Secretary of the Department of the Interior, Ottawa; the Commissioner of Dominion Lands, Winnipeg, Manitoba; or to any of the Dominion Lands Agents in Manitoba or the North West Territories.\n\nA. M. BURGESS, Deputy Minister of the Interior.\nTHE LELAND HOUSE,\nCORNER KING AND RIVER STREETS.\nTHE ONLY FIRST-CLASS HOTEL IN TOWN\n\nBOARD BY THE DAY OR WEEK.\n\nFirst-class Accommodation for Travelers.\n\nSTABLES IN CONNECTION.\n\nD. POLLOCK, PROPRIETOR.\n\nThe actual settlers of Prince Albert District hope that the preceding pages of this little pamphlet have proved of interest to all who have perused them, particularly those farmers and workingmen of the overcrowded settlements of Eastern Canada who may desire to better their condition by taking advantage of the larger fields of operation presented by the Vast Prairies of our Western Country, as well as all others who delight in learning of the REMARKABLE AGRICULTURAL, MINERAL, TIMBER and FISHERIES WEALTH of our Glorious Dominion.",
+      "char_start": 76468,
+      "char_end": 77688,
+      "entities": [
+        {
+          "text": "Dominion Lands",
+          "start": 143,
+          "end": 157,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Federal public lands"
+        },
+        {
+          "text": "Railway Belt",
+          "start": 165,
+          "end": 177,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Railway land grant area"
+        },
+        {
+          "text": "British Columbia",
+          "start": 181,
+          "end": 197,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Province of British Columbia"
+        },
+        {
+          "text": "Department of the Interior",
+          "start": 253,
+          "end": 279,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Federal government department"
+        },
+        {
+          "text": "Ottawa",
+          "start": 281,
+          "end": 287,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Ottawa, capital of Canada"
+        },
+        {
+          "text": "Commissioner of Dominion Lands",
+          "start": 293,
+          "end": 323,
+          "type": "ORG",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Government position/office"
+        },
+        {
+          "text": "Winnipeg",
+          "start": 325,
+          "end": 333,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Winnipeg, Manitoba"
+        },
+        {
+          "text": "Manitoba",
+          "start": 335,
+          "end": 343,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Province of Manitoba"
+        },
+        {
+          "text": "Dominion Lands Agents",
+          "start": 363,
+          "end": 384,
+          "type": "ORG",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Government land agents"
+        },
+        {
+          "text": "Manitoba",
+          "start": 388,
+          "end": 396,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Manitoba"
+        },
+        {
+          "text": "North West Territories",
+          "start": 404,
+          "end": 426,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "North-West Territories"
+        },
+        {
+          "text": "A. M. BURGESS",
+          "start": 429,
+          "end": 442,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Deputy Minister of the Interior"
+        },
+        {
+          "text": "THE LELAND HOUSE",
+          "start": 478,
+          "end": 494,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Hotel business"
+        },
+        {
+          "text": "KING",
+          "start": 503,
+          "end": 507,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "King Street"
+        },
+        {
+          "text": "RIVER STREETS",
+          "start": 512,
+          "end": 525,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "River Street"
+        },
+        {
+          "text": "D. POLLOCK",
+          "start": 683,
+          "end": 693,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Hotel proprietor"
+        },
+        {
+          "text": "Prince Albert District",
+          "start": 724,
+          "end": 746,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Prince Albert administrative district"
+        },
+        {
+          "text": "Eastern Canada",
+          "start": 924,
+          "end": 938,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Eastern provinces of Canada"
+        },
+        {
+          "text": "Western Country",
+          "start": 1088,
+          "end": 1103,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Western Canada/prairies"
+        },
+        {
+          "text": "Dominion",
+          "start": 1242,
+          "end": 1250,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Dominion of Canada"
+        }
+      ]
+    }
+  ]
+}

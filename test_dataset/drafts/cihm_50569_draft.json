@@ -1,0 +1,1763 @@
+{
+  "document_id": "cihm_50569",
+  "metadata": {
+    "title": "Historical collections of the state of New York [microform] : containing a general collection of the most interesting facts, traditions, biographical sketches, anecdotes, &c. relating to its history and antiquities : with geographical descriptions of every township in the state",
+    "year": 1841,
+    "language": "eng",
+    "collection": "university_of_alberta_libraries_microfilm; university_of_alberta_libraries; toronto; microfilm; additional_collections",
+    "doc_type": "book",
+    "word_count": 351841,
+    "char_count": 2054367,
+    "total_pages": 661,
+    "extraction_strategy": "large_doc",
+    "num_snippets": 15
+  },
+  "annotation_date": "2025-11-07T20:45:00",
+  "annotator": "claude_ai",
+  "model": "claude-sonnet-4-5",
+  "status": "draft",
+  "total_snippets": 15,
+  "total_entities": 178,
+  "snippets": [
+    {
+      "snippet_id": "001",
+      "text": "The Mahicans, Mahakaneghtuc, and sometimes Shatemuck. Hudson styled it emphatically the 'Great River,' or the 'Great River of the Mountains;' no doubt from the extraordinary circumstance of such a body of water flowing through the mountains without a cataract. The name of its discoverer, however, was early attached to it. I find it familiarly called Hudson's river, in some of the public documents of the Dutch colonial government; but more frequently the North river, to distinguish it from the Delaware, which was discovered by the same navigator, and which being within the territory claimed by the Dutch, was called by them the South river.\n\n\"The Dutch immediately began to avail themselves of the advantage which the discovery of Hudson presented to their view. In 1610, it appears that at least one ship was sent hither by the East India Company, for the purpose of trading in furs, which it is well known continued for a number of years to be the principal object of commercial attraction to this part of the new world.",
+      "char_start": 43682,
+      "char_end": 44711,
+      "entities": [
+        {
+          "text": "Mahicans",
+          "start": 4,
+          "end": 12,
+          "type": "MISC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Mahican indigenous group"
+        },
+        {
+          "text": "Mahakaneghtuc",
+          "start": 14,
+          "end": 27,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Indigenous name for river"
+        },
+        {
+          "text": "Shatemuck",
+          "start": 43,
+          "end": 52,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Indigenous name for Hudson River"
+        },
+        {
+          "text": "Hudson",
+          "start": 54,
+          "end": 60,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Henry Hudson, explorer"
+        },
+        {
+          "text": "Great River",
+          "start": 88,
+          "end": 99,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Hudson River (Hudson's name for it)"
+        },
+        {
+          "text": "Great River of the Mountains",
+          "start": 110,
+          "end": 138,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Hudson River descriptive name"
+        },
+        {
+          "text": "Hudson's river",
+          "start": 351,
+          "end": 365,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson River"
+        },
+        {
+          "text": "North river",
+          "start": 450,
+          "end": 461,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Dutch name for Hudson River"
+        },
+        {
+          "text": "Delaware",
+          "start": 495,
+          "end": 503,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Delaware River"
+        },
+        {
+          "text": "South river",
+          "start": 637,
+          "end": 648,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Dutch name for Delaware River"
+        },
+        {
+          "text": "Hudson",
+          "start": 733,
+          "end": 739,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Henry Hudson"
+        },
+        {
+          "text": "East India Company",
+          "start": 842,
+          "end": 860,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Dutch East India Company"
+        }
+      ]
+    },
+    {
+      "snippet_id": "002",
+      "text": "In 1614, a fort and trading-house were erected on the spot where Albany now stands, and called Fort Orange; and about the same time another fort and trading-house were established on the southwest point of Manhattan Island, and called New Amsterdam. The whole colony received the name of New Netherland.\"—Hist. Discourse by Samuel Miller, D.D., vol. i. Coll. New York Hist. Soc.\n\nIn 1621, \"the Privileged West India Company\" was formed in Holland; this company in 1623 began its operations along the Hudson, with a direct view to colonization. A number of settlers during this year were sent out, under the command of Cornelis Jacobse Mey, who were most heartily welcomed by the few previous inhabitants. Before these arrived they had been two years without supplies, and had been obliged to cut up the sails of some of their boats for necessary clothing.",
+      "char_start": 44711,
+      "char_end": 45567,
+      "entities": [
+        {
+          "text": "Albany",
+          "start": 67,
+          "end": 73,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Albany, New York"
+        },
+        {
+          "text": "Fort Orange",
+          "start": 96,
+          "end": 107,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Dutch fort at Albany site"
+        },
+        {
+          "text": "Manhattan Island",
+          "start": 201,
+          "end": 217,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Manhattan"
+        },
+        {
+          "text": "New Amsterdam",
+          "start": 230,
+          "end": 243,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Dutch settlement, later New York City"
+        },
+        {
+          "text": "New Netherland",
+          "start": 286,
+          "end": 300,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Dutch colony name"
+        },
+        {
+          "text": "Samuel Miller",
+          "start": 326,
+          "end": 339,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Author/historian"
+        },
+        {
+          "text": "New York Hist. Soc.",
+          "start": 361,
+          "end": 380,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "New York Historical Society"
+        },
+        {
+          "text": "Privileged West India Company",
+          "start": 399,
+          "end": 429,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Dutch West India Company"
+        },
+        {
+          "text": "Holland",
+          "start": 445,
+          "end": 452,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Netherlands"
+        },
+        {
+          "text": "Hudson",
+          "start": 523,
+          "end": 529,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson River"
+        },
+        {
+          "text": "Cornelis Jacobse Mey",
+          "start": 623,
+          "end": 643,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Dutch commander of settlers"
+        }
+      ]
+    },
+    {
+      "snippet_id": "003",
+      "text": "In compliment to Capt. Mey, they named the bay of New York Port Mey. During the same year the forts New Amsterdam and Orange were erected, upon the sites of the present cities of New York and Albany.\n\nIn 1625, the West India Company freighted two ships, in one of which Peter Minuit arrived in New Netherland, with a company of Walloons, who settled on Long Island opposite New Amsterdam. Minuit is considered by some as the first Governor or Director of\nNew Netherland. Subordinate to him, the gradation of authority and rank seems to have been: 1. Opper-Koopman; 2. Onder-Koopman; 3. Koopman; 4. Assistant. The office of Opper-Koopman, chief-merchant or commissary, was vested in Isaac de Raiser. In four or five years the trade with the natives was greatly extended, attracting dealers even from the lakes, and from the banks of the St.",
+      "char_start": 45567,
+      "char_end": 46407,
+      "entities": [
+        {
+          "text": "Capt. Mey",
+          "start": 17,
+          "end": 26,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Captain Mey"
+        },
+        {
+          "text": "New York",
+          "start": 51,
+          "end": 59,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "New York bay"
+        },
+        {
+          "text": "Port Mey",
+          "start": 60,
+          "end": 68,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Early Dutch name for New York bay"
+        },
+        {
+          "text": "New Amsterdam",
+          "start": 101,
+          "end": 114,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Fort New Amsterdam"
+        },
+        {
+          "text": "Orange",
+          "start": 119,
+          "end": 125,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Fort Orange"
+        },
+        {
+          "text": "New York",
+          "start": 181,
+          "end": 189,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "New York City"
+        },
+        {
+          "text": "Albany",
+          "start": 194,
+          "end": 200,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Albany, New York"
+        },
+        {
+          "text": "West India Company",
+          "start": 215,
+          "end": 233,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Dutch West India Company"
+        },
+        {
+          "text": "Peter Minuit",
+          "start": 270,
+          "end": 282,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "First Director of New Netherland"
+        },
+        {
+          "text": "New Netherland",
+          "start": 294,
+          "end": 308,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Dutch colony"
+        },
+        {
+          "text": "Walloons",
+          "start": 327,
+          "end": 335,
+          "type": "MISC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Belgian/French Protestant settlers"
+        },
+        {
+          "text": "Long Island",
+          "start": 353,
+          "end": 364,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Long Island"
+        },
+        {
+          "text": "New Amsterdam",
+          "start": 374,
+          "end": 387,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "New Amsterdam settlement"
+        },
+        {
+          "text": "Minuit",
+          "start": 389,
+          "end": 395,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Peter Minuit"
+        },
+        {
+          "text": "New Netherland",
+          "start": 458,
+          "end": 472,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Colony name"
+        },
+        {
+          "text": "Isaac de Raiser",
+          "start": 692,
+          "end": 707,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Chief merchant/commissary"
+        },
+        {
+          "text": "St.",
+          "start": 843,
+          "end": 846,
+          "type": "LOC",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "St. Lawrence River (truncated)"
+        }
+      ]
+    },
+    {
+      "snippet_id": "004",
+      "text": "He became, afterward, governor of Greenwich Hospital.\" The administration of Sir Danvers Osborne endured but a few days only. Five days after his arrival, he was found suspended by the neck in the garden of Mr. Murray, with whom he resided. This unfortunate gentleman is supposed to have committed suicide on account of grief for the loss of his wife, and by the embarrassments which he apprehended would attend the exercise of his office as governor.\n\nJames de Lancey, who had been appointed lieutenant-governor by one of the last acts of Governor Clinton, on the death of Osborne assumed the administration of government. At this period, the English and French extended their settlements in the colonies, and each were anxious to secure the most eligible situations for trading-houses and forts. Mutual complaints of aggression were soon followed by open acts of hostility.",
+      "char_start": 80071,
+      "char_end": 80947,
+      "entities": [
+        {
+          "text": "Greenwich Hospital",
+          "start": 28,
+          "end": 46,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Greenwich Hospital in England"
+        },
+        {
+          "text": "Sir Danvers Osborne",
+          "start": 77,
+          "end": 96,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Colonial governor who committed suicide"
+        },
+        {
+          "text": "Mr. Murray",
+          "start": 208,
+          "end": 218,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Hosted Osborne"
+        },
+        {
+          "text": "James de Lancey",
+          "start": 453,
+          "end": 468,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Lieutenant-governor, assumed governorship"
+        },
+        {
+          "text": "Governor Clinton",
+          "start": 539,
+          "end": 555,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Previous governor"
+        },
+        {
+          "text": "Osborne",
+          "start": 574,
+          "end": 581,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Sir Danvers Osborne"
+        }
+      ]
+    },
+    {
+      "snippet_id": "005",
+      "text": "On the 8th of September, Montreal, Detroit, Michilimackinac, and all other places within the government of Canada, were surrendered to his Britannic majesty.\n\nThe conquest of Canada, by preventing the incursions of the French and Indians into the territory of New York, removed a great obstacle to the prosperity of the colony. Gov. De Lancey died suddenly, July 30th, 1760. Cadwallader Colden assumed the government, as president of the council, and received the appointment of lieutenant-governor in August, 1761. Mr. Colden was superseded by General Robert Monckton on the 26th of October. This gentleman being placed at the head of an expedition against Martinique, on the 15th of November, left the government of the province to Mr. Colden, under an agreement for an equal division of the salary and perquisites.",
+      "char_start": 87715,
+      "char_end": 88533,
+      "entities": [
+        {
+          "text": "Montreal",
+          "start": 25,
+          "end": 33,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Montreal, Quebec"
+        },
+        {
+          "text": "Detroit",
+          "start": 35,
+          "end": 42,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Fort Detroit"
+        },
+        {
+          "text": "Michilimackinac",
+          "start": 44,
+          "end": 59,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Fort Michilimackinac"
+        },
+        {
+          "text": "Canada",
+          "start": 107,
+          "end": 113,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "New France/Canada"
+        },
+        {
+          "text": "Canada",
+          "start": 183,
+          "end": 189,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Canada conquest"
+        },
+        {
+          "text": "New York",
+          "start": 263,
+          "end": 271,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "New York colony"
+        },
+        {
+          "text": "Gov. De Lancey",
+          "start": 330,
+          "end": 344,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Governor De Lancey"
+        },
+        {
+          "text": "Cadwallader Colden",
+          "start": 376,
+          "end": 394,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Lieutenant-governor"
+        },
+        {
+          "text": "Mr. Colden",
+          "start": 510,
+          "end": 520,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Cadwallader Colden"
+        },
+        {
+          "text": "General Robert Monckton",
+          "start": 541,
+          "end": 564,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "British general, governor"
+        },
+        {
+          "text": "Martinique",
+          "start": 664,
+          "end": 674,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Caribbean island"
+        },
+        {
+          "text": "Mr. Colden",
+          "start": 736,
+          "end": 746,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Acting governor"
+        }
+      ]
+    },
+    {
+      "snippet_id": "006",
+      "text": "Sir Henry Moore, Bart., who was commissioned governor in July, 1765, met the council on the 13th of November following, and proposed at once to attempt the execution of the stamp act. The unanimous advice of his council, and the demonstration of public feeling, induced him to a more prudent course.\n\nGov. Moore's administration was terminated by his death, in September, 1769. During his term of service efforts were made, unsuccessfully, to settle the boundaries between this province and Massachusetts, who claimed territory to the Pacific Ocean. Emigrants from Massachusetts intruded into the counties along the Hudson, and settled even in the manor of Rensselaerwyck. They were frequently removed by force, and blood was shed more than once in the attempt. Commissioners from both colonies met at New Haven, October, 1767, who agreed that the western line of Massachusetts should be fixed at twenty miles east from Hudson river, but differed as to the manner in which that line should be determined.",
+      "char_start": 93512,
+      "char_end": 94517,
+      "entities": [
+        {
+          "text": "Sir Henry Moore",
+          "start": 0,
+          "end": 15,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Colonial governor"
+        },
+        {
+          "text": "Gov. Moore",
+          "start": 303,
+          "end": 313,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Governor Moore"
+        },
+        {
+          "text": "Massachusetts",
+          "start": 487,
+          "end": 500,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Massachusetts colony"
+        },
+        {
+          "text": "Pacific Ocean",
+          "start": 531,
+          "end": 544,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Pacific Ocean"
+        },
+        {
+          "text": "Massachusetts",
+          "start": 561,
+          "end": 574,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Massachusetts emigrants"
+        },
+        {
+          "text": "Hudson",
+          "start": 615,
+          "end": 621,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson River"
+        },
+        {
+          "text": "Rensselaerwyck",
+          "start": 657,
+          "end": 671,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Manor of Rensselaerwyck"
+        },
+        {
+          "text": "New Haven",
+          "start": 804,
+          "end": 813,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "New Haven, Connecticut"
+        },
+        {
+          "text": "Massachusetts",
+          "start": 866,
+          "end": 879,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Massachusetts western line"
+        },
+        {
+          "text": "Hudson river",
+          "start": 925,
+          "end": 937,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson River"
+        }
+      ]
+    },
+    {
+      "snippet_id": "007",
+      "text": "The controversy relative to the New Hampshire grants still continued. Frequent application had been made by both parties to the general congress for the interference of that body, but no decisive result was obtained. In 1789, the legislature passed an act in order to settle this controversy, and acknowledging the territory as an independent state. Commissioners were mutually appointed, and in 1790, after a controversy of twenty-six years, the subject was brought to an amicable adjustment. In 1791, the new state was admitted into the Union, with the name of Vermont.\n\nIn 1786, the state of New York, to quiet or put at rest certain antiquated claims of Massachusetts to a portion of her territory, granted that state large tracts of vacant lands. These lands consisted of two parts: one part comprehended all that part of the state lying west of a line beginning at the north at the mouth of Great Sodus bay, on Lake Ontario, and running thence southerly to the north line of Pennsylvania, except one mile on the east side of Niagara river, and the islands in that stream.",
+      "char_start": 118114,
+      "char_end": 119193,
+      "entities": [
+        {
+          "text": "New Hampshire",
+          "start": 32,
+          "end": 45,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "New Hampshire grants dispute"
+        },
+        {
+          "text": "Vermont",
+          "start": 564,
+          "end": 571,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Vermont admitted to Union"
+        },
+        {
+          "text": "New York",
+          "start": 599,
+          "end": 607,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "State of New York"
+        },
+        {
+          "text": "Massachusetts",
+          "start": 670,
+          "end": 683,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Massachusetts land claims"
+        },
+        {
+          "text": "Great Sodus bay",
+          "start": 909,
+          "end": 924,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Sodus Bay on Lake Ontario"
+        },
+        {
+          "text": "Lake Ontario",
+          "start": 929,
+          "end": 941,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Lake Ontario"
+        },
+        {
+          "text": "Pennsylvania",
+          "start": 993,
+          "end": 1005,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Pennsylvania state line"
+        },
+        {
+          "text": "Niagara river",
+          "start": 1041,
+          "end": 1054,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Niagara River"
+        }
+      ]
+    },
+    {
+      "snippet_id": "008",
+      "text": "He was succeeded by John Jay, who continued in the office till 1801, when Mr. Clinton again accepted a re-election. In 1796, the legislature granted the Oneida Indians an annuity of $5,552, in lieu of all former stipulations for lands purchased in 1795; $2,300 to the Cayugas; and $2,000 to the Onondagas. A general organization act was passed in 1801, dividing the state into thirty counties. Mr. Clinton, having been elected vice-president of the United States, Morgan Lewis succeeded him as governor, in 1804. Mr. Lewis was succeeded by Daniel D. Tompkins, in 1807. Albany, the same year, was made the capital of the state.\n\nIn 1810, an act was passed by the legislature \"for exploring the route of an inland navigation from Hudson's river to Lake Ontario and Lake Erie.\" Commissioners were appointed for this purpose, who made a report the following year.* The subject now began to excite general interest, and a bill being introduced by Mr.",
+      "char_start": 121769,
+      "char_end": 122715,
+      "entities": [
+        {
+          "text": "John Jay",
+          "start": 21,
+          "end": 29,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Governor of New York"
+        },
+        {
+          "text": "Mr. Clinton",
+          "start": 75,
+          "end": 86,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Governor Clinton"
+        },
+        {
+          "text": "Oneida Indians",
+          "start": 154,
+          "end": 168,
+          "type": "MISC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Oneida indigenous nation"
+        },
+        {
+          "text": "Cayugas",
+          "start": 268,
+          "end": 275,
+          "type": "MISC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Cayuga indigenous nation"
+        },
+        {
+          "text": "Onondagas",
+          "start": 297,
+          "end": 306,
+          "type": "MISC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Onondaga indigenous nation"
+        },
+        {
+          "text": "Mr. Clinton",
+          "start": 395,
+          "end": 406,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Clinton elected vice-president"
+        },
+        {
+          "text": "United States",
+          "start": 455,
+          "end": 468,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "United States of America"
+        },
+        {
+          "text": "Morgan Lewis",
+          "start": 470,
+          "end": 482,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Governor succeeding Clinton"
+        },
+        {
+          "text": "Mr. Lewis",
+          "start": 512,
+          "end": 521,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Morgan Lewis"
+        },
+        {
+          "text": "Daniel D. Tompkins",
+          "start": 540,
+          "end": 558,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Governor succeeding Lewis"
+        },
+        {
+          "text": "Albany",
+          "start": 569,
+          "end": 575,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Albany made capital"
+        },
+        {
+          "text": "Hudson's river",
+          "start": 724,
+          "end": 738,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson River"
+        },
+        {
+          "text": "Lake Ontario",
+          "start": 742,
+          "end": 754,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Lake Ontario"
+        },
+        {
+          "text": "Lake Erie",
+          "start": 759,
+          "end": 768,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Lake Erie"
+        }
+      ]
+    },
+    {
+      "snippet_id": "009",
+      "text": "Clinton, an act was passed, \"to provide for the improvement of the internal navigation of the state.\" Commissioners were again appointed to solicit\n\n---\n\n* The first legislative movement with reference to a communication like the present canal between the Hudson and Lake Erie, was brought about by the exertions of Mr. Joshua Forman, then a member of assembly from Onondaga county, who proposed to the House, February 4th, 1808, that \"a joint committee be appointed, to take into consideration the propriety of exploring and causing an accurate survey to be made of the most eligible and direct route for a canal, to open a communication between the tide waters of the Hudson and Lake Erie, to the end that congress may be enabled to appropriate such sums as may be necessary to the accomplishment of that great object.\" The proposition,\" says Gordon, in his very able Gazeteer, \"was received by the House 'with such expressions of surprise and ridicule, as are due to a very wild and foolish project.' It was fortunately, however, firmly sustained by the proposer and his friends, and finally sanctioned upon the principle, 'that it could do no harm and might do some good.' But the joint committee, possessed in favor of the Oswego route, directed the surveyor-general to cause a survey of the rivers, streams, and waters in the usual route between Hudson river and Lake Erie, and such other route as he might deem proper; shifting to the surveyor-general the responsibility of countenancing a project deemed absurd.",
+      "char_start": 122715,
+      "char_end": 124235,
+      "entities": [
+        {
+          "text": "Clinton",
+          "start": 0,
+          "end": 7,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Clinton (De Witt Clinton)"
+        },
+        {
+          "text": "Hudson",
+          "start": 256,
+          "end": 262,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson River"
+        },
+        {
+          "text": "Lake Erie",
+          "start": 267,
+          "end": 276,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Lake Erie"
+        },
+        {
+          "text": "Mr. Joshua Forman",
+          "start": 320,
+          "end": 337,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Assembly member who proposed canal survey"
+        },
+        {
+          "text": "Onondaga county",
+          "start": 364,
+          "end": 379,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Onondaga County"
+        },
+        {
+          "text": "Hudson",
+          "start": 693,
+          "end": 699,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson River"
+        },
+        {
+          "text": "Lake Erie",
+          "start": 704,
+          "end": 713,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Lake Erie"
+        },
+        {
+          "text": "Gordon",
+          "start": 847,
+          "end": 853,
+          "type": "PER",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Author of Gazetteer"
+        },
+        {
+          "text": "Oswego",
+          "start": 1241,
+          "end": 1247,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Oswego route"
+        },
+        {
+          "text": "Hudson river",
+          "start": 1378,
+          "end": 1390,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson River"
+        },
+        {
+          "text": "Lake Erie",
+          "start": 1395,
+          "end": 1404,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Lake Erie"
+        }
+      ]
+    },
+    {
+      "snippet_id": "010",
+      "text": "Barrack (now Chapel) street, was the principal place for business. The government of the city was extremely rigid, and often cruel; it bore the character more of a military despotism than that of a civil police; heavy penalties were imposed for the least infraction of the laws regulating the trade with the Indians, and many families consequently ruined. This severity drove some of the \"traders\" to the Schenectady flats, where they intercepted a considerable portion of the fur on its way to Albany, and which occasioned for many years the most bitter animosities between the inhabitants of both places. The circulating medium then in use consisted principally of sewant, or wampum.\n\nMinisters of the reformed religion were regularly sent out from Holland to the colony. In 1657, the Rev. Gideon Schaats sailed from Amsterdam for this colony, and about the same time the Dutch West India Company wrote a letter, stating that they would send a bell and a pulpit, \"for the inhabitants of Fort Orange, and of the village of Beaverwick, for their newly constructed little church.\" In\n\n---\n\n* These palisades consisted of large pieces of timber in close contact with each other, driven endwise into the ground, and gates or openings were made at suitable intervals, which were closed at night.\non this foundation they raised a larger structure.",
+      "char_start": 138821,
+      "char_end": 140164,
+      "entities": [
+        {
+          "text": "Barrack (now Chapel) street",
+          "start": 0,
+          "end": 27,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Street in Albany"
+        },
+        {
+          "text": "Schenectady",
+          "start": 408,
+          "end": 419,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Schenectady, New York"
+        },
+        {
+          "text": "Albany",
+          "start": 495,
+          "end": 501,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Albany"
+        },
+        {
+          "text": "Holland",
+          "start": 752,
+          "end": 759,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Netherlands"
+        },
+        {
+          "text": "Rev. Gideon Schaats",
+          "start": 789,
+          "end": 808,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Dutch Reformed minister"
+        },
+        {
+          "text": "Amsterdam",
+          "start": 821,
+          "end": 830,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Amsterdam, Netherlands"
+        },
+        {
+          "text": "Dutch West India Company",
+          "start": 880,
+          "end": 904,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Dutch West India Company"
+        },
+        {
+          "text": "Fort Orange",
+          "start": 1002,
+          "end": 1013,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Fort Orange"
+        },
+        {
+          "text": "Beaverwick",
+          "start": 1033,
+          "end": 1043,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Village of Beverwijck"
+        }
+      ]
+    },
+    {
+      "snippet_id": "011",
+      "text": "Pop. 2,644. Cayuga, 8 miles W. from Auburn, has about 30 dwellings. Aurelius and Fosterdale are small villages. Clarksville, 1 mile W. from Auburn, has about 50 dwellings.\n\nCayuga Bridge.\n\nThe above view of Cayuga Bridge, which crosses the Cayuga lake on the great western turnpike, was taken on the western bank, and shows on the opposite side of the lake a portion of the little village of Cayuga. The large building on the right is the well-known tavern of Mr. Titus, having superior accommodations. This bridge, so famous in political estimates, was commenced in Nov. 1799, and\nfinished in September, 1800. It was built by the Manhattan Company of New York, and cost $150,000. Its length is one mile. \"This bridge is the longest in America, perhaps in the world, and yet five years ago,\" says a traveller in 1800, \"the Indians possessed the shores of the lake, imbosomed in almost impenetrable woods.\" The first bridge was built on mud sills—the second on piles—the third and last was erected in 1833, and cost about $15,000.",
+      "char_start": 234586,
+      "char_end": 235616,
+      "entities": [
+        {
+          "text": "Cayuga",
+          "start": 12,
+          "end": 18,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Village of Cayuga"
+        },
+        {
+          "text": "Auburn",
+          "start": 37,
+          "end": 43,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Auburn, New York"
+        },
+        {
+          "text": "Aurelius",
+          "start": 69,
+          "end": 77,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Village of Aurelius"
+        },
+        {
+          "text": "Fosterdale",
+          "start": 82,
+          "end": 92,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Village of Fosterdale"
+        },
+        {
+          "text": "Clarksville",
+          "start": 113,
+          "end": 124,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Village of Clarksville"
+        },
+        {
+          "text": "Auburn",
+          "start": 142,
+          "end": 148,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Auburn"
+        },
+        {
+          "text": "Cayuga Bridge",
+          "start": 175,
+          "end": 188,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Bridge over Cayuga Lake"
+        },
+        {
+          "text": "Cayuga Bridge",
+          "start": 209,
+          "end": 222,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Cayuga Bridge"
+        },
+        {
+          "text": "Cayuga lake",
+          "start": 242,
+          "end": 253,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Cayuga Lake"
+        },
+        {
+          "text": "Cayuga",
+          "start": 394,
+          "end": 400,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Village of Cayuga"
+        },
+        {
+          "text": "Mr. Titus",
+          "start": 461,
+          "end": 470,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Tavern owner"
+        },
+        {
+          "text": "Manhattan Company",
+          "start": 631,
+          "end": 648,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Manhattan Company of New York"
+        },
+        {
+          "text": "New York",
+          "start": 652,
+          "end": 660,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "New York"
+        },
+        {
+          "text": "America",
+          "start": 740,
+          "end": 747,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "America"
+        }
+      ]
+    },
+    {
+      "snippet_id": "012",
+      "text": "It is a pleasant, bustling little village, situated on the border of a handsome plain, and containing about 100 dwellings. The above view was taken at Edson & Son's store, and shows on the left the Episcopal, and on the right the Presbyterian churches. The other public buildings are the Methodist church, Academy, and Westfield Hotel, a substantial brick edifice, with a cupola. About two and a half miles from the village, near the road to Mayville, is a remarkable gulf, known as the \"Hogs Back,\" which is much resorted to in the summer. The first settler with a family in the county, was a Mr. John McMahan, from Northumberland county, Penn. He came here about the year 1803, and bought of the Holland Land Company a tract six miles square, on the Chatauque creek, in this town. Portland, or Barcelona, one mile from Westfield, on the lake, was early occupied by the French, who had a military post at this place.",
+      "char_start": 271506,
+      "char_end": 272424,
+      "entities": [
+        {
+          "text": "Edson & Son",
+          "start": 151,
+          "end": 162,
+          "type": "ORG",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Store business"
+        },
+        {
+          "text": "Episcopal",
+          "start": 195,
+          "end": 204,
+          "type": "ORG",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Episcopal church"
+        },
+        {
+          "text": "Presbyterian",
+          "start": 228,
+          "end": 240,
+          "type": "ORG",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Presbyterian church"
+        },
+        {
+          "text": "Methodist",
+          "start": 291,
+          "end": 300,
+          "type": "ORG",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Methodist church"
+        },
+        {
+          "text": "Westfield Hotel",
+          "start": 319,
+          "end": 334,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Hotel building"
+        },
+        {
+          "text": "Mayville",
+          "start": 445,
+          "end": 453,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Mayville town"
+        },
+        {
+          "text": "Hogs Back",
+          "start": 492,
+          "end": 501,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Geographic feature/gulf"
+        },
+        {
+          "text": "Mr. John McMahan",
+          "start": 601,
+          "end": 617,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "First family settler"
+        },
+        {
+          "text": "Northumberland county",
+          "start": 624,
+          "end": 645,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Northumberland County"
+        },
+        {
+          "text": "Penn.",
+          "start": 647,
+          "end": 652,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Pennsylvania"
+        },
+        {
+          "text": "Holland Land Company",
+          "start": 706,
+          "end": 726,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Land development company"
+        },
+        {
+          "text": "Chatauque creek",
+          "start": 759,
+          "end": 774,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Chautauqua Creek"
+        },
+        {
+          "text": "Portland",
+          "start": 790,
+          "end": 798,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Portland/Barcelona"
+        },
+        {
+          "text": "Barcelona",
+          "start": 803,
+          "end": 812,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Barcelona (alternative name)"
+        },
+        {
+          "text": "Westfield",
+          "start": 828,
+          "end": 837,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Westfield town"
+        }
+      ]
+    },
+    {
+      "snippet_id": "013",
+      "text": "A line of intrenchment was formed from a ditch near the late Toll-House of the Bridge Company at the navy-yard to Fort Green, then called Fort Putnam, and from thence to Freek's mill-pond. A strong work was erected on the lands of Johannis Debevoice and of Van Brunt; a redoubt was thrown up on Bæmus' Hill opposite Brown's mill, and another on the land of John Johnson, west of Fort Green. Ponkiesburg, now Fort Swift, was fortified, and a fort built on the land of Mr. Hicks on Brooklyn heights. Such were the defences of Brooklyn in 1776, while a chevaux de frise was sunk in the main...\"\nchannel of the river below New York. The troops of both divisions of the British army were landed on Staten Island after their arrival in the bay, to recruit their strength and prepare for the coming conflict.",
+      "char_start": 719895,
+      "char_end": 720697,
+      "entities": [
+        {
+          "text": "Bridge Company",
+          "start": 76,
+          "end": 90,
+          "type": "ORG",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Bridge company operating toll house"
+        },
+        {
+          "text": "Fort Green",
+          "start": 116,
+          "end": 126,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Revolutionary War fortification"
+        },
+        {
+          "text": "Fort Putnam",
+          "start": 140,
+          "end": 151,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Former name of Fort Green"
+        },
+        {
+          "text": "Freek's mill-pond",
+          "start": 172,
+          "end": 189,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Mill pond location"
+        },
+        {
+          "text": "Johannis Debevoice",
+          "start": 233,
+          "end": 251,
+          "type": "PER",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Landowner"
+        },
+        {
+          "text": "Van Brunt",
+          "start": 259,
+          "end": 268,
+          "type": "PER",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Landowner"
+        },
+        {
+          "text": "Bæmus' Hill",
+          "start": 298,
+          "end": 309,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Hill with redoubt"
+        },
+        {
+          "text": "Brown's mill",
+          "start": 319,
+          "end": 331,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Mill location"
+        },
+        {
+          "text": "John Johnson",
+          "start": 362,
+          "end": 374,
+          "type": "PER",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Landowner"
+        },
+        {
+          "text": "Fort Green",
+          "start": 384,
+          "end": 394,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Fort Green"
+        },
+        {
+          "text": "Ponkiesburg",
+          "start": 396,
+          "end": 407,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Location later called Fort Swift"
+        },
+        {
+          "text": "Fort Swift",
+          "start": 413,
+          "end": 423,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Fortification"
+        },
+        {
+          "text": "Mr. Hicks",
+          "start": 471,
+          "end": 480,
+          "type": "PER",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Landowner on Brooklyn heights"
+        },
+        {
+          "text": "Brooklyn heights",
+          "start": 484,
+          "end": 500,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Brooklyn Heights"
+        },
+        {
+          "text": "Brooklyn",
+          "start": 532,
+          "end": 540,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Brooklyn"
+        },
+        {
+          "text": "New York",
+          "start": 632,
+          "end": 640,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "New York City"
+        },
+        {
+          "text": "British",
+          "start": 683,
+          "end": 690,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "British army"
+        },
+        {
+          "text": "Staten Island",
+          "start": 711,
+          "end": 724,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Staten Island"
+        }
+      ]
+    },
+    {
+      "snippet_id": "014",
+      "text": "On the east side of the stream, the Oswego Canal Company, pursuant to agreement with the commonwealth, have a right to the full use of the waters of the river from the canal, and have, by a subsidiary canal, conducted them to the village, where they have a fall of nineteen feet. Mr. Abraham Varick has constructed on the west side, under the direction of Mr. John McNair, civil engineer, (1835,) on the margin of the river, a wall eighteen feet high, forming a canal along the bank seven feet deep, sixty-two feet wide, at an estimated cost of $75,000, giving also a fall of nineteen feet at the village.\"—Gordon's Gaz.\n\"The fort here was of great military importance during the colonial wars. A factory was established by the New York government in 1722; and a fort erected on the west side of the river in 1727, and enlarged in 1755; which, with Fort Ontario, built on an eminence on the east in the latter year, were on the 14th of August, 1758, reduced by the French, under Gen.",
+      "char_start": 1432151,
+      "char_end": 1433135,
+      "entities": [
+        {
+          "text": "Oswego Canal Company",
+          "start": 36,
+          "end": 56,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Canal company"
+        },
+        {
+          "text": "Mr. Abraham Varick",
+          "start": 280,
+          "end": 298,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Engineer/developer"
+        },
+        {
+          "text": "Mr. John McNair",
+          "start": 358,
+          "end": 373,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Civil engineer"
+        },
+        {
+          "text": "Gordon",
+          "start": 616,
+          "end": 622,
+          "type": "PER",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Author of Gazetteer"
+        },
+        {
+          "text": "New York",
+          "start": 730,
+          "end": 738,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "New York government"
+        },
+        {
+          "text": "Fort Ontario",
+          "start": 841,
+          "end": 853,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Fort Ontario"
+        }
+      ]
+    },
+    {
+      "snippet_id": "015",
+      "text": "In a military point of view, the island is one of the most important positions on the coast; its possessor having command of New York bay and the adjacent country. It was so deemed by the British, in the revolutionary war, and was the first place seized by Sir William Howe, (July 4th, 1776.) It was retained by the royal forces during the whole contest. Preparatory to the war of 1812, there were erected very efficient and extensive fortifications, known as forts Tompkins, Richmond, and Hudson, at the Narrows, opposite to Fort Fayette, on Long Island. These forts completely protect the strait, which is but one mile wide. Upon Signal Hill, back of the forts, overlooking the harbor, Sandy Hook, and a great extent of sea, is a telegraph communicating with the city. Staten Island was purchased from the Indians for Michael Pauw, one of the directors of the West India Company, together with an extensive tract in Bergen county in New Jersey, by deed dated August 10, 1630, and the whole tract received the name of Pavonia.",
+      "char_start": 1568942,
+      "char_end": 1569970,
+      "entities": [
+        {
+          "text": "New York bay",
+          "start": 126,
+          "end": 138,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "New York Bay"
+        },
+        {
+          "text": "British",
+          "start": 190,
+          "end": 197,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "British forces"
+        },
+        {
+          "text": "Sir William Howe",
+          "start": 258,
+          "end": 274,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "British general who seized Staten Island"
+        },
+        {
+          "text": "Tompkins",
+          "start": 472,
+          "end": 480,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Fort Tompkins"
+        },
+        {
+          "text": "Richmond",
+          "start": 482,
+          "end": 490,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Fort Richmond"
+        },
+        {
+          "text": "Hudson",
+          "start": 496,
+          "end": 502,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Fort Hudson"
+        },
+        {
+          "text": "Narrows",
+          "start": 511,
+          "end": 518,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "The Narrows strait"
+        },
+        {
+          "text": "Fort Fayette",
+          "start": 532,
+          "end": 544,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Fort Fayette"
+        },
+        {
+          "text": "Long Island",
+          "start": 549,
+          "end": 560,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Long Island"
+        },
+        {
+          "text": "Signal Hill",
+          "start": 643,
+          "end": 654,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Signal Hill with telegraph"
+        },
+        {
+          "text": "Sandy Hook",
+          "start": 695,
+          "end": 705,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Sandy Hook"
+        },
+        {
+          "text": "Staten Island",
+          "start": 770,
+          "end": 783,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Staten Island"
+        },
+        {
+          "text": "Michael Pauw",
+          "start": 824,
+          "end": 836,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Dutch West India Company director"
+        },
+        {
+          "text": "West India Company",
+          "start": 865,
+          "end": 883,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Dutch West India Company"
+        },
+        {
+          "text": "Bergen county",
+          "start": 919,
+          "end": 932,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Bergen County"
+        },
+        {
+          "text": "New Jersey",
+          "start": 936,
+          "end": 946,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "New Jersey"
+        },
+        {
+          "text": "Pavonia",
+          "start": 1020,
+          "end": 1027,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Pavonia territory name"
+        }
+      ]
+    }
+  ]
+}
