@@ -1,0 +1,24 @@
+{
+  "document_id": "BDM_1883042601",
+  "metadata": {
+    "title": "Daily mail (1883-04-26)",
+    "year": 1883,
+    "language": "English",
+    "collection": "peel_newspapers; peel; university_of_alberta_libraries; toronto",
+    "doc_type": "newspaper",
+    "word_count": 395,
+    "char_count": 2478,
+    "total_pages": 4,
+    "extraction_strategy": "full_text",
+    "num_snippets": 1
+  },
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "text": "NO SMALL POX HERE.\n\nSTABLES, STABLES, STABLES.\n\nJUST OPENED.\n\nON\n\nTenth Street Between Rosser and Pacific Avenues,\n\nLivery, Sale and Feed Stables\n\nTHE BEST STOCK OF HORSES EVER IMPORTED INTO THE COUNTRY. DEAL\n\nIN THE GLEN, WAGONS, ETC.\n\nPOWELL & EDMUNDS.\n\nJUST RECEIVED\n\nAT THE Glasgow Warehouse\n\nREADY-MADE CLOTHING\n\nwhich I am offering at a\n\nGreat Reduction in Prices.\n\nCome Early and see Them.\n\nJ. Blackhall,\n\n11th street near Rosser Ave.\n\nAgent for the Williams Singer Sewing Machines Organs, etc.\n\nCraig Selling Off!\n\nSelling Off the Whole Stock\n\nAT COST!\n\nGIVING UP BUSINESS.\n\nImmigrants\n\nExpected this Spring and Summer to the North-West,\n\nNow is the Time\n\nfor home Capitalists, Speculators, and others desirous of purchasing\n\nTOWN LOTS\n\nCOUNTRY PROPERTY\n\nto secure the same before the Spring Boom sets in.",
+      "char_start": 0,
+      "char_end": 814,
+      "entity_density_score": 0.4
+    }
+  ]
+}

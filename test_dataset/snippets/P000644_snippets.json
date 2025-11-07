@@ -1,0 +1,52 @@
+{
+  "document_id": "P000644",
+  "metadata": {
+    "title": "[Lettre adressée à ses confrères par le Père Lacombe. sollicitant une aide financière pour le diocèse de Saint-Albert, Saskatchewan]",
+    "year": 1872,
+    "language": "French",
+    "collection": "peel_print; peel; university_of_alberta_libraries; toronto",
+    "doc_type": "book",
+    "word_count": 2221,
+    "char_count": 13251,
+    "total_pages": 10,
+    "extraction_strategy": "medium_doc",
+    "num_snippets": 5
+  },
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "text": "Pour vous mettre plus à même de connaître notre position et nos besoins, je me permettrai de mettre sous vos yeux un aperçu du Diocèse de St. Albert, pour lequel je viens implorer votre sympathie, ce qui vous permettra de juger combien nous méritons votre bienveillance et votre charité.\n\nCe Diocèse, formé d'une partie de celui de St. Boniface, a été canoniquement érigé, sous le titre de St. Albert, par le Souverain Pontife, dans le mois de Septembre dernier, c'est-à-dire Dimanche in albis dernier que Mgr. Grandin, transféré du siège de Satala, prenait possession du nouveau siège de St. Albert et en devenait le premier Evêque.\nCe nouveau Diocèse du Nord-Ouest comprend quatre grands districts, celui de Saskatchewan, de Cumberland, de la rivière aux Anglais et d'une partie d'York. Le District de Saskatchewan, dans lequel se trouve St.",
+      "char_start": 3321,
+      "char_end": 4166,
+      "entity_density_score": 0.6
+    },
+    {
+      "snippet_id": 2,
+      "text": "St. Albert, résidence de l'Évêque, est la principale station et se forme d'une population principalement composée de Métis—à 45 milles de là se trouve la mission du lac Ste. Anne, la plus ancienne des missions de tout le Nord-Ouest, elle a été fondée par le premier missionnaire de ce pays, le vénérable M. Thibeault, qui le premier a enseigné notre sainte Religion aux Métis, aux Cris, aux Assiniboines et aux Montagnais. Ce zèle et saint prêtre mérite, à plus d'un titre, le souvenir et l'estime de tous ceux qui marchent sur ces traces. La mission du lac Ste. Anne se compose de Métis et d'Assiniboines.\n\nDe St. Albert, à 8 milles se trouve le fort Edmonton, qui forme une desserte, ainsi que le fort des Montagnes Rocheuses, à 180 milles d'Edmonton, que nous visitons en différents temps—à 120 milles plus bas que St.",
+      "char_start": 4885,
+      "char_end": 5708,
+      "entity_density_score": 0.6
+    },
+    {
+      "snippet_id": 3,
+      "text": "Albert, sur la Saskatchewan, se trouve la mission de St. Paul des Cris, exclusivement pour ces Sauvages. Les missionnaires de cette place sont obligés presque continuellement d'accompagner les Indiens pendant leur chasse à la prairie. Ils sont, l'hiver et l'été, forcés de vivre comme leurs néophytes et de se soumettre à toutes les misères et privations de ces peuplades nomades. Il y en a déjà un bon nombre qui\nsont d’assez bons chrétiens, et ce nombre augmenterait vite, si nous pouvions faire quelque chose pour ces pauvres Sauvages. Si nous pouvions faire quelques dépenses, pour les aider à se former en réductions, nous aurions l’espoir de former des chrétiens sur un bien meilleur pied et avec bien plus d’avenir que nous ne pouvons le faire à présent.\n\nNous avons aussi dans le District de Saskatchewan, les quatre tribus des Pieds-Noirs, des Gens du Sang, des Piegan et des Sarcis, qui forment une seul et même nation, qui occupent le centre des grandes prairies, entre le Missouri et la Saskatchewan.",
+      "char_start": 5708,
+      "char_end": 6721,
+      "entity_density_score": 0.6
+    },
+    {
+      "snippet_id": 4,
+      "text": "Si nous avions les moyens, déjà nous aurions commencé un établissement bien intéressant sur la rivière des Arcs, aux pieds des Monts Rocheux.\n\nÀ 400 milles plus bas que St. Albert, se trouve le fort de traite de Carlton, sur la Saskatchewan, où se forme en ce moment une mission, qui bientôt sera un poste important, vu que le commerce va se porter de ce côté. Déjà un grand nombre de famille métisses, faisant place à l’émigration à la Rivière-Rouge, viennent chercher des terres, plus proches du buffalos, et se ré-\nunissent autour des prêtres qui sont à la tête de cette nouvelle mission.\n\nLe District de Saskatchewan est desservi par sept prêtres et leur Evêque. Ces missionnaires sont aidés par cinq frères convers, qui s'occupent des travaux manuels. St. Albert possède un couvent de cinq Sœurs Grises, qui tiennent une école et un orphelinat, prenant soin en même temps de notre linge et de celui de nos chapelles.",
+      "char_start": 7723,
+      "char_end": 8645,
+      "entity_density_score": 0.6
+    },
+    {
+      "snippet_id": 5,
+      "text": "Elles se dévouent là comme partout ailleurs, aux œuvres de charité, avec un zèle admirable.\n\nLe District de la Rivière-aux-Anglais comprend deux établissements, celui de l'Ile à la Crosse et celui du lac Caribou. Ces deux missions se composent principalement de Montagnais et de Cris, qui sont presque tous chrétiens. Ces districts offrent moins d'avantages pour la civilisation et l'amélioration matérielle, que celui de Saskatchewan. Ces deux missions sont desservies par cinq prêtres, aidés par cinq frères. Il y a aussi à l'Ile à la Crosse un couvent de quatre sœurs Grises, qui ont une école et un orphelinat. Il y a encore quelques autres postes; qui dépendent de ces deux missions, et qui en peu de temps formeraient des chrétiens intéressants, s'il y avait des moyens pour bâtir. Pour préparer les voies à la civilisation dans tout cet immense pays, quel plus puissant moyen que celui employé par les missionnaires, formant de côté et d'autre, des chrétiens parmi les Indiens et les Métis, qui, plus tard, seront des centres, où de préférence viendront se grouper les émigrants canadiens.",
+      "char_start": 8645,
+      "char_end": 9742,
+      "entity_density_score": 0.6
+    }
+  ]
+}

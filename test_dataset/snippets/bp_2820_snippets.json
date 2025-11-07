@@ -1,0 +1,24 @@
+{
+  "document_id": "bp_2820",
+  "metadata": {
+    "title": "Map of the North-West Territory of the Province of Canada from actual survey during the years 1792 to 1812 .",
+    "year": 1814,
+    "language": "English; French",
+    "collection": "wcw_gale; wcw; university_of_alberta_libraries; toronto",
+    "doc_type": "book",
+    "word_count": 126,
+    "char_count": 735,
+    "total_pages": 5,
+    "extraction_strategy": "full_text",
+    "num_snippets": 1
+  },
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "text": "This Map made for the North West Company in 1813 and 1814 and delivered to\nThe Honourable William M. Gilmore, then Agent. Embraces the Region\nlying between 45 and 60 degrees North Latitude and 95 and 120 degrees\nWest Longitude comprising the Surveys and Discoveries of 20 years namely:\nthe Discovery and Survey of the Oregon Territory to the Pacific Ocean,\nthe survey of the Athabasca Lake, Slave River and Lake, from which\nflows Mackenzie River to the Arctic Ocean by Mr. Simpson, the Route of Sir\nAlexander Mackenzie in 1782 down part of Peace River\ntogether with the Survey of this River to the\nPacific Ocean by the late John Stuart\nof the North West Company\nby David Thompson\nAstronomer and Surveyor\n\n[Signature]\n\nDavid Thompson",
+      "char_start": 0,
+      "char_end": 735,
+      "entity_density_score": 1.0
+    }
+  ]
+}
