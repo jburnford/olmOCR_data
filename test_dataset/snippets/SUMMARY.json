@@ -1,0 +1,186 @@
+{
+  "total_documents": 20,
+  "total_snippets": 205,
+  "documents": [
+    {
+      "doc_id": "PTR_1883011001",
+      "title": "Prince Albert times and Saskatchewan review (1883-01-10)",
+      "year": 1883,
+      "language": "English",
+      "type": "newspaper",
+      "num_snippets": 5,
+      "word_count": 2394
+    },
+    {
+      "doc_id": "PTR_1885081401",
+      "title": "Prince Albert times and Saskatchewan review (1885-08-14)",
+      "year": 1885,
+      "language": "English",
+      "type": "newspaper",
+      "num_snippets": 5,
+      "word_count": 3866
+    },
+    {
+      "doc_id": "BDM_1883042601",
+      "title": "Daily mail (1883-04-26)",
+      "year": 1883,
+      "language": "English",
+      "type": "newspaper",
+      "num_snippets": 1,
+      "word_count": 395
+    },
+    {
+      "doc_id": "P000045",
+      "title": "Travels and adventures in Canada and the Indian territories between the years 17",
+      "year": 1809,
+      "language": "English",
+      "type": "book",
+      "num_snippets": 15,
+      "word_count": 68561
+    },
+    {
+      "doc_id": "P000151",
+      "title": "Narrative of a journey to the shores of the polar sea in the years 1819, 20, 21,",
+      "year": 1823,
+      "language": "English",
+      "type": "book",
+      "num_snippets": 15,
+      "word_count": 297290
+    },
+    {
+      "doc_id": "P001454",
+      "title": "Louis Riel: assemblée de Lachine, 10 août 1885: discours de M. Girouard, député ",
+      "year": 1885,
+      "language": "French",
+      "type": "book",
+      "num_snippets": 5,
+      "word_count": 4726
+    },
+    {
+      "doc_id": "P001415",
+      "title": "La mort de Riel et la voix du sang",
+      "year": 1885,
+      "language": "French",
+      "type": "book",
+      "num_snippets": 7,
+      "word_count": 7292
+    },
+    {
+      "doc_id": "P007493",
+      "title": "Faits Divers",
+      "year": 1868,
+      "language": "French",
+      "type": "book",
+      "num_snippets": 1,
+      "word_count": 66
+    },
+    {
+      "doc_id": "P000644",
+      "title": "[Lettre adressée à ses confrères par le Père Lacombe. sollicitant une aide finan",
+      "year": 1872,
+      "language": "French",
+      "type": "book",
+      "num_snippets": 5,
+      "word_count": 2221
+    },
+    {
+      "doc_id": "P000081",
+      "title": "Relation d'un voyage à la côte du nord-ouest de l'Amérique septentrionale, dans ",
+      "year": 1820,
+      "language": "French",
+      "type": "book",
+      "num_snippets": 15,
+      "word_count": 55300
+    },
+    {
+      "doc_id": "cihm_29478",
+      "title": "Prince Albert and the North Saskatchewan [microform] : a guide to \" the fertile ",
+      "year": 1890,
+      "language": "eng",
+      "type": "book",
+      "num_snippets": 10,
+      "word_count": 13216
+    },
+    {
+      "doc_id": "cihm_07383",
+      "title": "Tecumseh and the Shawnee prophet [microform] : including sketches of George Roge",
+      "year": 1878,
+      "language": "eng",
+      "type": "book",
+      "num_snippets": 15,
+      "word_count": 68251
+    },
+    {
+      "doc_id": "cihm_21045",
+      "title": "A brief description of Nova Scotia with plates of the principal harbors [microfo",
+      "year": 1818,
+      "language": "eng",
+      "type": "book",
+      "num_snippets": 15,
+      "word_count": 35915
+    },
+    {
+      "doc_id": "cihm_50569",
+      "title": "Historical collections of the state of New York [microform] : containing a gener",
+      "year": 1841,
+      "language": "eng",
+      "type": "book",
+      "num_snippets": 15,
+      "word_count": 351841
+    },
+    {
+      "doc_id": "School_Files_Series-RG10_c-7935",
+      "title": "School Files Series - 1879-1953 (RG10) — c-7935",
+      "year": 1879,
+      "language": "eng",
+      "type": "government",
+      "num_snippets": 15,
+      "word_count": 377255
+    },
+    {
+      "doc_id": "School_Files_Series-RG10_c-8670",
+      "title": "School Files Series - 1879-1953 (RG10) — c-8670",
+      "year": 1879,
+      "language": "eng",
+      "type": "government",
+      "num_snippets": 15,
+      "word_count": 303524
+    },
+    {
+      "doc_id": "bp_2820",
+      "title": "Map of the North-West Territory of the Province of Canada from actual survey dur",
+      "year": 1814,
+      "language": "English; French",
+      "type": "book",
+      "num_snippets": 1,
+      "word_count": 126
+    },
+    {
+      "doc_id": "cihm_38152",
+      "title": "Bracebridge Hall, or, The humorists [microform] : a medley",
+      "year": 1850,
+      "language": "eng",
+      "type": "book",
+      "num_snippets": 15,
+      "word_count": 194836
+    },
+    {
+      "doc_id": "cihm_41970",
+      "title": "Copy of a letter from James Stuart, Esq. to the Right Hon. Lord Viscount Goderic",
+      "year": 1831,
+      "language": "eng",
+      "type": "book",
+      "num_snippets": 15,
+      "word_count": 111989
+    },
+    {
+      "doc_id": "P000342",
+      "title": "Rapport sur l'exploration de la contrée entre le lac Supérieur et la colonie de ",
+      "year": 1859,
+      "language": "French",
+      "type": "book",
+      "num_snippets": 15,
+      "word_count": 50252
+    }
+  ]
+}

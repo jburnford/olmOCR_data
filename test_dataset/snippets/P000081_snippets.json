@@ -1,0 +1,122 @@
+{
+  "document_id": "P000081",
+  "metadata": {
+    "title": "Relation d'un voyage à la côte du nord-ouest de l'Amérique septentrionale, dans les années 1810, 11, 12, 13 et 14",
+    "year": 1820,
+    "language": "French",
+    "collection": "peel_print; peel; university_of_alberta_libraries; toronto",
+    "doc_type": "book",
+    "word_count": 55300,
+    "char_count": 323909,
+    "total_pages": 290,
+    "extraction_strategy": "large_doc",
+    "num_snippets": 15
+  },
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "text": "Le rapport qu'ils firent de leur voyage intéressa vivement.\n\nMr. John Jacob Astor, négociant de New-York, qui faisait presque seul la traite des pelleteries au sud des grands lacs Huron et Supérieur, et qui avait acquis par ce commerce une fortune prodigieuse, crut pouvoir augmenter encore cette fortune en formant sur les bords de la Rivière Columbia un établissement dont l'entrepôt serait à son embouchure. Il commuqua ses vues aux agens de la Compagnie du Nord-Ouest : il voulut même former cet établissement de concert avec eux ; mais après quelques négociations, les propriétaires hivernants ayant rejeté ses propositions, Mr. Astor se détermina à faire seul la tentative. Il lui fallait pour réussir des gens habitués de longue-main au commerce avec les Sauvages, et il ne tarda pas à en trouver.",
+      "char_start": 4200,
+      "char_end": 5005,
+      "entity_density_score": 1.0
+    },
+    {
+      "snippet_id": 2,
+      "text": "Nous étions débarqués à l'extrémité septentrionale de New-York, et le lendemain, qui était un Dimanche, nous nous rembarquâmes, et fûmes obligés de faire le tour de la ville, pour nous rendre à notre logis sur Long-Island. Nous chantions en voguant, ce qui joint à la vue d'un canot d'écorce, attira une foule de monde sur les quais. Nous trouvâmes sur Long-Island les jeunes messieurs, engagés au service de la Compagnie, qui étaient partis du Canada avant nous.\n\nLe vaisseau sur lequel nous devions nous embarquer n'étant pas prêt, je me serais trouvé tout-à-fait isolé et étranger dans la grande ville de New-York, sans une lettre de recommandation pour Mr. G——, que madame sa sœur m'avait remise à mon départ. J'avais acquis la connaissance de ce Monsieur pendant le séjour qu'il avait fait à Montréal en 1801 ; mais comme j'étais alors fort jeune, il aurait probablement eu de la peine à me reconnaître sans la lettre de sa sœur.",
+      "char_start": 8319,
+      "char_end": 9254,
+      "entity_density_score": 0.9
+    },
+    {
+      "snippet_id": 3,
+      "text": "McKay serait du voyage, tant pour assister le capitaine, que pour prendre des informations correctes sur la nature du commerce avec les naturels de cette côte. Mr. McKay choisit pour l'accompagner MM. J. Lewis et O. Montigny ; mais ce dernier ayant représenté que la mer le rendait malade, fut laissé à l'Etablissement ; et Mr. McKay emmena un jeune homme du nom de Brulé, pour lui servir de domestique. J'eus la bonne fortune de n'être pas choisi pour ce malheureux voyage, grâce à ce que je m'étais rendu utile à l'Etablissement. Mr. Mumford, (le contre-maitre,) dut le même bonheur à l'incompatibilité de son humeur avec celle du capitaine : il obtint la permission de rester à terre, et s'engagea à la Compagnie, comme caboteur. Le navire sortit de la rivière le 5 au matin, par un bon vent. Nous continuâmes cependant à travailler sans relâche à l'achèvement du hangard, et à l'érection d'une maison et d'un magasin à poudre.",
+      "char_start": 95722,
+      "char_end": 96653,
+      "entity_density_score": 0.9
+    },
+    {
+      "snippet_id": 4,
+      "text": "Le 15, des naturels du haut de la rivière nous amenèrent deux sauvages étrangers, un homme et une femme. Ces sauvages n'étaient pas habillés comme ceux qui nous avoisinaient ; ils portaient de longues casques de peaux de chevreuil, garnies à la façon des tribus situées à l'Est des montagnes. Nous leur fisimes plusieurs questions en différentes langues ; mais ils ne nous comprirent pas. Ils nous montrèrent une lettre adressée à \"Mr. John Stuart, Fort Estekatodene, New Caledonia.\" Mr. Pillot leur ayant adressé la parole en Kinistineaux, ils répondirent, bien qu'ils ne parussent pas entendre parfaitement cette langue. Nous apprîmes pourtant d'eux, qu'ils avaient été envoyés par un Mr. Finnian M'Donald, commis au service de la Compagnie du N. O. et qui avait un établissement sur une rivière qu'ils nommèrent Spokan, ou Spokane ; qu'ayant perdu leur route, ils avaient suivi le cours du Tacoutche Tesse, (nom que les naturels du pays donnent à la Rivière Columbia;) qu'arrivés près des chutes, les naturels leur avaient fait comprendre qu'il y avait des blancs à l'embouchure de la rivière ; que ne doutant point que la personne à qui la lettre était adressée ne s'y trouvât, ils étaient venus nous la remettre.",
+      "char_start": 96878,
+      "char_end": 98096,
+      "entity_density_score": 1.0
+    },
+    {
+      "snippet_id": 5,
+      "text": "Wallace et Halsey avaient construit une maison, dans une grande prairie, à 50 lieues de l'embouchure de cette rivière. Mr. McKenzie et son parti nous quittèrent de nouveau, le 31, pour aller faire part des résolutions prises à Astoria, aux messieurs qui hivernaient dans l'intérieur.\n\nLe 11 Avril, deux canots d'écorce, portant le pavillon Britannique, arrivèrent à Astoria. Ces canots étaient commandés par MM. J. G. McTavish et Joseph Laroque, qui avaient sous eux dix-neuf voyageurs Canadiens. Ils formèrent leur camp, sur une pointe de terre, à la portée du canon de notre Fort. Nous invitémes ces messieurs à monter au logis, et nous apprîmes d'eux le sujet de leur voyage. Ils étaient descendus pour attendre l'arrivée du navire l'Isaac Todd, qui était parti du Canada, en Octobre, 1811, et d'Angleterre, en Mars, 1812, chargé de marchandises pour la Compagnie du N.",
+      "char_start": 139721,
+      "char_end": 140594,
+      "entity_density_score": 0.9
+    },
+    {
+      "snippet_id": 6,
+      "text": "O., nous entrâmes en arrangement avec Mr. M'Tavish. Ce monsieur nous ayant représenté qu'il manquait absolument des effets nécessaires, pour se procurer des vivres, en remontant la rivière, nous lui en fournissons de nos magasins ; avec promesse de sa part, que ces effets nous seraient payés, le printemps suivant, ou en fourrures, ou en lettres de change sur la Compagnie du N. O. à Montréal.\nCHAPITRE XIV.\n\nArrivée du Navire l'Albatros.—Raisons pour lesquelles le Beaver n'était pas revenu à Astoria.—Tentative infructueuse du Capitaine Smith.—Étonnement et Régret de Mr. Hunt.—Son Départ—Relation de la Destruction du Tonquin—Causes de ce Désastre—Réflexions.\n\nLe 4 Août, nous vîmes, contre toute attente, une voile à l'entrée de la rivière. Un de nos messieurs s'embarqua aussitôt dans la barge, pour l'aller reconnaître ; mais avant qu'il eût traversé la rivière, ce vaisseau entra en dedans de la barre, et dirigea sa course vers Astoria.",
+      "char_start": 142733,
+      "char_end": 143679,
+      "entity_density_score": 1.0
+    },
+    {
+      "snippet_id": 7,
+      "text": "Ouest : les autres aimèrent mieux s'en retourner dans leur pays, et je fus du nombre de ces derniers. Néanmoins, Mr. M'Tavish m'ayant intimé que l'on aurait besoin de mes services à l'Etablissement, je m'engageai pour l'espace de cinq mois, c'est à dire, jusqu'au départ du parti qui devait remonter le fleuve au printemps, pour se rendre en Canada, par la voie des Montagnes de Roches, et des rivières de l'intérieur. MM. John Stuart et M'Kenzie partirent vers la fin du mois, le dernier pour faire remettre au premier les comptoirs qui avaient été établis dans l'intérieur par la ci-devant société.\n\nLe 15 Novembre, MM. Alex. Stuart et Alex. Henry, tous deux propriétaires dans la Compagnie du N. O. arrivèrent à l'Etablissement, dans deux canots d'écorce conduits par seize hommes. Ces messieurs étaient partis.\ndu Fort William sur le Lac Supérieur, dans le mois de Juillet.",
+      "char_start": 162053,
+      "char_end": 162931,
+      "entity_density_score": 0.9
+    },
+    {
+      "snippet_id": 8,
+      "text": "Ils nous confirmèrent aussi la nouvelle qu'une frégate Anglaise devait venir s'emparer de notre ci-devant Établissement : ils furent même fort surpris de ne pas voir l'Isaac Todd en rade.\n\nLe 30 au matin, nous apperçûmes un bâtiment qui doublait le Cap Disappointment, et qui mouilla bientôt après dans la baie de Baker. Ignorant si c'était un vaisseau ami ou ennemi, nous crûmes prudent d'y envoyer Mr. M'Dougall dans un canot, avec ceux des hommes qui avaient été au service de la ci-devant P. F. C. avec l'injonction de se dire Américains, si le vaisseau était Américain, et Anglais, dans le cas contraire. Tandis qu'ils étaient en route, Mr. M'Tavish fit embarquer toutes les pelleteries qui étaient marquées au nom de la Compagnie du N. O. sur deux barges qui se trouvaient au Fort, et remonta la rivière jusqu'à Tongue Point, où il devait attendre un signal convenu.",
+      "char_start": 163074,
+      "char_end": 163947,
+      "entity_density_score": 1.0
+    },
+    {
+      "snippet_id": 9,
+      "text": "Vers minuit, Mr. Halsey, qui avait accompagné Mr. M'Dougall au vaisseau, revint au Fort, et nous annonça\nque c'était la corvette Britannique Racoon, de 26 pi ces de canon, et de 120 hommes d'équipage, commandée par le Capitaine Black. Mr. John M'Donald, propriétaire dans la Compagnie du N. O. était venu passager dans le Racoon, accompagné de cinq engagés. Ce monsieur était parti d'Angleterre dans la frégate la Phœbe, qui avait fait voile avec l'Isaac Todd jusqu'à Rio-Janeiro ; ayant rejoint là une escadre Anglaise, l'amiral leur avait donné pour convoy les corvettes Racoon et Cherub ; ces quatre bâtiments avaient fait voile de compagnie jusqu'au Cap de Horn, où ils s'étaient séparés, après s'être donné rendez-vous à l'île de Juan Fernandez. Les trois vaisseaux de guerre s'y étaient effectivement rendus ; mais après avoir attendu longtemps en vain l'Isaac Todd, le Commodore Hillier, qui commandait cette petite escadre, ayant appris que le Commodore Américain Porter faisait un tort considérable au commerce Anglais, surtout parmi les baleiniers qui fréquentent ces mers, il résolut de l'aller chercher, et de lui livrer combat, et chargea le Capitaine Black d'aller détruire l'Etablissement Américain de la Rivière Columbia.",
+      "char_start": 163947,
+      "char_end": 165185,
+      "entity_density_score": 1.0
+    },
+    {
+      "snippet_id": 10,
+      "text": "Tandis que les barbares pillaien ces effets, plus précieux pour eux que les pommes d'or du jardin des Hespérides, nos gens s'éloignèrent, et se mirent hors de leur vue. La retraite avait pourtant été si précipitée, qu'ils avaient laissé à terre un sauvage du Lac des Deux Montagnes, engagé à la Compagnie comme chasseur. Ce sauvage s'était caché derrière des rochers, voulant, à ce qu'il disait, tuer quelqu'un des voitures, et n'était pas revenu lors du rembarquement. Mr. Keith le regrettait beaucoup, craignant à juste titre qu'il ne fût découvert, et massacré par les naturels. Nous voguâmes toute la journée et une partie de la nuit du 8, et arrivâmes au Fort le 9, au soleil levant. Notre premier soin, après avoir annoncé le désastre de nos gens, fut de panser les blessures de Mr. Stewart, qui n'étaient enveloppées que d'un méchant morceau de toile de coton.",
+      "char_start": 176319,
+      "char_end": 177187,
+      "entity_density_score": 0.98
+    },
+    {
+      "snippet_id": 11,
+      "text": "Le 23, vers neuf heures du matin, nous arrivâmes au poste que Mr. D. Stuart avait établi à l'entrée de la rivière Okenakane. L'endroit nous parut charmant, en comparaison du pays par lequel nous voyagions depuis 12 jours : les deux rivières, et d'immenses prairies couvertes d'une belle verdure, frappent agréablement les yeux de l'observateur ; mais il n'y a ni arbre ni arbuste pour diversifier la scène, et la rendre un peu moins nue et moins monotone. Nous trouvâmes à ce poste, M.M. Jos. M'Gillivray et Ross, Mr. O. Montigny, qui s'était engagé à la Compagnie du N. O. y demeura aussi, et me chargea d'une lettre pour son frère.\n\nNous nous rembarquâmes vers midi, pour continuer notre route. Après avoir passé sans accident plusieurs rapides dangereux, toujours par un pays entrecoupé de rochers escarpés, de\ncollines, et de prairies verdoyantes, nous arrivâmes, le 29, au portage des Chaudières.",
+      "char_start": 246788,
+      "char_end": 247691,
+      "entity_density_score": 0.98
+    },
+    {
+      "snippet_id": 12,
+      "text": "Nous essuyâmes un orage accompagné de grêle, mais de peu de durée. Sur le soir, nous arrivâmes au Fort de la Montée, ainsi nommé, de ce que ceux qui remontent la rivière laissent là leurs canots, pour prendre des chevaux. Nous trouvâmes à la Montée, comme à Vermillon, deux comptoirs, joints ensemble, pour faire cause commune contre les sauvages, l'un appartenant à la Compagnie de la Baie d'Hudson, et l'autre à celle du Nord-Ouest : le premier était sous la conduite d'un Mr Prudent, et le dernier, sous celle d'un Mr. M'Lean. Mr. de Rocheblave, qui avait hiverné à ce post.\nte, en était parti, il y avait quelque temps. Il y avait des champs cultivés autour de la maison ; l'orge et les pois paraissaient promettre une récolte abondante. Mr. McClean nous reçut aussi bien que les circonstances le permettaient ; mais ce Monsieur n'ayant pas de vivres à nous donner, et notre bœuf commençant à se gâter, nous partîmes, le lendemain matin, pour gagner au plus vite, Fort Cumberland.",
+      "char_start": 291756,
+      "char_end": 292741,
+      "entity_density_score": 1.0
+    },
+    {
+      "snippet_id": 13,
+      "text": "Ils nous apprirent aussi que MM. M'Donald et Rocheblave étaient passés, peu de jours avant notre arrivée, ayant été obligés de remonter la Rivière Rouge, pour arrêter l'effusion de sang, qui aurait probablement eu lieu, sans leur intervention, à la Colonie fondée sur cette rivière, par le Comte de Selkirk. Mr. Miles M'Donell, gouverneur de cette Colonie, ou plutôt du district d'Assiniboya, avait émané une proclamation défendant à toute personne quelconque de faire sortir des provisions du pays. Les traiteurs de la Baie d'Hudson s'étaient conformés à cette proclamation ; mais\nceux de la Compagnie du N. O. n'en avaient tenu compte, la croyant illégale, et avaient envoyé, comme de coutume, leurs serviteurs faire des provisions, dans le haut de la rivière. Mr. McDonell ayant su qu'il y avait plusieurs centaines de sacs de pétanque amassés, dans un hangard aux soins d'un Mr.",
+      "char_start": 297709,
+      "char_end": 298593,
+      "entity_density_score": 1.0
+    },
+    {
+      "snippet_id": 14,
+      "text": "M'Donnell, et lui ayant exposé la situation où se trouvaient les traiteurs de la Compagnie du N. O., par le manque de vivres nécessaires pour transporter leurs pelleteeries jusqu'au Fort William, et la sureur des engagés, qui ne voyaient pour eux d'autre alternative que de s'emparer de ces provisions, ou de périr de faim, il le somma de les lui remettre sans délai. Mr. M'Donnell exposa, de son côté, à Mr. M'Donald la misère où se trouveraient les colons; par le manque de vivres. En conséquence de ces représentations mutuelles, on convint que la moitié des provisions resterait à la Colonie, et que l'autre moitié serait remise à la Compagnie du N. O. Ce fut ainsi que s'arrangea, sans effusion de sang, ce premier différent entre les deux Compagnies rivales du N. O. et de la Baie d'Hudson.\n\nAyant employé le 1er Juillet à réparer nos canots, nous rembarquâmes, le 2, et continuâmes à remonter la Rivière Ouénipic, appelée aussi Riviere Blanche, à cause d'un grand nombre de cascades, qui étant fort proches les unes\ndes autres, offrent à la vue une écumée et des bouillons presque continuels.",
+      "char_start": 299919,
+      "char_end": 301019,
+      "entity_density_score": 1.0
+    },
+    {
+      "snippet_id": 15,
+      "text": "La navigation de ce superbe lac serait fort agréable, sans les brumes épaisse qui règnent une partie du jour, et ne permettent pas d'avancer. Le 24, nous dinâmes à un petit établissement appelé Le Pic.\n\nLe 26, nous traversâmes la baie de Michipicoton, qui peut avoir trois lieues de largeur, à son entrée. Comme nous arrivions à l'Est, nous rencontrâmes un petit canot sur lequel étaient le Capitaine M'Cargo et l'équipage d'une des goëlettes de la Compagnie. Mr. M'Cargo nous dit qu'il s'était échappé du Saut Ste. Marie, où les Américains avaient envoyé un détachement de 150 hommes; et que, se voyant forcé d'abandonner sa goëlette, il y avait mis le feu. En conséquence de ces avis, il fut résolu que le canot sur lequel nous étions retournerait au Fort William. Je m'embarquai avec Mr. D. Stuart et deux hommes, dans le canot du Capitaine M'Cargo, qui prenait notre place.",
+      "char_start": 313703,
+      "char_end": 314581,
+      "entity_density_score": 1.0
+    }
+  ]
+}

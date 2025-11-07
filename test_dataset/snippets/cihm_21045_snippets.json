@@ -1,0 +1,122 @@
+{
+  "document_id": "cihm_21045",
+  "metadata": {
+    "title": "A brief description of Nova Scotia with plates of the principal harbors [microform] : including a particular account of the Island of Grand Manan",
+    "year": 1818,
+    "language": "eng",
+    "collection": "university_of_alberta_libraries_microfilm; university_of_alberta_libraries; toronto; microfilm; additional_collections",
+    "doc_type": "book",
+    "word_count": 35915,
+    "char_count": 206051,
+    "total_pages": 165,
+    "extraction_strategy": "large_doc",
+    "num_snippets": 15
+  },
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "text": "The features of the Northern Coast are soft, and free from rocks: the combined effects of heavy rain, severe frosts, and the sea, make a sensible alteration in its appearance. The few harbors along its whole range, are of very limited capacity. The coal, gypsum, and other minerals, abounding here, are probably of the same strata with those in Cape Breton, as they appear in the same direct line.\n\nThe soil of the interior is generally of a good quality: a great portion of it, free of stone, is easily tilled, and very productive. The forests are composed of Beech; Elm; Oak; black, white, and yellow Birch; Maple; white, prickly, and black Ash; pitch, white, and yellow Pine; white, black, and red Spruce; Larch; Hakmetak, or Juniper; Hemlock; and Fir.\n\nThe temperature, or rather intemperature, is the most equivocal of any part of the world.",
+      "char_start": 7560,
+      "char_end": 8408,
+      "entity_density_score": 0.6
+    },
+    {
+      "snippet_id": 2,
+      "text": "Sir And. Hammond . . . . . . . 1781  \nJohn Parr, 1782, died . . . . . . . . . . . 1791  \nRichard Bulkely, president and commander in chief, Nov. 26, to May 14 . . . . . . . . 1791  \nLieut.-Gov. Sir John Wentworth, arrived Jan. and sworn, May . . . . . . . . . . . . . . 1792  \nLieut.-Gov. Sir G. Prevost, Jan. 17 . . . . . 1808  \nSir J C. Sherbrooke, Aug. 19 . . . . . . . . 1811  \nEarl Dalhousie.\n\nOpposite Halifax, on the Eastern side of the harbor, which is there about nine-tenths of a mile wide, the town of Dartmouth was laid out in 1750, and settled; but in the war of 1756, the Indians collected in great force on the Bason of Mines, ascended the Shubenacadie river in their canoes, and at night, surprising the guard, scalped or carried away most of the settlers. From this period the settlement was almost derelict, till Governor Parr, in 1784, encouraged 20 families to remove hither from Nantucket, to carry on the South Sea fishery.",
+      "char_start": 16983,
+      "char_end": 17929,
+      "entity_density_score": 0.7
+    },
+    {
+      "snippet_id": 3,
+      "text": "No expense has been spared, even to the sacrifice of the common comforts of life, in order to be in possession of the best instruments. These were made by Mr. E. Troughton, and in their accuracy may be placed implicit faith.\n\nThe original names of the places are restored, by which only they are known to the inhabitants and fishermen. Des Barres, in attaching to them the names of noblemen, or men in power, has made his charts of less value; and in one or two instances, has created serious blunders. Inquire of the people of Jedore for Port Egmont, or those of Sheet Harbor for Port North, they know them not, nor would they ever be induced to adopt them. Jestico, a harsh, unpleasant, and unmeaning name, is preferred to Port Hood, although the latter is more pleasing to the ear, and pronounced and recollected with ease: all attempts\nto change the rude Indian names for others of a finer texture have failed; even New Jerusalem and Acadia, have expired.",
+      "char_start": 24601,
+      "char_end": 25562,
+      "entity_density_score": 0.7
+    },
+    {
+      "snippet_id": 4,
+      "text": "DIRECTIONS FOR THE HARBOR.\n\nIn approaching from the westward, round the light-house, at the distance of a short league. To avoid the sunken rocks which lie to the southward, when the light bears N.W. by N. haul in N. by W. The flag staves on Citadel Hill, above the town, are distinguishable a considerable distance. By keeping them open of Sandwich Point, you are led clear of the Bell, Litchfield, and Mars rocks, on the West side; and the Rock Head and Thrumb Cap to the East. When arrived at Sandwich Point, which is bold, keep Chebucto Head in sight, by not allowing it to shut in. This plain mark will lead in the fair way home to George's Island, leaving Point Pleasant shoals on the left, and McNab's shoal on the right: round the Island either side, and anchor where you please, in 6, 10, or 13 fathoms, muddy bottom.",
+      "char_start": 25562,
+      "char_end": 26390,
+      "entity_density_score": 0.6
+    },
+    {
+      "snippet_id": 5,
+      "text": "From George's Island to the confluence of Sackville River, with Bedford Bason, a distance of seven miles, there is not a single obstruction.\n\nThe men of war usually anchor off the naval yard, which a stranger may easily distinguish by the masting sheers. The merchant vessels discharge their cargoes, and take in their lading, along-side the wharves.\n\nIt is necessary, coming from the eastward, to steer for the\nlight-house, or Chebucto Head, until the leading marks are on, which are to be followed as before directed.\n\nSherbrook Tower stands on the spit of gravel extending towards Point Sandwich, from McNab's Island, called Mauger's Beach. Major Wright, the Commanding Officer of Engineers, is constructing a small light-house near the tower, upon an exceedingly good plan, to shew an interior light, by means of which vessels may enter the harbor, and be guided to a safe anchorage.",
+      "char_start": 26390,
+      "char_end": 27278,
+      "entity_density_score": 0.6
+    },
+    {
+      "snippet_id": 6,
+      "text": "This light will, in all probability, prevent a recurrence of the crowd of accidents by shipwreck on the Thrumb Cap. And if a bell be attached to it, to sound in fogs, worked by machinery, it will be an improvement. Northward of this, under the lee of the beech, is good anchorage, from 9 to 4 fathoms mud, called McNab's Cove; the best shelter is in 7 fathoms, with the Beach and Point Sandwich locked; and George's Island tower touching the N.W. part of the Island.\n\nThe Island now called McNab's was granted to Lord Cornwallis, in the year 1788, and sold by His Lordship to Mr. McNab for a thousand pounds. This property is now considered worth 15 or 18,000 pounds. It contains 1090 acres of tolerably good land; and being for the most part under cultivation, adds much to the beauty of the harbor.",
+      "char_start": 27278,
+      "char_end": 28079,
+      "entity_density_score": 0.7
+    },
+    {
+      "snippet_id": 7,
+      "text": "The S.E. passage formed by McNab's Island, and the main land, is obstructed by a sand bar at the South end, with 8 feet on it at low water: therefore it can be used only by small vessels. Within the bar is 6 to 11 fathoms, soft muddy bottom.\nHerring Cove is inhabited by forty Irish families, who subsist by fishing and piloting. The shores of this nook are a body of solid rock; and small vessels lie perfectly sheltered in shoal water.\n\nHis Majesty's Frigate Tribune's scene of calamity, at the West side of the entrance of this place, on the 23rd of November, 1797, would be a subject worthy of the pencil of the first artist. In a few hours the fragment of her crew consisted of thirteen persons, one of whom, Mr. Galvin, a master's mate, was the unfortunate cause of the disaster. Presuming on his knowledge of the harbor, he imprudently took charge of the ship; with a free wind, and all sail set, ran her on the Thrumb Cap shoal.",
+      "char_start": 28173,
+      "char_end": 29111,
+      "entity_density_score": 0.7
+    },
+    {
+      "snippet_id": 8,
+      "text": "Andrew's Channel, of which no directions can be given; the single rocks are so thickly planted, even those who are well acquainted frequently blunder upon them. This passage leads to Glasgow Harbor, which is, in fact, a part of Canso Harbor.\n\nIn the Tickle, formed by Durell's Island, there is generally, in the spring and fall, a number of small vessels assembled to catch mackerel and herring, of which large shoals pass, having escaped the nets on the S.E. coast, or have made the Cape from a more southerly direction, round Chedabucto Bay, pass through\nthe Gut, thence northerly, their course of migration, I think, might be easily traced to the Polar regions, and dissolve the new and favorite theory of a few who have fancifully packed them in mud during winter; and it is told that a Mr. Pléville-le-Pelley, in Hudson's Bay, saw the bottom completely bristled with their tails and fins, through the mud!",
+      "char_start": 63725,
+      "char_end": 64636,
+      "entity_density_score": 0.7
+    },
+    {
+      "snippet_id": 9,
+      "text": "The population may be computed at four thousand two hundred souls.\n\nThe harbor is easy of access, with anchorage to its head. Keep mid-channel between the island at the mouth, and the eastern point. When within the island, border on either side, to avoid a sunken rock lying in the middle, three feet under water. The best passage to turn in is the western. Alongside the wharves are 12 and 13 feet water; close off them, 20 to 24 feet soft mud.\n\nCross Island, containing two hundred and fifty-three acres, in height about 30 feet, lies at the entrance of Lunenburg, the property of Mr. Smith, by purchase: he resides on the N. E. side, in a small nook where coasters lie secure. The Hounds, a ledge of rocks, lie off the N. E. part, across the channel. The West and South sides of the island are bold, and South two miles from the South end, is an excellent fishing bank, from 14 to 17 fathoms.",
+      "char_start": 96359,
+      "char_end": 97255,
+      "entity_density_score": 0.7
+    },
+    {
+      "snippet_id": 10,
+      "text": "Half way through, a small inlet offers shelter to vessels of moderate size, in 4 or 5 fathoms mud, and small vessels anchor inside the Spectacles, the two northernmost islets. At the North entrance a ledge lies, from the West side about half way, obliquely North-eastward.\n\nNorthward of the passage, the tide being less confined, runs easier, and the anchorage is pretty good; the little harbor of Jebogue is shoal, frequented only by coasters.\n\nThe lands are good, of a moderate height, and well settled; wearing the appearance of successful industry.\n\nOn the West side of Brier's Island stands the light-house, a building so vilely constructed, and so ill lighted, that it is justly considered a public nuisance. The author took from its lantern a wooden pane from among many of the same kind: and in consequence of his strong representation, it was altered by the Commissioners of the Provincial Lights, and improved as far as the building would admit; but no reliance should be placed on it.—The population is twenty-five men, twenty-seven women, forty-nine boys, forty-six girls: total one hundred and forty-seven: it contains three thousand acres.",
+      "char_start": 127988,
+      "char_end": 129142,
+      "entity_density_score": 0.8
+    },
+    {
+      "snippet_id": 11,
+      "text": "Elliot and Co. of Hamburgh, from all which it appears, that he coasted Greenland with the land in sight, and returning thence, but that the most northerly point which he saw was about 80° N. latitude.\n\nBut we have the direct testimony of Mr. Scoresby the younger, a very intelligent navigator of the Greenland Seas, for the disappearance of an immense quantity of arctic ice. In a letter to Sir Joseph Banks, he says, \"I observed on my last voyage (1817) about two thousand square leagues (18,000 square miles,) of the surface of the Greenland Seas, included between the parallels 74° and 80°, perfectly void of ice, all of which has disappeared within the last five years,\" and he further states, that though on former voyages, he had very rarely been able to penetrate the ice, between the latitudes of 76° and 80°, so far to the West as the meridian of Greenwich, 'on his last voyage he twice reached the longitude of 10° West,' that in the parallel of 74°, he approached the coast of Old Greenland; there was little ice near the\nland; and adding, 'that there could be no doubt but he might have reached the shore had he had a justifiable motive for navigating an unknown sea at so late a season of the year.' He also found the sea so clear in returni... to the southward, that he actually landed on Jan Mayen's Island, which is usually surrounded with a barrier of ice, and brought away specimens of the rocks.",
+      "char_start": 160366,
+      "char_end": 161781,
+      "entity_density_score": 0.6
+    },
+    {
+      "snippet_id": 12,
+      "text": "The authentic annals of Iceland describe that island as having once been covered with impervious woods; and numerous places still bear the name of forest, which produce only a few miserable stunted birches of five or six feet high, and in which all attempts to raise a tree of any kind have for ages proved unavailing. The most intelligent travellers, who, in our time, have visited this island, bear testimony to the fact of large logs of wood being dug out of bogs, and found between the rocks and in the valleys. It is also said that good culinary vegetables were once produced on it; but the cabbages seen there by Mr. Hooker, in the month of August were so diminutive that a half crown piece would have covered the whole plant. Nothing but a deterioration of climate could have wrought these changes; and this can only be\nexplained by the vast increase of floating ice, 'which,' says Hooker, 'not only fills all the bays, but covers the sea to that extent from the shore, that the eye cannot trace its boundary from the summit of the highest mountains.' Sometimes it connects the island in one continued mass with Greenland, when the white bears come over in such alarming numbers, that the inhabitants assemble and wage a national war against them.",
+      "char_start": 167517,
+      "char_end": 168772,
+      "entity_density_score": 0.62
+    },
+    {
+      "snippet_id": 13,
+      "text": "We are aware that the changes of temperature depend on a variety of causes, yet the single effect of an atmosphere chilled and condensed over a surface of at least 50,000 square miles of ice, rushing directly upon the British Islands from the westward, may have been equal in its diminishing power to all the rest.\n2. The colony on the West side of Old Greenland increased to four parishes, containing one hundred villages; but being engaged in perpetual hostility with the Esquimaux, the whole were ultimately destroyed by them. The ruins of some of the edifices were still visible in 1721, when that pious and amiable man, Hans Egede, went out with his whole family to settle there, on the re-establishment of a colony on that coast by the Greenland Company of Bergen in Norway. It still exists, and the population, taken but imperfectly in 1802, was found to amount to 5,621 souls; and we have since learnt that, including the Moravian establishments and the natives, who have mostly been converted to Christianity, the total population of the western coast of Greenland may now be estimated at not less than 20,000.",
+      "char_start": 173755,
+      "char_end": 174876,
+      "entity_density_score": 0.7
+    },
+    {
+      "snippet_id": 14,
+      "text": "Patrick.—Of all the attested relations, this of Bishop Amand, says Hans Egede, 'deserves most to be credited:' 'by this,' he continues, 'we learn that the colony of the eastern district did flourish about a hundred and fifty years after the commerce and navigation ceased between Norway and Greenland; and, for aught we know, is not yet wholly destitute of its old Norwegian inhabitants.'\n\nIt has been supposed by some writers, that the black death, which in 1348, desolated Europe, extended its ravages to Greenland; but this assumption, as Mr. Egede observes, is without any foundation, as an uninterrupted intercourse appears to have been maintained with the colony for fifty-eight years after this dreadful malady had ceased. He thinks, however, that, partly by the change of the government in Queen Margaret's reign, and partly from the continual wars which ensued between the Danes and the Swedes, the Greenland colonists may have been neglected; for it does not appear that any steps were taken for a century, after the unsuccessful attempts of the bishop to land, when the Christians and the Fredericks, calling to mind these remote and long-neglected\npossessions, took measures for inquiring into the fate of their unfortunate subjects.",
+      "char_start": 176517,
+      "char_end": 177763,
+      "entity_density_score": 0.7
+    },
+    {
+      "snippet_id": 15,
+      "text": "He also made a land journey, over ice and snow, into the very heart of Newfoundland, in order to obtain an interview with the natives, being the first European who ever ventured among them. Lieutenant Franklyn, who accompanies him as second in this expedition, was brought up under the late Captain Flinders, and is well acquainted with nautical surveying and the use of instruments. The junior lieutenants in each of the brigs are the sons of two eminent artists, and both good draughtsmen, the one the son of the late Mr.\nHoppner, who conducted Lord Amherst and his party in the open boats to Batavia, after the wreck of the Alceste; the other of the present Sir William Beechy.\n\nIt probably may not strike the reader at first, that the distance from Shetland islands to Behring's Strait, by pursuing the route of Davis's Strait, and supposing a passage along the northern coast of America, on the parallel of $72^\\circ$ is just half as long again as that from the same point on a meridian passing through the pole; such, however is the case; the former being 1,572 leagues, and the latter only 1,048 leagues.",
+      "char_start": 200384,
+      "char_end": 201496,
+      "entity_density_score": 0.6
+    }
+  ]
+}
