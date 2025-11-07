@@ -1,0 +1,574 @@
+{
+  "document_id": "PTR_1883011001",
+  "metadata": {
+    "title": "Prince Albert times and Saskatchewan review (1883-01-10)",
+    "year": 1883,
+    "language": "English",
+    "collection": "peel_newspapers; peel; university_of_alberta_libraries; toronto",
+    "doc_type": "newspaper",
+    "word_count": 2394,
+    "char_count": 14384,
+    "total_pages": 6,
+    "extraction_strategy": "medium_doc",
+    "num_snippets": 5,
+    "annotation_date": "2025-11-07",
+    "annotator": "claude_ai",
+    "annotation_purpose": "gold_standard_ner_dataset"
+  },
+  "total_entities": 48,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "text": "Thus imputing negligence on the part of the man whose lips are sealed by death. Subsequent enquiry has elicited the fact that there is a difference of opinion upon this point. Some say that he went to the side of the wheel where there was a sort of a platform, and that if he was on the wrong side, then the platform must also be on the wrong side; again, others say that he went up on the right side by which access could be had to the wheel.\n\nWhatever story may be correct and at present we pass no opinion upon the subject, sufficient is known to show that there was abundant need for an investigation, whatever may have been the result. It is but fair to state, that the Chief Factor of the Hudson Bay Company, Hon. Lawrence Clarke, Esq., and Col. Richardson, who happened to be in town, immediately after the occurrence of his office as Superintendent, Macarthur holds the position of coroner in the North West Territories, and expressed his willingness to investigate the matter, if arrangements were made for it, as required.",
+      "char_start": 2697,
+      "char_end": 3730,
+      "entities": [
+        {
+          "text": "Hudson Bay Company",
+          "start": 3391,
+          "end": 3409,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Major fur trading company"
+        },
+        {
+          "text": "Hon. Lawrence Clarke",
+          "start": 3411,
+          "end": 3431,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Chief Factor of Hudson Bay Company"
+        },
+        {
+          "text": "Col. Richardson",
+          "start": 3443,
+          "end": 3458,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Colonel, Superintendent"
+        },
+        {
+          "text": "Macarthur",
+          "start": 3546,
+          "end": 3555,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Coroner in North West Territories"
+        },
+        {
+          "text": "North West Territories",
+          "start": 3591,
+          "end": 3613,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Northwest Territories of Canada"
+        }
+      ]
+    },
+    {
+      "snippet_id": 2,
+      "text": "We had the pleasure of a conversation with old Mr. George McKay the other day, and while talking about his age, he said that he had just about completed his 90th year—to-day or tomorrow. Mr. McKay undoubtedly the oldest settler on the Red River, having come to this country in 1823, when he was only 16 years of age, and been here ever since. His remains are the only history of this country are very interesting. He has lived through many changes, and his body, as we purpose spending an hour so with him tomorrow day in order to get a few facts regarding the early history of this country in its earlier days. We can imagine the old gentleman telling us of the adventures that took place, and how he will live to see more of them. On the morning of our visit to him, he was engaged in writing on a piece of paper, which he had placed on a table below, whilst his pipe was out, and his eyes and ears are fine and sharp.",
+      "char_start": 6443,
+      "char_end": 7365,
+      "entities": [
+        {
+          "text": "Mr. George McKay",
+          "start": 6494,
+          "end": 6510,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "90-year-old settler, oldest on Red River"
+        },
+        {
+          "text": "Mr. McKay",
+          "start": 6632,
+          "end": 6641,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Same person, George McKay"
+        },
+        {
+          "text": "Red River",
+          "start": 6681,
+          "end": 6690,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Red River settlement area"
+        }
+      ]
+    },
+    {
+      "snippet_id": 3,
+      "text": "DOORS, SASH, &c.\n\nGOODFELLOW BROS'.\n\nW. J. CARTER,\n\nBuilder and Contractor.\n\nAll Orders Promptly Attended to.\n\nPlans and Estimates furnished when required.\n\nHEINTZMAN AND COMPANY,\n\nPiano Manufacturers,\n\n117 KING - ST. WEST,\n\nNEXT ROSSIN HOUSE.\n\nTORONTO, ONT.\n\nPianos to Suit the Climate of the North-west.\n\nALL MADE OF THE BEST MATERIAL\n\nAND FINISHED IN FIRST-CLASS STYLE\n\nFIRST PRIZE WHEREVER EXHIBITED\n\nNEW PATENT BRIDGES\n\nNone but First-class Workmen Employed in their Manufacture.\n\nAPPLY AT\n\n\"The Times\" Office,\n\nPRINCE ALBERT N.W.T.\nHudson's Bay Co. Farming Lands\n\nFor Sale in Manitoba & North-west\n\nThe Hudson's Bay Company own 7,000,000 acres in the Great Fertile Belt, and now offer for sale 500,000 acres, already surveyed by the Government of Canada.\n\nTown Lots For Sale\n\nIn Winnipeg, West Lynne, Rat Portage, Portage la Prairie and Goschen, N.W.T.",
+      "char_start": 9254,
+      "char_end": 10114,
+      "entities": [
+        {
+          "text": "GOODFELLOW BROS'",
+          "start": 9273,
+          "end": 9289,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Business selling doors and sash"
+        },
+        {
+          "text": "W. J. CARTER",
+          "start": 9292,
+          "end": 9304,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Builder and contractor"
+        },
+        {
+          "text": "HEINTZMAN AND COMPANY",
+          "start": 9412,
+          "end": 9433,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Piano manufacturer company"
+        },
+        {
+          "text": "KING - ST. WEST",
+          "start": 9459,
+          "end": 9474,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Street location in Toronto"
+        },
+        {
+          "text": "ROSSIN HOUSE",
+          "start": 9481,
+          "end": 9493,
+          "type": "LOC",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Building/landmark in Toronto"
+        },
+        {
+          "text": "TORONTO",
+          "start": 9496,
+          "end": 9503,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "City in Ontario"
+        },
+        {
+          "text": "ONT",
+          "start": 9505,
+          "end": 9508,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Ontario province abbreviation"
+        },
+        {
+          "text": "The Times",
+          "start": 9770,
+          "end": 9779,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Newspaper office, Prince Albert Times"
+        },
+        {
+          "text": "PRINCE ALBERT",
+          "start": 9790,
+          "end": 9803,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "City in Northwest Territories"
+        },
+        {
+          "text": "N.W.T.",
+          "start": 9804,
+          "end": 9810,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Northwest Territories abbreviation"
+        },
+        {
+          "text": "Hudson's Bay Co.",
+          "start": 9811,
+          "end": 9827,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson's Bay Company, major land owner"
+        },
+        {
+          "text": "Manitoba",
+          "start": 9855,
+          "end": 9863,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Canadian province"
+        },
+        {
+          "text": "North-west",
+          "start": 9866,
+          "end": 9876,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Northwest region"
+        },
+        {
+          "text": "Hudson's Bay Company",
+          "start": 9882,
+          "end": 9902,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Major fur trading and land company"
+        },
+        {
+          "text": "Great Fertile Belt",
+          "start": 9937,
+          "end": 9955,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Agricultural region designation"
+        },
+        {
+          "text": "Government of Canada",
+          "start": 10023,
+          "end": 10043,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Federal government"
+        },
+        {
+          "text": "Winnipeg",
+          "start": 10072,
+          "end": 10080,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "City in Manitoba"
+        },
+        {
+          "text": "West Lynne",
+          "start": 10082,
+          "end": 10092,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Town/settlement"
+        },
+        {
+          "text": "Rat Portage",
+          "start": 10094,
+          "end": 10105,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Town/settlement (later Kenora)"
+        },
+        {
+          "text": "Portage la Prairie",
+          "start": 10107,
+          "end": 10125,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Town in Manitoba"
+        },
+        {
+          "text": "Goschen",
+          "start": 10130,
+          "end": 10137,
+          "type": "LOC",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Settlement in N.W.T."
+        },
+        {
+          "text": "N.W.T.",
+          "start": 10139,
+          "end": 10145,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Northwest Territories abbreviation"
+        }
+      ]
+    },
+    {
+      "snippet_id": 4,
+      "text": "G. Carter & Son, Proprietors.\n\nCaledonian Restaurant.\n\nOpposite the H.B. Mill.\n\nMeals at All Hours.\n\nLivery and Feed Stables.\n\nIn connection.\n\nNotice.\n\nWe have duplicated the order for stationery, which unfortunately was left at Cumberland, and will shortly be able to supply our numerous patrons with all kinds of Job Printing.\n\nSpink & Maveety, Proprietors.\n\nSubscribe.\n\nSubscribe.\n\nSubscribe.\n\nJOB PRINTING.\n\nWe have duplicated the order for stationery, which unfortunately was left at Cumberland, and will shortly be able to supply our numerous patrons with all kinds of Job Printing.\n\nSPINK & MAVETY, PROPRIETORS.\n**Masonic Funeral**\n\nBurial of Mr. Hiram Budd, late master of the Masonic Lodge at Coburg.\n\nOn Sunday last, the funeral of Mr. S. Graham, who died last week, took place at the Harmony Church, Wiseman street, and was attended by many friends and relatives.",
+      "char_start": 11323,
+      "char_end": 12199,
+      "entities": [
+        {
+          "text": "G. Carter & Son",
+          "start": 11323,
+          "end": 11338,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Business proprietors"
+        },
+        {
+          "text": "Caledonian Restaurant",
+          "start": 11356,
+          "end": 11377,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Restaurant business"
+        },
+        {
+          "text": "H.B. Mill",
+          "start": 11395,
+          "end": 11404,
+          "type": "LOC",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Hudson's Bay mill, landmark"
+        },
+        {
+          "text": "Cumberland",
+          "start": 11566,
+          "end": 11576,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Location where stationery was left"
+        },
+        {
+          "text": "Spink & Maveety",
+          "start": 11664,
+          "end": 11679,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Business proprietors"
+        },
+        {
+          "text": "Cumberland",
+          "start": 11852,
+          "end": 11862,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Location where stationery was left"
+        },
+        {
+          "text": "SPINK & MAVETY",
+          "start": 11964,
+          "end": 11978,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Business proprietors (alternate spelling)"
+        },
+        {
+          "text": "Mr. Hiram Budd",
+          "start": 12026,
+          "end": 12040,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Deceased, late master of Masonic Lodge"
+        },
+        {
+          "text": "Masonic Lodge",
+          "start": 12061,
+          "end": 12074,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Masonic organization"
+        },
+        {
+          "text": "Coburg",
+          "start": 12078,
+          "end": 12084,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Location of Masonic Lodge"
+        },
+        {
+          "text": "Mr. S. Graham",
+          "start": 12123,
+          "end": 12136,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Deceased person"
+        },
+        {
+          "text": "Harmony Church",
+          "start": 12173,
+          "end": 12187,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Church where funeral took place"
+        },
+        {
+          "text": "Wiseman street",
+          "start": 12189,
+          "end": 12203,
+          "type": "LOC",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Street location of church"
+        }
+      ]
+    },
+    {
+      "snippet_id": 5,
+      "text": "The body was carried by members of the lodge and laid to rest in the family vault.\n\n---\n\n**Town News**\n\nAll changes for last, December, are hereby posted.\n\nThe far south passage will close at noon today.\n\nRev. Mr. Clark, of Bathurst, who has been spending his summer holidays in Prince Edward Island, has returned home yesterday.\n\nThe Rev. Mr. Macdonald, whilst here, visited with many friends, and expressed very strong opinions against the proposed amalgamation of the two parishes at St. Mary's Church.\n\nSergt. John Reid, left for Duck Lake, on the 21st inst., to meet Col. Henderson, who is stationed there.\n\nMr. Judge, of Bathurst, socio at the club hall, went to Winnipeg, with a proposition for some new members.\n\nDick Lahey, of St. John's, returned to Prince Edward Island, where he expects to remain until after the election.\n\n---\n\n**Best Baking Powder**\n\nDr.",
+      "char_start": 12289,
+      "char_end": 13159,
+      "entities": [
+        {
+          "text": "Rev. Mr. Clark",
+          "start": 12501,
+          "end": 12515,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Reverend from Bathurst"
+        },
+        {
+          "text": "Bathurst",
+          "start": 12520,
+          "end": 12528,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Location"
+        },
+        {
+          "text": "Prince Edward Island",
+          "start": 12576,
+          "end": 12596,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Canadian province"
+        },
+        {
+          "text": "Rev. Mr. Macdonald",
+          "start": 12634,
+          "end": 12652,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Reverend visiting the area"
+        },
+        {
+          "text": "St. Mary's Church",
+          "start": 12788,
+          "end": 12805,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Church location"
+        },
+        {
+          "text": "Sergt. John Reid",
+          "start": 12808,
+          "end": 12824,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Sergeant going to Duck Lake"
+        },
+        {
+          "text": "Duck Lake",
+          "start": 12835,
+          "end": 12844,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Location in Saskatchewan"
+        },
+        {
+          "text": "Col. Henderson",
+          "start": 12874,
+          "end": 12888,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Colonel stationed at Duck Lake"
+        },
+        {
+          "text": "Mr. Judge",
+          "start": 12918,
+          "end": 12927,
+          "type": "PER",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Person from Bathurst"
+        },
+        {
+          "text": "Bathurst",
+          "start": 12932,
+          "end": 12940,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Location"
+        },
+        {
+          "text": "Winnipeg",
+          "start": 12974,
+          "end": 12982,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "City in Manitoba"
+        },
+        {
+          "text": "Dick Lahey",
+          "start": 13037,
+          "end": 13047,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Person from St. John's"
+        },
+        {
+          "text": "St. John's",
+          "start": 13052,
+          "end": 13062,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Location"
+        },
+        {
+          "text": "Prince Edward Island",
+          "start": 13076,
+          "end": 13096,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Canadian province"
+        }
+      ]
+    }
+  ]
+}
