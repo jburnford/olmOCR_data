@@ -15,6 +15,9 @@ from pathlib import Path
 from typing import List, Dict, Tuple
 from datetime import datetime
 
+# Resolve paths relative to this script directory so it works regardless of CWD
+SCRIPT_DIR = Path(__file__).parent
+
 
 ENTITY_TYPES = {
     'LOC': 'Location (places, regions, natural features)',
@@ -26,7 +29,7 @@ ENTITY_TYPES = {
 
 def load_snippets(doc_id: str) -> Dict:
     """Load snippets file for a document."""
-    snippets_file = Path('test_dataset/snippets') / f'{doc_id}_snippets.json'
+    snippets_file = SCRIPT_DIR / 'snippets' / f'{doc_id}_snippets.json'
     if not snippets_file.exists():
         print(f"ERROR: Snippets file not found: {snippets_file}")
         sys.exit(1)
@@ -180,7 +183,8 @@ def save_gold_standard(doc_id: str, doc_metadata: Dict, annotated_snippets: List
         'snippets': annotated_snippets
     }
 
-    output_file = Path('test_dataset/gold_standard') / f'{doc_id}_gold.json'
+    output_file = SCRIPT_DIR / 'gold_standard' / f'{doc_id}_gold.json'
+    output_file.parent.mkdir(parents=True, exist_ok=True)
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
@@ -202,7 +206,7 @@ def save_gold_standard(doc_id: str, doc_metadata: Dict, annotated_snippets: List
 
 def list_available_documents():
     """List all documents with snippets available."""
-    snippets_dir = Path('test_dataset/snippets')
+    snippets_dir = SCRIPT_DIR / 'snippets'
     snippet_files = list(snippets_dir.glob('*_snippets.json'))
 
     print("Available documents for annotation:\n")

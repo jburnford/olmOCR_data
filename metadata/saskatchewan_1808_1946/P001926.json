@@ -1,0 +1,49 @@
+{
+  "identifier": "P001926",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "date": "1891",
+  "description": "Cover title: \"Are you looking for a home?\" Also published, <i>The advantages of the Prince Albert district, Saskatchewan, are unsurpassed for rich lands: Opinions of disinterested parties on this splendid district </i>, Winnipeg: Commercial Print., [1892] (24p.).",
+  "format": "27, [1] p., map, plan.; 22 cm.",
+  "identifier-bib": [
+    "local:peel3: 1926",
+    "local:peel-procite-id: 1924"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([Saskatchewan])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Prince Albert, Saskatchewan--Description and travel",
+    "Saskatchewan--Description and travel",
+    "1891"
+  ],
+  "title": "The advantages of the Prince Albert district, Saskatchewan, are unsurpassed for rich lands: Farming, grazing, timber, hay: Opinions of disinterested parties on this splendid district: Read the story of the Saskatchewan",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 13:52:08",
+  "addeddate": "2025-03-19 13:52:08",
+  "identifier-access": "http://archive.org/details/P001926",
+  "identifier-ark": "ark:/13960/s26cg98019v",
+  "imagecount": "32",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9754",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

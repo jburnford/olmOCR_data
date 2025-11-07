@@ -1,0 +1,55 @@
+{
+  "identifier": "P002003",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Freemasons. Saskatchewan. Wascana Lodge No.23, Regina (author)",
+  "date": "1892 i.e. 1893",
+  "description": "\"Historical Record of Wascana Lodge No. 23…\" (pages i-viii).",
+  "format": "[1], viii, 23 p.; 15 cm.",
+  "identifier-bib": [
+    "local:peel2: 1316",
+    "local:peel3: 2003",
+    "local:peel-procite-id: 2001"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Printed by the Leader Co. (Regina)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "History, Local--Saskatchewan--Regina",
+    "Freemasons--History",
+    "Francs-maçons--Histoire",
+    "Freemasons--Legal status, laws, etc.",
+    "Francs-maçons--Droit--Législation",
+    "Regina, Saskatchewan--History",
+    "1892"
+  ],
+  "title": "By-laws of Wascana Lodge No. 23, Grand Register of Manitoba, Ancient Free & Accepted Masons, Regina, Assa., N.W.T., Dominion of Canada",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 14:26:07",
+  "addeddate": "2025-03-19 14:26:07",
+  "identifier-access": "http://archive.org/details/P002003",
+  "identifier-ark": "ark:/13960/s27c5x81nsq",
+  "imagecount": "34",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8685",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

@@ -11,7 +11,7 @@ Contents
 
 Notes
 - No PDFs are included.
-- All OCR records have `status = completed` and non-null `ocr_data`.
+- OCR files are provided for records with completed OCR. For items without OCR, the bundle still includes metadata and a JSONL entry with `ocr.status = "missing"` and no `ocr` file.
 - Relationships are preserved via `items.identifier`, `pdf_files.id`, and `ocr_processing.id`.
 - Files are grouped under their `pdf_files.subcollection`.
 

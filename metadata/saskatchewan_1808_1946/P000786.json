@@ -1,0 +1,59 @@
+{
+  "identifier": "P000786",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Maclean, John, 1851-1928. (author)",
+  "date": "1891",
+  "description": "Maclean, John: 1851-1928. Methodist missionary and author; served as Chief Archivist of the Methodist Church of Canada; worked among Blood Indians, near Fort Macleod, 1880-1889; stationed at Moose Jaw, 1889-1892; at various churches in Manitoba, 1895-1928; during his stay in Northwest Territories, served as school inspector and on Board of Education (Morgan, <i>Canadian men and women of the time</i>, 1912; United Church of Canada. <i>Yearbook</i>, 1930). // On title-page: \"Reprinted from the <i>Barrie Examiner. </i>\" Text in double columns. Biography of Rev. George Millward McDougall and his mission in Alberta.",
+  "format": "[4], 1 leaf, 49 p., port.; 23 cm.",
+  "identifier-bib": [
+    "local:peel1: 884",
+    "local:peel2: 1228",
+    "local:peel3: 786",
+    "local:peel-procite-id: 786"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Barrie Examiner Printing & Publishing House (Barrie, Ont.)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "The Spiritual Life--Methodist Church",
+    "Biography",
+    "Biographies",
+    "Indians of North America--Missions",
+    "Indiens d'Amérique--Amérique du Nord--Missions",
+    "McDougall, George Millward, 1820-1876",
+    "Methodist Church--Missions",
+    "Église méthodiste--Missions",
+    "Saskatchewan--History",
+    "1876"
+  ],
+  "title": "The hero of the Saskatchewan: Life among the Ojibway and Cree Indians in Canada",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 04:16:46",
+  "addeddate": "2025-03-19 04:16:46",
+  "identifier-access": "http://archive.org/details/P000786",
+  "identifier-ark": "ark:/13960/s2m3cnwtr31",
+  "imagecount": "61",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.4339",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

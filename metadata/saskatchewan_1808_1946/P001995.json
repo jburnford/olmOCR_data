@@ -1,0 +1,58 @@
+{
+  "identifier": "P001995",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Canadian Pacific Railway (author)",
+  "date": "1892",
+  "description": "On cover: \"Landbau und Viehzucht im westlichen Canada.\" Map (in English) dated 1890. Includes experiences of German settlers.",
+  "format": "24 p., illus., fold. map.; 21 cm.",
+  "identifier-bib": [
+    "local:peel2: 1256",
+    "local:peel3: 1995",
+    "local:peel-procite-id: 1993"
+  ],
+  "language": "German",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([s.l.])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Settling the West--Immigration Literature",
+    "Germans--Canada",
+    "Allemands--Canada",
+    "Land settlement",
+    "Colonisation intérieure",
+    "Prairie Provinces--Description and travel",
+    "Railroad land",
+    "Railroad land grants",
+    "Concessions ferroviaires",
+    "1892"
+  ],
+  "title": "Westliches Canada: Manitoba, Assiniboia, Alberta, und Saskatchewan: wie man dahin kommt: wie man Land answählt: wie man anfängt: wie man Geld verdient",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 14:23:04",
+  "addeddate": "2025-03-19 14:23:04",
+  "identifier-access": "http://archive.org/details/P001995",
+  "identifier-ark": "ark:/13960/s2q37gb0gh3",
+  "imagecount": "31",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l deu+Fraktur",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Fraktur",
+  "ocr_detected_script_conf": "0.9101",
+  "ocr_detected_lang": "de",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

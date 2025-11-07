@@ -1,0 +1,39 @@
+{
+  "identifier": "WCW_M000597",
+  "collection": [
+    "wcw_peel",
+    "wcw",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "coordinates": "w106xxxx/n05125xx w101xxxx/n052xxxx w101xxxx/n049xxxx w106xxxx/n049xxxx\n\n",
+  "creator": "Department of Agriculture",
+  "date": "1882 (12th Jan.)",
+  "extent": "1 map : mounted on linen ; 42 x 47.8 cm. on sheet 46.4 x 50.1 cm.",
+  "genre": [
+    "map",
+    "Digital maps",
+    "Topographic maps"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "notes": "Shows district of Assiniboia, including surveyed lands, geographical features and Indian reserves. ",
+  "publisher": "Ottawa: Department of Agriculture",
+  "scale": "ca. 1:800,000",
+  "scanner": "Internet Archive Python library 1.7.7",
+  "subject": "Saskatchewan",
+  "title": "Map of part of the dominion lands west of Manitoba - Published by the Department of Agriculture, for the information of intending settlers, January 12th, 1882",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "publicdate": "2021-07-03 01:35:04",
+  "addeddate": "2021-07-03 01:35:04",
+  "identifier-ark": "ark:/13960/t0bw9953p",
+  "identifier-access": "http://archive.org/details/WCW_M000597",
+  "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.13",
+  "ocr_detected_script": "Cyrillic",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "nl",
+  "ocr_detected_lang_conf": "0.9811",
+  "pdf_module_version": "0.0.14"
+}

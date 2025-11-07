@@ -1,0 +1,56 @@
+{
+  "identifier": "P001966",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Regina. Board of Trade (author)",
+  "date": "1891",
+  "format": "39, [15] p., illus., fold. map.; 21 cm.",
+  "identifier-bib": [
+    "local:peel2: 1234",
+    "local:peel3: 1966",
+    "local:peel-procite-id: 1964"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Board of Trade (Regina)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "History, Local--Saskatchewan--Regina",
+    "Settling the West--Immigration Literature",
+    "Farms",
+    "Exploitations agricoles",
+    "Ranches",
+    "Ranches",
+    "Ranchs",
+    "Regina, Saskatchewan--Commerce",
+    "1891"
+  ],
+  "title": "An unvarnished tale of Regina and its agricultural and ranching district, in the great province of Assiniboia, N.W.T., Canada",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 14:04:20",
+  "addeddate": "2025-03-19 14:04:20",
+  "identifier-access": "http://archive.org/details/P001966",
+  "identifier-ark": "ark:/13960/s23ck86z554",
+  "imagecount": "75",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8016",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "30",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

@@ -1,0 +1,42 @@
+{
+  "identifier": "WCW_M000261",
+  "collection": [
+    "wcw_peel",
+    "wcw",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "coordinates": "w09930xx/n054xxxx w09615xx/n054xxxx w09610xx/n05047xx w09927xx/n05047xx\n\n",
+  "creator": [
+    "Geological Survey of Canada",
+    "Bell, R.",
+    "Cochrane, A. S."
+  ],
+  "date": "1878",
+  "extent": "1 map ; 84.8 x 46.5 cm. on sheet 91.3 x 54.5 cm.",
+  "genre": [
+    "map",
+    "Digital maps"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "notes": "Compiled from Surveys by Dr. R. Bell (From Ross' Island to Loon's Strait and from Dog's Head to Drunken River), Sir J. Franklin (From Limestone Pt. to Great Saskatchewan River), John Fleming (From Great Saskatchewan River to Dog's Head), A. R. C. Selwyn (From Ft. Alexander to Broken-Head River), and Dominion Lands Dept. (From Drunken to Broken-Head River). ",
+  "publisher": "Ottawa: Geological Survey of Canada",
+  "scale": "1:506,880",
+  "scanner": "Internet Archive Python library 1.7.7",
+  "subject": "Winnipeg, Lake (Man.)",
+  "title": "Map of Lake Winnipeg to accompany Dr. Bell's report for 1878",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "publicdate": "2021-07-02 20:09:16",
+  "addeddate": "2021-07-02 20:09:16",
+  "identifier-access": "http://archive.org/details/WCW_M000261",
+  "identifier-ark": "ark:/13960/t6q071635",
+  "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.13",
+  "ocr_detected_script": "Japanese",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "la",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.14"
+}

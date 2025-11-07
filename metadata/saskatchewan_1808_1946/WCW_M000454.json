@@ -1,0 +1,40 @@
+{
+  "identifier": "WCW_M000454",
+  "collection": [
+    "wcw_peel",
+    "wcw",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "coordinates": "w118xxxx/n055xxxx w100xxxx/n055xxxx w10110xx/n049xxxx w11650xx/n049xxxx\n\n",
+  "date": "1891",
+  "extent": "1 map : col. ; 31.5 x 48.4 cm. on sheet 34.3 x 52 cm.",
+  "genre": [
+    "map",
+    "Digital maps"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "notes": "Shows railway lines, Indian Reserves, trading posts and many place names. On verso are lists of railways, electoral districts, and place names in British Columbia and the North West Territories. Page 22 of a Rand McNally atlas. ",
+  "publisher": "Chicago: Rand McNally &amp; Co.",
+  "scale": "1:2,500,000",
+  "scanner": "Internet Archive Python library 1.7.7",
+  "subject": [
+    "Alberta",
+    "Saskatchewan"
+  ],
+  "title": "Rand McNally &amp; Co.'s North West Territories",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "publicdate": "2021-07-02 21:40:41",
+  "addeddate": "2021-07-02 21:40:41",
+  "identifier-access": "http://archive.org/details/WCW_M000454",
+  "identifier-ark": "ark:/13960/t4rk6899j",
+  "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.13",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "lb",
+  "ocr_detected_lang_conf": "0.9990",
+  "pdf_module_version": "0.0.14"
+}

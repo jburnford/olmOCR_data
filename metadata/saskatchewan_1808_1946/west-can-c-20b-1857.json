@@ -1,0 +1,36 @@
+{
+  "identifier": "west-can-c-20b-1857",
+  "mediatype": "texts",
+  "collection": [
+    "wcw",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "S. Derbishire & G. Desbarats; Crown Lands Dept.",
+  "date": "1857",
+  "description": "1 map on 2 sheets, each sheet 77 X 142 cm. Sectioned and mounted on linen.<br />Compiled and drawn by <a href=\"http://www.biographi.ca/en/bio/devine_thomas_11E.html\" rel=\"nofollow\">Thomas Devine</a>, Provincial land surveyor &amp; draftsman, by order of the Hon[orabl]e Joseph Cauchon, Commissioner of Crown Lands.<br />\"Maclear &amp; Co. Lith., Toronto\".<br />Geographical authorities used in compiling the map J. Arrowsmith; David Thompson; Sir Alexander Mackenzie et al.<br />Map extent: 45°N - 70°/85°W - 140°W.<br />Relief shown by hachures.<br />Map includes:<br />--Geological divisions (Crystalline, Silurian, Devonian and Coal/Lignite). Additional divisions appear to have been added at a later date (copper-bearing rocks, sandstones, Tertiary, Cretaceous etc.)<br />--mean temperature isotherms<br />--exploratory routes and important discoveries, physical descriptions<br />--faunal distribution limits<br />--forts: French Canadian forts at time of conquest; French forts prior to the cessation of Hudson's Bay to Great Britain; Hudson's Bay forts/posts<br />--international boundary with USA - 1818 and 1846<br />--Pacific railway line and profiles<br />--Boundary of Hudson's Bay after the <a href=\"https://www.thecanadianencyclopedia.ca/en/article/treaty-of-utrecht\" rel=\"nofollow\">Treaty of Utrecht</a> in 1713<br />--British North America Indian population statistics<br />--hyetal data<br />Map originally drawn as map No. 8 of the Appendix to Report of the Commissioner of Crown Lands, Part II.<br />Map extent includes current provinces &amp; territories of Manitoba, Saskatchewan, Alberta, British Columbia, Nunavut, Northwest Territories and Yukon Territories.<br /> ",
+  "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+  "subject": [
+    "Western Canada -- Physical sciences",
+    "Western Canada -- Historical geography"
+  ],
+  "title": "Map of the North West part of Canada, Indian territories and Hudson's Bay",
+  "uploader": "llaliber@ualberta.ca",
+  "publicdate": "2023-08-04 11:59:34",
+  "addeddate": "2023-08-04 11:59:34",
+  "identifier-access": "http://archive.org/details/west-can-c-20b-1857",
+  "identifier-ark": "ark:/13960/s2bp0qw7gbk",
+  "ocr": "tesseract 5.3.0-3-g9920",
+  "ocr_parameters": "-l lat",
+  "ocr_module_version": "0.0.21",
+  "ocr_autonomous": "true",
+  "ocr_detected_script": "Japanese",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.3",
+  "pdf_module_version": "0.0.23",
+  "year": "1857",
+  "call_number": "UA Cameron Staff Access-Maps Western Canada C-20b "
+}

@@ -1,0 +1,42 @@
+{
+  "identifier": "WCW_M000420",
+  "collection": [
+    "wcw_peel",
+    "wcw",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "coordinates": "w10345xx/n05045xx\n\n",
+  "creator": "Legislative Assembly",
+  "date": "1859",
+  "extent": "1 map : col., mounted on linen ; 26.5 x 97 cm. on sheet 32.8 x 100.5 cm.",
+  "genre": [
+    "map",
+    "Digital maps",
+    "Early maps"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "notes": "Part of collection of maps from the 1858 Assinniboine &amp; Saskatchewan Exploring Expedition. To accompany text by Henry Youle Hind. Toronto: John Lovell, 1859. ",
+  "publisher": "Toronto: Legislative Assembly",
+  "scale": "horizontal: 1 inch=12 miles vertical 1 inch=1600 feet",
+  "scanner": "Internet Archive Python library 1.7.7",
+  "subject": [
+    "Prairie Provinces",
+    "Qu'appelle River Valley (Sask. and Man.)"
+  ],
+  "title": "Approximate section along the dotted line A-B shewn on geological map ; Approximate section along the 51st parallel ; Approximate section along the valley of the Qu'Appelle or Calling River",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "publicdate": "2021-07-02 20:47:30",
+  "addeddate": "2021-07-02 20:47:30",
+  "identifier-access": "http://archive.org/details/WCW_M000420",
+  "identifier-ark": "ark:/13960/t9v23vc3k",
+  "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.13",
+  "ocr_detected_script": "Arabic",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "lb",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.14"
+}

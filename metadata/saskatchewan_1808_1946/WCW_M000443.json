@@ -1,0 +1,44 @@
+{
+  "identifier": "WCW_M000443",
+  "collection": [
+    "wcw_peel",
+    "wcw",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "coordinates": "w101xxxx/n051xxxx w095xxxx/n051xxxx w095xxxx/n049xxxx w101xxxx/n049xxxx\n\n",
+  "creator": "Gazette Printing Company",
+  "date": "1879",
+  "extent": "1 map : 2 col. ; 38.7 x 69.2 cm. on sheet 41.6 x 71 cm. folded to 21 x 11.5 cm.",
+  "genre": [
+    "map",
+    "Digital maps",
+    "Thematic maps"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "notes": "Shows boundary of the Province, the two Mennonite Settlement areas, surveyed townships and the railways. Kenora is still Rat Portage. Extends only to Fort Ellice in present-day Manitoba. \"N.B. Additional Townships are being Surveyed every year.\" Title of pamphlet: \"Manitoba and the North-West: the great wheat fields, and stock-raising districts, of Canada: Facts and information for settlers, with a map of the country.\" Also contains publication information. ",
+  "publisher": "Montreal: Gazette Printing Company",
+  "scale": "ca. 1:690,000",
+  "scanner": "Internet Archive Python library 1.7.7",
+  "subject": [
+    "Railroads--Manitoba",
+    "Railroads--Saskatchewan",
+    "Manitoba",
+    "Saskatchewan"
+  ],
+  "title": "Canada: Manitoba and the North West, general plan of the country shewing railway lines constructing through the wheat fields and grazing lands",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "publicdate": "2021-07-03 04:28:01",
+  "addeddate": "2021-07-03 04:28:01",
+  "identifier-access": "http://archive.org/details/WCW_M000443",
+  "identifier-ark": "ark:/13960/t3234qr48",
+  "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.13",
+  "ocr_detected_script": "Japanese",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.14"
+}

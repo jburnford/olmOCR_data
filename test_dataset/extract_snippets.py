@@ -15,6 +15,7 @@ import sys
 from pathlib import Path
 from typing import List, Dict, Tuple
 import random
+import argparse
 
 # Set random seed for reproducibility
 random.seed(42)
@@ -257,12 +258,24 @@ def process_document(doc_id: str, ocr_path: Path, doc_metadata: Dict) -> Dict:
 
 def main():
     """Main extraction process."""
-    base_dir = Path(__file__).parent.parent
+    parser = argparse.ArgumentParser(description='Extract representative OCR snippets for NER annotation')
+    parser.add_argument('--ids-file', default=None,
+                        help='File with one identifier per line (default: test_dataset/ids.txt relative to this script)')
+    parser.add_argument('--subcollection', default='saskatchewan_1808_1946',
+                        help='Subcollection to read OCR from (default: saskatchewan_1808_1946)')
+    args = parser.parse_args()
+
+    base_dir = Path(__file__).parent.parent  # export_bundle
     test_dir = base_dir / 'test_dataset'
 
     # Load sample IDs
-    sample_ids_file = Path('/tmp/sample_ids.txt')
-    with open(sample_ids_file, 'r') as f:
+    default_ids = test_dir / 'ids.txt'
+    ids_path = Path(args.ids_file) if args.ids_file else default_ids
+    if not ids_path.exists():
+        print(f"ERROR: IDs file not found: {ids_path}", file=sys.stderr)
+        return 1
+
+    with open(ids_path, 'r') as f:
         sample_ids = [line.strip() for line in f if line.strip()]
 
     print(f"Processing {len(sample_ids)} documents...\n", file=sys.stderr)
@@ -281,6 +294,9 @@ def main():
                     'doc_type': 'unknown'  # Will be inferred
                 }
 
+    # Ensure output dir exists
+    (test_dir / 'snippets').mkdir(parents=True, exist_ok=True)
+
     # Process each document
     results = []
     for doc_id in sample_ids:
@@ -288,7 +304,7 @@ def main():
             print(f"WARNING: No metadata found for {doc_id}", file=sys.stderr)
             continue
 
-        ocr_path = base_dir / f'ocr/saskatchewan_1808_1946/{doc_id}.json'
+        ocr_path = base_dir / f'ocr/{args.subcollection}/{doc_id}.json'
         if not ocr_path.exists():
             print(f"WARNING: OCR file not found: {ocr_path}", file=sys.stderr)
             continue
@@ -308,7 +324,7 @@ def main():
             results.append(result)
 
             # Save individual snippet file
-            output_file = test_dir / f'snippets/{doc_id}_snippets.json'
+            output_file = test_dir / 'snippets' / f'{doc_id}_snippets.json'
             with open(output_file, 'w', encoding='utf-8') as f:
                 json.dump(result, f, indent=2, ensure_ascii=False)
             print(f"  Saved to {output_file}\n", file=sys.stderr)

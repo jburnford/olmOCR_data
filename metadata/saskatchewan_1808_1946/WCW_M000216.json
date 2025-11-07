@@ -1,0 +1,47 @@
+{
+  "identifier": "WCW_M000216",
+  "collection": [
+    "wcw_peel",
+    "wcw",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "coordinates": "w10730xx/n054xxxx w09530xx/n054xxxx w09610xx/n049xxxx w10650xx/n049xxxx\n\n",
+  "creator": [
+    "Hind, Henry Y.",
+    "Legislative Assembly"
+  ],
+  "date": "1859",
+  "extent": "1 map : col. ; 38.7 x 52.3 cm. on sheet 45.6 x 58.2 cm.",
+  "genre": [
+    "map",
+    "Digital maps",
+    "Geological maps"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "notes": "\"The Geographical Outlines are reduced from the Topographical Map of the Expedition.\" Identifies Laurentian, Silurian, Devonian, Cretaceous, and Tertiary geological regions. From: North West Territory. Reports of Progress; together with a preliminary report on the Assiniboine and Saskatchewan Exploring Expedition. ",
+  "publisher": "Toronto: Legislative Assembly",
+  "scale": "ca. 1:1,500,000",
+  "scanner": "Internet Archive Python library 1.7.7",
+  "subject": [
+    "Geology--Manitoba",
+    "Geology--Saskatchewan",
+    "Manitoba",
+    "Saskatchewan"
+  ],
+  "title": "Geological Map of a portion of Rupert's Land - Assinniboine &amp; Saskatchewan Exploring Expedition",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "publicdate": "2021-07-03 03:11:06",
+  "addeddate": "2021-07-03 03:11:06",
+  "identifier-access": "http://archive.org/details/WCW_M000216",
+  "identifier-ark": "ark:/13960/t3913z03x",
+  "ocr": "tesseract 5.0.0-alpha-20201231-10-g1236",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.13",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "la",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.14"
+}

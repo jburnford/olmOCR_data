@@ -1,0 +1,63 @@
+{
+  "identifier": "P001946",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Davin, Nicholas Flood, 1843-1901. (editor)",
+    "Canada. Department of Agriculture (author)",
+    "Mair, Charles, 1838-1927. (contributor)",
+    "Oliver, Frank, 1853-1933. (contributor)"
+  ],
+  "date": "1891",
+  "description": "Davin, Nicholas Flood: 1843-1901. Born Limerick, Ireland; after a promising career as lawyer and war correspondent in Britain went to Toronto as journalist, 1872; settled in Regina and established <i>Leader</i>, 1883, first newspaper in Assiniboia; sat in House of Commons, 1887-1900; influential through <i>Leader</i> and in House of Commons in speaking for the West (Wallace, <i>Dictionary of Canadian biography</i>). // Mair, Charles: 1838-1927. Born Lanark, Upper Canada; poet; one of originators of \"Canada First\" movement, 1868; journalist for <i>Montreal Gazette</i> during first Riel Rebellion and imprisoned by rebels, 1870; officer of Governor-General's Body Guard, 1885; employed by Canadian civil service in West; elected Fellow of Royal Society of Canada, 1889 (Wallace, <i>Dictionary of Canadian biography</i>). // Oliver, Frank: 1853-1933. Born Peel County, Ontario with surname Bowsfield; adopted mother's maiden name and went to Winnipeg, 1873; to Edmonton, 1876; founded <i>Edmonton Bulletin</i>, 1880, proprietor until 1923; member of Council and later of Legislative Assembly of NWT, 1883-1896; member of House of Commons, 1896-1917; Minister of the Interior, 1905-1911 (Wallace, <i>Dictionary of Canadian biography</i>). // Also published as <i>Homes for millions: The resources of the great Canadian North-West: The reasons why agriculture is profitable there and why farmers are prosperous and independent </i>, Ottawa: Government Printing Bureau, 1892 ([2], 1 leaf, iv, [7]-108p.). Publication of this immigration pamphlet caused a great furore in official circles. An \"inchoate mass\" of material was collected by members of the NWT Council for the Department of Agriculture in Ottawa. The Department had Davin edit it. After it had been printed, Lieutenant-Governor Royal of NWT objected vehemently to Davin's association with the enterprise. Other contributors were Mair and Oliver. For the story of the publication <i>see </i>C.B. Koester, \"Mr. Davin's pamphlet on the North West: A bureaucratic comedy of errors\" in <i>Saskatchewan History </i>, vol.16, no.1, winter 1963, pages 27-32; <i>see also </i>file no.A2/41, 1891 in the Saskatchewan Archives.",
+  "format": "108 p., illus.; 25 cm.",
+  "identifier-bib": [
+    "local:peel1: 900",
+    "local:peel2: 1260",
+    "local:peel3: 1946",
+    "local:peel-procite-id: 1944"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "B. Chamberlin, Queen's Printer (Ottawa)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Explorers, Surveyors and Travellers--Description and Travel--General",
+    "Settling the West--Immigration Literature",
+    "Farmers",
+    "Agriculteurs",
+    "Natural resources",
+    "Ressources naturelles",
+    "Prairie Provinces--Description and travel",
+    "Prairie Provinces--Economic conditions",
+    "1891"
+  ],
+  "title": "Homes for millions: The great Canadian North-West, its resources fully described",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 13:57:24",
+  "addeddate": "2025-03-19 13:57:24",
+  "identifier-access": "http://archive.org/details/P001946",
+  "identifier-ark": "ark:/13960/s2cctv03hvr",
+  "imagecount": "221",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Arabic",
+  "ocr_detected_script_conf": "0.5377",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

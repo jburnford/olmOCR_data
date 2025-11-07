@@ -1,0 +1,54 @@
+{
+  "identifier": "P001964",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Prince Albert, Sask. Board of Trade (author)",
+  "date": "1891",
+  "description": "Includes advertising. There may also have been an 1892 printing.",
+  "format": "[30] p., illus., 2 fold. maps.; 22 cm.",
+  "identifier-bib": [
+    "local:peel2: 1208",
+    "local:peel2: 1233",
+    "local:peel2: 2333",
+    "local:peel3: 1964",
+    "local:peel-procite-id: 1962"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[Board of Trade] ([Prince Albert, NWT])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Settling the West--Immigration Literature",
+    "Prince Albert Region (Sask.)--Description and travel",
+    "Land capability for agriculture--Saskatchewan--Prince Albert Region",
+    "1891"
+  ],
+  "title": "Are you looking for a home?: A place to settle?: For yourself, for your sons, your family, your daughters: The advantages of the Prince Albert district of Saskatchewan are unsurpassed for rich lands!: Opinions of disinterested parties on this splendid district: Farming, grazing, timber, hay: Read the story of the Saskatchewan",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 14:03:56",
+  "addeddate": "2025-03-19 14:03:56",
+  "identifier-access": "http://archive.org/details/P001964",
+  "identifier-ark": "ark:/13960/s2j39xgzm7n",
+  "imagecount": "34",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8734",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "14",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

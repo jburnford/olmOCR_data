@@ -1,0 +1,56 @@
+{
+  "identifier": "P007814",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Oblates of Mary Immaculate (author)",
+    "Bonnald, Étienne, d. 1928 (author)"
+  ],
+  "date": "1892",
+  "description": "Source: <i>Missions de la Congrégation des missionnaires oblats de Marie Immaculée</i> no. 118 (June 1892), pp. 190-205.",
+  "format": "16 p. ; 23 cm.",
+  "identifier-bib": [
+    "local:peel_new: 755",
+    "local:peel3: 7814"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "A. Hennuyer (Paris)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Bonnald, tienne, d. 1928",
+    "Indians of North America--Missions--Saskatchewan",
+    "Indiens d'Amérique--Missions--Saskatchewan",
+    "Saskatchewan",
+    "Saskatchewan",
+    "1891"
+  ],
+  "title": "Lettre du R.P. Bonald [i.e. Bonnald] au R.P. Soullier, assistant général: Pelican Narrows, le 10 novembre 1891",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-06-13 23:12:22",
+  "addeddate": "2025-06-13 23:12:22",
+  "identifier-access": "http://archive.org/details/P007814",
+  "identifier-ark": "ark:/13960/s2wz7g2qvx4",
+  "imagecount": "16",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "53",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

@@ -1,0 +1,56 @@
+{
+  "identifier": "P001943",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Canadian Pacific Railway (author)",
+  "date": "1891",
+  "format": "16, [2] p., illus., fold. map.; 21 cm.",
+  "identifier-bib": [
+    "local:peel1: 878",
+    "local:peel2: 1217",
+    "local:peel3: 1943",
+    "local:peel-procite-id: 1941"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Canadian Pacific Railway ([Winnipeg]?)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Settling the West--Immigration Literature",
+    "Farms",
+    "Exploitations agricoles",
+    "Prairie Provinces--Description and travel",
+    "Railroad land grants",
+    "Railroad land grants",
+    "Concessions ferroviaires",
+    "1891"
+  ],
+  "title": "The Saskatchewan: Northern Alberta on the line of the new Calgary and Edmonton Ry., well watered, well wooded, great grain producing soil, free homesteads, also East Assiniboia, on the line of the Qu'Appelle, Long Lake & Saskatchewan Ry.: Magnificent farming land recently opened to settlement by the line of the Canadian Pacific Railway",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 13:56:13",
+  "addeddate": "2025-03-19 13:56:13",
+  "identifier-access": "http://archive.org/details/P001943",
+  "identifier-ark": "ark:/13960/s2672d1jzps",
+  "imagecount": "24",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7031",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "34",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}
