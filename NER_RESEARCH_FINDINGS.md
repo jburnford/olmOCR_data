@@ -7,10 +7,10 @@
 
 ## Executive Summary
 
-Recent research (2024-2025) shows that **LLMs with proper prompting can now outperform traditional spaCy/BERT models** for historical NER, but **fine-tuned BERT models specifically trained on historical newspapers remain highly competitive** and are more cost-effective for large-scale processing. Several pre-trained models exist specifically for late 19th/early 20th century text.
+Recent research (2024-2025) shows that **LLMs with proper prompting can now outperform traditional spaCy/BERT models** for historical NER, but **fine-tuned BERT models specifically trained on historical newspapers remain highly competitive** and are more cost-effective for large-scale processing. Several pre-trained models exist specifically for late 19th/early 20th century text. **UniversalNER (ICLR 2024)** represents a middle ground: a 7B model distilled from ChatGPT that outperforms it while being 10x smaller, trained on 13,020+ entity types.
 
 ### Key Recommendation
-**Start with fine-tuned historical models (dell-research-harvard/historical_newspaper_ner or BigLAM models), then benchmark against zero-shot GLiNER and LLMs for your specific corpus.**
+**Start with fine-tuned historical models (dell-research-harvard/historical_newspaper_ner or BigLAM models), then benchmark against zero-shot GLiNER and UniversalNER for your specific corpus. Use UniversalNER if you need broad entity coverage beyond standard LOC/PER/ORG.**
 
 ---
 
@@ -90,7 +90,50 @@ Recent research (2024-2025) shows that **LLMs with proper prompting can now outp
 
 ---
 
-### 4. **LLM-Based NER (Mistral, LLaMA 3.2)**
+### 4. **UniversalNER (LLaMA 2 7B Distilled)** ⭐ STRONG CONTENDER
+**Models:** `Universal-NER/UniNER-7B-type`, `UniNER-7B-all`, `UniNER-7B-type-sup`
+**Paper:** ICLR 2024 (Zhou et al., Microsoft/USC/UCLA)
+**GitHub:** https://github.com/universal-ner/universal-ner
+
+**Key Innovation:**
+- **Distilled from ChatGPT** into much smaller LLaMA 2 7B model
+- Uses "targeted distillation with mission-focused instruction tuning"
+- Trained on **largest NER benchmark to date**: 43 datasets, 9 domains, 13,020 distinct entity types
+- 45,889 training examples with 240,725 entities
+
+**Performance:**
+- **Outperforms ChatGPT by 7-9 absolute F1 points** while using a tiny fraction of parameters
+- Beats general instruction-tuned models (Alpaca, Vicuna) by **over 30 F1 points**
+- Surpasses InstructUIE (state-of-the-art multi-task system) by large margin
+- **Open NER capability**: Can recognize arbitrary entity types without retraining
+
+**Trade-offs vs GLiNER:**
+- **Supervised setting:** UniversalNER > GLiNER
+- **Zero-shot setting:** GLiNER > UniversalNER
+- **Architecture:** Auto-regressive (slower, token-by-token) vs GLiNER's bidirectional (faster, parallel)
+- **Size:** 7B parameters vs GLiNER's ~300M
+- **Deployment:** Requires more resources but offers better accuracy on known domains
+
+**When to use:**
+- When you need **high accuracy across diverse entity types**
+- For historical text with domain-specific entities (fur trading companies, indigenous groups, territorial designations)
+- When you can afford 7B model inference costs
+- For generating high-quality training labels for smaller models
+
+**Available Variants:**
+- `UniNER-7B-type`: Base model for open NER
+- `UniNER-7B-all`: General-purpose variant
+- `UniNER-7B-type-sup`: **Fine-tuned on 40 supervised datasets** (best performance)
+
+**Practical Considerations:**
+- Requires `vllm` library and CUDA 11.0-11.8
+- Can run with tensor parallelization: `tensor_parallel_size=1` for single GPU
+- Max input length: 512 tokens (may need chunking for long documents)
+- Research-only license (same restrictions as LLaMA 2)
+
+---
+
+### 5. **LLM-Based NER (Mistral, LLaMA 3.2)**
 
 **Recent Performance (2024-2025):**
 - **With proper prompting**, LLMs can "significantly outperform state-of-the-art NLP tools such as spaCy and even flair in recall and precision using... 0-shot prompts"
@@ -126,7 +169,8 @@ Recent research (2024-2025) shows that **LLMs with proper prompting can now outp
 | **spaCy + Historical BERT** | Fast, production-ready, integrates spacy-transformers | Requires GPU | Newspapers (dell-harvard) |
 | **Fine-tuned BERT/RoBERTa** | Highest F1 on historical newspapers (90.4%) | Fixed entity types | Large-scale processing |
 | **BigLAM Toponym Model** | **Specialized for place names** | Limited to LOC | **Your geoparsing pipeline** |
-| **GLiNER** | Zero-shot, flexible, multilingual | Lower accuracy than fine-tuned | Exploration, custom entities |
+| **GLiNER** | Zero-shot, flexible, multilingual, fast | Lower accuracy than fine-tuned | Exploration, custom entities |
+| **UniversalNER** | **Open NER, beats ChatGPT**, 13K+ entity types | 7B params, auto-regressive (slower) | Diverse entity types, high accuracy |
 | **LLMs (Mistral/LLaMA)** | Best with proper prompting, contextual | High compute cost, slower | High-quality samples, disambiguation |
 
 ---
@@ -141,6 +185,7 @@ Recent research (2024-2025) shows that **LLMs with proper prompting can now outp
 2. dell-research-harvard/historical_newspaper_ner - newspapers
 3. BigLAM toponym model - all documents
 4. GLiNER zero-shot with custom prompt
+5. UniversalNER (UniNER-7B-type-sup) - sample of 20 docs for quality comparison
 ```
 
 **Evaluation metrics:**
@@ -242,6 +287,7 @@ Your Saskatchewan data shows **olmOCR v0.3.4** extraction quality:
 | dell-harvard (RoBERTa-large) | 355M | ~4GB | ~100 docs/hr | Low |
 | BigLAM BERT | 110M-340M | ~2-4GB | ~150 docs/hr | Low |
 | GLiNER | ~300M | ~2GB | ~200 docs/hr | Very Low |
+| **UniversalNER** | **7B** | **~16GB** | **~15-20 docs/hr** | **Medium** |
 | Mistral 7B | 7B | ~16GB (2 GPUs) | ~10 docs/hr | Medium |
 | LLaMA 3.2 3B | 3B | ~8GB | ~20 docs/hr | Low-Med |
 | oss-120 | varies | check specs | varies | Cluster-dependent |
@@ -257,10 +303,17 @@ Your Saskatchewan data shows **olmOCR v0.3.4** extraction quality:
 - Mistral 7B on full corpus: ~120 GPU hours (5 days)
 - Cost: Likely overkill unless quality justifies
 
-**Recommendation:** Use BERT models for bulk processing, reserve LLM for:
+**Recommendation:** Use BERT models for bulk processing, reserve UniversalNER/LLM for:
 - Ambiguous cases flagged by confidence scores
+- Complex entity types (e.g., "Hudson's Bay Company" vs "Hudson Bay" location)
 - Generating training data (if needed)
 - Final validation on 10% sample
+
+**UniversalNER Consideration:**
+- If initial BERT results show gaps in entity coverage (missing specialized terms)
+- Use `UniNER-7B-type-sup` on subset to assess if 7B model worth the cost
+- Expected: ~60-80 GPU hours for full corpus (vs 5-6 for BERT)
+- May be cost-effective if you need diverse entity types beyond standard LOC/PER/ORG
 
 ---
 
@@ -299,19 +352,30 @@ Your Saskatchewan data shows **olmOCR v0.3.4** extraction quality:
 ## Key Research Papers & Resources
 
 ### Must-Read Papers
-1. **"Leveraging Open Large Language Models for Historical Named Entity Recognition"** (González-Gallardo et al., 2024)
+1. **"UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition"** (Zhou et al., ICLR 2024)
+   - arXiv: 2308.03279
+   - Demonstrates distilling ChatGPT into 7B model that outperforms it
+   - Largest NER benchmark (43 datasets, 13K entity types)
+
+2. **"Leveraging Open Large Language Models for Historical Named Entity Recognition"** (González-Gallardo et al., 2024)
    - Recent benchmark of LLMs on historical NER
 
-2. **"Named Entity Recognition and Classification in Historical Documents: A Survey"** (ACM Computing Surveys, 2023)
+3. **"Named Entity Recognition and Classification in Historical Documents: A Survey"** (ACM Computing Surveys, 2023)
    - Comprehensive overview of challenges and approaches
 
-3. **"Early evidence of how LLMs outperform traditional systems on OCR/HTR tasks for historical records"** (arXiv 2025)
+4. **"Early evidence of how LLMs outperform traditional systems on OCR/HTR tasks for historical records"** (arXiv 2025)
    - Shows LLMs achieving 1% CER on post-correction
 
-4. **"Neural Language Models for Nineteenth-Century English"** (Journal of Open Humanities Data, 2021)
+5. **"Neural Language Models for Nineteenth-Century English"** (Journal of Open Humanities Data, 2021)
    - Foundation for BigLAM models
 
+6. **"GLiNER: Generalist Model for Named Entity Recognition using Bidirectional Transformer"** (NAACL 2024)
+   - Comparison point: GLiNER beats UniversalNER in zero-shot, UniversalNER wins in supervised
+
 ### Tools & Repositories
+- **UniversalNER:** https://github.com/universal-ner/universal-ner
+  - Models: https://huggingface.co/Universal-NER
+  - Dataset: https://huggingface.co/datasets/universalner/universal_ner
 - **dell-research-harvard:** https://huggingface.co/dell-research-harvard/historical_newspaper_ner
 - **BigLAM Collection:** https://huggingface.co/collections/biglam/historic-language-modeling-64f9a0af6b021d61eee993e2
 - **GLiNER:** https://github.com/urchade/GLiNER
@@ -398,17 +462,23 @@ Saskatchewan territorial period (1870s-1900s) key entities to watch for:
 
 2. **Exploratory:** `GLiNER` for custom entity types and quick experimentation
 
-3. **High-value enhancement:** LLM (Mistral 7B or LLaMA 3.2) for:
+3. **Mid-tier option:** `UniversalNER (UniNER-7B-type-sup)`
+   - **Consider if:** You need diverse entity types beyond standard categories (e.g., fur trading posts, treaties, indigenous confederacies)
+   - **Advantage:** Outperforms ChatGPT, handles 13K+ entity types
+   - **Trade-off:** 10x slower than BERT but potentially higher recall on domain-specific entities
+   - **Cost:** ~60-80 GPU hours for full corpus vs 5-6 for BERT
+
+4. **High-value enhancement:** LLM (Mistral 7B or LLaMA 3.2) for:
    - Disambiguating toponyms (Hudson Bay location vs company)
    - Resolving low-confidence cases
    - Generating training data if needed
 
-4. **Cost-effective strategy:**
-   - BERT models for 95% of processing
-   - LLM for 5% of challenging cases
-   - Total compute: ~1 day on single GPU for full corpus
+5. **Recommended strategy:**
+   - **Standard path:** BERT models for 95% of processing, LLM for 5% challenging cases (~1 day GPU)
+   - **High-accuracy path:** UniversalNER for 100% of processing (~3-4 days GPU), may not need LLM backup
+   - **Hybrid path:** BERT for newspapers (fast), UniversalNER for books/government records (better entity coverage), GLiNER for exploration
 
-This balanced approach maximizes quality while respecting compute budget constraints on DRAC clusters.
+This tiered approach lets you balance quality, speed, and compute budget based on your specific needs and DRAC cluster availability.
 
 ---
 
