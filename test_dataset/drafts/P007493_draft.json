@@ -1,0 +1,157 @@
+{
+  "document_id": "P007493",
+  "metadata": {
+    "title": "Faits Divers",
+    "year": 1868,
+    "language": "French",
+    "collection": "peel_print; peel; university_of_alberta_libraries; toronto",
+    "doc_type": "book",
+    "word_count": 66,
+    "char_count": 394,
+    "total_pages": 1,
+    "extraction_strategy": "full_text",
+    "num_snippets": 1
+  },
+  "annotation_date": "2025-11-07T19:30:00",
+  "annotator": "claude_ai",
+  "model": "claude-sonnet-4-5",
+  "status": "draft",
+  "total_snippets": 1,
+  "total_entities": 16,
+  "snippets": [
+    {
+      "snippet_id": "001",
+      "text": "FAITS DIVERS.\n\nLe 25 avril, se sont embarqués à Brest, se rendant au vicariat de la Saskatchewan :\n\nMgr Vital Grandin, évêque de Satala et vicaire de la Saskatchewan ;\nLe R. P. Dupin ;\nLe F. Doucet, scolastique ;\nM. l'abbé Fourmond, prêtre postulant ;\nM. l'abbé Blanchet, postulant scolastique ;\nLes Frères convers Nemos, Gérante ;\nMM. Guillet, Griseaud et Leriche, postulants Frères convers.",
+      "char_start": 0,
+      "char_end": 394,
+      "entities": [
+        {
+          "text": "Brest",
+          "start": 48,
+          "end": 53,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "French port city where clergy embarked"
+        },
+        {
+          "text": "Saskatchewan",
+          "start": 82,
+          "end": 94,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Vicariate destination in Canada"
+        },
+        {
+          "text": "Vital Grandin",
+          "start": 102,
+          "end": 115,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Bishop (évêque) - full name including given name"
+        },
+        {
+          "text": "Satala",
+          "start": 127,
+          "end": 133,
+          "type": "LOC",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Ancient episcopal see (titular bishopric)"
+        },
+        {
+          "text": "Saskatchewan",
+          "start": 154,
+          "end": 166,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Second mention as vicariate jurisdiction"
+        },
+        {
+          "text": "Dupin",
+          "start": 181,
+          "end": 186,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "R. P. (Révérend Père) - priest"
+        },
+        {
+          "text": "Doucet",
+          "start": 195,
+          "end": 201,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Scolastique (scholar/seminarian)"
+        },
+        {
+          "text": "Fourmond",
+          "start": 229,
+          "end": 237,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Abbé (priest) - postulant"
+        },
+        {
+          "text": "Blanchet",
+          "start": 267,
+          "end": 275,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Abbé - postulant scolastique"
+        },
+        {
+          "text": "Nemos",
+          "start": 315,
+          "end": 320,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Frère convers (lay brother)"
+        },
+        {
+          "text": "Gérante",
+          "start": 322,
+          "end": 329,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Frère convers (lay brother)"
+        },
+        {
+          "text": "Guillet",
+          "start": 336,
+          "end": 343,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Postulant frère convers"
+        },
+        {
+          "text": "Griseaud",
+          "start": 345,
+          "end": 353,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Postulant frère convers"
+        },
+        {
+          "text": "Leriche",
+          "start": 357,
+          "end": 364,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Postulant frère convers"
+        }
+      ]
+    }
+  ]
+}
