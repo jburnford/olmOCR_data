@@ -1,0 +1,40 @@
+{
+  "identifier": "jstor-1798858",
+  "article-type": "research-article",
+  "contributor": "JSTOR",
+  "creator": "Palliser, John",
+  "date": "1857-01-01",
+  "description": "<p>\"Progress of the British North America Exploring Expedition, as Far West as Long. 109° on the Lower Saskatchewan River\" is an article from <a href=\"/search.php?query=collection%3Ajstor_procroyageogsoc2%20AND%20volume%3A2\" rel=\"nofollow\">Proceedings of the Royal Geographical Society of London, Volume 2</a>.</p> <p>View more articles from <a href=\"/search.php?query=collection%3Ajstor_procroyageogsoc2\" rel=\"nofollow\">Proceedings of the Royal Geographical Society of London</a>.<br />View <a href=\"http://www.jstor.org/stable/10.2307/1798858\" rel=\"nofollow\">this article on JSTOR</a>.<br />View <a href=\"/download/jstor-1798858/10.2307_1798858.xml\" rel=\"nofollow\">this article's JSTOR metadata</a>.<br /></p><p>You may also retrieve all of this items metadata in JSON at the following URL: <a href=\"https://archive.org/metadata/jstor-1798858\" rel=\"nofollow\">https://archive.org/metadata/jstor-1798858</a></p>",
+  "imagecount": "8",
+  "issn": "1478615X",
+  "journalabbrv": "procroyageogsoc2",
+  "journaltitle": "Proceedings of the Royal Geographical Society of London",
+  "language": "eng",
+  "mediatype": "texts",
+  "pagerange": "146-152",
+  "publisher": "Proceedings of the Royal Geographical Society of London",
+  "source": "http://www.jstor.org/stable/10.2307/1798858",
+  "title": "Progress of the British North America Exploring Expedition, as Far West as Long. 109° on the Lower Saskatchewan River",
+  "volume": "2",
+  "collection": [
+    "jstor_procroyageogsoc2",
+    "jstor_ejc",
+    "additional_collections",
+    "journals"
+  ],
+  "external-identifier": [
+    "urn:jstor-headid:10.2307/j100008",
+    "urn:jstor-articleid:10.2307/1798858",
+    "urn:jstor-issueid:10.2307/i303923",
+    "urn:jstor-journalid:10.2307/j100944"
+  ],
+  "publicdate": "2013-03-20 02:59:32",
+  "uploader": "jake@archive.org",
+  "addeddate": "2013-03-20 02:59:32",
+  "identifier-access": "http://archive.org/details/jstor-1798858",
+  "identifier-ark": "ark:/13960/t1xd2ct6j",
+  "ppi": "300",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "backup_location": "ia905608_14"
+}

@@ -1,0 +1,64 @@
+{
+  "identifier": "P000350",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Hind, Henry Youle, 1823-1908. (author)",
+    "Gladman, George, 1800-1863. (author)",
+    "Dawson, Simon James, 1820-1902. (author)",
+    "Napier, W. E, 1823-1908. (author)"
+  ],
+  "date": "1858",
+  "description": "Hind, Henry Youle: 1823-1908. Born and educated in England; to Canada, 1846; professor of geology and chemistry, University of Toronto, 1853-1864; geologist on Red River exploratory expedition sent out from Canada, 1857; in command of Assiniboine-Saskatchewan exploratory expedition, 1858; later led surveying expeditions to eastern parts of Canada, including Labrador (Wallace, <i>Dictionary of Canadian biography</i>). // Gladman, George: 1800-1863. Born at Brunswick House, an HBC post; clerk for HBC at Moose Factory, Cumberland House, York Factory, and elsewhere; achieved rank of chief trader, 1837 (Wallace, <i>Dictionary of Canadian biography</i>). // Dawson, Simon James: 1820-1902. Civil engineer; appointed to survey the country west of Lake Superior, 1857; employed in the opening up of the Dawson Route, 1868; superintended transportation of troops in Red River expedition, 1870 (Wallace, <i>Dictionary of Canadian biography</i>). // Napier, W. E: 1823-1908. Geologist; member of the Red River expedition sent out from Canada, 1857; in command of the Assiniboine-Saskatchewan expedition, 1858 (Wallace, <i>Dictionary of Canadian biography</i>). // The report includes reports by George Gladman (in charge of the expedition); S.J. Dawson, surveyor; H.Y. Hind, geologist and naturalist (pages 136-425); and W.E. Napier, engineer. In June, 1859, this report was presented to the British Parliament, and was printed as a Parliamentary paper entitled <i>Papers relative to the exploration… </i>(63p.). For French version <i>see </i>Peel 348.",
+  "format": "425 p., tables, 2 fold. maps.; 23 cm.",
+  "identifier-bib": [
+    "local:peel1: 160",
+    "local:peel2: 195",
+    "local:peel3: 350",
+    "local:peel-procite-id: 350"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "John Lovell, Printer (Toronto)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "The Environment--Geology",
+    "Red River Settlement",
+    "Communications--Communications with Red River",
+    "Canada--Politics and government",
+    "Discoveries in geography",
+    "Découvertes géographiques",
+    "Geology",
+    "Géologie",
+    "Red River Valley (Man.)--Description and travel",
+    "1857"
+  ],
+  "title": "Report on the exploration of the country between Lake Superior and the Red River Settlement",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 00:12:12",
+  "addeddate": "2025-03-19 00:12:12",
+  "identifier-access": "http://archive.org/details/P000350",
+  "identifier-ark": "ark:/13960/s2zt7gbhjtr",
+  "imagecount": "430",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9912",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "79",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

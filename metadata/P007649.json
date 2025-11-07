@@ -1,0 +1,60 @@
+{
+  "identifier": "P007649",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Oblates of Mary Immaculate (author)",
+    "Leduc, H. (Hippolyte), 1842-1918 (author)"
+  ],
+  "date": "1880",
+  "description": "Source: <i>Missions de la Congrégation des missionnaires oblats de Marie Immaculée</i> no. 70 (June 1880), pp. 157-166.",
+  "format": "10 p. ; 22 cm.",
+  "identifier-bib": [
+    "local:peel_new: 807",
+    "local:peel3: 7649"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "A. Hennuyer (Paris)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Crime",
+    "Criminals",
+    "Criminalité",
+    "Criminels",
+    "Fort Saskatchewan, Alberta",
+    "Indians of North America",
+    "Indiens d'Amérique--Amérique du Nord",
+    "Leduc, H. Hippolyte, 1842-1918",
+    "Fort Saskatchewan, Alberta",
+    "1879"
+  ],
+  "title": "Vicariat de Saint-Albert: Condamnation, conversion et exécution du sauvage Kakisikutchin (Jean-Baptiste), le 20 décembre 1879, au fort Saskatchewan, territoire du Nord-Ouest. Canada",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-06-13 19:53:02",
+  "addeddate": "2025-06-13 19:53:02",
+  "identifier-access": "http://archive.org/details/P007649",
+  "identifier-ark": "ark:/13960/s2xztf145tt",
+  "imagecount": "10",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "53",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

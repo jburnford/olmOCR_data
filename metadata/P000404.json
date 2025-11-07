@@ -1,0 +1,62 @@
+{
+  "identifier": "P000404",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Palliser, John, 1817-1887. (author)",
+    "Blakiston, Thomas Wright, 1832-1891. (author)"
+  ],
+  "date": "1860",
+  "description": "Palliser, John: 1817-1887. Born in Ireland and largely educated there; went on hunting expedition in western USA, 1847, described in his <i>Solitary rambles and adventures of a hunter in the prairies</i>, first published 1853; in command of the British government expedition sent out with instructions to explore British North America between parallels 49º and 50º N, and 100º and 115º W, 1857-1860; died at his home in Ireland (<i>Dictionary of National Biography</i>;Wallace, <i>Dictionary of Canadian biography</i>). // Blakiston, Thomas Wright: 1832-1891. Born in Lymington, England; entered Royal Military Academy and became soldier; served in Crimea; retired from British Army and joined Palliser expedition as specialist in magnetic variations and ornithology, 1858; went to China and Japan for business and ornithology; spent last years in San Diego, California. // Included in John Palliser, <i>Exploration—British North America </i>, New York: Greenwood Press, [1969] (2 vols. in 1). Reports of Blakiston, magnetic observer, on pages 29-75.",
+  "format": "75 p., illus. (diagram), fold. maps.; 34 cm.",
+  "identifier-bib": [
+    "local:peel1: 181",
+    "local:peel2: 222",
+    "local:peel3: 404",
+    "local:peel-procite-id: 404"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Printed by G.E. Eyre & William Spottiswoode for Her Majesty's Stationery Office (London)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Explorers, Surveyors and Travellers--Exploration",
+    "Explorers, Surveyors and Travellers--Description and Travel--General",
+    "Communications--Communications with Red River",
+    "Canada--Parliament",
+    "Explorers",
+    "Explorateurs",
+    "Great Britain--Parliament",
+    "Palliser, John, 1817-1887",
+    "Prairie Provinces--Description and travel",
+    "1860"
+  ],
+  "title": "Exploration—British North America: Further papers relative to the exploration by the expedition under Captain Palliser of that portion of British North America which lies between the northern branch of the river Saskatchewan and the frontier of the United States, and between the Red River and the Rocky Mountains, and thence to the Pacific Ocean: Presented to both Houses of Parliament by command of Her Majesty, 1860",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 00:59:00",
+  "addeddate": "2025-03-19 00:59:00",
+  "identifier-access": "http://archive.org/details/P000404",
+  "identifier-ark": "ark:/13960/s26c01f6z77",
+  "imagecount": "86",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9811",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "91",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

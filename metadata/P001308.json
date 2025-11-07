@@ -1,0 +1,61 @@
+{
+  "identifier": "P001308",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "York Farmers Colonization Company (author)",
+  "date": "1884",
+  "description": "At head of title: \"A farm is the safest investment, 1884.\" Charts are of townships showing the names of settlers. Introduction refers to an earlier pamphlet, which may be York Farmers Colonization Company, <i>History of the Company </i>, [Toronto: s.n., 1883] (1 leaf, [7]-22p.), which also has a folded map.",
+  "format": "22 p., fold. map, charts.; 23 cm.",
+  "identifier-bib": [
+    "local:peel2: 779",
+    "local:peel3: 1308",
+    "local:peel-procite-id: 1306"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[York Farmers Colonization Co.] ([Toronto])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "History, Local--Saskatchewan--Yorkton",
+    "Settling the West--Immigration and Settlement",
+    "Cities and towns",
+    "Villes",
+    "Farmers",
+    "Agriculteurs",
+    "Land settlement",
+    "Colonisation intérieure",
+    "Trust companies--Real estate operations",
+    "Trust companies--Real estate investments",
+    "Sociétés fiduciaires--Immeubles--Investissements",
+    "Yorkton, Saskatchewan--Description and travel",
+    "1884"
+  ],
+  "title": "York Farmers Colonization Company guide and record: Choice homesteads free to the settler",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 08:22:28",
+  "addeddate": "2025-03-19 08:22:28",
+  "identifier-access": "http://archive.org/details/P001308",
+  "identifier-ark": "ark:/13960/s28n88q30cd",
+  "imagecount": "38",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8830",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

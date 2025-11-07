@@ -1,0 +1,59 @@
+{
+  "identifier": "P001396",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Caron, Joseph Phillipe René Adolphe (Sir), 1843-1908. (author)",
+    "Middleton, Frederick Dobson (Sir), 1825-1898. (author)",
+    "Canada. Department of Militia and Defence (author)"
+  ],
+  "date": "1886",
+  "description": "Caron, Joseph Phillipe René Adolphe (Sir): 1843-1908. Dominion Minister of Militia at the time of the Saskatchewan Rebellion, 1885; usually cited as Adolphe Caron (<i>Wallace, Dictionary of Canadian biography</i>). // Middleton, Frederick Dobson (Sir): 1825-1898. English soldier; commanded Canadian militia, 1884-1890; general in charge of the suppression of the Saskatchewan Rebellion, 1885 (Wallace, <i>Dictionary of Canadian biography</i>). // At head of title: \"Department of Militia and Defence of the Dominion of Canada.\" Report signed: \"Adolphe P. Caron, deputy of the minister of militia and defence.\" Contains General Middleton's report and that of the War Claims Commission. For French version <i>see </i>Peel 1395.",
+  "format": "xii, 384 p., fold. map, col. plates (part. fold.), fold. facsim.; 25 cm.",
+  "identifier-bib": [
+    "local:peel1: 648",
+    "local:peel2: 896",
+    "local:peel3: 1396",
+    "local:peel-procite-id: 1394"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[Department of Militia and Defence] (Ottawa)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Military history",
+    "Canada--Parliament",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "1885"
+  ],
+  "title": "Report upon the suppression of the rebellion in the North-West Territories and matters in connection therewith, in 1885: Presented to Parliament",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 09:08:16",
+  "addeddate": "2025-03-19 09:08:16",
+  "identifier-access": "http://archive.org/details/P001396",
+  "identifier-ark": "ark:/13960/s2mj0bqzsgw",
+  "imagecount": "434",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9683",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "82",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

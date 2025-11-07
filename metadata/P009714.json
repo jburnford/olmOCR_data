@@ -1,0 +1,62 @@
+{
+  "identifier": "P009714",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Leduc, H. (Hippolyte), 1842-1918 (author)",
+    "Oblates of Mary Immaculate (author)"
+  ],
+  "date": "1874",
+  "description": "Source: <i>Missions de la Congrégation des missionnaires oblats de Marie Immaculée</i> no. 48 (December 1874), pp. 506-517.",
+  "format": "12 p. ; 22 cm.",
+  "identifier-bib": [
+    "local:peel_new: 1051",
+    "local:peel3: 9714"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "A. Hennuyer (Paris)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Alberta",
+    "Cree language",
+    "Cri (Langue)",
+    "Leduc, H. (Hippolyte), 1842-1918",
+    "Missions--Alberta",
+    "Missions--Alberta",
+    "Missions--Saskatchewan",
+    "Missions--Saskatchewan",
+    "Saskatchewan",
+    "Saskatchewan",
+    "Alberta",
+    "1872"
+  ],
+  "title": "Lettre du R. P. Leduc au R. P. Martinet, Secrétaire Général: Saint-Albert, le 29 décembre 1872",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-06-15 03:38:34",
+  "addeddate": "2025-06-15 03:38:34",
+  "identifier-access": "http://archive.org/details/P009714",
+  "identifier-ark": "ark:/13960/s22qd7g1f3j",
+  "imagecount": "2",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

@@ -1,0 +1,54 @@
+{
+  "identifier": "P000382",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Hind, Henry Youle, 1823-1908. (author)",
+  "date": "1859",
+  "description": "Hind, Henry Youle: 1823-1908. Born and educated in England; to Canada, 1846; professor of geology and chemistry, University of Toronto, 1853-1864; geologist on Red River exploratory expedition sent out from Canada, 1857; in command of Assiniboine-Saskatchewan exploratory expedition, 1858; later led surveying expeditions to eastern parts of Canada, including Labrador (Wallace, <i>Dictionary of Canadian biography</i>). // Text in double columns. For English versions, <i>see </i>Peel 365 and 367.",
+  "format": "xii, 207 p., illus., maps.; 34 cm.",
+  "identifier-bib": [
+    "local:peel3: 382",
+    "local:peel-procite-id: 382"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "John Lovell, imprimeur (Toronto)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Canada--Politics and government",
+    "Discoveries in geography",
+    "Découvertes géographiques",
+    "Geology",
+    "Géologie",
+    "Prairie Provinces--Description and travel",
+    "1858"
+  ],
+  "title": "Territoire du Nord-Ouest: rapports de progrès: aussi, un rapport préliminaire et un rapport général sur l'expédition d'exploration de l'Assiniboine et de la Saskatchewan, faite en vertu d'instructions de secrétaire provincial, Canada",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 00:45:46",
+  "addeddate": "2025-03-19 00:45:46",
+  "identifier-access": "http://archive.org/details/P000382",
+  "identifier-ark": "ark:/13960/s2sdszd719x",
+  "imagecount": "260",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8983",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "67",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

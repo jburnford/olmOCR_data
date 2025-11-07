@@ -1,0 +1,53 @@
+{
+  "identifier": "P001546",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Taché, Alexandre-Antonin, 1823-1894. (author)",
+  "date": "1885",
+  "description": "Taché, Alexandre-Antonin: 1823-1894. Arrived in Red River as a Catholic missionary, 1845; coadjutor bishop of Saint-Boniface, 1851; succeeded Bishop Provencher, 1853; created archbishop, 1871; acted as a mediator during Red River Rebellion; prominent participant in the dispute over Manitoba separate schools in the early 1890s (Wallace, <i>Dictionary of Canadian biography</i>). // Dated: \"7 décembre 1885.\" Text in double columns. About the Riel Rebellion. Also published, [Saint-Boniface, Man.: Imprimé aux ateliers du journal \"Le Manitoba,\" 1885] (38p.); [Saint-Boniface, Man.: s.n., 1885] ([10]p.); [Montreal: s.n., 1885] ([10]p.); and as <i>La Situation nord-ouest </i>, Quebec: J.O. Filteau, Librairie, 1885 (22p.). Text included within Gilles Boileau, editor, <i>Louis Riel et les troubles du nord-ouest: de la Rivière-Rouge à Batoche </i>, Montreal: Novalis, c2000 (208p.).",
+  "format": "23 p.; 23 cm.",
+  "identifier-bib": [
+    "local:peel1: 619",
+    "local:peel2: 848",
+    "local:peel3: 1546",
+    "local:peel-procite-id: 1544"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([Saint-Boniface, Man.])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "1885"
+  ],
+  "title": "La situation",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:25:55",
+  "addeddate": "2025-03-19 10:25:55",
+  "identifier-access": "http://archive.org/details/P001546",
+  "identifier-ark": "ark:/13960/s2dsq7f4wvm",
+  "imagecount": "51",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "62",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

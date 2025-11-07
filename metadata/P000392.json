@@ -1,0 +1,64 @@
+{
+  "identifier": "P000392",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Palliser, John, 1817-1887. (author)",
+    "Labouchere, Henry, 1798-1869. (author)",
+    "Lytton, Edward Bulwer Lytton baron, 1803-1873. (author)",
+    "Derby, Edward George Geoffrey Smith Stanley earl, 1799-1869. (author)"
+  ],
+  "date": "1859",
+  "description": "Palliser, John: 1817-1887. Born in Ireland and largely educated there; went on hunting expedition in western USA, 1847, described in his <i>Solitary rambles and adventures of a hunter in the prairies</i>, first published 1853; in command of the British government expedition sent out with instructions to explore British North America between parallels 49º and 50º N, and 100º and 115º W, 1857-1860; died at his home in Ireland (<i>Dictionary of National Biography</i>;Wallace, <i>Dictionary of Canadian biography</i>). // Labouchere, Henry: 1798-1869. Held several positions in British cabinet, including Secretary of State for the Colonies, 1855-1858. // Lytton, Edward Bulwer Lytton baron: 1803-1873. English novelist; politician; Secretary of State for the Colonies, 1858-1859. // Derby, Edward George Geoffrey Smith Stanley earl: 1799-1869. Secretary of State for War and Colonies, 1833-1834, 1841-1845; Secretary of State for the Colonies, February-May 1858. // Collection of nine reports from or to Palliser, addressed to or from the Secretary of State for the Colonies, Henry Labouchere, Lord Lytton, or Lord Stanley. Included in John Palliser, <i>Exploration—British North America </i>, New York: Greenwood Press, [1969] (2 vols. in 1).",
+  "format": "64 p., maps (part. fold.), diagram.; 34 cm.",
+  "identifier-bib": [
+    "local:peel1: 178",
+    "local:peel2: 217",
+    "local:peel3: 392",
+    "local:peel-procite-id: 392"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Printed by G.E. Eyre & W. Spottiswoode for Her Majesty's Stationery Office (London)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Explorers, Surveyors and Travellers--Exploration",
+    "Explorers, Surveyors and Travellers--Description and Travel--General",
+    "Communications--Communications with Red River",
+    "Canada--Parliament",
+    "Explorers",
+    "Explorateurs",
+    "Great Britain--Parliament",
+    "Palliser, John, 1817-1887",
+    "Prairie Provinces--Description and travel",
+    "1859"
+  ],
+  "title": "Exploration—British North America: Papers relative to the exploration by Captain Palliser of that portion of British North America which lies between the northern branch of the river Saskatchewan and the frontier of the United States, and between the Red River and Rocky Mountains: Presented to both Houses of Parliament by command of Her Majesty, June 1859",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 00:50:52",
+  "addeddate": "2025-03-19 00:50:52",
+  "identifier-access": "http://archive.org/details/P000392",
+  "identifier-ark": "ark:/13960/s212m61mx8x",
+  "imagecount": "82",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9424",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "72",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

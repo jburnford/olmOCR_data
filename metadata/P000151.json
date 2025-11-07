@@ -1,0 +1,58 @@
+{
+  "identifier": "P000151",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Franklin, John (Sir), 1786-1847. (author)",
+  "date": "1823",
+  "description": "Franklin, John (Sir): 1786-1847. Arctic explorer. // Illustrations are hand coloured. Also published, 2nd edition, London: J. Murray, 1824 (2 vols.: xix, 370p.; iv, 399p.); 3rd edition, London: J. Murray, 1824 (2 vols.); London: J. Murray, [1828] (xv, 783, [1]p.); London: J.M. Dent and New York: E.P. Dutton & Co., [1910] and [1924] (x, 434p.); New York: Greenwood Press, [1969] (xvi, 768p.); with new introduction by Louis Melzack, Edmonton: M.G. Hurtig and Rutland, Vt., 1970 (xix, 768p.); with new introduction by James P. Delgado, and the 1908 introduction by Captain Scott, Vancouver: Douglas & McIntyre, 2000 (291p.); and as <i>Narrative of a journey to the shores of the Polar Sea in the years 1819, 20, 21 & 22: With an appendix containing geognostical observations, and remarks on the Aurora Borealis </i>, Philadelphia: H.C. Carey & I. Lea, A. Small, Edward Parker, M'Carty & Davis, B. & T. Kite, Thomas Desilver, and E. Littell, 1824 (xi, 482p.). Two of Franklin's journeys, as well as Richardson's account, are in <i>Journey to the shores of the Polar Sea, in 1819-20-21-22: With a brief account of the second journey in 1825-26-27 </i>, London: John Murray, 1829 (4 vols.). Some members of the party wintered at Cumberland House in 1819-1820. In chapters 2-5 there is a description of the people and events in the Saskatchewan country.",
+  "format": "[2], 1 leaf, [vii]-xvi, 768 p., illus., ports., fold. maps.; 27 cm.",
+  "identifier-bib": [
+    "local:peel1: 67",
+    "local:peel2: 80",
+    "local:peel3: 151",
+    "local:peel-procite-id: 151"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "John Murray (London)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Explorers, Surveyors and Travellers--Overland Journeys to the Arctic",
+    "Explorers",
+    "Explorateurs",
+    "Franklin, John, 1786-1847",
+    "Natural history",
+    "Sciences naturelles",
+    "Northwest Passage--Description and travel",
+    "Saskatchewan--History",
+    "1822"
+  ],
+  "title": "Narrative of a journey to the shores of the polar sea in the years 1819, 20, 21, and 22: With an appendix on various subjects relating to science and natural history",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-18 22:10:55",
+  "addeddate": "2025-03-18 22:10:55",
+  "identifier-access": "http://archive.org/details/P000151",
+  "identifier-ark": "ark:/13960/s2jv3rjh95r",
+  "imagecount": "845",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8964",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "87",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

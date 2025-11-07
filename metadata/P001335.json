@@ -1,0 +1,55 @@
+{
+  "identifier": "P001335",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Bellerose, Joseph Hyacinthe, 1820-1900. (author)",
+  "date": "1885",
+  "description": "Bellerose, Joseph Hyacinthe: 1820-1900. Quebec senator (<i>Canadian parliamentary guide</i>, 1898-1899). // Text in double columns.",
+  "format": "8 p.; 22.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 578",
+    "local:peel2: 785",
+    "local:peel3: 1335",
+    "local:peel-procite-id: 1333"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([Saint-Hyacinthe, Quebec]?)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Protests, demonstrations, etc.",
+    "Riel, Louis, 1844-1885",
+    "Speeches, addresses, etc.",
+    "Discours",
+    "1885"
+  ],
+  "title": "Assemblée à Saint-Hyacinthe le 8 décembre 1885 pour protester contre l'exécution de Riel: discours de l'hon. M. Bellerose",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 08:38:21",
+  "addeddate": "2025-03-19 08:38:21",
+  "identifier-access": "http://archive.org/details/P001335",
+  "identifier-ark": "ark:/13960/s2mrjgzszx5",
+  "imagecount": "8",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

@@ -1,0 +1,57 @@
+{
+  "identifier": "P000239",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Warre, Henry James (Sir), 1819-1898. (author)",
+  "date": "1849",
+  "description": "Warre, Henry James (Sir): 1819-1898. While a member of the British regular army stationed in Canada, sent on a mission to Oregon, 1845-1846 (Wallace, <i>Dictionary of Canadian biography</i>). // Warre, accompanied by Lieutenant Mervin Vavasour and Peter Skene Ogden, crossed the continent via the North Saskatchewan River in 1845 and returned in 1846. A few of the sketches are of the prairie region. Also published, with an introduction by Archibald Hanna, Jr., in an edition of 1,950 copies, Barre, Mass: Imprint Society, 1970 (26p., 72 leaves of plates).",
+  "format": "[2], 1 leaf, 5 p., 16 leaves of plates, map.; 53.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 103",
+    "local:peel2: 125",
+    "local:peel3: 239",
+    "local:peel-procite-id: 239"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Dickinson & Co. ([London]?)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Explorers, Surveyors and Travellers--Overland Journeys to the Pacific",
+    "Drawing",
+    "Dessin",
+    "Picture books",
+    "Picture books",
+    "Livres d'images",
+    "Prairie Provinces--Description and travel",
+    "1846"
+  ],
+  "title": "Sketches in North America and the Oregon Territory",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-18 23:16:59",
+  "addeddate": "2025-03-18 23:16:59",
+  "identifier-access": "http://archive.org/details/P000239",
+  "identifier-ark": "ark:/13960/s2ztvhpzbg4",
+  "imagecount": "37",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Arabic",
+  "ocr_detected_script_conf": "0.5622",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

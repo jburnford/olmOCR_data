@@ -1,0 +1,63 @@
+{
+  "title": "Prince Albert and the North Saskatchewan [microform] : a guide to \" the fertile belt\" now being opened up by railway from Regina to Prince Albert, the central city! and capital of Saskatchewan",
+  "creator": "Lorne Agricultural Society",
+  "subject": [
+    "Agriculture",
+    "Agriculture"
+  ],
+  "description": [
+    "Cover title",
+    "\"Issued under the authority of the Lorne Agricultural Society.\"",
+    "Filmed from a copy of the original publication held by the Thomas Fisher Rare Book Library, University of Toronto Library",
+    "43"
+  ],
+  "publisher": "Prince Albert [Sask.] : J.D. Maveety",
+  "date": "1890",
+  "language": "eng",
+  "isbn": "0665294786",
+  "page-progression": "lr",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "operator": "zack@archive.org",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scandate": "20100520222905",
+  "imagecount": "81",
+  "updatedate": "2010-05-21 13:21:35",
+  "updater": "zack@archive.org",
+  "identifier": "cihm_29478",
+  "uploader": "curtisficheop@archive.org",
+  "addeddate": "2010-05-21 13:21:35",
+  "publicdate": "2010-05-21 13:21:39",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_29478",
+  "identifier-ark": "ark:/13960/t7wm1zq49",
+  "curation": "[curator]sharda@archive.org[/curator][date]20100531215955[/date][state]approved[/state]",
+  "sponsordate": "20100531",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "city": "Prince Albert [Sask.]",
+  "oclc-id": [
+    "10563437",
+    "317763057",
+    "422238651",
+    "471051079",
+    "719955352",
+    "77432199"
+  ],
+  "backup_location": "ia903605_17",
+  "external-identifier": "urn:oclc:record:1042020228",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "39",
+  "page_number_module_version": "1.0.3"
+}

@@ -1,0 +1,62 @@
+{
+  "title": "Chemical contributions to the geology of Canada from the laboratory of the survey [microform]",
+  "creator": [
+    "Hoffmann, G. Christian (George Christian), 1837-1917",
+    "Geological Survey of Canada"
+  ],
+  "subject": [
+    "Geochemistry -- Canada",
+    "Mineralogical chemistry",
+    "Geology -- Canada",
+    "Géochimie -- Canada",
+    "Chimie minérale",
+    "Géologie -- Canada"
+  ],
+  "description": [
+    "Filmed from a copy of the original publication held by the University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "Montreal : Dawson",
+  "date": "1880",
+  "language": "eng",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "sheridan",
+  "mediatype": "texts",
+  "collection": [
+    "microfilm",
+    "additional_collections"
+  ],
+  "call_number": "01215",
+  "repub_state": "6",
+  "operator": "jp@archive.org",
+  "scanner": "microfiche01.sheridan.archive.org",
+  "scandate": "20080612171555",
+  "updatedate": "2008-06-16 18:24:59",
+  "updater": "JPGog",
+  "identifier": "albertatest_01215",
+  "uploader": "jp@archive.org",
+  "addeddate": "2008-06-16 18:24:59",
+  "publicdate": "2008-06-16 18:25:13",
+  "ppi": "300",
+  "imagecount": "39",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/albertatest_01215",
+  "identifier-ark": "ark:/13960/t4hm5c190",
+  "scanfactors": "0",
+  "backup_location": "ia903602_2",
+  "openlibrary_edition": "OL13992251M",
+  "openlibrary_work": "OL242493W",
+  "external-identifier": "urn:oclc:record:1039509299",
+  "filesxml": [
+    "Thu Dec 31 20:28:44 UTC 2020",
+    "Sun Oct 3 14:14:54 UTC 2021"
+  ],
+  "isbn": "0665012152",
+  "associated-names": "Geological Survey of Canada",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "30",
+  "page_number_module_version": "1.0.3"
+}

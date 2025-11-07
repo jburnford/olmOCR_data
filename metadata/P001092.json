@@ -1,0 +1,52 @@
+{
+  "identifier": "P001092",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Petitot, Émile Fortuné Stanislas Joseph, 1838-1917. (author)",
+  "date": "1886",
+  "description": "Petitot, Émile Fortuné Stanislas Joseph: 1838-1917. Born near Marseilles, France; became Oblate; missionary in what became Alberta and Saskatchewan, 1862-1882; returned to France, 1882; wrote on geography, ethnography, and linguistics of the Northwest (Wallace, <i>Dictionary of Canadian biography</i>). // Reprinted, Paris: G.-P. Maisonneuve et Larose, 1967. This free translation of Athapaskan tales, with a few Cree, Blackfoot, and Eskimo tales, was also published in French and Native languages in parallel columns, as <i>Traditions indiennes du Canada nord-ouest: textes originaux & traduction littérale </i>, Alençon, France: E. Renaut-De Broise, 1888 (vi, 446p.). It originally appeared in <i>Bulletin de la Société philologique </i>, 1888, t.16-17. Cover title for 1888 version: \"Traditions indiennes du Canada nord-ouest (1862-1882).\" Contents of 1888 version: \"Deux traditions des Esquimaux Tchiglit\"; \"Traditions des Dindjie ou Loucheux\"; \"Traditions des Dene Peaux-de-Lièvre\"; \"Traditions des Dune Flancs-de-Chien\"; \"Traditions des Dene Tchippewayans\"; and \"Traditions des Cris ou Ayislyiniwok.\"",
+  "format": "[5], 1 leaf, xvii, [1], 521, [2] p., 1 leaf.; 17 cm.",
+  "identifier-bib": [
+    "local:peel3: 1092",
+    "local:peel-procite-id: 1091"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "Maisonneuve frères et C. Leclerc (Paris)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Indians of North America--Languages",
+    "Langues indiennes d'Amérique--Amérique du Nord",
+    "Indians of North America--Religion",
+    "Indiens d'Amérique--Amérique du Nord--Religion",
+    "1882"
+  ],
+  "title": "Traditions indiennes du Canada nord-ouest",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 06:40:08",
+  "addeddate": "2025-03-19 06:40:08",
+  "identifier-access": "http://archive.org/details/P001092",
+  "identifier-ark": "ark:/13960/s2b91kkbnh8",
+  "imagecount": "548",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "99",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

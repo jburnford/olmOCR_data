@@ -1,0 +1,53 @@
+{
+  "identifier": "P001477",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Laidlaw, Alexander (author)",
+  "date": "1885",
+  "description": "Laidlaw, Alexander: Member of \"A\" Battery, Canadian Artillery. // Dated: \"Halifax, N.S. 9th January, 1885.\"",
+  "format": "[5]-43 p.; 22 cm.",
+  "identifier-bib": [
+    "local:peel2: 823",
+    "local:peel3: 1477",
+    "local:peel-procite-id: 1475"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Printed by J. Bowes (Halifax, N.S.)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Military history",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "1885"
+  ],
+  "title": "From the St. Lawrence to the North Saskatchewan: Being some incidents connected with the detachment of \"A\" Battery, Regt. Canadian Artillery, who composed part of the North West Field Force in the Rebellion of 1885",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 09:47:28",
+  "addeddate": "2025-03-19 09:47:28",
+  "identifier-access": "http://archive.org/details/P001477",
+  "identifier-ark": "ark:/13960/s2x159m99q3",
+  "imagecount": "42",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8956",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "69",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

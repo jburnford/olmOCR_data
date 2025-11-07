@@ -1,0 +1,57 @@
+{
+  "identifier": "P001651",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "White, Thomas, 1830-1888. (author)",
+  "date": "1886",
+  "description": "White, Thomas: 1830-1888. Born and educated in Montreal; journalist; founded and operated <i>Peterborough Review</i>, 1853-1860; founded <i>Hamilton Spectator</i>, 1864; immigration agent in England for Canada, 1869; assumed control of <i>Montreal Gazette</i>, 1870; elected to House of Commons, 1878-1888; Minister of the Interior, 1885-1888 and thus responsible for reorganizing government of North West Territories after the second Riel Rebellion (Wallace, <i>Dictionary of Canadian biography</i>). // Contents: \"Review of the policy of the Conservative party\" and \"The half-breed question.\"",
+  "format": "19 p.; 22 cm.",
+  "identifier-bib": [
+    "local:peel2: 978",
+    "local:peel3: 1651",
+    "local:peel-procite-id: 1649"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([Ottawa]?)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Parliament",
+    "Indians of North America--Land tenure",
+    "Indiens d'Amérique--Amérique du Nord--Terres",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Speeches, addresses, etc.",
+    "Discours",
+    "1886"
+  ],
+  "title": "Northwest administration: Speech by the Hon. Thos. White in the House of Commons, Ottawa, Tuesday evening, 4th May",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 11:15:28",
+  "addeddate": "2025-03-19 11:15:28",
+  "identifier-access": "http://archive.org/details/P001651",
+  "identifier-ark": "ark:/13960/s2h2vnw57s5",
+  "imagecount": "19",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "59",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

@@ -1,0 +1,53 @@
+{
+  "identifier": "P001513",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Ord, Lewis Redman (author)",
+  "date": "1887",
+  "description": "Ord, Lewis Redman: 1856-1942. Engaged in western topographical survey, 1874-1912, except for 1889-1899; engaged in surveying for the CPR, 1886-1888; organizer of the Dominion Land Surveyors Corps during Saskatchewan Rebellion, 1885; moved to Ontario, 1912 (Association of Ontario Land Surveyors, <i>Annual report</i>, 1943, page 111). // Also published as <i>Reminiscences of a bungle, and two other Northwest Rebellion diaries </i>, edited and with an introduction by R.C. Macleod, Edmonton: University of Alberta Press, 1983 (xlviii, 323p.). The \"bungler\" was one of the land surveyors who joined the Dominion Land Surveyors Intelligence Corps. J.L. Doupe, who presented a copy to the Manitoba Legislative Library, attributed this to Lewis R. Ord; F. Anderson, a student of the Riel Rebellion, stated the author was T.S. Russell. Whoever he was, the author wrote with great sarcasm and was critical of the generalship in the campaign.",
+  "format": "66 p.; 18.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 748",
+    "local:peel2: 1019",
+    "local:peel3: 1513",
+    "local:peel-procite-id: 1511"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Grip Printing & Publishing Co. (Toronto)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "1885"
+  ],
+  "title": "Reminiscences of a bungle",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:06:20",
+  "addeddate": "2025-03-19 10:06:20",
+  "identifier-access": "http://archive.org/details/P001513",
+  "identifier-ark": "ark:/13960/s23ffwgw6dr",
+  "imagecount": "70",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "95",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

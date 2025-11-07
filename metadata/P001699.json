@@ -1,0 +1,54 @@
+{
+  "identifier": "P001699",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Tyrrell, Joseph Burr, 1858-1957. (author)",
+    "Dowling, Donaldson Bogart, 1858-1925. (author)",
+    "Fletcher, James, 1852-1908. (author)",
+    "Whiteaves, Joseph Frederick, 1835-1909. (author)"
+  ],
+  "date": "1887",
+  "description": "Tyrrell, Joseph Burr: 1858-1957. Geologist and mining engineer interested in Canadian history; member of Geological Survey of Canada; prominent in surveying and exploring western and northern Canada, 1881-1898; edited works of explorers (<i>Canadian who's who</i>, 1936-1937). // Dowling, Donaldson Bogart: 1858-1925. Civil engineer hired by Geological Survey of Canada, 1885; surveyed and explored for minerals extensively in West; member of Logan Club. // Fletcher, James: 1852-1908. Entomologist and botanist, Dominion Experimental Farms, 1906. // Whiteaves, Joseph Frederick: 1835-1909.",
+  "format": "176E p., illus., diagrams, fold. col. maps.; 26 cm.",
+  "identifier-bib": [
+    "local:peel3: 1699",
+    "local:peel-procite-id: 1697"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Dawson Bros. (Montreal)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Alberta--Geology",
+    "1887"
+  ],
+  "title": "Report on a part of northern Alberta, and portions of adjacent districts of Assiniboia and Saskatchewan: Embracing the country lying south of the North Saskatchewan River and north of lat. 51°6', between long. 110° and 115°15' west",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 11:50:23",
+  "addeddate": "2025-03-19 11:50:23",
+  "identifier-access": "http://archive.org/details/P001699",
+  "identifier-ark": "ark:/13960/s2jcm8v4317",
+  "imagecount": "989",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9450",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "69",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

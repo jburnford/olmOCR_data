@@ -1,0 +1,54 @@
+{
+  "identifier": "P001172",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Prince Albert Young Men's Literary and Athletic Club (author)",
+  "date": "1883",
+  "format": "[11] p.; 17 cm.",
+  "identifier-bib": [
+    "local:peel1: 523",
+    "local:peel2: 694",
+    "local:peel3: 1172",
+    "local:peel-procite-id: 1171"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[Printed by Spink & Maveety, Prince Albert Times Office] ([Prince Albert, NWT])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "History, Local--Saskatchewan--Prince Albert",
+    "Prince Albert, Saskatchewan--Recreation",
+    "Sports clubs--Laws, legislation, regulations, etc.",
+    "Athletic clubs--Law and legislation",
+    "Clubs sportifs--Droit--Législation",
+    "1883"
+  ],
+  "title": "Prince Albert Young Men's Literary and Athletic Club constitution and by-laws, etc.: Established at Prince Albert, N.W.T., 16th November, A.D. 1883",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 07:25:53",
+  "addeddate": "2025-03-19 07:25:53",
+  "identifier-access": "http://archive.org/details/P001172",
+  "identifier-ark": "ark:/13960/s2hmxr21psq",
+  "imagecount": "14",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "27",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

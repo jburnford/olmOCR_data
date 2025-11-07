@@ -1,0 +1,61 @@
+{
+  "identifier": "P001624",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Lacombe, Albert, 1827-1916. (editor)",
+    "Thibault, Jean-Baptiste, 1810-1879. (translator)"
+  ],
+  "date": "1886",
+  "description": "Lacombe, Albert: 1827-1916. Born at St Sulpice, Quebec; became Oblate and ordained priest, 1849; studied Cree at Pembina, North Dakota, 1849-1851; curate in Montreal until offered his services to Mgr Alexandre Taché and went to Edmonton, 1852; to Lac Sainte Anne, 1853; founded Saint-Joachim mission at Fort Edmonton, 1858; founded mission at St Albert, 1863; appointed to parish of Fort Garry and responsibility for colonization in Manitoba, 1872; sent to eastern Canada to promote colonization, 1875; appointed Vicar General of Saint Boniface, 1879; chaplain to CPR workers, 1880-1882; first parish priest in Calgary, 1880; notable influence on Blackfoot during Riel Rebellion, 1885; influential in development of education in Alberta; moved to Pincher Creek, 1904; died at Midnapore, Alberta. // Thibault, Jean-Baptiste: 1810-1879. Ordained at Red River, 1833; active in founding and consolidating Catholic missions at trading posts and Métis settlements along the Saskatchewan and Churchill River systems, 1842-1852; returned to Quebec, 1872 (Morgan, <i>Dominion annual register</i>, 1879; Morice, <i>Dictionnaire historique</i>). // Text in Cree syllabics; titles in French. Also published, Montreal: Libr. Beauchemin, [between 1909 and 1923]. For precursor, <i>see </i>Peel 473; for successors, <i>see </i>Peel 2227 and 5363. For another use of the illustrations <i>see </i>Peel 1620.",
+  "format": "xxxi, 412 p., illus.; 15 cm.",
+  "identifier-bib": [
+    "local:peel1: 706",
+    "local:peel2: 962",
+    "local:peel3: 1624",
+    "local:peel-procite-id: 1622"
+  ],
+  "language": [
+    "Cree",
+    "French"
+  ],
+  "mediatype": "texts",
+  "publisher": "C.O. Beauchemin (Montreal)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Native Languages--Devotional Literature",
+    "Indians of North America--Languages",
+    "Langues indiennes d'Amérique--Amérique du Nord",
+    "Liturgies",
+    "Actions liturgiques",
+    "1886"
+  ],
+  "title": "Prières, cantiques, catéchisme, etc., en langue crise",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 11:04:12",
+  "addeddate": "2025-03-19 11:04:12",
+  "identifier-access": "http://archive.org/details/P001624",
+  "identifier-ark": "ark:/13960/s2zs1h4gq18",
+  "imagecount": "296",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.5117",
+  "ocr_detected_lang": "lb",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "61",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

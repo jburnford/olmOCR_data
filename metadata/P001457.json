@@ -1,0 +1,61 @@
+{
+  "identifier": "P001457",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Gowanlock, Theresa, d.1899. (author)",
+    "Delaney, Theresa Mary Fulford, 1865?-1913. (author)"
+  ],
+  "date": "1885",
+  "description": "Gowanlock, Theresa: d.1899. Widow of a settler killed in the massacre of Duck Lake (<i>Saskatoon Herald</i>, September 27, 1999). // Delaney, Theresa Mary Fulford: 1865?-1913. Widow of a settler killed in the massacre at Frog Lake, 1885; prisoner of Big Bear's Cree band for some weeks; died at Aylmer, Quebec. // Also published, Parkdale, Ont.: Times Office, 1885 (130, [6]p.); New York: Garland Pub., 1976 (141p.); with introduction by Sarah Carter, Regina: Canadian Plains Research Center, University of Regina, 1999 (xxxiii, 78p.). Accounts by the two women survivors of the Frog Lake Massacre; Delaney wrote part 2. Some copies have extra illustrations.",
+  "format": "141 p., illus., plates, ports.; 19 cm.",
+  "identifier-bib": [
+    "local:peel1: 602",
+    "local:peel2: 819",
+    "local:peel3: 1457",
+    "local:peel-procite-id: 1455"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Times Office (Parkdale, Ont.)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Delaney, \"Theresa\" Mary Mulford, 1865?-1913",
+    "Gowanlock, Theresa, d.1899",
+    "Prisoners of war",
+    "Prisoners of war",
+    "Prisonniers de guerre",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "1885"
+  ],
+  "title": "Two months in the camp of Big Bear: The life and adventures of Theresa Gowanlock and Theresa Delaney",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 09:39:21",
+  "addeddate": "2025-03-19 09:39:21",
+  "identifier-access": "http://archive.org/details/P001457",
+  "identifier-ark": "ark:/13960/s2k1nj6b4nm",
+  "imagecount": "145",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7652",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "86",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

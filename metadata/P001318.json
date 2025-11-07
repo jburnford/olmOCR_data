@@ -1,0 +1,52 @@
+{
+  "identifier": "P001318",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "date": "1887",
+  "description": "Related to the second Riel Rebellion.",
+  "format": "8 p.; 23 cm.",
+  "identifier-bib": [
+    "local:peel3: 1318",
+    "local:peel-procite-id: 1316"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([s.l.])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Orangemen",
+    "Orangistes (Protestants)",
+    "Political campaigns",
+    "Campagnes électorales",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "1885"
+  ],
+  "title": "Quelques renseignements pour les electeurs: les Orangistes et la question Riel",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 08:27:01",
+  "addeddate": "2025-03-19 08:27:01",
+  "identifier-access": "http://archive.org/details/P001318",
+  "identifier-ark": "ark:/13960/s256x51hr7z",
+  "imagecount": "8",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "0.1695",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

@@ -1,0 +1,60 @@
+{
+  "identifier": "P001200",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Bell, Charles Napier, 1854-1936. (author)",
+  "date": "1884",
+  "description": "Bell, Charles Napier: 1854-1936. From Ontario to Fort Garry as member of Wolseley expedition, fall 1870; after a year in Customs Department made hunting expedition in upper Saskatchewan region, summer 1872; customs clerk, 1874-1881; customs clerk with CPR, 1881-1886; secretary of Winnipeg Grain Exchange, 1887-1916; secretary-treasurer and later treasurer of Winnipeg Board of Trade, 1887-1919; active member of Historical and Scientific Society of Manitoba and other scientific societies (<i>Winnipeg Free Press</i>, August 3, 1936). // \"Errata\" on inside of front cover.",
+  "format": "[1], 1 leaf, 78 p., [2] fold. leaves of maps.; 21.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 538",
+    "local:peel2: 719",
+    "local:peel3: 1200",
+    "local:peel-procite-id: 1199"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Winnipeg Board of Trade (Winnipeg)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "History, Local--Manitoba--Hudson Bay",
+    "Communications--Hudson Bay Route",
+    "Boards of trade",
+    "Chambres de commerce",
+    "Hudson Bay Region (Man.)--Transportation",
+    "Natural resources",
+    "Ressources naturelles",
+    "Northwest Passage--Transportation",
+    "Trade routes",
+    "Routes commerciales",
+    "1884"
+  ],
+  "title": "Our northern waters: A report presented to the Winnipeg Board of Trade, regarding the Hudson's Bay and Straits: Being a statement of their resources in minerals, fisheries, timber, furs, game, and other products: Also notes on the navigation of these waters, together with historical events, and meteorological and climatic data",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 07:37:14",
+  "addeddate": "2025-03-19 07:37:14",
+  "identifier-access": "http://archive.org/details/P001200",
+  "identifier-ark": "ark:/13960/s2x0wt7356r",
+  "imagecount": "84",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9533",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "78",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

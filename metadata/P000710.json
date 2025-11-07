@@ -1,0 +1,68 @@
+{
+  "identifier": "P000710",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Lépine, Ambroise Dydime, 1840-1923. (defendant)",
+    "Elliott, George Babington (compiler)",
+    "Brokovski, Frederick Thomas, 1838-1916. (compiler)"
+  ],
+  "date": "1874",
+  "description": "Lépine, Ambroise Dydime: 1840-1923. Métis leader, adjutant-general in Riel's provisional government, 1869-1870; president of court martial which sentenced Thomas Scott to death, 1874; arrested and sentenced to death, 1874; sentence reduced to two years' imprisonment and loss of civil rights. // Elliott, George Babington: Winnipeg resident about 1874, when he described his business as \"accountant, auditor, arbitrator, and correspondent\"; founded and edited ephemeral newspaper in Calgary, <i>The Nor'wester</i>, 1884-1885; at a later period seems to have been a resident of Regina (Winshop, <i>The story of the press</i>; Begg, <i>Ten years in Winnipeg</i>). // Brokovski, Frederick Thomas: 1838-1916. Son of a Polish patriot who fled to England; to Canada, 1857; to Winnipeg as a surveyor, 1871; co-editor of <i>Manitoba Gazette</i>, 1872-1874; real estate agent in Winnipeg, 1874; first Manitoba reporter to sit in House of Commons Press Gallery, 1875; Manitoba publicity and immigration agent in Toronto, 1877-1881; draughtsman in Winnipeg, 1881-1883; Dominion intelligence officer at Moosomin, 1883-1886; Dominion lands agent at Battleford, 1887-1897; real estate agent in Battleford, 1897-1916 (Black, <i>History of Saskatchewan</i>; Blue, <i>Alberta, past and present</i>; Hawkes, <i>Story of Saskatchewan</i>). // Includes some French text and advertising.",
+  "format": "[9], 127, [8] p., illus., ports.; 24 cm.",
+  "identifier-bib": [
+    "local:peel1: 316",
+    "local:peel2: 397",
+    "local:peel3: 710",
+    "local:peel-procite-id: 710"
+  ],
+  "language": [
+    "French",
+    "English"
+  ],
+  "mediatype": "texts",
+  "publisher": "Burland-Desbarats Lithographic Co. (Montreal)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Red River Rebellion",
+    "Advertising",
+    "Publicité",
+    "Lpine, Ambroise Dydime, 1840-1923",
+    "Manitoba--Politics and government",
+    "Murder",
+    "Meutre",
+    "Red River Rebellion, 1869-70",
+    "Rouge, Rébellion de la rivière, 1869-1870",
+    "Trials",
+    "Procès",
+    "1874"
+  ],
+  "title": "Preliminary investigation and trial of Ambroise D. Lepine for the murder of Thomas Scott: Being a full report of the proceedings in this case before the Magistrates' Court and the several Courts of Queen's Bench in the Province of Manitoba",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 03:42:31",
+  "addeddate": "2025-03-19 03:42:31",
+  "identifier-access": "http://archive.org/details/P000710",
+  "identifier-ark": "ark:/13960/s2scjs6nv78",
+  "imagecount": "149",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng+fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9304",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "83",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

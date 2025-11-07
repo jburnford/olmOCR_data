@@ -1,0 +1,57 @@
+{
+  "identifier": "P001661",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Canada. Department of Agriculture (author)",
+  "date": "1887",
+  "format": "77, [1], ii p., fold. map.; 22 cm.",
+  "identifier-bib": [
+    "local:peel1: 729",
+    "local:peel2: 992",
+    "local:peel3: 1661",
+    "local:peel-procite-id: 1659"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[Department of Agriculture] (Ottawa)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Settling the West--Immigration Literature",
+    "Forests and forestry",
+    "Foresterie",
+    "Forêts",
+    "Mines and mineral resources",
+    "Mines",
+    "Ressources minérales",
+    "Prairie Provinces--Description and travel",
+    "1887"
+  ],
+  "title": "North West of Canada: A general sketch of the extent, woods and forests, mineral resources and climatology of the four provisional districts of Assiniboia, Saskatchewan, Alberta and Athabasca",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 11:29:21",
+  "addeddate": "2025-03-19 11:29:21",
+  "identifier-access": "http://archive.org/details/P001661",
+  "identifier-ark": "ark:/13960/s241csqxx9r",
+  "imagecount": "90",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

@@ -1,0 +1,56 @@
+{
+  "identifier": "P001642",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Skandinaviska National Föreningen i Winnipeg (author)",
+  "date": "1886",
+  "description": "Map is of the Swedish colony around Stockholm, Saskatchewan.",
+  "format": "20 p., fold. map.; 21 cm.",
+  "identifier-bib": [
+    "local:peel1: 713",
+    "local:peel2: 969",
+    "local:peel3: 1642",
+    "local:peel-procite-id: 1640"
+  ],
+  "language": "Swedish",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([Winnipeg])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "The People--Swedes",
+    "History, Local--Saskatchewan--Stockholm",
+    "Settling the West--Immigration Literature",
+    "Emigration and immigration",
+    "Émigration et immigration",
+    "Stockholm, Saskatchewan--Description and travel",
+    "1886"
+  ],
+  "title": "Skandinaverna i Manitoba och Nord Westra Canada",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 11:10:30",
+  "addeddate": "2025-03-19 11:10:30",
+  "identifier-access": "http://archive.org/details/P001642",
+  "identifier-ark": "ark:/13960/s2bnjzfd4hc",
+  "imagecount": "22",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l swe",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "sv",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

@@ -1,0 +1,62 @@
+{
+  "identifier": "P001432",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Dixon, L. (author)",
+    "Blackmore, R. (songs)",
+    "Munro, C. (songs)",
+    "Romans, S. H. (songs)"
+  ],
+  "date": "1886",
+  "description": "Dixon, L.: Colour-sergeant of 7th Co., Halifax Provisional Battalion, 1885. // Blackmore, R.: Private in 7th Co., Halifax Provisional Battalion, 1885. // Munro, C.: Private in 7th Co., Halifax Provisional Battalion, 1885. // Romans, S. H.: Private in 7th Co., Halifax Provisional Battalion, 1885. // Text without music; \"As played at the Academy of Music….\"",
+  "format": "36 p.; 21 cm.",
+  "identifier-bib": [
+    "local:peel2: 922",
+    "local:peel3: 1432",
+    "local:peel-procite-id: 1430"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Holloway (Halifax, N.S.)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Musicals",
+    "Comédies musicales",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Vaudeville",
+    "Vaudeville",
+    "Vaudeville",
+    "1885"
+  ],
+  "title": "Halifax to the Saskatchewan: \"Our boys\" in the Riel Rebellion: A musical and dramatique burlesque",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 09:26:24",
+  "addeddate": "2025-03-19 09:26:24",
+  "identifier-access": "http://archive.org/details/P001432",
+  "identifier-ark": "ark:/13960/s2nv1tp9fr3",
+  "imagecount": "39",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "45",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

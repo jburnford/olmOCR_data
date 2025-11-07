@@ -1,0 +1,56 @@
+{
+  "identifier": "P001674",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Liberal Party (Canada) (author)",
+  "date": "1887",
+  "description": "An election pamphlet ridiculing the Macdonald ministry.",
+  "format": "4 p., fold. cartoons.; 24 cm.",
+  "identifier-bib": [
+    "local:peel2: 1011",
+    "local:peel3: 1674",
+    "local:peel-procite-id: 1672"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[Liberal Party] ([Ottawa]?)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Politics and government",
+    "Caricatures and cartoons",
+    "Caricatures et dessins humoristiques",
+    "Political humour",
+    "Political satire",
+    "Satire politique",
+    "1887"
+  ],
+  "title": "The \"Boodle\" Brigade, as represented among the members of the Dominion government",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 11:34:43",
+  "addeddate": "2025-03-19 11:34:43",
+  "identifier-access": "http://archive.org/details/P001674",
+  "identifier-ark": "ark:/13960/s26z7q9pbn9",
+  "imagecount": "4",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

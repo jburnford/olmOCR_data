@@ -1,0 +1,61 @@
+{
+  "identifier": "P000833",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Canada. Department of the Secretary of State (author)",
+  "date": "1878",
+  "description": "At head of title: \"Return to an order of the House of Commons, dated 11th March, 1878.\"",
+  "format": "19, [1] p.; 23.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 368",
+    "local:peel2: 475",
+    "local:peel3: 833",
+    "local:peel-procite-id: 833"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[Department of the Secretary of State] ([Ottawa])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Communications--Canadian Pacific Railway",
+    "Prairie Provinces--Transportation",
+    "Railroads",
+    "Railroads",
+    "Chemins de fer",
+    "Surveys, Governmental",
+    "Surveys",
+    "Levé",
+    "Waterways",
+    "Waterways",
+    "Voies navigables",
+    "1878"
+  ],
+  "title": "Report of surveys made of Lakes Manitoba and Winnipegoosis, the Waterhen River and Little Saskatchewan River",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 04:40:45",
+  "addeddate": "2025-03-19 04:40:45",
+  "identifier-access": "http://archive.org/details/P000833",
+  "identifier-ark": "ark:/13960/s2hqmx84w68",
+  "imagecount": "20",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9455",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "60",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

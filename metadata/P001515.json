@@ -1,0 +1,58 @@
+{
+  "identifier": "P001515",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Thompson, Napoléon (author)",
+  "date": "1886",
+  "description": "Thompson, Napoléon: Lived in Manitoba, 1869-1874; apparently employed in an official capacity; claims to have saved Riel from capture in the winter of 1871-1872. // Preface signed: \"Napoléon Thompson.\" For French version <i>see </i>Peel 1516.",
+  "format": "200 p., ports.; 20 cm.",
+  "identifier-bib": [
+    "local:peel1: 697",
+    "local:peel2: 954",
+    "local:peel3: 1515",
+    "local:peel-procite-id: 1513"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Thompson & Moreau (New York)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Parliament",
+    "Public opinion",
+    "Public opinion",
+    "Opinion publique",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Riel, Louis, 1844-1885",
+    "1885"
+  ],
+  "title": "The gibbet of Regina: The truth about Riel: Sir John A. Macdonald and his cabinet before public opinion",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:06:47",
+  "addeddate": "2025-03-19 10:06:47",
+  "identifier-access": "http://archive.org/details/P001515",
+  "identifier-ark": "ark:/13960/s22s3189kxt",
+  "imagecount": "208",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8566",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "65",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

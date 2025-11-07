@@ -1,0 +1,58 @@
+{
+  "identifier": "P001809",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Moose Jaw, Sask. Board of Trade (author)",
+    "Moose Jaw, Sask. Agricultural Society (author)",
+    "Moose Jaw, Sask. Council (author)"
+  ],
+  "date": "1889",
+  "description": "Includes advertising. \"Signed on behalf of the Board of Trade by E.N. Hopkins, secretary and J.G. Gordon, chairman; on behalf of the Moose Jaw Agricultural Society by Samuel K. Rathwell, president; on behalf of the Council of the Town of Moose Jaw by J.T. Simpson, mayor.\"",
+  "format": "24 p.; 22 cm.",
+  "identifier-bib": [
+    "local:peel1: 825",
+    "local:peel2: 1121",
+    "local:peel3: 1809",
+    "local:peel-procite-id: 1807"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Call Printing Co. (Winnipeg)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "History, Local--Saskatchewan--Moose Jaw",
+    "Settling the West--Immigration Literature",
+    "Land capability for agriculture--Saskatchewan--Moose Jaw Region",
+    "Moose Jaw Region (Sask.)--Description and travel",
+    "1889"
+  ],
+  "title": "The district of Moose Jaw, North West Territories, as a field for emigration: Prepared by the Moose Jaw Board of Trade, and issued with the approval of the Moose Jaw Agricultural Society and the Council of the Town of Moose Jaw, issued the 18th day of January, 1889",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 12:56:48",
+  "addeddate": "2025-03-19 12:56:48",
+  "identifier-access": "http://archive.org/details/P001809",
+  "identifier-ark": "ark:/13960/s2xpqc5srn3",
+  "imagecount": "35",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9393",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "35",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

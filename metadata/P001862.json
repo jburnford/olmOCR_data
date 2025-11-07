@@ -1,0 +1,53 @@
+{
+  "identifier": "P001862",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Canadian Pacific Railway (author)",
+  "date": "1890",
+  "description": "Text in double columns.",
+  "format": "24 numbered columns on 12 leaves, illus., 2 fold. maps (in pocket).; 26 cm.",
+  "identifier-bib": [
+    "local:peel3: 1862",
+    "local:peel-procite-id: 1860"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[Canadian Pacific Railway] ([Winnipeg]?)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Settling the West--Immigration Literature",
+    "Prairie Provinces--Photographs and photography",
+    "Railroad land grants",
+    "Railroad land grants",
+    "Concessions ferroviaires",
+    "1890"
+  ],
+  "title": "Free homes and cheap railway lands!: One hundred million acres! open for settlement along the lines of the Canadian Pacific Railway in Manitoba, Assiniboia, Alberta, Saskatchewan, the four great provinces of the Canadian North-West: With maps, and illus. made from photographs",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 13:24:12",
+  "addeddate": "2025-03-19 13:24:12",
+  "identifier-access": "http://archive.org/details/P001862",
+  "identifier-ark": "ark:/13960/s2js78pccbf",
+  "imagecount": "28",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Arabic",
+  "ocr_detected_script_conf": "0.5067",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "27",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

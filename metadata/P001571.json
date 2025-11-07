@@ -1,0 +1,58 @@
+{
+  "identifier": "P001571",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Bayer, Charles (author)",
+    "Parage, E. (author)"
+  ],
+  "date": "1886",
+  "description": "Other title: \"Hommage à la mémoire de Louis Riel.\" Melodramatic defense of Riel by two professors from France, who considered Riel nearly a saint. First public reading was in March 1886.",
+  "format": "75, [1] p.; 24 cm.",
+  "identifier-bib": [
+    "local:peel1: 631",
+    "local:peel2: 872",
+    "local:peel3: 1571",
+    "local:peel-procite-id: 1569"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "Imprimerie de l'Étendard (Montreal)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Literary Works--Drama",
+    "Drama, French Canadian",
+    "French-Canadian Drama",
+    "Théâtre canadien-français",
+    "1886"
+  ],
+  "title": "Riel: drame historique en quatre actes et un prologue, cinq tableaux",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:36:45",
+  "addeddate": "2025-03-19 10:36:45",
+  "identifier-access": "http://archive.org/details/P001571",
+  "identifier-ark": "ark:/13960/s2rwbc9xtdb",
+  "imagecount": "78",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9571",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

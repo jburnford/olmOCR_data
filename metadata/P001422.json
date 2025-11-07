@@ -1,0 +1,55 @@
+{
+  "identifier": "P001422",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Logan, John Edward (author)",
+  "date": "1885",
+  "description": "Logan, John Edward: 1852-1915. Resident of Montreal. // \"A poem characterized by grandeur and pathos, though faulty in a wilful irregularity of metre.\" See Morgan, <i>Dominion Annual Register </i>, 1886, page 212.",
+  "format": "13 p.; 23 cm.",
+  "identifier-bib": [
+    "local:peel1: 605",
+    "local:peel2: 825",
+    "local:peel3: 1422",
+    "local:peel-procite-id: 1420"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[J. Theo Robinson, printer] ([Montreal])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Literary Works--Poetry",
+    "Poetry",
+    "Poetry",
+    "Poésie",
+    "1885"
+  ],
+  "title": "A cry from the Saskatchewan",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 09:21:16",
+  "addeddate": "2025-03-19 09:21:16",
+  "identifier-access": "http://archive.org/details/P001422",
+  "identifier-ark": "ark:/13960/s2wxp1f7fcg",
+  "imagecount": "16",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "51",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

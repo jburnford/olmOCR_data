@@ -1,0 +1,50 @@
+{
+  "identifier": "mackay1881",
+  "mediatype": "texts",
+  "collection": [
+    "folkscanomy_religion",
+    "folkscanomy",
+    "additional_collections"
+  ],
+  "creator": "Mackay, John Alexander",
+  "date": "1881",
+  "description": "<b>Family Prayers for the Use of the Cree Indians</b><br />Compiled and translated into the Syllabic Character of the Cree Language<br />By the Rev. J. A. Mackay, C.M.S. Missionary and Tutor in Cree.<br />London: Society for Promoting Christian Knowledge, 1881.",
+  "language": "cre",
+  "licenseurl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+  "subject": "Church of England; Cree language; Prayers and devotions; Book of Common Prayer; Anglican Diocese of Saskatchewan",
+  "title": "Family Prayers for the Use of the Cree Indians",
+  "uploader": "richard.mammana@gmail.com",
+  "publicdate": "2024-01-13 14:04:32",
+  "addeddate": "2024-01-13 14:04:32",
+  "curation": "[curator]validator@archive.org[/curator][date]20240113140951[/date][comment]checked for malware[/comment]",
+  "identifier-access": "http://archive.org/details/mackay1881",
+  "identifier-ark": "ark:/13960/s2xrgpnthxd",
+  "imagecount": "31",
+  "ppi": "415",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l mon+kaz+rus+eng+kir+srp+Cyrillic+Latin+Arabic",
+  "ocr_module_version": "0.0.21",
+  "ocr_autonomous": "true",
+  "ocr_detected_script": [
+    "Cyrillic",
+    "Latin",
+    "Telugu",
+    "Arabic"
+  ],
+  "ocr_detected_script_conf": [
+    "0.7400",
+    "0.0890",
+    "0.0665",
+    "0.1046"
+  ],
+  "ocr_detected_lang": "ru",
+  "ocr_detected_lang_conf": "1.0000",
+  "ocr_invalid_language": "cre",
+  "page_number_confidence": "71",
+  "page_number_module_version": "1.0.3",
+  "collection_added": [
+    "folkscanomy",
+    "additional_collections"
+  ]
+}

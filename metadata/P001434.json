@@ -1,0 +1,57 @@
+{
+  "identifier": "P001434",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Dunlevie, Horace G. (compiler)",
+  "date": "1885",
+  "description": "Dunlevie, Horace G.: On title-page described as a captain. // Consists of regimental lists.",
+  "format": "52 p.; 17 cm.",
+  "identifier-bib": [
+    "local:peel1: 596",
+    "local:peel2: 810",
+    "local:peel3: 1434",
+    "local:peel-procite-id: 1432"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Printed at the Office of the \"Daily Free Press\" (Ottawa)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Military history",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Service men",
+    "Soldiers",
+    "Militaires",
+    "1885"
+  ],
+  "title": "Our volunteers in the North-West: A ready reference handbook",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 09:26:55",
+  "addeddate": "2025-03-19 09:26:55",
+  "identifier-access": "http://archive.org/details/P001434",
+  "identifier-ark": "ark:/13960/s2bn3sn51bc",
+  "imagecount": "62",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8967",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "65",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

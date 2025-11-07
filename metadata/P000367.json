@@ -1,0 +1,60 @@
+{
+  "identifier": "P000367",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Hind, Henry Youle, 1823-1908. (author)",
+  "date": "1859",
+  "description": "Hind, Henry Youle: 1823-1908. Born and educated in England; to Canada, 1846; professor of geology and chemistry, University of Toronto, 1853-1864; geologist on Red River exploratory expedition sent out from Canada, 1857; in command of Assiniboine-Saskatchewan exploratory expedition, 1858; later led surveying expeditions to eastern parts of Canada, including Labrador (Wallace, <i>Dictionary of Canadian biography</i>). // Text in double columns. Originally published as part of Appendix no.36, A1859 ( <i>Appendix to the seventeenth volume of the Journals of the Legislative Assembly of the Province of Canada: From the 29th January to 4th May, 1859, both days inclusive in the twenty-second year of the reign of our Sovereign Lady Queen Victoria </i>). Also published, New York: Greenwood Press, 1968. For British edition <i>see </i>Peel 365; for French version <i>see </i>Peel 382. In Staton's <i>Bibliography of Canadiana </i>, no.3912 is a supplementary volume \"Photographs acoompanying [sic] a report on the Assiniboine and Saskatchewan exploring expedition.\" The portfolio contains 37 mounted photographs. These are apparently the photographs listed in the appendix of Hind's <i>Narrative of the Canadian Red River exploring expedition of 1857 </i>as being available from J. Hogarth, London.",
+  "format": "xii, 201 p., diagrams, plates, fold. maps, fold. plans.; 34 cm.",
+  "identifier-bib": [
+    "local:peel1: 173",
+    "local:peel2: 211",
+    "local:peel3: 367",
+    "local:peel-procite-id: 367"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Printed by John Lovell (Toronto)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "The Environment--Geology",
+    "The People--Natives",
+    "Explorers, Surveyors and Travellers--Description and Travel--General",
+    "Communications--Communications with Red River",
+    "Canada--Politics and government",
+    "Discoveries in geography",
+    "Découvertes géographiques",
+    "Geology",
+    "Géologie",
+    "Prairie Provinces--Description and travel",
+    "1858"
+  ],
+  "title": "North-West Territory: Reports of progress, together with a preliminary and general report on the Assiniboine and Saskatchewan exploring expedition, made under instructions from the Provincial Secretary, Canada",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 00:37:42",
+  "addeddate": "2025-03-19 00:37:42",
+  "identifier-access": "http://archive.org/details/P000367",
+  "identifier-ark": "ark:/13960/s2b8td5kbgc",
+  "imagecount": "270",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7422",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "20",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

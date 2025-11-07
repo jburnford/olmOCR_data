@@ -1,0 +1,66 @@
+{
+  "identifier": "P001559",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "White, Thomas, 1830-1888. (editor)",
+    "Macpherson, David Lewis, 1818-1896. (preface)",
+    "Canada. Department of the Interior (author)"
+  ],
+  "date": "1887",
+  "description": "White, Thomas: 1830-1888. Born and educated in Montreal; journalist; founded and operated <i>Peterborough Review</i>, 1853-1860; founded <i>Hamilton Spectator</i>, 1864; immigration agent in England for Canada, 1869; assumed control of <i>Montreal Gazette</i>, 1870; elected to House of Commons, 1878-1888; Minister of the Interior, 1885-1888 and thus responsible for reorganizing government of North West Territories after the second Riel Rebellion (Wallace, <i>Dictionary of Canadian biography</i>). // Macpherson, David Lewis: 1818-1896. // For French version <i>see </i>Peel 1560.",
+  "format": "18 p.; 21 cm.",
+  "identifier-bib": [
+    "local:peel1: 624",
+    "local:peel1: 0733",
+    "local:peel2: 855",
+    "local:peel2: 996",
+    "local:peel3: 1559",
+    "local:peel-procite-id: 1557"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[Department of the Interior] (Ottawa)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Indians of North America--Government relations",
+    "Indiens d'Amérique--Amérique du Nord--Relations avec l'État",
+    "Indians of North America--Treatment",
+    "Indians, Treatment of--North America",
+    "Indiens d'Amérique, Attitudes envers les--Amérique du Nord",
+    "Métis--Government relations",
+    "Métis--Canada--Relations avec l'État",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "1885"
+  ],
+  "title": "Facts for the people: The Northwest Rebellion: The question of the half-breeds and the government's treatment of them",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:32:24",
+  "addeddate": "2025-03-19 10:32:24",
+  "identifier-access": "http://archive.org/details/P001559",
+  "identifier-ark": "ark:/13960/s2t0x0gzjr0",
+  "imagecount": "20",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9127",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

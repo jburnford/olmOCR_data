@@ -1,0 +1,52 @@
+{
+  "identifier": "P001324",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "date": "1885",
+  "description": "Includes lists of casualties and prisoners.",
+  "format": "[11] p., chiefly illus., maps, ports.; 40 cm.",
+  "identifier-bib": [
+    "local:peel1: 626",
+    "local:peel2: 857",
+    "local:peel3: 1324",
+    "local:peel-procite-id: 1322"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Bishop Engraving and Printing Co. (Winnipeg)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "1885"
+  ],
+  "title": "Winnipeg war sketches",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 08:32:18",
+  "addeddate": "2025-03-19 08:32:18",
+  "identifier-access": "http://archive.org/details/P001324",
+  "identifier-ark": "ark:/13960/s2qp46wbqf1",
+  "imagecount": "13",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.3067",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

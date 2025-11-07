@@ -1,0 +1,70 @@
+{
+  "title": "La question Riel [microforme] : discours de M. Tassé, M.P. prononcé devant le \"Cercle Lafontaine\" d'Ottawa, le 19 février 1886",
+  "creator": "Tassé, Joseph, 1848-1895",
+  "subject": [
+    "Riel, Louis, 1844-1885",
+    "Riel, Louis, 1844-1885",
+    "Riel, Rébellion de, 1885",
+    "Riel Rebellion, 1885"
+  ],
+  "description": [
+    "Texte sur deux colonnes",
+    "Microfiche de l'exemplaire de l'édition originale se trouvant à la University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "[S.l. : s.n.]",
+  "date": "1886",
+  "language": "fre",
+  "isbn": "0665306482",
+  "page-progression": "lr",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "operator": "zack@archive.org",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scandate": "20100611001404",
+  "imagecount": "21",
+  "updatedate": "2010-06-11 13:36:02",
+  "updater": "zack@archive.org",
+  "identifier": "cihm_30648",
+  "uploader": "curtisficheop@archive.org",
+  "addeddate": "2010-06-11 13:36:02",
+  "publicdate": "2010-06-11 13:36:08",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_30648",
+  "identifier-ark": "ark:/13960/t2697tv8z",
+  "curation": "[curator]sharda@archive.org[/curator][date]20100702202605[/date][state]approved[/state]",
+  "sponsordate": "20100630",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "city": "[S.l.",
+  "oclc-id": [
+    "12084947",
+    "726098419",
+    "77469387"
+  ],
+  "related-external-id": [
+    "urn:isbn:0665304595",
+    "urn:oclc:12151966",
+    "urn:oclc:471079717",
+    "urn:oclc:726098399",
+    "urn:oclc:77469515"
+  ],
+  "backup_location": "ia903605_22",
+  "openlibrary_edition": "OL24243838M",
+  "openlibrary_work": "OL7312564W",
+  "external-identifier": "urn:oclc:record:1041985480",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.3"
+}

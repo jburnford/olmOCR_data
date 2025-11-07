@@ -1,0 +1,56 @@
+{
+  "identifier": "P000412",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Taylor, James Wickes, 1819-1893. (author)",
+  "date": "1860",
+  "description": "Taylor, James Wickes: 1819-1893. Associated with newspapers and railways in St Paul, Minnesota; reported on Rupert's Land to Minnesota Legislature, 1860, and to American Treasury Department, 1862; special agent of U.S. Treasury Department, 1859-1869; his discovery of plans for Fenian raid on Red River Settlement enabled authorities to disperse Fenians; appointed American consul at Winnipeg, 1870-1893; during rebellion of 1885 took steps to prevent American Natives from aiding Riel (<i>Dictionary of American biography</i>). // At head of title: \"Legislature of Minnesota.\" Text in double columns. Also published, as a supplement to the Journal of the House of Representatives, session of 1859-60, [St Paul, Minn., Newson, Moore, Foster & Co.], 1860 (53p.). In June 1859 Taylor was commissioned by the governor of Minnesota to report on the country between St Paul and the Red River Settlement and the Rocky Mountains. Supplementing the report are several appendices including: \"Central British America\" (also in <i>Atlantic Monthly </i>, January 1860); \"Geographical memoir of the Red River and Saskatchewan districts\" (also in <i>Report of a Committee of the St. Paul Chamber of Commerce, Jan. 22 1859 </i>); and \"Itinerary of routes from St. Paul to Pembina, Fort Garry, Fort Ellice, and Edmonton House.\"",
+  "format": "41, [1] p., map, tables.; 21 cm.",
+  "identifier-bib": [
+    "local:peel1: 183",
+    "local:peel2: 225",
+    "local:peel3: 412",
+    "local:peel-procite-id: 412"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Newson, Moore, Foster & Co., printers (St. Paul, Minn.)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Explorers, Surveyors and Travellers--Description and Travel--General",
+    "Prairie Provinces--Description and travel",
+    "Prairie Provinces--Transportation",
+    "Trade routes",
+    "Routes commerciales",
+    "United States--Politics and government",
+    "1860"
+  ],
+  "title": "Northwest British America and its relations to the State of Minnesota: A report communicated to the Legislature of Minnesota by Governor Ramsey, March 2d and ordered to be printed",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 01:13:15",
+  "addeddate": "2025-03-19 01:13:15",
+  "identifier-access": "http://archive.org/details/P000412",
+  "identifier-ark": "ark:/13960/s286985mwfx",
+  "imagecount": "44",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7001",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "56",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

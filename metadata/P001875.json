@@ -1,0 +1,60 @@
+{
+  "identifier": "P001875",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Davin, Nicholas Flood, 1843-1901. (author)",
+  "date": "1890",
+  "description": "Davin, Nicholas Flood: 1843-1901. Born Limerick, Ireland; after a promising career as lawyer and war correspondent in Britain went to Toronto as journalist, 1872; settled in Regina and established <i>Leader</i>, 1883, first newspaper in Assiniboia; sat in House of Commons, 1887-1900; influential through <i>Leader</i> and in House of Commons in speaking for the West (Wallace, <i>Dictionary of Canadian biography</i>). // Davin's defence in a libel suit filed by Atkinson, editor of the rival paper.",
+  "format": "11 p.; 22 cm.",
+  "identifier-bib": [
+    "local:peel1: 844",
+    "local:peel2: 1165",
+    "local:peel3: 1875",
+    "local:peel-procite-id: 1873"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Leader Co. (Regina)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Journalism",
+    "Libel and slander",
+    "Diffamation",
+    "Calomnie",
+    "Prairie Provinces--Politics and government",
+    "Regina, Saskatchewan--Newspapers",
+    "Speeches, addresses, etc.",
+    "Discours",
+    "Trials",
+    "Procès",
+    "1890"
+  ],
+  "title": "For the Leader Company Limited, et al.: A speech by Nicholas Flood Davin, M.P., delivered in the Supreme Court of the North-West Territories, His Honour Mr. Justice Richardson presiding, on the 7th July, 1890",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 13:30:55",
+  "addeddate": "2025-03-19 13:30:55",
+  "identifier-access": "http://archive.org/details/P001875",
+  "identifier-ark": "ark:/13960/s2tk4wjt1qj",
+  "imagecount": "11",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

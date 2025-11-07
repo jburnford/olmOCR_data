@@ -1,0 +1,48 @@
+{
+  "identifier": "1885981885F1886engfra",
+  "call-number": "98-1885 F",
+  "contributor": "Statistics Canada, Statistique Canada",
+  "creator": "Dept. of Agriculture = Département de l'agriculture",
+  "date": "1886",
+  "description": "Census Year 1885",
+  "language": [
+    "eng",
+    "fre"
+  ],
+  "mediatype": "texts",
+  "scanningcenter": "uoft",
+  "sponsor": "Internet Archive",
+  "title": "Census of the three provisional districts of the North-West Territories, 1884-5 = Recensement des trois districts provisoires des Territoires du Nord-Ouest, 1884-5.",
+  "collection": [
+    "statisticscanada",
+    "toronto",
+    "governmentpublications"
+  ],
+  "subject": [
+    "Census 1886",
+    "Alberta",
+    "Saskatchewan",
+    "Population",
+    "Recensement 1886"
+  ],
+  "publicdate": "2012-07-23 16:00:19",
+  "uploader": "admin-andrea-mills@archive.org",
+  "addeddate": "2012-07-23 16:00:19",
+  "identifier-access": "http://archive.org/details/1885981885F1886engfra",
+  "identifier-ark": "ark:/13960/t5bc55584",
+  "repub_state": "4",
+  "source": "upload",
+  "operator": "partner upload",
+  "backup_location": "ia903904_2",
+  "ocr": "tesseract 5.3.0-3-g9920",
+  "ocr_parameters": "-l fra+eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7520",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "79",
+  "page_number_module_version": "1.0.3",
+  "pdf_module_version": "0.0.23",
+  "pdf_degraded": "invalid-page-size"
+}

@@ -1,0 +1,52 @@
+{
+  "identifier": "P001468",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Jackson, Thomas Wesley, 1848-1931. (author)",
+  "date": "1886",
+  "description": "Jackson, Thomas Wesley: 1848-1931. Born in Ontario; educated in Quebec City; large land owner in Qu'Appelle Valley, 1882-1888; owned biggest private dwelling in NWT; elected member of NWT Council; lived in Ontario and British Columbia before going to Yukon at the time of the gold rush; lawyer and crown prosecutor in Whitehorse to <i>c.</i>1926; great friend of Robert Service, and claimed to have suggested themes for some of his poems (Saskatchewan Archives, Regina Division, Biographical file).",
+  "format": "4 p.",
+  "identifier-bib": [
+    "local:peel2: 939",
+    "local:peel3: 1468",
+    "local:peel-procite-id: 1466"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([Qu'Appelle, NWT])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "1885"
+  ],
+  "title": "The views of a leading Conservative in the North-West on the late rebellion",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 09:42:59",
+  "addeddate": "2025-03-19 09:42:59",
+  "identifier-access": "http://archive.org/details/P001468",
+  "identifier-ark": "ark:/13960/s20g56z8vk1",
+  "imagecount": "4",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9283",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

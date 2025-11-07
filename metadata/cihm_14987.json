@@ -1,0 +1,83 @@
+{
+  "title": "Presidential address before the Royal Society of Canada, with papers from the Transactions [microform]",
+  "creator": [
+    "Fleming, Sandford, Sir, 1827-1915",
+    "Royal Society of Canada"
+  ],
+  "subject": [
+    "Canadian Pacific Railway Company",
+    "Canadian Pacific Railway Company",
+    "Northwest Passage",
+    "Overland journeys to the Pacific",
+    "Railroads",
+    "Elections",
+    "Nord-Ouest, Passage du",
+    "Voyages par terre jusqu'au Pacifique",
+    "Chemins de fer",
+    "Elections"
+  ],
+  "description": [
+    "Cover title",
+    "\"Vol. 7, section II -Expedition to the Pacific ; Vol. 7, section III -A problem in political science.\"",
+    "From: Transactions of the Royal Society of Canada",
+    "Filmed from a copy of the original publication held by the University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "Montreal : Dawson",
+  "date": "1890",
+  "language": "eng",
+  "isbn": "0665149875",
+  "page-progression": "lr",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "operator": "microficheop@archive.org",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scandate": "20090915201217",
+  "imagecount": "90",
+  "updatedate": "2009-09-24 19:38:09",
+  "updater": "Microfiche Operator",
+  "identifier": "cihm_14987",
+  "uploader": "curtisficheop@archive.org",
+  "addeddate": "2009-09-24 19:38:09",
+  "publicdate": "2009-09-24 19:38:14",
+  "notes": "Film/Fiche is presented as orginally captured.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_14987",
+  "identifier-ark": "ark:/13960/t22b9j07t",
+  "sponsordate": "20090930",
+  "curation": "[curator]sharda@archive.org[/curator][date]20091124201714[/date][state]approved[/state]",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "city": "Montreal",
+  "oclc-id": [
+    "317870717",
+    "422162460",
+    "718423999",
+    "768288248",
+    "77396547",
+    "9382734"
+  ],
+  "related-external-id": [
+    "urn:isbn:0659982064",
+    "urn:oclc:70583307",
+    "urn:oclc:77169424"
+  ],
+  "backup_location": "ia903603_33",
+  "openlibrary_edition": "OL23720510M",
+  "openlibrary_work": "OL2583258W",
+  "external-identifier": "urn:oclc:record:1042038302",
+  "filesxml": "Sun Oct 3 14:38:32 UTC 2021",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "73",
+  "page_number_module_version": "1.0.3"
+}

@@ -1,0 +1,57 @@
+{
+  "identifier": "P001334",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Bell, Charles Napier, 1854-1936. (author)",
+  "date": "1885",
+  "description": "Bell, Charles Napier: 1854-1936. From Ontario to Fort Garry as member of Wolseley expedition, fall 1870; after a year in Customs Department made hunting expedition in upper Saskatchewan region, summer 1872; customs clerk, 1874-1881; customs clerk with CPR, 1881-1886; secretary of Winnipeg Grain Exchange, 1887-1916; secretary-treasurer and later treasurer of Winnipeg Board of Trade, 1887-1919; active member of Historical and Scientific Society of Manitoba and other scientific societies (<i>Winnipeg Free Press</i>, August 3, 1936).",
+  "format": "8 p.; 22 cm.",
+  "identifier-bib": [
+    "local:peel1: 577",
+    "local:peel2: 784",
+    "local:peel3: 1334",
+    "local:peel-procite-id: 1332"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Manitoba Free Press Printers (Winnipeg)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "The Environment--Names, Geographical",
+    "Cities and towns",
+    "Villes",
+    "Names, Geographical",
+    "Noms géographiques",
+    "Prairie Provinces--Description and travel",
+    "Prairie Provinces--Historic houses, sites, etc.",
+    "1885"
+  ],
+  "title": "Some historical names and places of the Canadian North-West",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 08:37:33",
+  "addeddate": "2025-03-19 08:37:33",
+  "identifier-access": "http://archive.org/details/P001334",
+  "identifier-ark": "ark:/13960/s287d9dg747",
+  "imagecount": "11",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

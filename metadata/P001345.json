@@ -1,0 +1,60 @@
+{
+  "identifier": "P001345",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Blake, Edward, 1833-1912. (author)",
+  "date": "1886",
+  "description": "Blake, Edward: 1833-1912. Leader of the Liberal Party of Canada, 1879-1887 (Wallace, <i>Dictionary of Canadian biography</i>). // At head of title: \"House of Commons debates, fourth session, fifth Parliament.--49 Vic.\" Text in double columns. <i>See also </i>Peel 1346 and 1576.",
+  "format": "29 p.; 29.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 637",
+    "local:peel2: 879",
+    "local:peel3: 1345",
+    "local:peel-procite-id: 1343"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[Printed by MacLean, Roger & Co.] ([Ottawa])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Parliament",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Riel, Louis, 1844-1885",
+    "Speeches, addresses, etc.",
+    "Discours",
+    "Treason",
+    "Treason",
+    "Trahison",
+    "1885"
+  ],
+  "title": "Speech of the Hon. E. Blake, M.P., on the execution of Louis Riel: Ottawa, March 19th, 1886",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 08:41:59",
+  "addeddate": "2025-03-19 08:41:59",
+  "identifier-access": "http://archive.org/details/P001345",
+  "identifier-ark": "ark:/13960/s2gfbn20jh1",
+  "imagecount": "30",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9613",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

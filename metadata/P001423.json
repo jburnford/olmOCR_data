@@ -1,0 +1,57 @@
+{
+  "identifier": "P001423",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Daoust, Charles-Roger, 1865-1924. (author)",
+  "date": "1886",
+  "description": "Daoust, Charles-Roger: 1865-1924. Quebec journalist; served in the Saskatchewan Rebellion, 1885 (Wallace, <i>Dictionary of Canadian biography</i>). // Translated and published as <i>One hundred and twenty days of active service: A complete historical narrative of the campaign of the 65th in the North West </i>, [Edmonton: R.A. Cawsey, 1982?] (176p.).",
+  "format": "242 p., illus., plan, ports.; 19.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 670",
+    "local:peel2: 919",
+    "local:peel3: 1423",
+    "local:peel-procite-id: 1421"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "Eusèbe Senécal & fils (Montreal)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Military history",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Service men",
+    "Soldiers",
+    "Militaires",
+    "1885"
+  ],
+  "title": "Cent-vingt jours de service actif: récit historique très complet de la campagne du 65ième au nord-ouest",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 09:21:40",
+  "addeddate": "2025-03-19 09:21:40",
+  "identifier-access": "http://archive.org/details/P001423",
+  "identifier-ark": "ark:/13960/s2mxbznqsw8",
+  "imagecount": "257",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9212",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "96",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

@@ -1,0 +1,59 @@
+{
+  "identifier": "P001687",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Powers, John Weston, 1852-1905. (author)",
+  "date": "1887",
+  "description": "Powers, John Weston: 1852-1905. Irish; lived in the Temperance Colony at Saskatoon where he was justice of the peace, schoolmaster, and for a time publisher of a manuscript newspaper, 1884-1885; moved to Regina to engage in journalism; territorial civil clerk in charge of the library, 1889-1891; moved to San Francisco about 1891 (Saskatchewan Archives, <i>Second annual report</i>; Saskatchewan Archives, Scott papers). // Includes advertising on last 26 pages.",
+  "format": "93, 26 p., illus., ports.; 22 cm.",
+  "identifier-bib": [
+    "local:peel1: 749",
+    "local:peel2: 1022",
+    "local:peel3: 1687",
+    "local:peel-procite-id: 1685"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Printed by Leader Co. (Regina)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "The People--Biography",
+    "History, Local--Saskatchewan--Regina",
+    "Regina (Sask.)--History",
+    "Regina (Sask.)--Description and travel",
+    "Regina (Sask.)--Biography",
+    "Publicité",
+    "Biographies",
+    "Hommes d'affaires",
+    "Vie des pionniers",
+    "1887"
+  ],
+  "title": "The history of Regina (illustrated): Its foundation and growth: With notices of the early pioneer merchants and business men, descriptive notices of the government offices and public institutions: With biographical sketches of Lieut.-Gov. Dewdney and principal officials, the Northwest Mounted Police, the Northwest and municipal councils, our churches, schools, &c.: Besides a vast amount of other useful information carefully obtained from reliable and authentic sources",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 11:41:10",
+  "addeddate": "2025-03-19 11:41:10",
+  "identifier-access": "http://archive.org/details/P001687",
+  "identifier-ark": "ark:/13960/s20pjfb0g05",
+  "imagecount": "126",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7051",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "66",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

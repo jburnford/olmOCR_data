@@ -1,0 +1,52 @@
+{
+  "identifier": "P001004",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Prendergast, James Emile Pierre, 1858-1945. (author)",
+  "date": "1881",
+  "description": "Prendergast, James Emile Pierre: 1858-1945. Arrived in Manitoba, 1882; in Legislature almost continuously from 1885 to 1897; appointed a judge, 1897; served on Supreme Court of Saskatchewan, 1905-1910; returned to Manitoba, 1910; chief justice of Manitoba, 1930-1944 (Morgan, <i>Canadian men and women of the time</i>, 1912; Wallace, <i>Dictionary of Canadian biography</i>).",
+  "format": "24 p.; 22 cm.",
+  "identifier-bib": [
+    "local:peel3: 1004",
+    "local:peel-procite-id: 1004"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "P.-G. Delisle, imprimeur (Quebec)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Literary Works--Poetry, French",
+    "Poetry, French Canadian",
+    "Canadian poetry (French)",
+    "Poésie canadienne-française",
+    "1881"
+  ],
+  "title": "Soir d'automne",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 05:50:12",
+  "addeddate": "2025-03-19 05:50:12",
+  "identifier-access": "http://archive.org/details/P001004",
+  "identifier-ark": "ark:/13960/s2pvdbptw38",
+  "imagecount": "25",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9503",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

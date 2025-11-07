@@ -1,0 +1,56 @@
+{
+  "identifier": "P001339",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Blake, Edward, 1833-1912. (author)",
+  "date": "1885",
+  "description": "Blake, Edward: 1833-1912. Leader of the Liberal Party of Canada, 1879-1887 (Wallace, <i>Dictionary of Canadian biography</i>). // At head of title: \"House of Commons debates. Third session, fifth Parliament, 48 Vic.\" Text in double columns.",
+  "format": "36 p.; 29.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 580",
+    "local:peel2: 787",
+    "local:peel3: 1339",
+    "local:peel-procite-id: 1337"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[Printed by MacLean, Roger & Co.] ([Ottawa])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Parliament",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Speeches, addresses, etc.",
+    "Discours",
+    "1885"
+  ],
+  "title": "Speech of Hon. E. Blake, M.P., on the disturbance in the North-West, Ottawa, July 6th, 1885",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 08:39:50",
+  "addeddate": "2025-03-19 08:39:50",
+  "identifier-access": "http://archive.org/details/P001339",
+  "identifier-ark": "ark:/13960/s2q498r9vf1",
+  "imagecount": "38",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

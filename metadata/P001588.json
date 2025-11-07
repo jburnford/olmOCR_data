@@ -1,0 +1,57 @@
+{
+  "identifier": "P001588",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Canada. Department of the Secretary of State (author)",
+    "Chapleau, Joseph-Adolphe (Sir), 1840-1898. (author)"
+  ],
+  "date": "1886",
+  "description": "Chapleau, Joseph-Adolphe (Sir): 1840-1898. Born and educated in Quebec; prime minister of Quebec, 1879-1882; secretary of state for Canada, 1882-1892; lieutenant-governor of Quebec, 1892-1898; created K.C.M.G., 1896 (Wallace, <i>Dictionary of Canadian biography</i>).",
+  "format": "49 p.; 23.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 652",
+    "local:peel2: 898",
+    "local:peel3: 1588",
+    "local:peel-procite-id: 1586"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Department of the Secretary of State ([Ottawa])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Politics and government",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "1886"
+  ],
+  "title": "Return (in part) to an address of the House of Commons, dated 4th March, 1886: For copies of all papers found in the Council Room of the Insurgents, or elsewhere at Batoche, especially including: 1. The diary of Louis Riel; 2. The minute book of orders in council of the insurgent council; 3. The correspondence of Louis Riel",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:45:29",
+  "addeddate": "2025-03-19 10:45:29",
+  "identifier-access": "http://archive.org/details/P001588",
+  "identifier-ark": "ark:/13960/s2pfq1hkx1m",
+  "imagecount": "54",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

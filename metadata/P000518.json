@@ -1,0 +1,58 @@
+{
+  "identifier": "P000518",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Oxenden, Ashton, 1808-1892. (author)",
+    "Mackay, John Alexander, 1838-1923. (translator)"
+  ],
+  "date": "1869",
+  "description": "Oxenden, Ashton: 1808-1892. // Mackay, John Alexander: 1838-1923. Native of Moosonee, Ontario; trained under Bishop Horden; ordained in the Church of England, 1862; at York Factory, 1862-1864, Stanley, 1864-1876, Nepowewin and Carlton, 1876-1877, and Battleford, 1877-1879; Cree tutor at Emmanuel College, Prince Albert, 1880-1884; in charge of Indian reserves at Battleford, 1885-1887; professor of divinity at Emmanuel, 1887-1900; superintendent of missions in diocese of Saskatchewan, 1900-1921; reorganized day school at Little Pine reserve, 1922; translator of religious works into Cree (Hopkins, <i>Canadian annual review</i>, 1923). // Text in English and Cree syllabics; one line of Cree syllabics at head of title. Also published, London: Society for Promoting Christian Knowledge, 1909 and 1924 (185p.; 1000 copies each time); and as <i>The pathway of safety: Translated by J.A. Mackay into the language of the Cree Indians of the Ecclesiastical Province of Rupert's land, North-West Canada, 1909: Re-written for the use of the Cree Indians in the Diocese of Moosonee by J.T. Griffin </i>, London: Society for Promoting Christian Knowledge, 1932 ([2], 210p.). Syllabic characters in 1932 edition said to be all hand-drawn and then reproduced.",
+  "format": "215 p.; 17 cm.",
+  "identifier-bib": [
+    "local:peel3: 518",
+    "local:peel-procite-id: 518"
+  ],
+  "language": [
+    "Cree",
+    "English"
+  ],
+  "mediatype": "texts",
+  "publisher": "[Church Missionary Society, printed by William Mavor Watts] ([London])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Indians of North America--Languages",
+    "Langues indiennes d'Amérique--Amérique du Nord",
+    "Religious literature",
+    "Littérature religieuse",
+    "1869"
+  ],
+  "title": "The pathway of safety: Translated by the Rev. John Mackay, into the language of Cree Indians, of the diocese of Rupert's Land, North-West America",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 02:04:51",
+  "addeddate": "2025-03-19 02:04:51",
+  "identifier-access": "http://archive.org/details/P000518",
+  "identifier-ark": "ark:/13960/s2kpcvc57xn",
+  "imagecount": "218",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Cyrillic",
+  "ocr_detected_script_conf": "0.6340",
+  "ocr_detected_lang": "la",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "95",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

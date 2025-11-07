@@ -1,0 +1,56 @@
+{
+  "identifier": "P001474",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "L'Étendard, Montreal (author)",
+  "date": "1886",
+  "description": "This exemplifies the most extreme Quebec reaction to the Riel execution and is related to Edward Blake and the election of 1886.",
+  "format": "21, iii p.; 22 cm.",
+  "identifier-bib": [
+    "local:peel2: 917",
+    "local:peel3: 1474",
+    "local:peel-procite-id: 1472"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "Imp. de l'Étendard (Montreal)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Anti-Catholicism",
+    "Anticatholicisme",
+    "Canada--French English relations",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Riel, Louis, 1844-1885",
+    "1885"
+  ],
+  "title": "La croisade anti-française et anti-catholique dirigée par Sir John A. Macdonald: le gouvernement d'Ottawa provoquant ouvertement une guerre de race et de religion: le \"Mail\" et les canadiens-français",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 09:45:11",
+  "addeddate": "2025-03-19 09:45:11",
+  "identifier-access": "http://archive.org/details/P001474",
+  "identifier-ark": "ark:/13960/s2xh0jvswzg",
+  "imagecount": "27",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

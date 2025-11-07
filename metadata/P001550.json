@@ -1,0 +1,56 @@
+{
+  "identifier": "P001550",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Thompson, John Sparrow David (Sir), 1844-1894. (author)",
+  "date": "1886",
+  "description": "Thompson, John Sparrow David (Sir): 1844-1894. At the time of the Saskatchewan Rebellion, Dominion Minister of Justice; later Prime Minister of Canada (Wallace, <i>Dictionary of Canadian biography</i>).",
+  "format": "54, [2] p.",
+  "identifier-bib": [
+    "local:peel2: 975",
+    "local:peel3: 1550",
+    "local:peel-procite-id: 1548"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([Quebec])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Politics and government",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Riel, Louis, 1844-1885",
+    "Speeches, addresses, etc.",
+    "Discours",
+    "1885"
+  ],
+  "title": "Discours sur la question Riel: prononcé devant le Cercle Lafontaine d'Ottawa, le 19 février 1886",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:30:43",
+  "addeddate": "2025-03-19 10:30:43",
+  "identifier-access": "http://archive.org/details/P001550",
+  "identifier-ark": "ark:/13960/s2mdntqhffh",
+  "imagecount": "58",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8782",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

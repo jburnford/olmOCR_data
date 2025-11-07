@@ -1,0 +1,56 @@
+{
+  "identifier": "P001711",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Bryce, George, 1844-1931. (author)",
+  "date": "1888",
+  "description": "Bryce, George: 1844-1931. Born at Mount Pleasant, Upper Canada; educated at University of Toronto; ordained a Presbyterian minister, 1871, and immediately sent to Winnipeg to organize work of Presbyterian Church; founded Manitoba College, and played part in founding of University of Manitoba; elected member Royal Society of Canada, 1901; moderator of Presbyterian Church in Canada, 1902; avid historian and writer (Wallace, <i>Dictionary of Canadian biography</i>). // From contents page: Part I: \"Prairie and mountain: I. A prose idyl [sic] of the harvest time in Manitoba; II. A dash through the prairies on the Canadian Pacific Railway; III. The Rockies–'The Mountains of shining stones'; IV. Attractions of Rocky Mountains park; V. Climbing the glacier and seeing the beauties of the Selkirks; VI. From the Columbia and down the Fraser to the sea.\" Part II: \"Lo! The poor Indian: I. Visit to the famous Chief Piapot, and view of our Indian policy; II. The reserves on the Crooked Lakes of the beautiful Qu'Appelle; III. The Assiniboines on the Hurricane Hills; IV. The civilized Ojibways of Okanase; V. Our refugee Sioux taking kindly to the soil; VI. Thrilling interview with the File Hills Indians.\" Note the headings on each section do not match the headings on the contents page. Bryce was particularly interested in the effects of church-run education on Natives.",
+  "format": "[1], 87 p.; 22 cm.",
+  "identifier-bib": [
+    "local:peel1: 766",
+    "local:peel2: 1042",
+    "local:peel3: 1711",
+    "local:peel-procite-id: 1709"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "The Author (Winnipeg)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "The People--Natives",
+    "Explorers, Surveyors and Travellers--Description and Travel--Alberta",
+    "Indian reservations",
+    "Réserves indiennes",
+    "Prairie Provinces--Description and travel",
+    "Saskatchewan--Description and travel",
+    "1888"
+  ],
+  "title": "Holiday rambles between Winnipeg and Victoria",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 12:02:52",
+  "addeddate": "2025-03-19 12:02:52",
+  "identifier-access": "http://archive.org/details/P001711",
+  "identifier-ark": "ark:/13960/s2p58sbq1gf",
+  "imagecount": "91",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9620",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "34",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

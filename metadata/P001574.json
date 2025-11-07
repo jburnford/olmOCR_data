@@ -1,0 +1,57 @@
+{
+  "identifier": "P001574",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Blake, Edward, 1833-1912. (author)",
+  "date": "1886",
+  "description": "Blake, Edward: 1833-1912. Leader of the Liberal Party of Canada, 1879-1887 (Wallace, <i>Dictionary of Canadian biography</i>). // Includes: \"Neglect, delay, and mismanagement: Race and creed cries,\" a speech delivered at Lindsay, Ontario; \"Mr. Blake to the Owen Sound Reform Association: North-West affairs: Maladministration and rebellion: Strange disappearance of 125,000 immigrants…scandalous treatment of Indians, 'What about Riel?,' the 'Bunter and Smasher' fanatics.\" <i>See also </i>Peel 1575 and 1577.",
+  "format": ".; 21 cm.",
+  "identifier-bib": [
+    "local:peel1: 639",
+    "local:peel2: 882",
+    "local:peel3: 1574",
+    "local:peel-procite-id: 1572"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Hunter, Rose & Co. (Toronto)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Elections",
+    "Political campaigns",
+    "Campagnes électorales",
+    "Prairie Provinces--Politics and government",
+    "Speeches, addresses, etc.",
+    "Discours",
+    "1886"
+  ],
+  "title": "Dominion election, campaign of 1886. Hon. Edward Blake's speeches: First series: North-West affairs",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:37:49",
+  "addeddate": "2025-03-19 10:37:49",
+  "identifier-access": "http://archive.org/details/P001574",
+  "identifier-ark": "ark:/13960/s2v0qfgsqbz",
+  "imagecount": "32",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "66",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

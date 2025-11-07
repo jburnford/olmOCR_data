@@ -1,0 +1,61 @@
+{
+  "identifier": "P001504",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Molinari, Gustave de, 1819-1912. (author)",
+  "date": "1886",
+  "description": "Molinari, Gustave de: 1819-1912. Born in Liège, Belgium; moved to Paris to pursue career as journalist and political economist, 1840s; strong and influential proponent of laissez-faire liberalism; became professor of political economy in Belgium to escape authoritarian France, early 1850s; returned to France, 1860s; editor of <i>Journal des débats</i>, 1871-1876; editor of <i>Journal des économistes</i>, 1881-1909. // In part I, pages 1-146, Molinari describes a journey across Canada in the autumn of 1885 by a party of delegates of Chambers of Commerce. The appendix, part II, pages [325]-332, \"L'état mental et l'exécution de Louis Riel,\" contains considerable information on the trial of Louis Riel which was then in progress.",
+  "format": "x, 334 p.; 18 cm.",
+  "identifier-bib": [
+    "local:peel2: 920",
+    "local:peel3: 1504",
+    "local:peel-procite-id: 1502"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "C. Reinwald, édit (Paris)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Explorers, Surveyors and Travellers--Overland Journeys to the Pacific",
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "French travellers",
+    "Travelers--France",
+    "Voyageurs--France",
+    "Letters",
+    "Lettres (Genre littéraire)",
+    "Prairie Provinces--Description and travel",
+    "Riel, Louis, 1844-1885",
+    "Treason",
+    "Treason",
+    "Trahison",
+    "1885"
+  ],
+  "title": "Au Canada et aux Montagnes Rocheuses, en Russie, en Corse, à l'Exposition universelle d'Anvers: lettres adressées au \"Journal des débats\"",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:01:44",
+  "addeddate": "2025-03-19 10:01:44",
+  "identifier-access": "http://archive.org/details/P001504",
+  "identifier-ark": "ark:/13960/s2789qdsqtq",
+  "imagecount": "346",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "98",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

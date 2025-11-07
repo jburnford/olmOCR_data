@@ -1,0 +1,56 @@
+{
+  "identifier": "P001454",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Girouard, Désiré, 1836-1911. (author)",
+  "date": "1885",
+  "description": "Girouard, Désiré: 1836-1911. Born and educated in Quebec; lawyer; M.P., 1878-1895; judge in Supreme Court of Canada, 1895-1911 (Wallace, <i>Dictionary of Canadian biography</i>).",
+  "format": "6 p.; 22 cm.",
+  "identifier-bib": [
+    "local:peel2: 818",
+    "local:peel3: 1454",
+    "local:peel-procite-id: 1452"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([Montreal]?)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Parliament",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Riel, Louis, 1844-1885",
+    "Speeches, addresses, etc.",
+    "Discours",
+    "1885"
+  ],
+  "title": "Louis Riel: assemblée de Lachine, 10 août 1885: discours de M. Girouard, député de comté Jacques-Cartier: sommaire complet corrigé par lui-même, du Monde, 12 août, 1885",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 09:37:36",
+  "addeddate": "2025-03-19 09:37:36",
+  "identifier-access": "http://archive.org/details/P001454",
+  "identifier-ark": "ark:/13960/s2rvgs2n76c",
+  "imagecount": "8",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8170",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

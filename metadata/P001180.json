@@ -1,0 +1,58 @@
+{
+  "identifier": "P001180",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Sykes, Richard (author)",
+  "date": "1883",
+  "description": "Sykes, Richard: Resident of Stockport, England; purchased land from CPR in the Qu'Appelle Valley, and organized a colonization company, the Edgeley estate, 1882 (Hedges, <i>Building the Canadian West</i>). // \"The Edgeley estate, the property of Mr. Richard Sykes of Edgeley near Stockport, England, was purchased in May, 1882 from the Canadian Pacific Railway Co.\" The estate consisted of 31 quarter sections of land.",
+  "format": "16 p., maps.; 21 cm.",
+  "identifier-bib": [
+    "local:peel1: 528",
+    "local:peel2: 702",
+    "local:peel3: 1180",
+    "local:peel-procite-id: 1179"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[I. Sowler & Co.] ([Manchester, England])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "History, Local--Saskatchewan--Qu'Appelle Valley",
+    "Settling the West--Immigration Literature",
+    "Farms",
+    "Exploitations agricoles",
+    "Qu'Appelle Region (Sask.)--Description and travel",
+    "Trust companies--Real estate operations",
+    "Trust companies--Real estate investments",
+    "Sociétés fiduciaires--Immeubles--Investissements",
+    "1883"
+  ],
+  "title": "Particulars of farms to be let or sold on the Edgeley estate, Qu'Appelle Valley, Assiniboia, North-West Territory of Canada",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 07:28:44",
+  "addeddate": "2025-03-19 07:28:44",
+  "identifier-access": "http://archive.org/details/P001180",
+  "identifier-ark": "ark:/13960/s2qm8h2cxp8",
+  "imagecount": "19",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.6874",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "27",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

@@ -1,0 +1,59 @@
+{
+  "identifier": "P000045",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Henry, Alexander elder, 1739-1824. (author)",
+    "Maverick, Peter Rushton, 1755-1811. (engraver)"
+  ],
+  "date": "1809",
+  "description": "Henry, Alexander elder: 1739-1824. Born in New Jersey; in fur trade in Canada, 1763-1780; at Cumberland House, 1775-1776; settled in Montreal, 1781; uncle of the younger Alexander Henry (Wallace, <i>Dictionary of Canadian biography</i>). // Maverick, Peter Rushton: 1755-1811. Born and died in New-York; silversmith, etcher, and engraver. // One of the first \"pedlars\" in the West under the British regime, Henry spent 1775-1776 in the Saskatchewan country. Also published, Ann Arbor, Mich.: University Microfilms, [1966] (vi, 330p.); New York: Readex Microprint, 1966 (vi, 330p.); New York: Garland Pub., 1976 (vi, 330p.). New edition, edited by James Bain, Toronto G.N. Morang and Boston: Little, Brown, 1901 (xxxv, [8], 347p.); reprinted, New York: Burt Franklin, 1969 (xxxiii, 347p.); St Clair Shores, Mich.: Scholarly Press, 1972 (xxxv, 347p.); with new introduction by L.G. Thomas, Edmonton: M.G. Hurtig and Rutland, Vt.: C.E. Tuttle Co., 1969 (xlvi, 347p.). Edited by Milo Milton Quaife, Chicago: R.R. Donnelley & Sons, 1921 (xxxii, 340p.); reprinted Ann Arbor, Mich.: University Microfilms, 1966 (xxxii, 340p.). Part 1 edited by David A. Armour as <i>Massacre at Mackinac: Alexander Henry's travels and adventures in Canada and the Indian territories between the years 1760 and 1764 </i>, Mackinac Island, Mich.: Mackinac Island State Park Commission, c1966 (119p.); as <i>Attack at Michilimackinac: Alexander Henry's travels and adventures in Canada and the Indian territories between the years 1760 and 1764 </i>, Mackinac Island, Mich.: Mackinac Island State Park Commission, 1971 and 1978 (xii, 131p.). Inspired a novel by William Joseph Seno, <i>Enemies: A saga of the Great Lakes wilderness </i>, Madison, Wisc.: Prairie Oak Press, 1993 (vii, 222p.).",
+  "format": "vi, [2], 330, [1] p., illus., port.; 22.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 29",
+    "local:peel2: 18",
+    "local:peel3: 45",
+    "local:peel-procite-id: 45"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Printed and published by I. Riley (New York)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "The People--Natives",
+    "Pro Pelle Cutem--North West Company",
+    "Indians of North America",
+    "Indiens d'Amérique--Amérique du Nord",
+    "North West Company",
+    "Saskatchewan--Description and travel",
+    "1776"
+  ],
+  "title": "Travels and adventures in Canada and the Indian territories between the years 1761 and 1776: In two parts",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-17 17:56:13",
+  "addeddate": "2025-03-17 17:56:13",
+  "identifier-access": "http://archive.org/details/P000045",
+  "identifier-ark": "ark:/13960/s2bbs767mk1",
+  "imagecount": "340",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9842",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "94",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

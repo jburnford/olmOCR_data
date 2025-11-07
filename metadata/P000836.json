@@ -1,0 +1,61 @@
+{
+  "identifier": "P000836",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Dennis, John Stoughton elder, 1820-1885. (author)",
+    "Hind, Henry Youle, 1823-1908. (author)",
+    "Canada. Dominion Lands Branch (author)"
+  ],
+  "date": "1878",
+  "description": "Dennis, John Stoughton elder: 1820-1885. Born at Kingston; commissioned a surveyor in Department of Crown lands, 1843; joined militia, 1855, rising to Brigade major of No.3 Military District, Toronto; placed in charge of surveying Northwest Territories, 1869; chiefly responsible for mapping prairies, and helping to precipitate Red River Rebellion; became Surveyor-General with Dominion Lands Branch, 1871; later deputy-minister of Department of Interior; father of John Stoughton Dennis (younger). // Hind, Henry Youle: 1823-1908. Born and educated in England; to Canada, 1846; professor of geology and chemistry, University of Toronto, 1853-1864; geologist on Red River exploratory expedition sent out from Canada, 1857; in command of Assiniboine-Saskatchewan exploratory expedition, 1858; later led surveying expeditions to eastern parts of Canada, including Labrador (Wallace, <i>Dictionary of Canadian biography</i>). // Introduction letter by Dennis addressed to the Right Honorable Sir John A. Macdonald, Minister of the Interior. Includes: \"Evidence given before the Committee of the House of Commons on Immigration by Professor Henry Y. Hind\" (introduction).",
+  "format": "[2], 43, [1] p., fold. map.; 25 cm.",
+  "identifier-bib": [
+    "local:peel1: 365",
+    "local:peel2: 472",
+    "local:peel3: 836",
+    "local:peel-procite-id: 836"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Printed by MacLean, Roger & Co. (Ottawa)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Communications--Hudson Bay Route",
+    "Hudson Bay Region (Man.)--Transportation",
+    "Trade routes",
+    "Routes commerciales",
+    "Waterways",
+    "Waterways",
+    "Voies navigables",
+    "1878"
+  ],
+  "title": "Navigation of Hudson's Bay",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 04:43:15",
+  "addeddate": "2025-03-19 04:43:15",
+  "identifier-access": "http://archive.org/details/P000836",
+  "identifier-ark": "ark:/13960/s2kvqgrmgrp",
+  "imagecount": "53",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7757",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "29",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

@@ -1,0 +1,54 @@
+{
+  "identifier": "P001555",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Tremblay, Ernest, 1852-1904. (author)",
+  "date": "1885",
+  "description": "Tremblay, Ernest: 1852-1904. // Response to Peel 1398. Tremblay, an eastern Liberal, condemned the Conservative government for its handling of Riel. // Digitization of this title was sponsored by the Board of Governors of the University of Alberta to commemorate the service of Ms. Audrey Poitras, External Committee Member, Community and Government Relations Sub-Committee, 2006-2010",
+  "format": "80 p.; 22.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 622",
+    "local:peel2: 851",
+    "local:peel3: 1555",
+    "local:peel-procite-id: 1553"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "Des Presses à vapeur du \"l'Union\" (St-Hyacinthe, Que.)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Riel, Louis, 1844-1885",
+    "1885"
+  ],
+  "title": "Riel: réponse à Monsieur J.A. Chapleau",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-05-26 19:59:21",
+  "addeddate": "2025-05-26 19:59:21",
+  "identifier-access": "http://archive.org/details/P001555",
+  "identifier-ark": "ark:/13960/s27cn34tcq5",
+  "imagecount": "83",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8724",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "72",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

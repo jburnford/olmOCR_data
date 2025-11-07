@@ -1,0 +1,55 @@
+{
+  "identifier": "P001467",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Irvine, Acheson Gosford, 1837-1916. (author)",
+  "date": "1885",
+  "description": "Irvine, Acheson Gosford: 1837-1916. Born Quebec; major in 2nd Battalion of Quebec Rifles in Red River expeditionary force, 1870; appointed commanding officer of Provisional Battalion of Rifles in Manitoba, 1871; appointed assistant commissioner of NWMP, 1875; commissioner of NWMP, 1880-1886 (Wallace, <i>Dictionary of Canadian biography</i>). // At head of title: \"Confidential.\" Covers Irvine's activities from March 18 to May 23, 1885.",
+  "format": "20 p.; 34 cm.",
+  "identifier-bib": [
+    "local:peel2: 822",
+    "local:peel3: 1467",
+    "local:peel-procite-id: 1465"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([Ottawa])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Diaries",
+    "Journaux intimes",
+    "Irvine, Acheson Gosford, 1837-1916",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "1885"
+  ],
+  "title": "Copy of official diary of Lieut.-Col. Irvine",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 09:42:21",
+  "addeddate": "2025-03-19 09:42:21",
+  "identifier-access": "http://archive.org/details/P001467",
+  "identifier-ark": "ark:/13960/s2x3jnpr21m",
+  "imagecount": "20",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "16",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

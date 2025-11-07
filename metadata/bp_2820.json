@@ -1,0 +1,50 @@
+{
+  "identifier": "bp_2820",
+  "call_number": "UA Cameron Staff Access-Maps. Western Canada C-47",
+  "color": "color",
+  "date": "1814",
+  "description": "1 map on 4 sheets ; blueline : 54 x 88.5 cm. on sheet 61 x 92 cm.;Scanned in Peel's Prairie Provinces database: Map 267: http://peel.library.ualberta.ca/maps/M000267.html;[Full title: \"This map made for the North West Company in 1813 and 1814 and delivered to the Honorable William McGillivray then agent Embraces the Region lying between 45 and 60 degrees North Latitude and 84 and 124 degrees West Longitude comprising the Survey's and Discoveries of 20 years namely the Discovery and Survey of the Oregon Territory to the Pacific Ocean the Survey of the Athabasca Lake Slave River and Lake from which flows Mackenzie's River to the Arctic Sea by Mr. Philip Turner the Route of Alexander Mackenzie in 1792 down part of Fraser's river together with the Survey of this River to the Pacific Ocean by the late John Stuart of the North-West Company by David Thompson Astronomer and Surveyor.\"];Includes present day Manitoba, Saskatchewan, Alberta and British Columbia.;Map extends from East end of Lake Superior to the mouth of the Fraser R. and from 45° N to 60° N.",
+  "imagecount": "5",
+  "language": [
+    "English",
+    "French"
+  ],
+  "mediatype": "texts",
+  "metasource_catalog": "University of Alberta Libraries",
+  "metasource_term": "2820",
+  "metasource_type": "local",
+  "notes": "Scale: 1:1,950,000.",
+  "scale": "Western Canada. Map. 1:1,950,000. Western Canada. 1:1,950,000.4 Sheets, Blueline. Map Extends from East End of Lake Superior to the Mouth of the Fraser R. and from 45° N to 60° N. Includes Present Day Manitoba, Saskatchewan, Alberta and British Columbia. Physical Sciences",
+  "scanner": "Internet Archive Python library 1.9.3",
+  "subject": "Western Canada--Physical sciences",
+  "title": "Map of the North-West Territory of the Province of Canada from actual survey during the years 1792 to 1812 .",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "publicdate": "2020-12-17 03:53:12",
+  "identifier-access": "http://archive.org/details/bp_2820",
+  "identifier-ark": "ark:/13960/t4bp9x45p",
+  "ocr": "tesseract 4.1.1",
+  "ocr_parameters": "-l chi_sim+fas+lat+ara+Latin+Arabic",
+  "ocr_module_version": "0.0.9",
+  "ocr_autonomous": "true",
+  "ocr_detected_script": [
+    "Arabic",
+    "Latin"
+  ],
+  "ocr_detected_script_conf": [
+    "0.9185",
+    "0.0815"
+  ],
+  "ocr_detected_lang": "la",
+  "ocr_detected_lang_conf": "1.0000",
+  "ocr_invalid_language": "EnglishFrench",
+  "pdf_module_version": "0.0.5",
+  "publisher": "David Thompson, [Canada]",
+  "year": "1814",
+  "collection": [
+    "wcw_gale",
+    "wcw",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "addeddate": "2021-02-19 18:13:41"
+}

@@ -1,0 +1,57 @@
+{
+  "identifier": "P001532",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Riel, Louis, 1844-1885. (author)",
+    "Guay, Abraham (editor)"
+  ],
+  "date": "1886",
+  "description": "Riel, Louis: 1844-1885. Métis leader; president of provisional government at Red River, 1869-1870; escaped with arrival of Wolseley's forces; elected to House of Commons to represent Provencher, 1873 and 1874, but unable to sit; declared an outlaw, 1875; lived in Montana until invited by Métis to the Saskatchewan country, 1884; executed at Regina, November 16, 1885. // Also published, [Toronto]: Canadiana House, 1970 (51p.); Saint-Boniface, Man.: Éditions des Plaines, 1979 (51p.).",
+  "format": "51, [1] p., port.; 17.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 703",
+    "local:peel2: 960",
+    "local:peel3: 1532",
+    "local:peel-procite-id: 1530"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "Imprimerie de \"L'Étendard\" (Montreal)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Literary Works--Poetry, French",
+    "Poetry, French Canadian",
+    "Canadian poetry (French)",
+    "Poésie canadienne-française",
+    "1885"
+  ],
+  "title": "Poésies religieuses et politiques",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:19:00",
+  "addeddate": "2025-03-19 10:19:00",
+  "identifier-access": "http://archive.org/details/P001532",
+  "identifier-ark": "ark:/13960/s2pznsmxx3d",
+  "imagecount": "57",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "16",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

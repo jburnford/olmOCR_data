@@ -1,0 +1,58 @@
+{
+  "identifier": "P001479",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Laurie, John Wimburn, 1835-1912. (author)",
+    "Canada. Department of Militia and Defence (author)"
+  ],
+  "date": "1887",
+  "description": "Laurie, John Wimburn: 1835-1912. Born in London; educated at Harrow and Sandhurst; served in Crimea and Indian Mutiny; to Canada, 1861; served in Fenian Raids; second-in-command of force sent to suppress Riel Rebellion; retired from army, 1887; elected to Canadian House of Commons, 1887-1891; elected to British House of Commons, 1895-1906 (Wallace, <i>Dictionary of Canadian biography</i>). // For French version <i>see </i>Peel 1478.",
+  "format": "39 p., tables.; 24.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 732",
+    "local:peel2: 995",
+    "local:peel3: 1479",
+    "local:peel-procite-id: 1477"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Printed by MacLean, Roger & Co. (Ottawa)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Military history",
+    "Canada--Parliament",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "1885"
+  ],
+  "title": "Report of Major General Laurie: Commanding base and lines of communication upon matters in connection with the suppression of the Rebellion in the North-West Territories in 1885",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 09:48:29",
+  "addeddate": "2025-03-19 09:48:29",
+  "identifier-access": "http://archive.org/details/P001479",
+  "identifier-ark": "ark:/13960/s2nzhjsf8z4",
+  "imagecount": "40",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9375",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "26",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

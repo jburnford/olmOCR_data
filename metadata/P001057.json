@@ -1,0 +1,57 @@
+{
+  "identifier": "P001057",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Daunt, Achilles, fl.1882-1909. (author)",
+  "date": "1882",
+  "description": "Daunt, Achilles: fl.1882-1909. English novelist and writer for children. // Also published, London: T. Nelson, 1884 (ix, [1] leaf, [13]-256p.); London: Thomas Nelson & Sons, [1888?] (xi, 224p.); London: T. Nelson, 1889 (256p.); London: Nelson, 1893 (256p.); London: T. Nelson, [1893] (224p.); London: Nelson, 1898 (ix, 256p.); New York & London: T. Nelson, [190-?] (224p.). Juvenile adventure story of fur-trade days along the Saskatchewan. Includes advertising.",
+  "format": "ix, 256 p., plates (part. double).; 19 cm.",
+  "identifier-bib": [
+    "local:peel1: 468",
+    "local:peel2: 618",
+    "local:peel3: 1057",
+    "local:peel-procite-id: 1057"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "T. Nelson & Sons (London & Edinburgh)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Literary Works--Fiction, Juvenile",
+    "Advertising",
+    "Publicité",
+    "Children's literature",
+    "Littérature de jeunesse",
+    "Fiction",
+    "Roman",
+    "1882"
+  ],
+  "title": "The three trappers: A story of adventure in the wilds of Canada",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 06:22:59",
+  "addeddate": "2025-03-19 06:22:59",
+  "identifier-access": "http://archive.org/details/P001057",
+  "identifier-ark": "ark:/13960/s2xrsgc5j06",
+  "imagecount": "258",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "99",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

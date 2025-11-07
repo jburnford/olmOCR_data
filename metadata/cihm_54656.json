@@ -1,0 +1,68 @@
+{
+  "title": "A charge delivered to the Synod of the Diocese of Ontario, 20th November, 1866 [microform]",
+  "creator": [
+    "United Church of England and Ireland. Diocese of Ontario. Bishop (1862-1869 : Lewis)",
+    "Lewis, John Travers, 1825-1901"
+  ],
+  "subject": [
+    "Church of England",
+    "Church of England"
+  ],
+  "description": [
+    "Caption title",
+    "Filmed from a copy of the original publication held by the University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "[S.l. : s.n.]",
+  "date": "1866",
+  "language": "eng",
+  "isbn": "0665546564",
+  "page-progression": "lr",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "shiptracking": "alb",
+  "call_number": "CIHM 54656",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "repub_state": "6",
+  "updatedate": "2012-04-05 14:56:34",
+  "updater": "Zack P",
+  "identifier": "cihm_54656",
+  "uploader": "associate-zack-peters@archive.org",
+  "addeddate": "2012-04-05 14:56:36",
+  "publicdate": "2012-04-05 14:56:39",
+  "scanner": "microfiche01.alberta.archive.org",
+  "operator": "microfilm-processing@archive.org",
+  "scandate": "20120410154259",
+  "allowjpgs": "true",
+  "imagecount": "19",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/cihm_54656",
+  "identifier-ark": "ark:/13960/t9v134q2j",
+  "scanfee": "100",
+  "sponsordate": "20120430",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "city": "[S.l.",
+  "oclc-id": [
+    "17596591",
+    "470294413",
+    "77126030",
+    "861477267"
+  ],
+  "backup_location": "ia903801_11",
+  "openlibrary_edition": "OL22117783M",
+  "openlibrary_work": "OL13535444W",
+  "external-identifier": "urn:oclc:record:1042012065",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "36",
+  "page_number_module_version": "1.0.3"
+}

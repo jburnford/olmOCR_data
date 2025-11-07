@@ -1,0 +1,62 @@
+{
+  "identifier": "P001625",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Langelier, Jean Chrysostôme, 1845-1910. (author)",
+    "Canada. Department of Agriculture (author)"
+  ],
+  "date": "1886",
+  "description": "Langelier, Jean Chrysostôme: 1845-1910. Quebec civil servant and author (Wallace, <i>Dictionary of Canadian biography</i>).",
+  "format": "89, [1], ii p., illus., maps.; 21.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 645",
+    "local:peel2: 890",
+    "local:peel3: 1625",
+    "local:peel-procite-id: 1623"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "Department of Agriculture (Trois Rivières, Que.)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Explorers, Surveyors and Travellers--Description and Travel--General",
+    "Settling the West--Immigration Literature",
+    "Forests and forestry",
+    "Foresterie",
+    "Forêts",
+    "Mines and mineral resources",
+    "Mines",
+    "Ressources minérales",
+    "Prairie Provinces--Description and travel",
+    "1886"
+  ],
+  "title": "Esquisse générale du nord-ouest du Canada, ou, étendue, bois et forêts, richesses minérales et climatologie des quatres districts provisoires d'Assiniboia, Saskatchewan, Alberta et Athabaska",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 11:04:37",
+  "addeddate": "2025-03-19 11:04:37",
+  "identifier-access": "http://archive.org/details/P001625",
+  "identifier-ark": "ark:/13960/s2b8t177hdc",
+  "imagecount": "102",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9090",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "64",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

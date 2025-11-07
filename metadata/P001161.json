@@ -1,0 +1,52 @@
+{
+  "identifier": "P001161",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "McLean, John bishop, 1828-1886. (author)",
+  "date": "1883",
+  "description": "McLean, John bishop: 1828-1886. Church of England clergyman; first Bishop of Saskatchewan, 1874-1886 (Wallace, <i>Dictionary of Canadian biography</i>). // \"Published by request of the Synod.\"",
+  "format": "4 p.; 23 cm.",
+  "identifier-bib": [
+    "local:peel2: 684",
+    "local:peel3: 1161",
+    "local:peel-procite-id: 1160"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Printed at the Office of the Manitoba Free Press (Winnipeg)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "The Spiritual Life--Church of England",
+    "Sermons",
+    "Sermons",
+    "1883"
+  ],
+  "title": "The principles of church action: A sermon preached before the provincial synod of the ecclesiastical province of Rupert's Land in St. John's Cathedral, Winnipeg on 8th August 1883",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 07:19:18",
+  "addeddate": "2025-03-19 07:19:18",
+  "identifier-access": "http://archive.org/details/P001161",
+  "identifier-ark": "ark:/13960/s2htq9wsbsb",
+  "imagecount": "5",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8015",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

@@ -1,0 +1,60 @@
+{
+  "identifier": "P001347",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Boulton, Charles Arkell (author)",
+  "date": "1886",
+  "description": "Boulton, Charles Arkell: 1841-1899. Born in Ontario; served in Imperial army until 1868; went to Red River Settlement and during the rebellion was imprisoned by Riel, 1869-1870; returned to Ontario, but again settled in Manitoba at Shellmouth; raised a cavalry unit \"Boulton's Scouts\" which he commanded during the Rebellion, 1885; appointed to the Senate, 1889; fifteen variations in the spelling of Arkell are known (Morgan, <i>Canadian men and women of the time</i>, 1898) // On pages 499-531: \"List of officers and men comprising the North-West Field Force which suppressed the Rebellion of 1885.\" Also published, [s.l.: s.n., 1886?] (469p.); edited and abridged by Heather Robertson as <i>I fought Riel: A military memoir </i>, Toronto: James Lorimer, 1985 (xvi, 225p.).",
+  "format": "[4], [vi], 1 leaf, [7]-531 p., port., illus., plates, plans, map.; 18.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 641",
+    "local:peel2: 884",
+    "local:peel3: 1347",
+    "local:peel-procite-id: 1345"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Grip Printing & Publishing Co. (Toronto)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Red River Rebellion",
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Military history",
+    "Red River Rebellion, 1869-70",
+    "Rouge, Rébellion de la rivière, 1869-1870",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Service men",
+    "Soldiers",
+    "Militaires",
+    "1885"
+  ],
+  "title": "Reminiscences of the North-West Rebellions: With a record of the raising of Her Majesty's 100th Regiment in Canada, and a chapter on Canadian social & political life",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 08:42:59",
+  "addeddate": "2025-03-19 08:42:59",
+  "identifier-access": "http://archive.org/details/P001347",
+  "identifier-ark": "ark:/13960/s29d36b708x",
+  "imagecount": "551",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8915",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "96",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

@@ -1,0 +1,71 @@
+{
+  "title": "A Scotch farmer's success in the Canadian North-West [microform]",
+  "creator": "Sandison, J. W",
+  "subject": [
+    "Agriculture",
+    "Agriculture"
+  ],
+  "description": [
+    "Signed: J.W. Sandison",
+    "Filmed from a copy of the original publication held by the University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "[S.l. : s.n.]",
+  "date": "1890",
+  "language": "eng",
+  "isbn": "0665307020",
+  "page-progression": "lr",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "operator": "zack@archive.org",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scandate": "20100611050430",
+  "imagecount": "31",
+  "updatedate": "2010-06-11 15:54:08",
+  "updater": "zack@archive.org",
+  "identifier": "cihm_30702",
+  "uploader": "curtisficheop@archive.org",
+  "addeddate": "2010-06-11 15:54:08",
+  "publicdate": "2010-06-11 15:54:17",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_30702",
+  "identifier-ark": "ark:/13960/t9w09rt6h",
+  "curation": "[curator]sharda@archive.org[/curator][date]20100702202605[/date][state]approved[/state]",
+  "sponsordate": "20100630",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "city": "[Winnipeg",
+  "oclc-id": [
+    "13240723",
+    "471078660",
+    "62906609",
+    "719971818",
+    "77469450"
+  ],
+  "lccn": "nuc87719218",
+  "related-external-id": [
+    "urn:isbn:0665328958",
+    "urn:oclc:10659591",
+    "urn:oclc:471070363",
+    "urn:oclc:719977190",
+    "urn:oclc:77433208"
+  ],
+  "backup_location": "ia903605_22",
+  "openlibrary_edition": "OL24243908M",
+  "openlibrary_work": "OL16740442W",
+  "external-identifier": "urn:oclc:record:1041980086",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "19",
+  "page_number_module_version": "1.0.3"
+}

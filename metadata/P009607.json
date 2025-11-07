@@ -1,0 +1,60 @@
+{
+  "identifier": "P009607",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Fourmond, Vital (author)",
+    "Oblates of Mary Immaculate (author)"
+  ],
+  "date": "1872",
+  "description": "Source: <i>Missions de la Congrégation des missionnaires oblats de Marie Immaculée</i> nos. 39-40 (September/December 1872), pp. 473-506.",
+  "format": "34 p. ; 22 cm.",
+  "identifier-bib": [
+    "local:peel_new: 623",
+    "local:peel3: 9607"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "A. Hennuyer (Paris)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Chickenpox",
+    "Varicelle",
+    "Fourmond, Vital, 1828-1892",
+    "Indians of North America",
+    "Indiens d'Amérique--Amérique du Nord",
+    "Saskatchewan",
+    "St.Albert Mission",
+    "St.Albert Mission",
+    "Saskatchewan",
+    "1870"
+  ],
+  "title": "Missions de Saint-Albert: Lettre du R.P. Fourmond au T.-R.P. Supérieur Général: mission du lac Sainte-Anne, le 26 décembre 1870",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-06-14 23:47:16",
+  "addeddate": "2025-06-14 23:47:16",
+  "identifier-access": "http://archive.org/details/P009607",
+  "identifier-ark": "ark:/13960/s2jf2dzxm94",
+  "imagecount": "35",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9821",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

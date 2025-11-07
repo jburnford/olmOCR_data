@@ -1,0 +1,60 @@
+{
+  "title": "Belcher's farmer's almanck for the province of Nova Scotia, Dominion of Canada, for the year of Our Lord, 1887 [microform]",
+  "subject": [
+    "Almanacs, Canadian",
+    "Almanachs canadiens"
+  ],
+  "description": [
+    "Tables",
+    "Includes advertising matter",
+    "Includes index",
+    "Filmed from a copy of the original publication held by the University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "Halifax, N.S. : McAlpine & Barnes",
+  "date": "1887",
+  "language": "eng",
+  "isbn": "0665296959",
+  "page-progression": "lr",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "operator": "zack@archive.org",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scandate": "20100527145231",
+  "imagecount": "279",
+  "updatedate": "2010-05-27 17:05:19",
+  "updater": "zack@archive.org",
+  "identifier": "cihm_29695",
+  "uploader": "curtisficheop@archive.org",
+  "addeddate": "2010-05-27 17:05:19",
+  "publicdate": "2010-05-27 17:05:24",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_29695",
+  "identifier-ark": "ark:/13960/t2z32h93h",
+  "curation": "[curator]sharda@archive.org[/curator][date]20100531215955[/date][state]approved[/state]",
+  "sponsordate": "20100531",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "city": "Halifax, N.S.",
+  "oclc-id": [
+    "39513380",
+    "77474125",
+    "867432638"
+  ],
+  "backup_location": "ia903605_19",
+  "external-identifier": "urn:oclc:record:1041975479",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "65",
+  "page_number_module_version": "1.0.3"
+}

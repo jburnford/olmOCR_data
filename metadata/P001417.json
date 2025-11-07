@@ -1,0 +1,55 @@
+{
+  "identifier": "P001417",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Conservative Party (Quebec) (author)",
+  "date": "1887",
+  "description": "Translated title: Elections of 1887: The true question // Includes reports and letters about Riel and the Rebellion.",
+  "format": "51 p.; 22 cm.",
+  "identifier-bib": [
+    "local:peel1: 740",
+    "local:peel2: 981",
+    "local:peel3: 1417",
+    "local:peel-procite-id: 1415"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([Quebec]?)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Elections",
+    "Canada--Politics and government",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "1885"
+  ],
+  "title": "Elections de 1887: la vraie question",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 09:19:04",
+  "addeddate": "2025-03-19 09:19:04",
+  "identifier-access": "http://archive.org/details/P001417",
+  "identifier-ark": "ark:/13960/s2np297h9s3",
+  "imagecount": "52",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9145",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

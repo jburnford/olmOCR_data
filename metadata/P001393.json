@@ -1,0 +1,54 @@
+{
+  "identifier": "P001393",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Caron, Joseph Phillipe René Adolphe (Sir), 1843-1908. (author)",
+  "date": "1886",
+  "description": "Caron, Joseph Phillipe René Adolphe (Sir): 1843-1908. Dominion Minister of Militia at the time of the Saskatchewan Rebellion, 1885; usually cited as Adolphe Caron (<i>Wallace, Dictionary of Canadian biography</i>). // At head of title: \"Débats des Communes, [qu]atrième session, cinquième Parlement.\" For English version <i>see </i>Peel 1397.",
+  "format": "11 p.; 33 cm.",
+  "identifier-bib": [
+    "local:peel3: 1393",
+    "local:peel-procite-id: 1391"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "[MacLean, Roger] ([Ottawa])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Canada--Parliament",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Riel, Louis, 1844-1885",
+    "Speeches, addresses, etc.",
+    "Discours",
+    "1885"
+  ],
+  "title": "Discours de Sir Adolphe Caron sur l'exécution de Louis Riel",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 09:07:09",
+  "addeddate": "2025-03-19 09:07:09",
+  "identifier-access": "http://archive.org/details/P001393",
+  "identifier-ark": "ark:/13960/s2cmnz151t4",
+  "imagecount": "11",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "86",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

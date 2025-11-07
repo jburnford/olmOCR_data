@@ -1,0 +1,69 @@
+{
+  "title": "Observations d'un catholique sur l'Histoire du Canada par l'Honorable William Smith [microforme]",
+  "creator": [
+    "Maguire, Thomas, 1776-1854",
+    "Smith, William, 1769-1847. History of Canada"
+  ],
+  "subject": [
+    "Église catholique",
+    "Catholic Church"
+  ],
+  "description": [
+    "Faux-titre",
+    "Attribué à Thomas Maguire--National Union Catalog pre-1956 imprints",
+    "\"(Extrait de la Gazette de Québec du 11 janvier 1827.)\"",
+    "Microfiche de l'exemplaire de l'édition originale se trouvant à la University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "[S.l. : s.n.]",
+  "date": "1827",
+  "language": "fre",
+  "isbn": "0665419740",
+  "page-progression": "lr",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "imagecount": "19",
+  "scandate": "20110114003959",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scanningcenter_orig": "alberta",
+  "uploader_orig": "curtisficheop@archive.org",
+  "operator": "zack@archive.org",
+  "updatedate": "2011-01-14 15:47:41",
+  "updater": "zack@archive.org",
+  "identifier": "cihm_41974",
+  "uploader": "curtisficheop@archive.org",
+  "addeddate": "2011-01-14 15:47:41",
+  "publicdate": "2011-01-14 15:47:44",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_41974",
+  "identifier-ark": "ark:/13960/t7dr3p12v",
+  "curation": "[curator]sharda@archive.org[/curator][date]20110203201947[/date][state]approved[/state]",
+  "sponsor": "University of Alberta Libraries",
+  "sponsordate": "20110131",
+  "scanfee": "10",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "city": "[S.l.",
+  "oclc-id": [
+    "14971080",
+    "726108998",
+    "77476598"
+  ],
+  "backup_location": "ia903608_14",
+  "openlibrary_edition": "OL24771415M",
+  "openlibrary_work": "OL15650460W",
+  "external-identifier": "urn:oclc:record:1042050164",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "24",
+  "page_number_module_version": "1.0.3"
+}

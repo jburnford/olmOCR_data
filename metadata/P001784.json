@@ -1,0 +1,53 @@
+{
+  "identifier": "P001784",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Grandin, Vital-Justin, 1829-1902. (author)",
+  "date": "1889",
+  "description": "Grandin, Vital-Justin: 1829-1902. Catholic clergyman; member of O.M.I.; from France to the mission on Lake Athabasca, 1855; chosen as Bishop Taché's coadjutor to assist in administration of the large diocese of St Boniface, 1857; vicar of the Saskatchewan missions, 1867; appointed first bishop of the diocese of St Albert, 1871 (Morice, <i>Histoire de l'église catholique</i>).",
+  "format": "4 p.; 26 cm.",
+  "identifier-bib": [
+    "local:peel1: 811",
+    "local:peel2: 1106",
+    "local:peel3: 1784",
+    "local:peel-procite-id: 1782"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([s.l.])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "The Spiritual Life--Roman Catholic Church",
+    "Canada--Politics and government",
+    "Roman Catholic Church--Clergy",
+    "1889"
+  ],
+  "title": "Un suprême appel: l'évêque du nord-ouest supplie tous les amis de la justice au Canada de l'aider à protéger ses ouailles contre les tyrans d'Ottawa",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 12:46:57",
+  "addeddate": "2025-03-19 12:46:57",
+  "identifier-access": "http://archive.org/details/P001784",
+  "identifier-ark": "ark:/13960/s258g0958cc",
+  "imagecount": "5",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "86",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

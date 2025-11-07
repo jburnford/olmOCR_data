@@ -1,0 +1,59 @@
+{
+  "identifier": "P000349",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Hind, Henry Youle, 1823-1908. (author)",
+  "date": "1858",
+  "description": "Hind, Henry Youle: 1823-1908. Born and educated in England; to Canada, 1846; professor of geology and chemistry, University of Toronto, 1853-1864; geologist on Red River exploratory expedition sent out from Canada, 1857; in command of Assiniboine-Saskatchewan exploratory expedition, 1858; later led surveying expeditions to eastern parts of Canada, including Labrador (Wallace, <i>Dictionary of Canadian biography</i>).",
+  "format": "16 p.; 24.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 163",
+    "local:peel2: 198",
+    "local:peel3: 349",
+    "local:peel-procite-id: 349"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Printed by Stewart Derbishire & George Desbarats (Toronto)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Communications--Communications with Red River",
+    "Discoveries in geography",
+    "Découvertes géographiques",
+    "Geology",
+    "Géologie",
+    "Red River Valley (Man.)--Description and travel",
+    "Waterways",
+    "Waterways",
+    "Voies navigables",
+    "1857"
+  ],
+  "title": "Report on a topographical & geological exploration of the canoe route between Fort William, Lake Superior and Fort Garry, Red River: And also of the valley of Red River, north of the 49th parallel, during the summer of 1857: Made under instructions from the Provincial Secretary of Canada",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 00:11:40",
+  "addeddate": "2025-03-19 00:11:40",
+  "identifier-access": "http://archive.org/details/P000349",
+  "identifier-ark": "ark:/13960/s2jtxnzsj0c",
+  "imagecount": "17",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7262",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "64",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

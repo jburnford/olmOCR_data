@@ -1,0 +1,55 @@
+{
+  "identifier": "P001520",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Paquin, Elzéar, 1850-1947. (author)",
+  "date": "1886",
+  "description": "Translated title: Riel: Tragedy in four acts // Paquin, Elzéar: 1850-1947. Born and educated in Quebec; physician in Chicago; returned to Quebec; author; Quebec nationalist (Wallace, <i>Dictionary of Canadian biography</i>). // Strongly pro-Catholic and anti-British in tone, Paquin compared Riel to Joan of Arc and Napoleon. Translated by Eugene Benson and Renate Benson as \"Riel: A tragedy in four acts\" and published in Anton Wagner, editor, <i>Canada's lost plays </i>: <i>Colonial Quebec: French-Canadian drama, 1606-1966 </i>, Toronto: Canadian Theatre Review Publications, 1982 (pp.203-269).",
+  "format": "143 p.; 17.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 699",
+    "local:peel2: 957",
+    "local:peel3: 1520",
+    "local:peel-procite-id: 1518"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "C.O. Beauchemin & fils (Montreal)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Literary Works--Drama",
+    "Drama, French Canadian",
+    "French-Canadian Drama",
+    "Théâtre canadien-français",
+    "1885"
+  ],
+  "title": "Riel: tragédie en quatre actes",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:09:00",
+  "addeddate": "2025-03-19 10:09:00",
+  "identifier-access": "http://archive.org/details/P001520",
+  "identifier-ark": "ark:/13960/s2jn0wbf6qt",
+  "imagecount": "148",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8778",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "70",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

@@ -1,0 +1,57 @@
+{
+  "identifier": "P000818",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Spence, Thomas, 1832-1900. (author)",
+  "date": "1877",
+  "description": "Spence, Thomas: 1832-1900. From England to Canada, 1862; to Red River, 1866; became involved in local politics, and instrumental in calling a meeting favouring union with Canada; later a prime mover in sending an invitation to the Prince of Wales from the First Nations asking him to visit; settled in Portage la Prairie, 1867; organized a provisional government, Republic of Manitoba, with himself as president, but government soon collapsed; edited <i>The New Nation</i>,1870; after formation of the province of Manitoba, became clerk of Legislative Council, and later of Legislative Assembly; census commissioner for NWT in 1881 and 1885; lived in California for some years engaged in immigration work; assistant registrar in Dominion land office in Edmonton, 1895-1900 (<i>Edmonton Bulletin</i>, March 23, 1900; Robertson, <i>A political manual of the province of Manitoba</i>). // Also published, revised edition, Montreal: Lovell Printing & Publishing Co., 1877 (60p.; pages 50-60 are advertisements); Montreal: Lovell Printing & Publishing Co., 1879 (59p.).",
+  "format": "44 p.; 21 cm.",
+  "identifier-bib": [
+    "local:peel1: 359",
+    "local:peel2: 465",
+    "local:peel3: 818",
+    "local:peel-procite-id: 818"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Lovell Printing & Publishing Co. (Montreal)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Settling the West--Immigration Literature",
+    "Advertising",
+    "Publicité",
+    "Emigration and immigration",
+    "Émigration et immigration",
+    "Saskatchewan--Commerce",
+    "Saskatchewan--Description and travel",
+    "1877"
+  ],
+  "title": "The Saskatchewan country of the north-west of the Dominion of Canada: Presented to the world as a new and inviting field of enterprise for the emigrant and capitalist: Its comparison as such with the western states and territories of America: Its climate, soil, agriculture, &c.: Minerals and manufacturing facilities, and the elements of its future greatness and prosperity: Points best suited for immediate settlement: Latest information, outfit, prices, &c.",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 04:33:04",
+  "addeddate": "2025-03-19 04:33:04",
+  "identifier-access": "http://archive.org/details/P000818",
+  "identifier-ark": "ark:/13960/s2vsshmx01c",
+  "imagecount": "66",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9060",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

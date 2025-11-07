@@ -1,0 +1,58 @@
+{
+  "identifier": "P001382",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Canada. Privy Council (author)",
+  "date": "1886",
+  "description": "For French version <i>see </i>Peel 1381.  <i>See also </i>Peel 1368.",
+  "format": "7 p.",
+  "identifier-bib": [
+    "local:peel1: 658",
+    "local:peel2: 904",
+    "local:peel3: 1382",
+    "local:peel-procite-id: 1380"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([Ottawa])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Military history",
+    "Canada--Parliament",
+    "Pensions--Laws, legislation, regulations, etc.",
+    "Pensions--Law and legislation",
+    "Pensions--Droit--Législation",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "1885"
+  ],
+  "title": "Copy of a report of the Honorable the Privy Council, approved by His Excellency the Governor-General in Council on the 8th July, 1885, respecting regulations as to pensions and gratuities, rebellion, North-West Territories",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 09:04:00",
+  "addeddate": "2025-03-19 09:04:00",
+  "identifier-access": "http://archive.org/details/P001382",
+  "identifier-ark": "ark:/13960/s2nb6gv33fw",
+  "imagecount": "10",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

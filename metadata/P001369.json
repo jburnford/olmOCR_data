@@ -1,0 +1,57 @@
+{
+  "identifier": "P001369",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Canada. Department of Public Works (author)",
+  "date": "1885",
+  "format": "41 p.; 24 cm.",
+  "identifier-bib": [
+    "local:peel1: 587",
+    "local:peel2: 797",
+    "local:peel3: 1369",
+    "local:peel-procite-id: 1367"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([Ottawa])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "History, Local--Saskatchewan--Saskatchewan River",
+    "Canada--Parliament",
+    "Letters",
+    "Lettres (Genre littéraire)",
+    "North Saskatchewan River (Alta. and Sask.)--Transportation",
+    "Surveys, Governmental",
+    "Surveys",
+    "Levés",
+    "1885"
+  ],
+  "title": "Copies of all reports, correspondence, and surveys, if any, in the Department of Public Works, as to the improvement of the North Saskatchewan River for the purpose of navigation",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 08:52:31",
+  "addeddate": "2025-03-19 08:52:31",
+  "identifier-access": "http://archive.org/details/P001369",
+  "identifier-ark": "ark:/13960/s2gx7x9v43d",
+  "imagecount": "41",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

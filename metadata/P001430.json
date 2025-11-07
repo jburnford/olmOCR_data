@@ -1,0 +1,56 @@
+{
+  "identifier": "P001430",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Desaulniers, Gonzalve Lesieur, 1863-1934. (author)",
+  "date": "1886",
+  "description": "Desaulniers, Gonzalve Lesieur: 1863-1934. // Poetry about the engagement of a detachment of the 65th Battalion Mount-Royal Rifles on May 28, 1885, at Frenchman's Butte during the North-West Rebellion. A list of members of the detachment under command of Lt. Col. G.A. Hughes is given in the introductory pages.",
+  "format": "16 p.; 20 cm.",
+  "identifier-bib": [
+    "local:peel2: 921",
+    "local:peel3: 1430",
+    "local:peel-procite-id: 1428"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "Impr. de l'Étendard (Montreal)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Literary Works--Poetry, French",
+    "Poetry, French Canadian",
+    "Canadian poetry (French)",
+    "Poésie canadienne-française",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "1885"
+  ],
+  "title": "L'absolution avant la bataille: dédié aux braves de la Butte-aux-Français",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 09:25:23",
+  "addeddate": "2025-03-19 09:25:23",
+  "identifier-access": "http://archive.org/details/P001430",
+  "identifier-ark": "ark:/13960/s2dqwwrx1ss",
+  "imagecount": "20",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

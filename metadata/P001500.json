@@ -1,0 +1,57 @@
+{
+  "identifier": "P001500",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Mercier, Honoré, 1840-1894. (author)",
+  "date": "1886",
+  "description": "Mercier, Honoré: 1840-1894. Premier of Quebec, 1887-1891 (Wallace, <i>Dictionary of Canadian biography</i>). // Text in double columns.",
+  "format": "58 p.; 22.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 693",
+    "local:peel2: 950",
+    "local:peel3: 1500",
+    "local:peel-procite-id: 1498"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "Imprimerie de l'Electeur (Quebec)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Quebec (Province)--Politics and government",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Riel, Louis, 1844-1885",
+    "Speeches, addresses, etc.",
+    "Discours",
+    "1885"
+  ],
+  "title": "Discours prononcé par l'Honorable M. Mercier, député de St-Hyacinthe et chef de l'opposition à l'Assemblée législative de Québec, le 7 mai 1886 sur la question Riel",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:00:37",
+  "addeddate": "2025-03-19 10:00:37",
+  "identifier-access": "http://archive.org/details/P001500",
+  "identifier-ark": "ark:/13960/s22pg81n8bh",
+  "imagecount": "58",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

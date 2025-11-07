@@ -1,0 +1,56 @@
+{
+  "identifier": "P001528",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Qu'Appelle Valley Farming Company (author)",
+  "date": "1886",
+  "description": "A request for compensation from the government by the Qu'Appelle Valley Farming Company, proprietors of Bell Farm, because during the Riel Rebellion horses and wagons had been commandeered and crops could not be planted on Bell Farm in the spring of 1885.",
+  "format": "4 p.; 35 cm.",
+  "identifier-bib": [
+    "local:peel3: 1528",
+    "local:peel-procite-id: 1526"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([Winnipeg])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Politics and government",
+    "Farms",
+    "Exploitations agricoles",
+    "Grain",
+    "Céréales",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "1885"
+  ],
+  "title": "To the Honourable Thomas White, Minister of the Interior, Dominion of Canada: The memorial of the Qu'Appelle Farming Company, l'd, represented by William Lewis Boyle, the President, and Hermann Joseph Eberts, the Secretary-Treasurer",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:17:24",
+  "addeddate": "2025-03-19 10:17:24",
+  "identifier-access": "http://archive.org/details/P001528",
+  "identifier-ark": "ark:/13960/s2tpv361tvj",
+  "imagecount": "5",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8351",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

@@ -1,0 +1,55 @@
+{
+  "identifier": "P001354",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Bryant, Wilbur Franklin, b.1851. (author)",
+  "date": "1888",
+  "description": "Bryant, Wilbur Franklin: b.1851. Born Dalton, New Hampshire; moved to Nebraska, 1876; lawyer, among many other occupations; present at Nebraska Constitutional Convention, 1919-1920. // December 6, 1888: Presented by Mr. Blair, referred to the Committee on Foreign Relations, and ordered to be printed.",
+  "format": "3 p.; 23 cm.",
+  "identifier-bib": [
+    "local:peel1: 765",
+    "local:peel2: 1041",
+    "local:peel3: 1354",
+    "local:peel-procite-id: 1352"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([Washington])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Riel, Louis, 1844-1885",
+    "United States--Politics and government",
+    "1885"
+  ],
+  "title": "Memorial in the matter of Louis Riel, the Senate of the United States, in the matter of Louis Riel: Statement of case",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 08:45:01",
+  "addeddate": "2025-03-19 08:45:01",
+  "identifier-access": "http://archive.org/details/P001354",
+  "identifier-ark": "ark:/13960/s2m4kk85h6m",
+  "imagecount": "5",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7444",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

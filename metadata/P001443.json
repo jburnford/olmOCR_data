@@ -1,0 +1,59 @@
+{
+  "identifier": "P001443",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Flynn, Edmund James, 1847-1927. (author)",
+  "date": "1886",
+  "description": "Flynn, Edmund James: 1847-1927. Born and educated in Quebec; professor of law; in Quebec legislative assembly, 1878-1904; prime minister of Quebec, 1896-1897 (Wallace, <i>Dictionary of Canadian biography</i>). // Text in double columns. Includes some English text.",
+  "format": "16 p.; 24.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 674",
+    "local:peel2: 929",
+    "local:peel3: 1443",
+    "local:peel-procite-id: 1441"
+  ],
+  "language": [
+    "French",
+    "English"
+  ],
+  "mediatype": "texts",
+  "publisher": "[Impr. générale A. Coté et Cie] ([Quebec])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Quebec (Province)--Politics and government",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Speeches, addresses, etc.",
+    "Discours",
+    "1885"
+  ],
+  "title": "Affaire Riel: discours de l'Honorable E.J. Flynn, solliciteur-général: prononcé devant l'Assemblée législative le 29 avril 1886, pendant le débat sur la motion présentée par l'Honorable M.P. Garneau, touchant l'exécution de la sentence de mort contre Louis Riel, accusé de haute-trahison",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 09:33:12",
+  "addeddate": "2025-03-19 09:33:12",
+  "identifier-access": "http://archive.org/details/P001443",
+  "identifier-ark": "ark:/13960/s2rdkhwgfdg",
+  "imagecount": "19",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng+fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8730",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "18",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

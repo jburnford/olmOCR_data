@@ -1,0 +1,81 @@
+{
+  "title": "Annals of the west [microform] : embracing a concise account of principal events which have occurred in the western states and territories from the discovery of the Mississippi Valley to the year eighteen hundred and fifty six",
+  "creator": [
+    "Peck, J. M. (John Mason), 1789-1858",
+    "Albach, James R",
+    "Perkins, James H. (James Handasyd), 1810-1849"
+  ],
+  "subject": [
+    "Indians of North America",
+    "Indiens d'Amérique"
+  ],
+  "description": [
+    "Attributed to James Handasyd and John Mason Peck--National Union Catalog pre-1956 imprints",
+    "Includes index",
+    "Bibliography: p. [iv]-xi",
+    "Filmed from a copy of the original publication held by the University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "Pittsburgh : J.R. Albach",
+  "date": "1857",
+  "language": "eng",
+  "isbn": "0665392621",
+  "page-progression": "lr",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "imagecount": "1053",
+  "scandate": "20101119075200",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scanningcenter_orig": "alberta",
+  "uploader_orig": "curtisficheop@archive.org",
+  "operator": "sfmicrofiche@archive.org",
+  "updatedate": "2010-11-22 22:15:11",
+  "updater": "sfmicrofiche@archive.org",
+  "identifier": "cihm_39262",
+  "uploader": "curtisficheop@archive.org",
+  "addeddate": "2010-11-22 22:15:11",
+  "publicdate": "2010-11-22 22:15:15",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_39262",
+  "identifier-ark": "ark:/13960/t6834m28p",
+  "ocr": "ABBYY FineReader 8.0",
+  "curation": "[curator]andrea@archive.org[/curator][date]20101203154856[/date][state]approved[/state]",
+  "sponsordate": "20101130",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "city": "Pittsburgh",
+  "oclc-id": [
+    "15342316",
+    "317728184",
+    "421741679",
+    "471067822",
+    "717045733",
+    "77119779"
+  ],
+  "related-external-id": [
+    "urn:isbn:0665344228",
+    "urn:oclc:10866453",
+    "urn:oclc:317912571",
+    "urn:oclc:422250281",
+    "urn:oclc:471072177",
+    "urn:oclc:719985628",
+    "urn:oclc:77434352"
+  ],
+  "backup_location": "ia903607_15",
+  "openlibrary_edition": "OL24473028M",
+  "openlibrary_work": "OL15512641W",
+  "external-identifier": "urn:oclc:record:768309595",
+  "ocr_module_version": "0.0.13",
+  "ocr_converted": "abbyy-to-hocr 1.1.7",
+  "page_number_confidence": "82.19"
+}

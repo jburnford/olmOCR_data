@@ -1,0 +1,72 @@
+{
+  "title": "Ethan Allen and the Green-Mountain heroes of '76 [microform] : with a sketch of the early history of Vermont",
+  "creator": "De Puy, Henry W. (Henry Walter), 1820-1876",
+  "subject": [
+    "Allen, Ethan, 1738-1789",
+    "Allen, Ethan, 1738-1789"
+  ],
+  "description": [
+    "Filmed from a copy of the original publication held by the University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "Buffalo : Phinney",
+  "date": "1859",
+  "language": "eng",
+  "isbn": "066561411X",
+  "page-progression": "lr",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "shiptracking": "alb",
+  "call_number": "CIHM 61411",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "repub_state": "6",
+  "updatedate": "2012-06-26 18:54:31",
+  "updater": "Zack P",
+  "identifier": "cihm_61411",
+  "uploader": "associate-zack-peters@archive.org",
+  "addeddate": "2012-06-26 18:54:33",
+  "publicdate": "2012-06-26 18:54:36",
+  "scanner": "microfiche01.alberta.archive.org",
+  "operator": "microfilm-processing@archive.org",
+  "scandate": "20120628222308",
+  "allowjpgs": "true",
+  "imagecount": "452",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/cihm_61411",
+  "identifier-ark": "ark:/13960/t9d51ss6t",
+  "scanfee": "100",
+  "sponsordate": "20120630",
+  "city": "Buffalo",
+  "oclc-id": [
+    "18099190",
+    "470447999",
+    "635649176",
+    "77129608",
+    "861561184"
+  ],
+  "related-external-id": [
+    "urn:isbn:0788401408",
+    "urn:oclc:34069794",
+    "urn:isbn:0836950224",
+    "urn:lccn:70114874",
+    "urn:oclc:78319"
+  ],
+  "backup_location": "ia903805_25",
+  "openlibrary_edition": "OL19677030M",
+  "openlibrary_work": "OL7164312W",
+  "external-identifier": "urn:oclc:record:1041983220",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "70",
+  "page_number_module_version": "1.0.3"
+}

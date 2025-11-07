@@ -1,0 +1,58 @@
+{
+  "identifier": "P001326",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Allen, Charles William, b.1840. (author)",
+  "date": "1885",
+  "description": "Allen, Charles William: b.1840. Civil servant in Department of the Interior, 1881-1884; journalist with Winnipeg newspapers for a year or two before moving to Halifax (\"Civil Service lists\" in <i>Canadian sessional papers</i>, 1884; Canadian Press Association, <i>A history of Canadian journalism</i>).",
+  "format": "13 p.; 23 cm.",
+  "identifier-bib": [
+    "local:peel1: 576",
+    "local:peel2: 783",
+    "local:peel3: 1326",
+    "local:peel-procite-id: 1324"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Toronto News Co. (Toronto)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Settling the West--Immigration and Settlement",
+    "Canada--Military history",
+    "Land grants",
+    "Concessions de terres",
+    "Service men",
+    "Soldiers",
+    "Militaires",
+    "1885"
+  ],
+  "title": "Volunteer land grants, scrip, and pensions: With suggestions shewing how a grantee may realize to best advantage",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 08:33:52",
+  "addeddate": "2025-03-19 08:33:52",
+  "identifier-access": "http://archive.org/details/P001326",
+  "identifier-ark": "ark:/13960/s24ps53s5hb",
+  "imagecount": "22",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9103",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Physiological æsthetics [microform]",
+  "creator": "Allen, Grant, 1848-1899",
+  "subject": [
+    "Aesthetics",
+    "Senses and sensation",
+    "Esthétique",
+    "Sens et sensations"
+  ],
+  "description": [
+    "Filmed from a copy of the original publication held by the University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "London : H.S. King",
+  "date": "1877",
+  "language": "eng",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "operator": "gabe@archive.org",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scandate": "20090206210921",
+  "imagecount": "301",
+  "updatedate": "2009-02-10 18:29:53",
+  "updater": "gabe@archive.org",
+  "identifier": "cihm_05060",
+  "uploader": "microficheop@archive.org",
+  "addeddate": "2009-02-10 18:29:53",
+  "publicdate": "2009-02-10 18:29:57",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_05060",
+  "identifier-ark": "ark:/13960/t20c58j6d",
+  "scanfactors": "14",
+  "curation": "[curator]naruta@archive.org[/curator][date]20090304[/date][state]approved[/state]",
+  "sponsordate": "20090228",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "backup_location": "ia903602_27",
+  "openlibrary_edition": "OL23287965M",
+  "openlibrary_work": "OL1797121W",
+  "external-identifier": "urn:oclc:record:1042048330",
+  "filesxml": [
+    "Thu Dec 31 21:39:24 UTC 2020",
+    "Sun Oct 3 14:23:28 UTC 2021"
+  ],
+  "isbn": "0665050607",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.3"
+}

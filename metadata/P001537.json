@@ -1,0 +1,53 @@
+{
+  "identifier": "P001537",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Royal, Joseph, 1837-1902. (author)",
+  "date": "1886",
+  "description": "Royal, Joseph: 1837-1902. Quebec born and educated; journalist, lawyer, and historian; to Manitoba to found <i>Le Métis</i>, 1870; member and cabinet minister in Manitoba government, 1870-1878; M.P., 1879-1888; Lieutenant-Governor of NWT, 1888-1893 (Wallace, <i>Dictionary of Canadian biography</i>).",
+  "format": "11 p.; 21 cm.",
+  "identifier-bib": [
+    "local:peel3: 1537",
+    "local:peel-procite-id: 1535"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[MacLean, Roger & Co.] ([Ottawa])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Prairie Provinces--Politics and government",
+    "Riel, Louis, 1844-1885",
+    "Speeches, addresses, etc.",
+    "Discours",
+    "1885"
+  ],
+  "title": "Speech of Mr. J. Royal, M.P., on the execution of Louis Riel, House of Commons, March 12th, 1886",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:20:59",
+  "addeddate": "2025-03-19 10:20:59",
+  "identifier-access": "http://archive.org/details/P001537",
+  "identifier-ark": "ark:/13960/s2fc4cxc2mc",
+  "imagecount": "11",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9178",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

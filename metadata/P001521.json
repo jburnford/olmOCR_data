@@ -1,0 +1,55 @@
+{
+  "identifier": "P001521",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "date": "1885",
+  "description": "\"Dom Pedro\" may have been Frédéric Alexandre Baillairgé (1854-1928, Catholic priest in Quebec and prolific writer) or Nehemiah Jones, or perhaps someone else entirely. Library catalogues do not agree on who is behind the pseudonym. Partial contents, all but one without author attribution: \"Fun at the seat of war\" a first-person memoir attributed to Nehemiah Jones (pages 7-14); \"School war\" (15-20); \"Temperance reminiscences\" (21-23); \"Temperance reminiscences about Hughey\" (24-27); and \"The last letter\" (28-32).",
+  "format": "[3], 1 leaf, 32 p.; 23 cm.",
+  "identifier-bib": [
+    "local:peel2: 838",
+    "local:peel3: 1521",
+    "local:peel-procite-id: 1519"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[Hill & Weir] ([Toronto])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Military history",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Veterans",
+    "Veterans",
+    "Anciens combattants",
+    "1885"
+  ],
+  "title": "Sketches: Dedicated to the veterans of '85",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:09:48",
+  "addeddate": "2025-03-19 10:09:48",
+  "identifier-access": "http://archive.org/details/P001521",
+  "identifier-ark": "ark:/13960/s21k7g42sd0",
+  "imagecount": "29",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8478",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "46",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

@@ -1,0 +1,80 @@
+{
+  "title": "The art of school management [microform] : a text-book for normal schools and normal institutes, and a reference book for teachers, school officers and parents",
+  "creator": [
+    "Baldwin, Joseph, 1827-1899",
+    "Dawson, R"
+  ],
+  "subject": [
+    "School management and organization",
+    "Teaching",
+    "Administration scolaire",
+    "Enseignement"
+  ],
+  "description": [
+    "Filmed from a copy of the original publication held by the University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "Toronto : Warwick",
+  "date": "1887",
+  "language": "eng",
+  "isbn": "0665382782",
+  "page-progression": "lr",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "imagecount": "356",
+  "scandate": "20101107083850",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scanningcenter_orig": "alberta",
+  "uploader_orig": "curtisficheop@archive.org",
+  "operator": "sfmicrofiche@archive.org",
+  "updatedate": "2010-11-09 00:29:45",
+  "updater": "sfmicrofiche@archive.org",
+  "identifier": "cihm_38278",
+  "uploader": "curtisficheop@archive.org",
+  "addeddate": "2010-11-09 00:29:45",
+  "publicdate": "2010-11-09 00:29:49",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_38278",
+  "identifier-ark": "ark:/13960/t6m04wt9d",
+  "curation": "[curator]andrea@archive.org[/curator][date]20101203154856[/date][state]approved[/state]",
+  "sponsordate": "20101130",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "city": "Toronto",
+  "edition": "2nd ed.",
+  "oclc-id": [
+    "14196832",
+    "317783331",
+    "421508445",
+    "471084814",
+    "77474952"
+  ],
+  "related-external-id": [
+    "urn:isbn:0665250827",
+    "urn:oclc:317904611",
+    "urn:oclc:422206444",
+    "urn:oclc:471042797",
+    "urn:oclc:719226699",
+    "urn:oclc:768297419",
+    "urn:oclc:77425062",
+    "urn:oclc:9639116"
+  ],
+  "backup_location": "ia903607_5",
+  "openlibrary_edition": "OL24431563M",
+  "openlibrary_work": "OL15465725W",
+  "external-identifier": "urn:oclc:record:1041989604",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "81",
+  "page_number_module_version": "1.0.3"
+}

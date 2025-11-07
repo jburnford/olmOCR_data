@@ -1,0 +1,57 @@
+{
+  "identifier": "P001589",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Canada. Parliament (author)",
+    "Canada. Office of the Auditor General (author)"
+  ],
+  "date": "1886",
+  "description": "Other title: \"Expenditure arising out of the troubles in the North-West Territories: From 1st July, 1885, to 15th March, 1886: Also subsidiary statement of the Hudson Bay Company's supplies.\"",
+  "format": "60 p., fold. map.; 25 cm.",
+  "identifier-bib": [
+    "local:peel2: 888",
+    "local:peel3: 1589",
+    "local:peel-procite-id: 1587"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[Printed by MacLean, Roger & Co.] ([Ottawa])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Finance",
+    "Canada--Politics and government",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "1886"
+  ],
+  "title": "Expenditure under appropriation of $2,300,000 to defray expenses and losses arising out of troubles in the North-West Territories, from 1st July 1885 to 15th March, 1886: Also subsidiary statement of expenditure under the same appropriation, &c., Hudson Bay supplies, &c.",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:46:02",
+  "addeddate": "2025-03-19 10:46:02",
+  "identifier-access": "http://archive.org/details/P001589",
+  "identifier-ark": "ark:/13960/s2z68sp8wk2",
+  "imagecount": "61",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8451",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "32",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

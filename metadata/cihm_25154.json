@@ -1,0 +1,73 @@
+{
+  "title": "An Account of vessels arrived at Quebec in the year 1798 [microform] : (as found among the papers of the late Chief Justice Jonathan Sewell, and presented to the Quebec Exchange in 1863, by his son, Revd. E.W. Sewell)",
+  "creator": [
+    "Sewell, Jonathan, 1766-1839",
+    "Le Moine, J. M. (James MacPherson), Sir, 1825-1912",
+    "Literary and Historical Society of Quebec"
+  ],
+  "subject": [
+    "Shipping",
+    "Transports maritimes"
+  ],
+  "description": [
+    "Running title",
+    "Half-title: Trade and shipping, Port of Quebec, 1793",
+    "\"Manuscripts published under the auspices of the Literary and Historical Society of Quebec, 1882\"--Cover",
+    "\"... extracted from the registers of the Quebec Exchange and contributed for publication by MacPherson LeMoyne ...\"",
+    "Duplicate of CIHM microfiche no. 13463",
+    "Filmed from a copy of the original publication held by the University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "[Quebec? : s.n.",
+  "date": "1882",
+  "language": "eng",
+  "isbn": "0665251548",
+  "page-progression": "lr",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "operator": "zack@archive.org",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scandate": "20091215223523",
+  "imagecount": "12",
+  "updatedate": "2009-12-16 14:20:04",
+  "updater": "zack@archive.org",
+  "identifier": "cihm_25154",
+  "uploader": "curtisficheop@archive.org",
+  "addeddate": "2009-12-16 14:20:04",
+  "publicdate": "2009-12-16 14:20:07",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_25154",
+  "identifier-ark": "ark:/13960/t73v05x2d",
+  "curation": "[curator]sharda@archive.org[/curator][date]20091222004800[/date][state]approved[/state]",
+  "sponsordate": "20091231",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "city": "[Quebec?",
+  "oclc-id": [
+    "222345307",
+    "243477303",
+    "471042823",
+    "49119054",
+    "62905429",
+    "833501134"
+  ],
+  "backup_location": "ia903604_19",
+  "openlibrary_edition": "OL24135594M",
+  "openlibrary_work": "OL11924543W",
+  "external-identifier": "urn:oclc:record:987649928",
+  "filesxml": "Sun Oct 3 14:53:26 UTC 2021",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "31",
+  "page_number_module_version": "1.0.3"
+}

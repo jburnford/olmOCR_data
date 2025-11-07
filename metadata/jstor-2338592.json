@@ -1,0 +1,40 @@
+{
+  "identifier": "jstor-2338592",
+  "article-type": "research-article",
+  "contributor": "JSTOR",
+  "creator": "Hind, Henry Youle",
+  "date": "1864-03-01",
+  "description": "<p>\"On the Commercial Progress and Resources of Central British America; the Lake Winnipeg and Saskatchewan Districts\" is an article from <a href=\"/search.php?query=collection%3Ajstor_jstatsocilond%20AND%20volume%3A27\" rel=\"nofollow\">Journal of the Statistical Society of London, Volume 27</a>.</p> <p>View more articles from <a href=\"/search.php?query=collection%3Ajstor_jstatsocilond\" rel=\"nofollow\">Journal of the Statistical Society of London</a>.<br />View <a href=\"http://www.jstor.org/stable/10.2307/2338592\" rel=\"nofollow\">this article on JSTOR</a>.<br />View <a href=\"/download/jstor-2338592/10.2307_2338592.xml\" rel=\"nofollow\">this article's JSTOR metadata</a>.<br /></p><p>You may also retrieve all of this items metadata in JSON at the following URL: <a href=\"https://archive.org/metadata/jstor-2338592\" rel=\"nofollow\">https://archive.org/metadata/jstor-2338592</a></p>",
+  "imagecount": "25",
+  "issn": "09595341",
+  "journalabbrv": "jstatsocilond",
+  "journaltitle": "Journal of the Statistical Society of London",
+  "language": "eng",
+  "mediatype": "texts",
+  "pagerange": "82-105",
+  "publisher": "Journal of the Statistical Society of London",
+  "source": "http://www.jstor.org/stable/10.2307/2338592",
+  "title": "On the Commercial Progress and Resources of Central British America; the Lake Winnipeg and Saskatchewan Districts",
+  "volume": "27",
+  "collection": [
+    "jstor_jstatsocilond",
+    "jstor_ejc",
+    "additional_collections",
+    "journals"
+  ],
+  "external-identifier": [
+    "urn:jstor-headid:10.2307/j100838",
+    "urn:jstor-articleid:10.2307/2338592",
+    "urn:jstor-issueid:10.2307/i315669",
+    "urn:jstor-journalid:10.2307/j100831"
+  ],
+  "publicdate": "2013-03-19 11:40:15",
+  "uploader": "jake@archive.org",
+  "addeddate": "2013-03-19 11:40:15",
+  "identifier-access": "http://archive.org/details/jstor-2338592",
+  "identifier-ark": "ark:/13960/t9k379544",
+  "ppi": "300",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "backup_location": "ia905608_13"
+}

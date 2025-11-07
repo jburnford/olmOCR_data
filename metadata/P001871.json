@@ -1,0 +1,57 @@
+{
+  "identifier": "P001871",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Coutlée, Louis William, 1851-1917. (author)",
+  "date": "1890",
+  "description": "Coutlée, Louis William: 1851-1917. Lawyer; deputy attorney-general and law clerk of the Manitoba Legislature, 1882-1887; served as captain of Winnipeg Field Battery during Saskatchewan Rebellion; instrumental in introducing the Torrens system of land titles registration into Manitoba and served as registrar-general, 1887-1890; later assistant reporter of the Supreme Court of Canada (Manitoba Library Association, <i>Pioneers and early citizens of Manitoba</i>; Morgan, <i>Canadian men and women of the time</i>, 1912). // Includes: Real Property Act of 1889 (Manitoba Statute 52 Victoria, cap. 16); Territories Real Property Act (Revised Statutes of Canada, cap. 51); and Manitoba Statute 53 Victoria cap. 5, Being an Act to Amend \"The Real Property Act of 1889.\" // Digitization of this title was sponsored by the Board of Governors of the University of Alberta to commemorate the service of Mr. C. H. William Cheung, Member of the Board, 2008-2011",
+  "format": "xiii, 1 leaf, 334 p.; 23 cm.",
+  "identifier-bib": [
+    "local:peel2: 1164",
+    "local:peel3: 1871",
+    "local:peel-procite-id: 1869"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Carswell & Co. (Toronto)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Politics and Government--North West Territories",
+    "Land titles--Laws, legislation, regulations, etc.",
+    "Land titles--Registration and transfer",
+    "Titres de propriété--Immatriculation et transfert",
+    "Prairie Provinces--Politics and government",
+    "Real estate business",
+    "Real estate business",
+    "Immobilier",
+    "1890"
+  ],
+  "title": "A manual of the law of registration of titles to real estate in Manitoba and the North-West Territories",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-05-26 21:09:12",
+  "addeddate": "2025-05-26 21:09:12",
+  "identifier-access": "http://archive.org/details/P001871",
+  "identifier-ark": "ark:/13960/s2jhq14z7rp",
+  "imagecount": "354",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9800",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "98",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

@@ -1,0 +1,58 @@
+{
+  "identifier": "P001635",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Pearce, William, 1848-1930. (author)",
+    "Canada. Department of the Interior (author)"
+  ],
+  "date": "1886",
+  "description": "Pearce, William: 1848-1930. Civil engineer; in charge of land surveys in Manitoba & NWT, 1873-1881; entered Dominion civil service, 1882, and successively inspector of land agencies, superintendent of mines in Manitoba & NWT and chief inspector of surveys; on royal commission to inquire into freight rates in the West, 1894 (Morgan, <i>Canadian men and women of the time</i>, 1912; Robertson, <i>A political manual of the province of Manitoba</i>; Wallace, <i>Dictionary of Canadian biography</i>).",
+  "format": "18 p., tables.; 26 cm.",
+  "identifier-bib": [
+    "local:peel1: 650",
+    "local:peel2: 894",
+    "local:peel3: 1635",
+    "local:peel-procite-id: 1633"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Printed by MacLean, Roger & Co. (Ottawa)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "The People--Métis",
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Politics and government",
+    "Métis--Land tenure",
+    "Métis--Terres",
+    "1886"
+  ],
+  "title": "Detailed report upon all claims to land and right to participate in the North-West half-breed grant by settlers along the South Saskatchewan and vicinity west of range 26, W. 2nd meridian: Being the settlements commonly known as St. Louis de Langevin, St. Laurent or Batoche, and Duck Lake",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 11:07:12",
+  "addeddate": "2025-03-19 11:07:12",
+  "identifier-access": "http://archive.org/details/P001635",
+  "identifier-ark": "ark:/13960/s2wrj38dp86",
+  "imagecount": "23",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9472",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

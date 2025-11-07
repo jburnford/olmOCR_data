@@ -1,0 +1,62 @@
+{
+  "title": "The life and voyages of Americus Vespucius [microform] : with illustrations concerning the navigator, and the discovery of the New World",
+  "creator": [
+    "Lester, C. Edwards (Charles Edwards), 1815-1890",
+    "Foster, Andrew"
+  ],
+  "subject": [
+    "Vespucci, Amerigo, 1451-1512",
+    "Vespucci, Amerigo, 1451-1512"
+  ],
+  "description": [
+    "\"Agit grates ... Ovid, Met.iii.v. 14.\"",
+    "Issued also under title: The life and voyages of discovery of Americus Vespecius",
+    "Includes index",
+    "Filmed from a copy of the original publication held by the University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "New York : Baker & Scribner",
+  "date": "1846",
+  "language": "eng",
+  "page-progression": "lr",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "operator": "zack@archive.org",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scandate": "20091106221424",
+  "imagecount": "479",
+  "updatedate": "2009-11-09 19:05:46",
+  "updater": "zack@archive.org",
+  "identifier": "cihm_18736",
+  "uploader": "curtisficheop@archive.org",
+  "addeddate": "2009-11-09 19:05:46",
+  "publicdate": "2009-11-09 19:06:12",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_18736",
+  "identifier-ark": "ark:/13960/t3qv43g6p",
+  "curation": "[curator]sharda@archive.org[/curator][date]20091124201714[/date][state]approved[/state]",
+  "sponsordate": "20091130",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "backup_location": "ia903604_11",
+  "openlibrary_edition": "OL19210704M",
+  "openlibrary_work": "OL5803320W",
+  "external-identifier": "urn:oclc:record:1042056935",
+  "filesxml": "Sun Oct 3 14:44:58 UTC 2021",
+  "isbn": "066518736X",
+  "associated-names": "Foster, Andrew",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "43",
+  "page_number_module_version": "1.0.3"
+}

@@ -1,0 +1,62 @@
+{
+  "identifier": "P000427",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Hind, Henry Youle, 1823-1908. (author)",
+    "Fleming, Sandford (Sir), 1827-1915. (author)"
+  ],
+  "date": "1862",
+  "description": "Hind, Henry Youle: 1823-1908. Born and educated in England; to Canada, 1846; professor of geology and chemistry, University of Toronto, 1853-1864; geologist on Red River exploratory expedition sent out from Canada, 1857; in command of Assiniboine-Saskatchewan exploratory expedition, 1858; later led surveying expeditions to eastern parts of Canada, including Labrador (Wallace, <i>Dictionary of Canadian biography</i>). // Fleming, Sandford (Sir): 1827-1915. Born and educated as surveyor and engineer in Scotland; became engineer for Northern Railway, 1845; chief engineer of Intercolonial Railway during its construction; engineer-in-chief of surveys for CPR, 1871-1880; proponent of 24-hour-per-day system of time reckoning and intra-imperial system of cable communication; created C.M.G. (1877), K.C.M.G. (1897); charter member of Royal Society of Canada, 1882; chancellor of Queen's University, 1880-1915; director of HBC and CPR for some years (Wallace, <i>Dictionary of Canadian biography</i>). // Includes \"Practical observations on the construction of a continuous line of railway from Canada to the Pacific Ocean on British territory\" by Fleming (pages 80-117). Appendices: \"The <i>London Times </i>' correspondent's letter\"; \"Freight from St. Paul to Fort Garry\"; and \"List of necessary or useful articles in a journey across the prairies to British Columbia.\" Advertisements on page 129. <i>See also </i>Peel 423.",
+  "format": "129 p., fold. map.; 16.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 189",
+    "local:peel2: 232",
+    "local:peel3: 427",
+    "local:peel-procite-id: 427"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "W.C. Chewett & Co. (Toronto)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Communications--Pacific Railway",
+    "Advertising",
+    "Publicité",
+    "Canada--Transportation",
+    "Discoveries in geography",
+    "Découvertes géographiques",
+    "Prairie Provinces--Description and travel",
+    "Trade routes",
+    "Routes commerciales",
+    "1862"
+  ],
+  "title": "A sketch of an overland route to British Columbia",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 01:18:42",
+  "addeddate": "2025-03-19 01:18:42",
+  "identifier-access": "http://archive.org/details/P000427",
+  "identifier-ark": "ark:/13960/s2m8qqj2m6v",
+  "imagecount": "137",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9530",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

@@ -1,0 +1,57 @@
+{
+  "identifier": "P001576",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Blake, Edward, 1833-1912. (author)",
+  "date": "1886",
+  "description": "Blake, Edward: 1833-1912. Leader of the Liberal Party of Canada, 1879-1887 (Wallace, <i>Dictionary of Canadian biography</i>). // Text in double columns. <i>See also </i>Peel 1345 and 1346.",
+  "format": "61 p.; 22 cm.",
+  "identifier-bib": [
+    "local:peel2: 881",
+    "local:peel3: 1576",
+    "local:peel-procite-id: 1574"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([Ottawa]?)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Parliament",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Riel, Louis, 1844-1885",
+    "Treason",
+    "Treason",
+    "Trahison",
+    "1886"
+  ],
+  "title": "Ministers on trial: Was the execution of Riel necessary or proper?: Mr. Blake's great judgments, delivered in the House of Commons of Canada, on the 19th March, 1886",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:38:45",
+  "addeddate": "2025-03-19 10:38:45",
+  "identifier-access": "http://archive.org/details/P001576",
+  "identifier-ark": "ark:/13960/s23c612g3gf",
+  "imagecount": "66",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9200",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "72",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

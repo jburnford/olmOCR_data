@@ -1,0 +1,64 @@
+{
+  "identifier": "P001373",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Canada. Department of the Secretary of State (author)",
+    "Chapleau, Joseph-Adolphe (Sir), 1840-1898. (author)"
+  ],
+  "date": "1886",
+  "description": "Chapleau, Joseph-Adolphe (Sir): 1840-1898. Born and educated in Quebec; prime minister of Quebec, 1879-1882; secretary of state for Canada, 1882-1892; lieutenant-governor of Quebec, 1892-1898; created K.C.M.G., 1896 (Wallace, <i>Dictionary of Canadian biography</i>). // Cover title: \"North-West Rebellion and other trials, 1885.\" Also published, <i>Return (supplementary, partial) to an address of the House of Commons, dated 5th March, 1886: For copies of all documents forming the record in the cases of Her Majesty against the different parties tried in connection with the late Rebellion… </i>, [Ottawa: Department of the Secretary of State, 1886] (17p.); <i>Return (supplementary final) to an address of the House of Commons, dated 5th March, 1886 </i>: <i>For copies of all documents forming the record in the cases of Her Majesty against the different parties tried in connection with the late Rebellion… </i>, [Ottawa: Department of the Secretary of State, 1886] (9p.).",
+  "format": "408 p.; 25 cm.",
+  "identifier-bib": [
+    "local:peel1: 651",
+    "local:peel2: 897",
+    "local:peel3: 1373",
+    "local:peel-procite-id: 1371"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[Department of the Secretary of State] ([Ottawa])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Parliament",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Speeches, addresses, etc.",
+    "Discours",
+    "Treason",
+    "Treason",
+    "Trahison",
+    "Trials",
+    "Procès",
+    "1885"
+  ],
+  "title": "Return (in part) to an address of the House of Commons, dated 5th March, 1886: For copies of all documents forming the record in the cases of Her Majesty against the different parties tried in connection with the late rebellion, including the jury lists, the names of the jurors, the lists of the jurors empannelled…the names of the counsel for the prosecution and the for the defence, the pleas entered, the verdicts and the sentences and, in short, of every document whatever relating to the said trials",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 08:56:00",
+  "addeddate": "2025-03-19 08:56:00",
+  "identifier-access": "http://archive.org/details/P001373",
+  "identifier-ark": "ark:/13960/s2xg3ngwjwr",
+  "imagecount": "444",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "55",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

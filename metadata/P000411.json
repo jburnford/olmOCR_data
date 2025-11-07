@@ -1,0 +1,57 @@
+{
+  "identifier": "P000411",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Southesk, James Carnegie earl, 1827-1905. (author)",
+  "date": "1874",
+  "description": "Southesk, James Carnegie earl: 1827-1905. Born in Edinburgh; made a trip through the West, 1859-1860; antiquary and poet (<i>Dictionary of National Biography</i>) // One of the classics of early western travel literature. Also published, Toronto: James Campbell & Son, 1875 (xxx, 422, [8], 423-448p.); Edinburgh, Scotland: Edmonston & Douglas, 1875 (xxx, 422, [8], 423-448p.); Edmonton: M.G. Hurtig and Rutland, Vt.: C.E. Tuttle Co., 1969 (xxxviii, 448p.).",
+  "format": "xxx, 448 p., illus., fold. maps, facsimiles.; 23 cm.",
+  "identifier-bib": [
+    "local:peel1: 333",
+    "local:peel2: 430",
+    "local:peel3: 411",
+    "local:peel-procite-id: 411"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Edmonston & Douglas (Edinburgh, Scotland)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Explorers, Surveyors and Travellers--Description and Travel--General",
+    "Travelers--Great Britain",
+    "Voyageurs--Grande-Bretagne",
+    "Diaries",
+    "Journaux intimes",
+    "Prairie Provinces--Description and travel",
+    "Southesk, James Carnegie, 1827-1905",
+    "1860"
+  ],
+  "title": "Saskatchewan and the Rocky Mountains: A diary and narrative of travel, sport, and adventure during a journey through the Hudson's Bay Company's territories, in 1859 and 1860",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 01:10:31",
+  "addeddate": "2025-03-19 01:10:31",
+  "identifier-access": "http://archive.org/details/P000411",
+  "identifier-ark": "ark:/13960/s2tm17mkj0k",
+  "imagecount": "504",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9753",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "86",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

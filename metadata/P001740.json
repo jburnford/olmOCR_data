@@ -1,0 +1,55 @@
+{
+  "identifier": "P001740",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "McPhillips, Henry Thomas, 1850-1913. (author)",
+  "date": "1888",
+  "description": "McPhillips, Henry Thomas: 1850-1913. To the West, 1881; published a paper in Winnipeg for a few years, then moved to Prince Albert; for a time held a position in the Department of Inland Revenue stationed in NWT; spent many years in USA; at the time of his death was publishing a local paper in western Canada. // Running title: \"Saskatchewan directory.\" Cover title: \"McPhillips' Saskatchewan directory.\" Printed in Qu'Appelle at \"The Progress\" Book and Job Office. Pagination includes advertising. An invaluable source of information about settlements in the Saskatchewan Valley.",
+  "format": "141 [i.e. 146] p., illus., ports.; 24.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 779",
+    "local:peel2: 1063",
+    "local:peel3: 1740",
+    "local:peel-procite-id: 1738"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "The Author (Prince Albert, NWT)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "The People--Biography",
+    "The People--Directories",
+    "Cities and towns--Saskatchewan--Description and travel",
+    "Cities and towns--Saskatchewan--Directories",
+    "Pioneers--Saskatchewan--Biography",
+    "1888"
+  ],
+  "title": "McPhillips' alphabetical and business directory of the district of Saskatchewan, N.W.T.: Together with brief historical sketches of Prince Albert, Battleford and the other settlements in the district, 1888",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 12:17:37",
+  "addeddate": "2025-03-19 12:17:37",
+  "identifier-access": "http://archive.org/details/P001740",
+  "identifier-ark": "ark:/13960/s2fh22jrc0c",
+  "imagecount": "163",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9856",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "81",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

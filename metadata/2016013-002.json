@@ -1,0 +1,29 @@
+{
+  "identifier": "2016013-002",
+  "mediatype": "texts",
+  "collection": [
+    "lawsocietyofuppercanada",
+    "toronto"
+  ],
+  "creator": "\"Rowell, Newton Wesley, 1867-1941\"",
+  "date": "1890",
+  "description": "<div>Letter book created by Newton Wesley Rowell while attempting to collect debts related to promissory notes made by farmers who had purchased farm equipment in Manitoba and Saskatchewan. The letters in this book are written by Rowell to lawyers in his firm, including M.D. Fraser in London, T.H. Gilmour in Brandon and F.J. Calvert in Winnipeg, as well as local lawyers and clerks. These letters document Rowell's visits to farms near Brandon, Souris, Virden, Oak Lake, Moosomin, Wolseley, Qu-Appelle and Regina and detail his strategies to negotiate debt repayment plans or make settlements with specific farmers. Letters also include Rowell's requests for advice and money, as well as his observations about the local weather and crop conditions and his experiences travelling without a driver and navigating the countryside.</div>",
+  "language": "english-handwritten",
+  "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+  "subject": [
+    "Manitoba",
+    "Saskatchewan",
+    "law"
+  ],
+  "title": "N.W. Rowell: letter book 2",
+  "uploader": "pleather@lso.ca",
+  "publicdate": "2021-01-28 15:49:58",
+  "addeddate": "2021-01-28 15:49:58",
+  "identifier-access": "http://archive.org/details/2016013-002",
+  "identifier-ark": "ark:/13960/t03z8b24c",
+  "imagecount": "48",
+  "ppi": "400",
+  "ocr": "tesseract 4.1.1: language not currently OCRable",
+  "ocr_module_version": "0.0.10",
+  "foldoutcount": "0"
+}

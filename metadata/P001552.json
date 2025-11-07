@@ -1,0 +1,57 @@
+{
+  "identifier": "P001552",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Thompson, John Sparrow David (Sir), 1844-1894. (author)",
+  "date": "1886",
+  "description": "Thompson, John Sparrow David (Sir): 1844-1894. At the time of the Saskatchewan Rebellion, Dominion Minister of Justice; later Prime Minister of Canada (Wallace, <i>Dictionary of Canadian biography</i>). // For French version <i>see </i>Peel 1551.",
+  "format": "[31] p.; 23 cm.",
+  "identifier-bib": [
+    "local:peel1: 718",
+    "local:peel2: 976",
+    "local:peel3: 1552",
+    "local:peel-procite-id: 1550"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([Ottawa]?)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Politics and government",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Riel, Louis, 1844-1885",
+    "Speeches, addresses, etc.",
+    "Discours",
+    "1885"
+  ],
+  "title": "The execution of Louis Riel: Speech of the Hon. John S.D. Thompson, minister of justice, delivered March 22, 1886",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:29:35",
+  "addeddate": "2025-03-19 10:29:35",
+  "identifier-access": "http://archive.org/details/P001552",
+  "identifier-ark": "ark:/13960/s2hjg402kzf",
+  "imagecount": "31",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8242",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "76",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

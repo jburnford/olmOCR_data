@@ -1,0 +1,80 @@
+{
+  "title": "American ornithology, or, The natural history of the birds of the United States [microform]",
+  "creator": [
+    "Wilson, Alexander, 1766-1813",
+    "Canino, Charles Lucien Jules Laurent Bonaparte, Prince de"
+  ],
+  "subject": [
+    "Wilson, Alexander, 1766-1813",
+    "Wilson, Alexander, 1766-1813",
+    "Birds",
+    "Oiseaux"
+  ],
+  "description": [
+    "\"Vol. I.\"",
+    "Part of a CIHM set. For individual microfiches in this set see CIHM microfiche nos. 18758-18761",
+    "Includes a biographical sketch of Alexander Wilson",
+    "Filmed from a copy of the original publication held by the University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "Philadelphia : Porter & Coates",
+  "date": "1878",
+  "language": "eng",
+  "isbn": "0665187599",
+  "page-progression": "lr",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "operator": "zack@archive.org",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scandate": "20091106221910",
+  "imagecount": "433",
+  "updatedate": "2009-11-09 19:23:56",
+  "updater": "zack@archive.org",
+  "identifier": "cihm_18759",
+  "uploader": "curtisficheop@archive.org",
+  "addeddate": "2009-11-09 19:23:56",
+  "publicdate": "2009-11-09 19:24:09",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_18759",
+  "identifier-ark": "ark:/13960/t2891s28k",
+  "curation": "[curator]sharda@archive.org[/curator][date]20091124201714[/date][state]approved[/state]",
+  "sponsordate": "20091130",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "city": "Philadelphia",
+  "edition": "Popular ed.",
+  "oclc-id": [
+    "14095050",
+    "243481481",
+    "421575537",
+    "456704681",
+    "77473252"
+  ],
+  "related-external-id": [
+    "urn:isbn:0665507704",
+    "urn:oclc:15079702",
+    "urn:oclc:317725612",
+    "urn:oclc:421541240",
+    "urn:oclc:77117864",
+    "urn:oclc:861742454"
+  ],
+  "backup_location": "ia903604_11",
+  "openlibrary_edition": "OL22082778M",
+  "openlibrary_work": "OL3715968W",
+  "external-identifier": "urn:oclc:record:719186132",
+  "filesxml": "Sun Oct 3 14:46:11 UTC 2021",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "35",
+  "page_number_module_version": "1.0.3"
+}

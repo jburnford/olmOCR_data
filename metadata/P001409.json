@@ -1,0 +1,52 @@
+{
+  "identifier": "P001409",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Clark, Daniel, 1835-1912. (author)",
+  "date": "1887",
+  "description": "Clark, Daniel: 1835-1912. Medical superintendent of Toronto Asylum for the Insane, 1875-1905 (Wallace, <i>Dictionary of Canadian biography</i>). // Reprinted from the <i>American Journal of Insanity </i>, July, 1887.",
+  "format": "19 p.; 28 cm.",
+  "identifier-bib": [
+    "local:peel1: 737",
+    "local:peel2: 1001",
+    "local:peel3: 1409",
+    "local:peel-procite-id: 1407"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([Baltimore, Md. & Utica, N.Y.])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Riel, Louis, 1844-1885--Psychological aspects",
+    "1885"
+  ],
+  "title": "A psycho-medical history of Louis Riel",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 09:14:49",
+  "addeddate": "2025-03-19 09:14:49",
+  "identifier-access": "http://archive.org/details/P001409",
+  "identifier-ark": "ark:/13960/s2j42f4nmz9",
+  "imagecount": "20",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

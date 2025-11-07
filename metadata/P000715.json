@@ -1,0 +1,53 @@
+{
+  "identifier": "P000715",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Riel, Louis, 1844-1885. (author)",
+  "date": "1874",
+  "description": "Riel, Louis: 1844-1885. Métis leader; president of provisional government at Red River, 1869-1870; escaped with arrival of Wolseley's forces; elected to House of Commons to represent Provencher, 1873 and 1874, but unable to sit; declared an outlaw, 1875; lived in Montana until invited by Métis to the Saskatchewan country, 1884; executed at Regina, November 16, 1885. // Also published as <i>L'amnistie aux Métis du Manitoba: mémoire sur les causes des troubles du nord-ouest et sur les négociations qui ont amené à leur règlement amiable </i>, Ottawa: s.n., 1874 (43p.). Originally written as \"Mémoire historique du nord-ouest\" in Keeseville, New York. Text included within Gilles Boileau, editor, <i>Louis Riel et les troubles du nord-ouest: de la Rivière-Rouge à Batoche </i>, Montreal: Novalis, c2000 (208p.). Riel's impressions of events leading up to the creation of Manitoba and what he saw as broken federal promises.",
+  "format": "22 p., port.; 21 cm.",
+  "identifier-bib": [
+    "local:peel1: 317",
+    "local:peel2: 399",
+    "local:peel3: 715",
+    "local:peel-procite-id: 715"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "Bureau du \"Nouveau Monde\" ([Montreal])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Red River Rebellion",
+    "Red River Rebellion, 1869-70",
+    "Rouge, Rébellion de la rivière, 1869-1870",
+    "1874"
+  ],
+  "title": "L'amnistie: mémoire sur les causes des troubles du nord-ouest et sur les négociations qui ont amené leur règlement amiable",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 03:44:14",
+  "addeddate": "2025-03-19 03:44:14",
+  "identifier-access": "http://archive.org/details/P000715",
+  "identifier-ark": "ark:/13960/s2ptx6fhxhm",
+  "imagecount": "25",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7760",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

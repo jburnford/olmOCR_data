@@ -1,0 +1,68 @@
+{
+  "title": "La légende d'un peuple [microforme]",
+  "creator": [
+    "Fréchette, Louis, 1839-1908",
+    "Claretie, Jules, 1840-1913"
+  ],
+  "description": [
+    "En tête du titre: Poésies canadiennes",
+    "\"Dans l'Inde on avait pu admirer quelques grands hommes ...--Henri Martin.\"",
+    "Comprend des références bibliographiques",
+    "Microfiche de l'exemplaire de l'édition originale se trouvant à la University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "Québec : C. Darveau",
+  "date": "1890",
+  "language": "fre",
+  "isbn": "066528781X",
+  "page-progression": "lr",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "operator": "zack@archive.org",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scandate": "20100507061858",
+  "imagecount": "397",
+  "updatedate": "2010-05-19 19:48:32",
+  "updater": "zack@archive.org",
+  "identifier": "cihm_28781",
+  "uploader": "zack@archive.org",
+  "addeddate": "2010-05-19 19:48:32",
+  "publicdate": "2010-05-19 19:48:36",
+  "curation": "[curator]sharda@archive.org[/curator][date]20100531215955[/date][state]approved[/state]",
+  "sponsordate": "20100531",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://archive.org/details/cihm_28781",
+  "identifier-ark": "ark:/13960/t7cr8g85j",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "city": "Québec",
+  "edition": "Ed. corr., rev., et aug.",
+  "oclc-id": [
+    "13231884",
+    "471058637",
+    "726098209",
+    "77469184"
+  ],
+  "related-external-id": [
+    "urn:isbn:2890461688",
+    "urn:oclc:246794081",
+    "urn:oclc:33035989",
+    "urn:oclc:695553221",
+    "urn:oclc:798752732"
+  ],
+  "backup_location": "ia903605_17",
+  "external-identifier": "urn:oclc:record:1042018336",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.3"
+}

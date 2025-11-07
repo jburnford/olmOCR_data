@@ -1,0 +1,66 @@
+{
+  "title": "Education and life [microform] : an address delivered at the opening of the thirty-second session of Queen's University, Kingston, Canada",
+  "creator": [
+    "Watson, John, 1847-1939",
+    "Queen's University (Kingston, Ont.)"
+  ],
+  "subject": [
+    "Education, Higher",
+    "Enseignement supérieur"
+  ],
+  "description": [
+    "Filmed from a copy of the original publication held by the University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "[S.l.] : Alma Mater Society of Queen's University",
+  "date": "1873",
+  "language": "eng",
+  "isbn": "0665323328",
+  "page-progression": "lr",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "operator": "zack@archive.org",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scandate": "20100618075333",
+  "imagecount": "27",
+  "updatedate": "2010-06-18 15:07:06",
+  "updater": "zack@archive.org",
+  "identifier": "cihm_32332",
+  "uploader": "curtisficheop@archive.org",
+  "addeddate": "2010-06-18 15:07:06",
+  "publicdate": "2010-06-18 15:07:12",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_32332",
+  "identifier-ark": "ark:/13960/t5x646b60",
+  "curation": "[curator]sharda@archive.org[/curator][date]20100702202605[/date][state]approved[/state]",
+  "sponsordate": "20100630",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "city": "[S.l.]",
+  "oclc-id": [
+    "13782209",
+    "317783089",
+    "421506540",
+    "471084625",
+    "719972708",
+    "77474772"
+  ],
+  "backup_location": "ia903605_24",
+  "openlibrary_edition": "OL24279940M",
+  "openlibrary_work": "OL1538001W",
+  "external-identifier": "urn:oclc:record:1041984148",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "70",
+  "page_number_module_version": "1.0.3"
+}

@@ -1,0 +1,56 @@
+{
+  "mediatype": "texts",
+  "collection": [
+    "cornell",
+    "biodiversity",
+    "americana"
+  ],
+  "title": "Palæozoic fossils",
+  "identifier": "cu31924003872888",
+  "uploader": "hank@archive.org",
+  "addeddate": "2009-10-14 08:26:54",
+  "identifier-access": "http://www.archive.org/details/cu31924003872888",
+  "identifier-ark": "ark:/13960/t7gq7g11p",
+  "sponsor": "MSN",
+  "contributor": "Cornell University Library",
+  "description": [
+    "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a href=\"http://www.archive.org/about/faqs.php#140\" rel=\"ugc nofollow\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.",
+    "Vol. 1 has subtitle: Containing descriptions and figures of new or little-known species of organic remains from the Silurian rocks. 1861-1865 ..",
+    "Vol. 3, pts. 2- printed in Ottawa by S. E. Dawson",
+    "Vol. 1, p. 1-344 was \"printed in four parts between Nov. 1861 and Feb. 1865 under the title 'New species of Lower Silurian fossils'\"",
+    "At head of title, v. 3: Geological and natural history survey of Canada",
+    "With v. 2:1 is bound its Catalogues of the Silurian fossils of the island of Anticosti. 1866",
+    "vol. I. On some new or little-known species of Lower Silurian fossils from the Potsdam group (Primordial zone); On some new species of fossils from the Calciferous Chazy, Black River, and Trenton formations; On some new species of fossils from the Quebec group; New species of fossils from different parts of the Lower, Middle and Upper Silurian rocks of Canada; New species of fossils from the limestones of the Quebec group from Point Lévis and other localities in Canada East; New species of fossils from the Quebec group in the northern part of Newfoundland; New species of fossils from the Quebec group, in eastern Canada, with some others previously described, and some other formations; New species of fossils from the Calciferous formation, with remarks on some others previously described; New species of fossils from the Quebec group in the northern part of New Foundland, with a few from the Potsdam group; Fossils from vaious formations in the Silurian and Devonian systems",
+    "Species from the Quebec group, published in 1860.; by E. Billings. 1865.--vol. II, pt. I. On some of the fossils of the Gaspé series of rocks; On some new species of fossils, from the Primordial rocks of Newfoundland; On the genus Stricklandia, with descriptions of the Canadian species: Notes on the structure of the Crinoidea, Cystidea and Blastoidea; On some of the fossils of the Arisaig series of rocks; by E. Billings. 1874.-- [vol. II, pt. II never pub.?]",
+    "vol. III, pt. I. On some new imperfectly charaterized or previously unrecorded species of fossils from the Guelph formation of Ontario, by J. F. Whiteaves. 1884--pt. II. Revision of the fauna of the Guelph formation of Ontario, with descriptions of a few new species. Systematic list, with references, of the fossils of the Hudson River or Cincinnati formation at Stony Mountain, Manitoba, by J. F. Whiteaves. 1895--pt. III. The fossils of the Galena-Trenton and Black River formation of Lake Winnipeg and its vicinity by J. F. Whiteaves. 1897.--pt. IV. The fossils of the Silurian (Upper Silurian) rocks of Keewatin, Manitoba, the northeastern shore of Lake Winnipegosis, and the lower Saskatchewan River. The Canadian species of Plectoceras and Barrandeoceras. Illustrations of seven species of fossils from the Cambrian, Cambro-Silurian, and Devonian rocks of Canada. Revised list of the fossils of the Guelph formation of Ontario, by J. F. Whiteave. 1906"
+  ],
+  "lccn": "gs 06000258",
+  "call_number": "QE725 .C25",
+  "camera": "EOS-1D MkII",
+  "lcamid": "340421",
+  "rcamid": "314854",
+  "operator": "dg",
+  "ppi": "300",
+  "creator": [
+    "Geological Survey of Canada",
+    "Billings, E. (Elkanah), 1820-1876",
+    "Whiteaves, Joseph Frederick, 1835-1909"
+  ],
+  "publisher": "Montreal, Dawson brothers",
+  "date": "1865",
+  "subject": [
+    "Paleontology",
+    "Paleontology"
+  ],
+  "language": "eng",
+  "imagecount": "568",
+  "bookplateleaf": "0007",
+  "ocr": "ABBYY FineReader 8.0",
+  "foldoutcount": "0",
+  "repub_state": "4",
+  "publicdate": "2009-10-19 23:57:27",
+  "backup_location": "ia903604_5",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "61.20"
+}

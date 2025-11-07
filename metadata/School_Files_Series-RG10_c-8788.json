@@ -1,0 +1,52 @@
+{
+  "identifier": "School_Files_Series-RG10_c-8788",
+  "agency-school": [
+    "NEW WESTMINSTER AGENCY - ST. MARY'S RESIDENTIAL SCHOOL",
+    "COWICHAN AGENCY - NANAIMO HOSPITAL SCHOOL",
+    "FORT SIMPSON AGENCY - FORT SIMPSON ROMAN CATHOLIC DAY SCHOOL",
+    "FORT SIMPSON AGENCY - FORT SIMPSON CHURCH OF ENGLAND DAY SCHOOL",
+    "FORT NORMAN AGENCY - FORT MCPHERSON DAY SCHOOL",
+    "FORT NORMAN AGENCY - FORT NORMAN DAY SCHOOL"
+  ],
+  "collection": [
+    "opensource",
+    "community"
+  ],
+  "contributor": "Library and Archives Canada - Bibliothèque et Archives Canada",
+  "date": "1879-1953",
+  "description": "The School Files Series (archival reference RG10-B-3-d) is a series of files contained within the Indian and Inuit Affairs sous fonds containing records of the Canadian residential and day schools.<p><br /> From the <a href=\"https://www.bac-lac.gc.ca/eng/discover/mass-digitized-archives/school-files-1879-1953/Pages/school-files-1879-1953.aspx\" rel=\"ugc nofollow\">Library and Archives Canada</a> (<a href=\"https://web.archive.org/web/20220601232445/https://www.bac-lac.gc.ca/eng/discover/mass-digitized-archives/school-files-1879-1953/Pages/school-files-1879-1953.aspx\" rel=\"ugc nofollow\">archive</a>) website:</p><p> The Residential School system developed before Confederation from missionary and religious roots. After 1867, the federal government began to play a role when it was given constitutional responsibility for Aboriginal peoples.</p><p> Between 1867 and 1996, there were about 130 federally operated residential schools. Some existed for short periods and others for the entire duration. The schools were based in every territory and province of Canada except New Brunswick, Prince Edward Island, and Newfoundland and Labrador. Most were operated jointly by the federal government and various Catholic or Protestant churches until 1969, when the government assumed total administrative responsibilities. By the mid-1970s, almost all of the schools had ceased to operate. The Gordon Residential School in Punnichy, Saskatchewan, was the last federally run residential school which closed in 1996.</p><p> The School Files Series was created or classified in the Headquarters School Files classification system. This system existed from approximately 1923 to 1949, when it was replaced by an overarching file-classification system called the modified duplex numeric system (see finding aids 10-96 and 10-376 for more information).</p><p> The files deal with all aspects of Indian school administration in Canada. Although this sub-series contains only records relating to schools and education, not all departmental headquarters central registry files relating to this topic between 1879 and 1953 are found here. Consult other sub-series within the central registry system series for additional records relating to schools and education for that time period.</p><p> Microfilmed copies are available on reels C-7909 to C-7963, C-8134 to C-8219, C-8639 to C-8803, and C-9801 to C-9811. Please note the following about the microfilm copy of records in this sub-series: those files that were restricted in their entirety at the time of microfilming were not filmed; however, where only certain documents in a file were restricted, those restricted items were removed from the file to allow filming of the open material. A flag inserted at the end of the open filmed portion of such files alerts users that the microfilm version does not hold the entire contents of the original file. The material removed before filming has been retained with the original paper record held by Library and Archives Canada (LAC) and can be consulted in accordance with the provisions of access to information and privacy legislation.</p>",
+  "language": "eng",
+  "mediatype": "texts",
+  "notes": "Each page of the microfilm reel was originally its own seprate .pdf on the Library and Archives Canada website. The pages of each reel have been merged here for ease of access.",
+  "publisher": "Ottawa: Queen's Printer",
+  "reel": "c-8788",
+  "scanner": "Internet Archive Python library 3.0.1",
+  "subject": [
+    "School Files Series - 1879-1953 (RG10)",
+    "Indian and Inuit Affairs Program",
+    "Schools",
+    "Residential Schools",
+    "Canadian Schools",
+    "Canada",
+    "Native American",
+    "Indigenous People",
+    "Microfilm"
+  ],
+  "title": "School Files Series - 1879-1953 (RG10) — c-8788",
+  "volume": "6470-6472",
+  "uploader": "DiscantX@hotmail.com",
+  "publicdate": "2022-06-30 09:14:21",
+  "addeddate": "2022-06-30 09:14:21",
+  "curation": "[curator]validator@archive.org[/curator][date]20220630091524[/date][comment]checked for malware[/comment]",
+  "identifier-access": "http://archive.org/details/School_Files_Series-RG10_c-8788",
+  "identifier-ark": "ark:/13960/s2f2hgd303s",
+  "ppi": "96",
+  "ocr": "tesseract 5.1.0-1-ge935",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.16",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9197",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "pdf_module_version": "0.0.18"
+}

@@ -1,0 +1,40 @@
+{
+  "identifier": "jstor-1761314",
+  "article-type": "research-article",
+  "contributor": "JSTOR",
+  "creator": "Dawson, George M.",
+  "date": "1885-04-24",
+  "description": "<p>\"The Saskatchewan Country\" is an article from <a href=\"/search.php?query=collection%3Ajstor_science%20AND%20volume%3A5\" rel=\"nofollow\">Science, Volume 5</a>.</p> <p>View more articles from <a href=\"/search.php?query=collection%3Ajstor_science\" rel=\"nofollow\">Science</a>.<br />View <a href=\"http://www.jstor.org/stable/10.2307/1761314\" rel=\"nofollow\">this article on JSTOR</a>.<br />View <a href=\"/download/jstor-1761314/10.2307_1761314.xml\" rel=\"nofollow\">this article's JSTOR metadata</a>.<br /></p><p>You may also retrieve all of this items metadata in JSON at the following URL: <a href=\"https://archive.org/metadata/jstor-1761314\" rel=\"nofollow\">https://archive.org/metadata/jstor-1761314</a></p>",
+  "imagecount": "4",
+  "issn": "00368075",
+  "journalabbrv": "science",
+  "journaltitle": "Science",
+  "language": "eng",
+  "mediatype": "texts",
+  "pagerange": "340-342",
+  "publisher": "Science",
+  "source": "http://www.jstor.org/stable/10.2307/1761314",
+  "title": "The Saskatchewan Country",
+  "volume": "5",
+  "collection": [
+    "jstor_science",
+    "jstor_ejc",
+    "additional_collections",
+    "journals"
+  ],
+  "external-identifier": [
+    "urn:jstor-headid:10.2307/j100000",
+    "urn:jstor-articleid:10.2307/1761314",
+    "urn:jstor-issueid:10.2307/i300374",
+    "urn:jstor-journalid:10.2307/j100000"
+  ],
+  "publicdate": "2013-03-12 23:26:24",
+  "uploader": "jake@archive.org",
+  "addeddate": "2013-03-12 23:26:24",
+  "identifier-access": "http://archive.org/details/jstor-1761314",
+  "identifier-ark": "ark:/13960/t3pv81d3q",
+  "ppi": "600",
+  "ocr": "ABBYY FineReader 8.0",
+  "repub_state": "4",
+  "backup_location": "ia905608_3"
+}

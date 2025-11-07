@@ -1,0 +1,54 @@
+{
+  "identifier": "P000609",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Thibault, Jean Baptiste, 1810-1879. (author)",
+  "date": "1870",
+  "description": "Thibault, Jean Baptiste: 1810-1879. Ordained at Red River, 1833; active in founding and consolidating Catholic missions at trading posts and Métis settlements along the Saskatchewan and Churchill River systems, 1842-1852; returned to Quebec, 1872 (Morgan, <i>Dominion annual register</i>, 1879; Morice, <i>Dictionnaire historique</i>). // Report on conditions in the Red River Settlement during the disturbance.",
+  "format": "3 p.; 24.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 251",
+    "local:peel2: 316",
+    "local:peel3: 609",
+    "local:peel-procite-id: 609"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Printed by I.B. Taylor (Ottawa)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Red River Rebellion",
+    "Red River Rebellion, 1869-70",
+    "Rouge, Rébellion de la rivière, 1869-1870",
+    "Red River Valley (Man.)--Description and travel",
+    "1870"
+  ],
+  "title": "North-West Territories: Report of the very Reverend J.B. Thibault, G.V.",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 02:46:10",
+  "addeddate": "2025-03-19 02:46:10",
+  "identifier-access": "http://archive.org/details/P000609",
+  "identifier-ark": "ark:/13960/s2pvp3vrzt9",
+  "imagecount": "4",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8136",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "59",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

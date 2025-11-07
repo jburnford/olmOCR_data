@@ -1,0 +1,71 @@
+{
+  "identifier": "P000789",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Petitot, Émile Fortuné Stanislas Joseph, 1838-1917. (author)",
+  "date": "1876",
+  "description": "Petitot, Émile Fortuné Stanislas Joseph: 1838-1917. Born near Marseilles, France; became Oblate; missionary in what became Alberta and Saskatchewan, 1862-1882; returned to France, 1882; wrote on geography, ethnography, and linguistics of the Northwest (Wallace, <i>Dictionary of Canadian biography</i>). // Also published, San Francisco, Calif.: A.L. Bancroft, 1876. Printed in 4 columns. Edition limited to 350 copies. // Digitization of this title was sponsored by the Board of Governors of the University of Alberta to commemorate the service of Dr. Eric Newell, External Committee Member, Government Relations Sub-Committee, 2008-2010",
+  "format": "lxxxviii, 367, [24] p., fold. map, tables.; 35 cm.",
+  "identifier-bib": [
+    "local:peel3: 789",
+    "local:peel-procite-id: 789"
+  ],
+  "language": [
+    "Chipewyan (Soun'line)",
+    "Hare",
+    "Loucheux"
+  ],
+  "mediatype": "texts",
+  "publisher": "E. Leroux (Paris)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Native Languages--Dictionaries, Grammars and Primers",
+    "Encyclopedias and dictionaries",
+    "Encyclopédies et dictionnaires",
+    "Indians of North America--Languages",
+    "Langues indiennes d'Amérique--Amérique du Nord",
+    "1876"
+  ],
+  "title": "Dictionnaire de la langue Dènè-Dindjié, dialectes montagnais ou chippewayan, peaux de lièvre et loucheux, renfermant en outre un grand nombre de termes propres à sept autres dialectes de la même langue; précédé d'une monographie des Dènè-Dindjié, d'une grammaire et de tableaux synoptiques des conjugaisons",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-05-26 18:44:01",
+  "addeddate": "2025-05-26 18:44:01",
+  "identifier-access": "http://archive.org/details/P000789",
+  "identifier-ark": "ark:/13960/s25x4sn39gb",
+  "imagecount": "469",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra+lat+kir+jav+ltz+que+Cyrillic+Latin",
+  "ocr_module_version": "0.0.21",
+  "ocr_autonomous": "true",
+  "ocr_detected_script": [
+    "Latin",
+    "Cyrillic",
+    "Thai"
+  ],
+  "ocr_detected_script_conf": [
+    "0.5145",
+    "0.3726",
+    "0.0988"
+  ],
+  "ocr_detected_lang": "lb",
+  "ocr_detected_lang_conf": "1.0000",
+  "ocr_invalid_language": [
+    "Chipewyan (Soun'line)",
+    "Hare",
+    "Loucheux"
+  ],
+  "page_number_confidence": "90",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

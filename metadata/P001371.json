@@ -1,0 +1,56 @@
+{
+  "identifier": "P001371",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Canada. Department of the Secretary of State (author)",
+  "date": "1886",
+  "format": "pp.10-20 .; 23.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 654",
+    "local:peel2: 900",
+    "local:peel3: 1371",
+    "local:peel-procite-id: 1369"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[Department of the Secretary of State] ([Ottawa])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Military history",
+    "Canada--Politics and government",
+    "Letters",
+    "Lettres (Genre littéraire)",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "1885"
+  ],
+  "title": "Copies of instructions to Major Bell, Major-General Laurie, S.L. Bedson, and other non-combatants employed during the North-West campaign from the Minister of Militia, Major-General Middleton or the Adjutant-General of Militia: And of correspondence between the last named authorities and such non-combatants",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 08:54:01",
+  "addeddate": "2025-03-19 08:54:01",
+  "identifier-access": "http://archive.org/details/P001371",
+  "identifier-ark": "ark:/13960/s2pz20fv216",
+  "imagecount": "11",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "85",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

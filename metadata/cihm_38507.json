@@ -1,0 +1,72 @@
+{
+  "title": "North West of Canada [microform] : a general sketch of the extent, woods and forests, mineral resources and climatology of the four provisional districts of Assiniboia, Saskatchewan, Alberta and Athabasca",
+  "creator": "Canada. Dept. of Agriculture",
+  "subject": [
+    "Mineralogy",
+    "Mineralogie"
+  ],
+  "description": [
+    "\"Published by authority of the Department of Agriculture.\"",
+    "Tables",
+    "Filmed from a copy of the original publication held by the Seminary of Quebec, Library",
+    "43"
+  ],
+  "publisher": "Ottawa : [s.n.]",
+  "date": "1887",
+  "language": "eng",
+  "isbn": "0665385072",
+  "page-progression": "lr",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "imagecount": "89",
+  "scandate": "20101111121513",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scanningcenter_orig": "alberta",
+  "uploader_orig": "curtisficheop@archive.org",
+  "operator": "sfmicrofiche@archive.org",
+  "updatedate": "2010-11-12 00:06:38",
+  "updater": "sfmicrofiche@archive.org",
+  "identifier": "cihm_38507",
+  "uploader": "curtisficheop@archive.org",
+  "addeddate": "2010-11-12 00:06:38",
+  "publicdate": "2010-11-12 00:06:42",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_38507",
+  "identifier-ark": "ark:/13960/t6ww85x72",
+  "curation": "[curator]andrea@archive.org[/curator][date]20101203154856[/date][state]approved[/state]",
+  "sponsordate": "20101130",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "city": "Ottawa",
+  "oclc-id": [
+    "18869068",
+    "317981274",
+    "421583454",
+    "471064173",
+    "717028819",
+    "768309070",
+    "77140053"
+  ],
+  "related-external-id": [
+    "urn:isbn:0659967154",
+    "urn:oclc:70585461"
+  ],
+  "backup_location": "ia903607_6",
+  "openlibrary_edition": "OL24440780M",
+  "openlibrary_work": "OL15475987W",
+  "external-identifier": "urn:oclc:record:1042042501",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "41",
+  "page_number_module_version": "1.0.3"
+}

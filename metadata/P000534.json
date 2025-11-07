@@ -1,0 +1,54 @@
+{
+  "identifier": "P000534",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Bell, Charles Napier, 1854-1936. (author)",
+  "date": "1887",
+  "description": "Bell, Charles Napier: 1854-1936. From Ontario to Fort Garry as member of Wolseley expedition, fall 1870; after a year in Customs Department made hunting expedition in upper Saskatchewan region, summer 1872; customs clerk, 1874-1881; customs clerk with CPR, 1881-1886; secretary of Winnipeg Grain Exchange, 1887-1916; secretary-treasurer and later treasurer of Winnipeg Board of Trade, 1887-1919; active member of Historical and Scientific Society of Manitoba and other scientific societies (<i>Winnipeg Free Press</i>, August 3, 1936). // Text in double columns.",
+  "format": "8 p.; 22 cm.",
+  "identifier-bib": [
+    "local:peel1: 726",
+    "local:peel2: 988",
+    "local:peel3: 534",
+    "local:peel-procite-id: 534"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Printed by the Call Printing Co. (Winnipeg)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Red River Rebellion",
+    "Red River Rebellion, 1869-70--History",
+    "Rouge, Rébellion de la rivière, 1869-1870--Histoire",
+    "Red River Settlement--History",
+    "1870"
+  ],
+  "title": "Some Red River Settlement history: A paper read before the Society, April 29th, 1887",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 02:06:25",
+  "addeddate": "2025-03-19 02:06:25",
+  "identifier-access": "http://archive.org/details/P000534",
+  "identifier-ark": "ark:/13960/s2g995xn9xv",
+  "imagecount": "11",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7671",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "37",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

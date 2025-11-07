@@ -1,0 +1,58 @@
+{
+  "identifier": "P001508",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Mulvaney, Charles Pelham, 1835-1885. (author)",
+  "date": "1885",
+  "description": "Mulvaney, Charles Pelham: 1835-1885. Church of England clergyman; writer; associated with Bishop's College, Lennoxville, Quebec (Morgan, <i>Dominion annual register</i>, 1885; Wallace, <i>Dictionary of Canadian biography</i>). // Also published, Toronto: A.H. Hovey, c1886 (viii, [17]-440p.); Toronto: Coles Pub. Co., c1971 (viii, [17]-424p.).",
+  "format": "viii, [17]-424 p., front., ports., maps.; 19 cm.",
+  "identifier-bib": [
+    "local:peel1: 611",
+    "local:peel2: 834",
+    "local:peel3: 1508",
+    "local:peel-procite-id: 1506"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "A.H. Hovey & Co. (Toronto)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Military history",
+    "Indians of North America",
+    "Indiens d'Amérique--Amérique du Nord",
+    "Métis",
+    "Métis--Canada",
+    "Riel Rebellion, 1885--History",
+    "Riel, Rébellion de, 1885--Histoire",
+    "1885"
+  ],
+  "title": "The history of the North-West Rebellion of 1885: Comprising a full and impartial account of the origin and progress of the war, of the various engagements with the Indians and half-breeds, of the heroic deeds performed by officers and men, and of touching scenes in the field, the camp, and the cabin: Including a history of the Indian tribes of north-western Canada, their numbers, modes of living, habits, customs, religious rites and ceremonies: With thrilling narratives of captures, imprisonment, massacres, and hair-breadth escapes of white settlers, etc.",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:04:15",
+  "addeddate": "2025-03-19 10:04:15",
+  "identifier-access": "http://archive.org/details/P001508",
+  "identifier-ark": "ark:/13960/s2k8mvpqh6g",
+  "imagecount": "426",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9809",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "94",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

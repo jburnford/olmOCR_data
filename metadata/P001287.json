@@ -1,0 +1,54 @@
+{
+  "identifier": "P001287",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Scott, Thomas, 1841-1915. (author)",
+  "date": "1884",
+  "description": "Scott, Thomas: 1841-1915. To Manitoba with Wolseley expedition, 1870; returned to settle, 1873; long active in the militia, organizing the 95th Regiment, which he commanded during the Saskatchewan Rebellion, 1885; mayor of Winnipeg, 1877-1878; member of House of Commons, 1880-1887; collector of customs in Winnipeg, 1887-1910 (Morgan, <i>Canadian men and women of the time</i>, 1912).",
+  "format": "8 p.; 22 cm.",
+  "identifier-bib": [
+    "local:peel2: 770",
+    "local:peel3: 1287",
+    "local:peel-procite-id: 1285"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "A.S. Woodburn, printer (Ottawa)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Communications--Canadian Pacific Railway",
+    "Prairie Provinces--Transportation",
+    "Railroads--Laws, legislation, regulations, etc.",
+    "Railroad law",
+    "Chemins de fer--Droit--Législation",
+    "1884"
+  ],
+  "title": "Statement in support of a general railway act for the North-West",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 08:09:29",
+  "addeddate": "2025-03-19 08:09:29",
+  "identifier-access": "http://archive.org/details/P001287",
+  "identifier-ark": "ark:/13960/s2kndkzdvfz",
+  "imagecount": "11",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

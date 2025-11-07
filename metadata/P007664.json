@@ -1,0 +1,58 @@
+{
+  "identifier": "P007664",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Oblates of Mary Immaculate (author)",
+    "Grandin, Vital Justin, 1829-1902 (author)"
+  ],
+  "date": "1881",
+  "description": "Source: <i>Missions de la Congrégation des missionnaires oblats de Marie Immaculée</i> no. 75 (September 1881), pp. 257-274.",
+  "format": "18 p. ; 22 cm.",
+  "identifier-bib": [
+    "local:peel_new: 702",
+    "local:peel3: 7664"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "A. Hennuyer (Paris)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Grandin, Vital Justin, 1829-1902",
+    "Indians of North America",
+    "Indiens d'Amérique--Amérique du Nord",
+    "Saskatchewan",
+    "Travel",
+    "Voyage",
+    "Saskatchewan",
+    "1880"
+  ],
+  "title": "Saint-Albert: Journal de voyage de Mgr Grandin (Suite): sur la rivière la Loche, Portage-Mac-Leod, 13 juin 1880",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-06-13 20:18:00",
+  "addeddate": "2025-06-13 20:18:00",
+  "identifier-access": "http://archive.org/details/P007664",
+  "identifier-ark": "ark:/13960/s269dqrqwdc",
+  "imagecount": "18",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "73",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

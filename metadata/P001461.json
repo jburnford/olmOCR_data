@@ -1,0 +1,54 @@
+{
+  "identifier": "P001461",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Haultain, Theodore Arnold, 1857-1941. (author)",
+  "date": "1885",
+  "description": "Haultain, Theodore Arnold: 1857-1941. Born in India; educated University of Toronto; private secretary to, then literary executor and biographer of, Goldwin Smith; spent later years in England (Wallace, <i>Dictionary of Canadian biography</i>). // Error in page numbering: [12-40] erroneously numbered 16-44. At head of title: \"The souvenir number of the <i>Canadian Historical and Illustrated War News. </i>\" Caption title: \"Supplement. Honour Roll of the officers, non-commissioned officers and men composing the North-West field force which suppressed the Rebellion of 1885. Two parts in 1 volume. Part 1: Saturday, July 4, 1885. Part 2: Saturday, August 29, 1885.\" Facsimile reprint, North Vancouver, B.C.: C.G. Bainbridge, 1976 (44p.). <i>See also </i>Peel 1460.",
+  "format": "[1], 44 [i.e. 40] p., illus., 2 col. double plates.; 40 cm.",
+  "identifier-bib": [
+    "local:peel1: 603",
+    "local:peel2: 820",
+    "local:peel3: 1461",
+    "local:peel-procite-id: 1459"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Grip Printing & Publishing Co. (Toronto)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Military history",
+    "Riel Rebellion, 1885--History",
+    "Riel, Rébellion de, 1885--Histoire",
+    "1885"
+  ],
+  "title": "A history of Riel's second rebellion and how it was quelled",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 09:39:53",
+  "addeddate": "2025-03-19 09:39:53",
+  "identifier-access": "http://archive.org/details/P001461",
+  "identifier-ark": "ark:/13960/s2c3smkjkbc",
+  "imagecount": "52",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Cyrillic",
+  "ocr_detected_script_conf": "0.7056",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

@@ -1,0 +1,53 @@
+{
+  "identifier": "P000496",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Denison, George Taylor, 1839-1925. (compiler)",
+  "date": "1873",
+  "description": "Denison, George Taylor: 1839-1925. One of founders of the \"Canada First\" group; active in stirring up Ontario during Red River Rebellion; commanded Governor-General's Body Guard during Saskatchewan Rebellion; for many years a Toronto police magistrate (Morgan, <i>Canadian men and women of the time</i>, 1912). // Principally extracts from various newspapers, with an introduction by Denison",
+  "format": "7, 45 p.; 21 cm.",
+  "identifier-bib": [
+    "local:peel1: 294",
+    "local:peel2: 366",
+    "local:peel3: 496",
+    "local:peel-procite-id: 496"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([Toronto]?)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Red River Rebellion",
+    "Red River Rebellion, 1869-70",
+    "Rouge, Rébellion de la rivière, 1869-1870",
+    "1869"
+  ],
+  "title": "Reminiscences of the Red River Rebellion of 1869",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 01:48:15",
+  "addeddate": "2025-03-19 01:48:15",
+  "identifier-access": "http://archive.org/details/P000496",
+  "identifier-ark": "ark:/13960/s26q14s0tp0",
+  "imagecount": "58",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "76",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

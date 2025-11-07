@@ -1,0 +1,73 @@
+{
+  "title": "Histoire de Montferrand, l'athlète canadien [microforme]",
+  "creator": "Sulte, Benjamin, 1841-1923",
+  "subject": [
+    "Montferrand, Joseph, 1802-1864",
+    "Montferrand, Joseph, 1802-1864",
+    "Hommes forts",
+    "Strong men"
+  ],
+  "description": [
+    "Comprend des pages d'annonces",
+    "Microfiche de l'exemplaire de l'édition originale se trouvant à la University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "Montréal : J.-B. Camyré",
+  "date": "1884",
+  "language": "fre",
+  "isbn": "0665496087",
+  "page-progression": "lr",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "imagecount": "55",
+  "scandate": "20110527010236",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scanningcenter_orig": "alberta",
+  "uploader_orig": "curtisficheop@archive.org",
+  "operator": "scanner-aurianne-steinman@archive.org",
+  "updatedate": "2011-06-01 14:44:22",
+  "updater": "Aurianne Steinman",
+  "identifier": "cihm_49608",
+  "uploader": "curtisficheop@archive.org",
+  "addeddate": "2011-06-01 14:44:23",
+  "publicdate": "2011-06-01 14:44:25",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_49608",
+  "identifier-ark": "ark:/13960/t17m15c0t",
+  "sponsor": "University of Alberta Libraries",
+  "scanfee": "10",
+  "curation": "[curator]andrea@archive.org[/curator][date]20110602154355[/date][state]approved[/state]",
+  "sponsordate": "20110531",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "city": "Montréal",
+  "edition": "2e éd.",
+  "oclc-id": [
+    "18706851",
+    "470879230",
+    "77134814"
+  ],
+  "related-external-id": [
+    "urn:isbn:0659977273",
+    "urn:oclc:70583947",
+    "urn:oclc:77170187",
+    "urn:oclc:796931223"
+  ],
+  "backup_location": "ia903700_15",
+  "openlibrary_edition": "OL24654805M",
+  "openlibrary_work": "OL15743760W",
+  "external-identifier": "urn:oclc:record:1042047136",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "42",
+  "page_number_module_version": "1.0.3"
+}

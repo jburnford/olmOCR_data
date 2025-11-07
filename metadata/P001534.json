@@ -1,0 +1,57 @@
+{
+  "identifier": "P001534",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Riel, Louis, 1844-1885. (defendant)",
+  "date": "1886",
+  "description": "Riel, Louis: 1844-1885. Métis leader; president of provisional government at Red River, 1869-1870; escaped with arrival of Wolseley's forces; elected to House of Commons to represent Provencher, 1873 and 1874, but unable to sit; declared an outlaw, 1875; lived in Montana until invited by Métis to the Saskatchewan country, 1884; executed at Regina, November 16, 1885. // For English version <i>see </i>Peel 1533.  <i>See also </i>Peel 1372.",
+  "format": "213 p.; 25 cm.",
+  "identifier-bib": [
+    "local:peel3: 1534",
+    "local:peel-procite-id: 1532"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "Printed by the Queen's Printer (Ottawa)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Great Britain--Parliament",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Riel, Louis, 1844-1885",
+    "Treason",
+    "Treason",
+    "Trahison",
+    "Trials",
+    "Procès",
+    "1885"
+  ],
+  "title": "La reine vs. Louis Riel, accusé et convaincu du crime de haute trahison: rapport, procès à Régina: appel à la cour du banc de la Reine, Manitoba: appel au conseil privé, Angleterre: pétition pour l'examen du condamné par des médecins-experts: liste des pétitions pour la commutation de la sentence",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:20:28",
+  "addeddate": "2025-03-19 10:20:28",
+  "identifier-access": "http://archive.org/details/P001534",
+  "identifier-ark": "ark:/13960/s21r2zjjtvf",
+  "imagecount": "215",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "81",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

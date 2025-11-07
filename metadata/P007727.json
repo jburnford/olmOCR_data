@@ -1,0 +1,66 @@
+{
+  "identifier": "P007727",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Faraud, Henri, 1823-1890 (author)",
+    "Oblates of Mary Immaculate (author)"
+  ],
+  "date": "1885",
+  "description": "Source: <i>Missions de la Congrégation des missionnaires oblats de Marie Immaculée</i> no. 91 (September 1885), pp. 321-332.",
+  "format": "12 p. ; 22 cm.",
+  "identifier-bib": [
+    "local:peel_new: 715",
+    "local:peel3: 7727"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "A. Hennuyer (Paris)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Beaver Lake, Saskatchewan",
+    "Cold Lake, Saskatchewan",
+    "Faraud, Henri, 1823-1890",
+    "Missionaries--Saskatchewan",
+    "Missionnaires--Saskatchewan",
+    "Missions--Saskatchewan",
+    "Missions--Saskatchewan",
+    "Negotiation",
+    "Négociations",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Violent deaths",
+    "Morts violentes",
+    "Cold Lake, Saskatchewan",
+    "Beaver Lake, Saskatchewan",
+    "1885"
+  ],
+  "title": "Extrait d'une lettre de Mgr. Faraud au T. P. Supérieur Général: Mission de Notre-Dame des Victoires, le 6 juin 1885",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-06-13 21:37:05",
+  "addeddate": "2025-06-13 21:37:05",
+  "identifier-access": "http://archive.org/details/P007727",
+  "identifier-ark": "ark:/13960/s2c63sgs7km",
+  "imagecount": "12",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "37",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

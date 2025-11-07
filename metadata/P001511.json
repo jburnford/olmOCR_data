@@ -1,0 +1,58 @@
+{
+  "identifier": "P001511",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Netherlands American Land Company (author)",
+  "date": "1885",
+  "description": "At head of title: \"De Nederlandsch-Amerikaansche Land Maatschappij.\" The lands of this company were chiefly between Virden and Wolseley in the mile belt of the CPR. John B. McKilligan was the general agent.",
+  "format": "14 p., maps.; 25 cm.",
+  "identifier-bib": [
+    "local:peel1: 612",
+    "local:peel2: 835",
+    "local:peel3: 1511",
+    "local:peel-procite-id: 1509"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Bishop Engraving and Printing Co. (Winnipeg)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Settling the West--Immigration Literature",
+    "Land settlement",
+    "Colonisation intérieure",
+    "Trust companies--Real estate operations",
+    "Trust companies--Real estate investments",
+    "Sociétés fiduciaires--Immeubles--Investissements",
+    "Virden, Manitoba--Description and travel",
+    "Wolseley, Saskatchewan--Description and travel",
+    "1885"
+  ],
+  "title": "Official guide book to the lands of the Netherlands American Land Company: Selected lands in Manitoba and the North West Territories",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:05:54",
+  "addeddate": "2025-03-19 10:05:54",
+  "identifier-access": "http://archive.org/details/P001511",
+  "identifier-ark": "ark:/13960/s22sqmkg1xv",
+  "imagecount": "27",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.6641",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

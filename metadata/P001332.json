@@ -1,0 +1,60 @@
+{
+  "identifier": "P001332",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Beauregard, George (author)",
+  "date": "1886",
+  "description": "Beauregard, George: Private in Compagnie no. 3 of the 9th Voltigeurs de Quebec during the Saskatchewan Rebellion. // Includes a list of soldiers in the battalion.",
+  "format": "100 p., illus.; 21 cm.",
+  "identifier-bib": [
+    "local:peel1: 632",
+    "local:peel2: 873",
+    "local:peel3: 1332",
+    "local:peel-procite-id: 1330"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "Imprimerie de Jos.-G. Gingras & Cie (Quebec, Que.)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Beauregard, George",
+    "Diaries",
+    "Journaux intimes",
+    "Quebec (Province)--Military history",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Service men",
+    "Soldiers",
+    "Militaires",
+    "1885"
+  ],
+  "title": "Le 9me bataillon au nord-ouest: journal d'un militaire",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 08:36:34",
+  "addeddate": "2025-03-19 08:36:34",
+  "identifier-access": "http://archive.org/details/P001332",
+  "identifier-ark": "ark:/13960/s2j81p3wqgz",
+  "imagecount": "107",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9738",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

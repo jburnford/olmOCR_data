@@ -1,0 +1,55 @@
+{
+  "identifier": "P001565",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "date": "1886",
+  "description": "A colonization scheme centred on the Bell farm at Indian Head, Saskatchewan.",
+  "format": "16 p., illus., double plan.; 21.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 628",
+    "local:peel2: 859",
+    "local:peel3: 1565",
+    "local:peel-procite-id: 1563"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "George Kenning (London)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "History, Local--Saskatchewan--Indian Head",
+    "Settling the West--Immigration Literature",
+    "Indian Head, Saskatchewan--History",
+    "Land settlement",
+    "Colonisation intérieure",
+    "Qu'Appelle Region (Sask.)--Description and travel",
+    "1886"
+  ],
+  "title": "The Albany settlement, Qu'Appelle Valley, Canada, N.W.T.: Colonial profits with home comforts",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:35:04",
+  "addeddate": "2025-03-19 10:35:04",
+  "identifier-access": "http://archive.org/details/P001565",
+  "identifier-ark": "ark:/13960/s2592cj65k3",
+  "imagecount": "20",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8373",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

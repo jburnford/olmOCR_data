@@ -1,0 +1,56 @@
+{
+  "identifier": "P001325",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Adam, Graeme Mercer, 1839-1912. (author)",
+  "date": "1885",
+  "description": "Adam, Graeme Mercer: 1839-1912. Born and educated in Scotland; Toronto editor, publisher, and author (Wallace, <i>Dictionary of Canadian biography</i>). // At head of title: \"From savagery to civilisation.\" Cover title: \"The Northwest: Its history and its troubles.\" Also published, Whitby, Ont.: J.S. Robertson, 1885 (viii, 390p.); 2nd edition, Toronto: Rose Publishing Co. & Whitby, Ont.: J.S. Robertson, 1885 (viii, [9]-408p.). The 2nd edition, published after the Regina trials, contains an appendix describing the court proceedings.",
+  "format": "viii, [9]-390 p., illus., ports.; 20.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 575",
+    "local:peel2: 782",
+    "local:peel3: 1325",
+    "local:peel-procite-id: 1323"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Rose Publishing Co. (Toronto)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "History--General",
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Indians of North America--History",
+    "Indiens d'Amérique--Amérique du Nord--Histoire",
+    "Prairie Provinces--Description and travel",
+    "Prairie Provinces--History",
+    "1885"
+  ],
+  "title": "The Canadian North-West: Its history and its troubles, from the early days of the fur trade to the era of the railway and the settler: With incidents of travel in the region, and the narrative of three insurrections",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 08:33:00",
+  "addeddate": "2025-03-19 08:33:00",
+  "identifier-access": "http://archive.org/details/P001325",
+  "identifier-ark": "ark:/13960/s2xpgprr2v8",
+  "imagecount": "419",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9603",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "90",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

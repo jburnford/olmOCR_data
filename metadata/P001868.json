@@ -1,0 +1,57 @@
+{
+  "identifier": "P001868",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Canadian Pacific Railway (author)",
+  "date": "1890",
+  "description": "Running title: \"Manitoba, Assiniboia, Saskatchewan, Alberta: die grossen Prairieprovinzen des westlichen Canada.\"",
+  "format": "16 p., illus.; 15 x 22.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 843",
+    "local:peel2: 1161",
+    "local:peel3: 1868",
+    "local:peel-procite-id: 1866"
+  ],
+  "language": "German",
+  "mediatype": "texts",
+  "publisher": "[Canadian Pacific Railway] ([Winnipeg])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Settling the West--Immigration Literature",
+    "Emigration and immigration",
+    "Émigration et immigration",
+    "Prairie Provinces--Description and travel",
+    "Railroad land",
+    "Railroad land grants",
+    "Concessions ferroviaires",
+    "1890"
+  ],
+  "title": "Wo sich der deutsche Ansiedler eine neue Heimat gründen und bald zu Wohlstand kommen kann: Was die Ansiedler selbst darüber sagen",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 13:27:14",
+  "addeddate": "2025-03-19 13:27:14",
+  "identifier-access": "http://archive.org/details/P001868",
+  "identifier-ark": "ark:/13960/s22crxjx2zq",
+  "imagecount": "27",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l deu+Fraktur",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Fraktur",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "de",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "55",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

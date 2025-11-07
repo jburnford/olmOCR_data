@@ -1,0 +1,54 @@
+{
+  "identifier": "P001551",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Thompson, John Sparrow David (Sir), 1844-1894. (author)",
+  "date": "1886",
+  "description": "Thompson, John Sparrow David (Sir): 1844-1894. At the time of the Saskatchewan Rebellion, Dominion Minister of Justice; later Prime Minister of Canada (Wallace, <i>Dictionary of Canadian biography</i>). // For English version <i>see </i>Peel 1552.",
+  "format": "54 p., illus., port.; 22 cm.",
+  "identifier-bib": [
+    "local:peel3: 1551",
+    "local:peel-procite-id: 1549"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([Ottawa]?)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Canada--Politics and government",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Riel, Louis, 1844-1885",
+    "Speeches, addresses, etc.",
+    "Discours",
+    "1885"
+  ],
+  "title": "Discours sur la question Riel, prononcé le 22 mars 1886, à la Chambre des communes par l'honorable S.D. Thompson, ministre de la justice, Ottawa",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-06-20 16:55:47",
+  "addeddate": "2025-06-20 16:55:47",
+  "identifier-access": "http://archive.org/details/P001551",
+  "identifier-ark": "ark:/13960/s2n6rq4khsj",
+  "imagecount": "72",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8290",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "55",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

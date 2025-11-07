@@ -1,0 +1,61 @@
+{
+  "identifier": "P001064",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Ennis, Nicholas Devereux (compiler)",
+  "date": "1882",
+  "description": "Ennis, Nicholas Devereux: Farmer living on S.34-T.14-R.20 near Minnedosa, Manitoba, in the 1880s (<i>Henderson's Manitoba and Northwest Territories gazetteer</i>, 1888 & 1898). // Includes advertisements.",
+  "format": "46, [1] p.; 21 cm.",
+  "identifier-bib": [
+    "local:peel1: 470",
+    "local:peel2: 621",
+    "local:peel3: 1064",
+    "local:peel-procite-id: 1064"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Printed by Turner & Dunnett (Liverpool, England)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Settling the West--Immigration Literature",
+    "Advertising",
+    "Publicité",
+    "Farms",
+    "Exploitations agricoles",
+    "Emigration and immigration",
+    "Émigration et immigration",
+    "Manitoba--Description and travel",
+    "Ranches",
+    "Ranches",
+    "Ranchs",
+    "1882"
+  ],
+  "title": "Important information for intending settlers in Manitoba, respecting a quarter of a million acres of select farming and stock-raising lands in the county of Minnedosa, Little Saskatchewan",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 06:25:16",
+  "addeddate": "2025-03-19 06:25:16",
+  "identifier-access": "http://archive.org/details/P001064",
+  "identifier-ark": "ark:/13960/s22p1bsj3w2",
+  "imagecount": "49",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7680",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "62",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

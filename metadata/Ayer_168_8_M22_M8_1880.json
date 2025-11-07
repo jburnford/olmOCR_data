@@ -1,0 +1,36 @@
+{
+  "identifier": "Ayer_168_8_M22_M8_1880",
+  "call_number": "Ayer 168.8 .M22 M8 1880",
+  "collection": "newberry",
+  "contributor": "The Newberry Library",
+  "coverage": [
+    "Manitoba",
+    "Alberta",
+    "Saskatchewan",
+    "Northwest Territories",
+    "Canada"
+  ],
+  "creator": "Morris, Alexander, 1826-1889",
+  "date": "1880",
+  "format": [
+    "Books",
+    "Records (Documents)"
+  ],
+  "keyword": "Ayer_AM",
+  "language": "eng",
+  "link_to_catalog": "https://i-share.carli.illinois.edu/vf-nby/Record/NBYdb.552965",
+  "mediatype": "texts",
+  "physical_description": "375 p. : map ; 18 cm.",
+  "publisher": "Toronto : Willing and Williamson",
+  "rights": "The Newberry makes its collections available for any lawful purpose, commercial or non-commercial, without licensing or permission fees to the library, subject to the following terms and conditions: https://www.newberry.org/rights-and-reproductions",
+  "scanner": "Internet Archive Python library 1.7.7",
+  "title": "The treaties of Canada. With the Indians of Manitoba and the North-West Territories. Including the negotiations on which they were based, and other information relating thereto.",
+  "publicdate": "2018-03-08 19:13:16",
+  "uploader": "dis@newberry.org",
+  "addeddate": "2018-03-08 19:13:16",
+  "identifier-access": "http://archive.org/details/Ayer_168_8_M22_M8_1880",
+  "identifier-ark": "ark:/13960/t1dk2025q",
+  "imagecount": "131",
+  "ocr": "ABBYY FineReader 11.0 (Extended OCR)",
+  "backup_location": "ia906700_22"
+}

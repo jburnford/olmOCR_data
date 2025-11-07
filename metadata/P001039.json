@@ -1,0 +1,55 @@
+{
+  "identifier": "P001039",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Canada. Department of the Secretary of State (author)",
+  "date": "1882",
+  "format": "6, [1] p.; 24 cm.",
+  "identifier-bib": [
+    "local:peel1: 460",
+    "local:peel2: 603",
+    "local:peel3: 1039",
+    "local:peel-procite-id: 1039"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([Ottawa])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "History, Local--Saskatchewan--Saskatchewan River",
+    "Canada--Politics and government",
+    "Hudson's Bay Company--Laws, legislation, regulations, etc.",
+    "Saskatchewan River (Sask. and Man.)--Transportation",
+    "Street-railroads",
+    "Tramways",
+    "1882"
+  ],
+  "title": "Return of all papers concerning the granting of a charter to the Hudson Bay Company, to construct a tramway around the north shore of the Grand Rapids of the Saskatchewan: And any information to shew if the tramway can be used by the public on paying certain tolls",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 06:12:34",
+  "addeddate": "2025-03-19 06:12:34",
+  "identifier-access": "http://archive.org/details/P001039",
+  "identifier-ark": "ark:/13960/s23jw4z3mm9",
+  "imagecount": "8",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "35",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

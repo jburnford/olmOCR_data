@@ -1,0 +1,61 @@
+{
+  "identifier": "P000558",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Dawson, Simon James, 1820-1902. (author)",
+    "Hind, Henry Youle, 1823-1908. (author)",
+    "Lefroy, John Henry (Sir), 1817-1890. (author)",
+    "Palliser, John, 1817-1887. (author)"
+  ],
+  "date": "1870",
+  "description": "Dawson, Simon James: 1820-1902. Civil engineer; appointed to survey the country west of Lake Superior, 1857; employed in the opening up of the Dawson Route, 1868; superintended transportation of troops in Red River expedition, 1870 (Wallace, <i>Dictionary of Canadian biography</i>). // Hind, Henry Youle: 1823-1908. Born and educated in England; to Canada, 1846; professor of geology and chemistry, University of Toronto, 1853-1864; geologist on Red River exploratory expedition sent out from Canada, 1857; in command of Assiniboine-Saskatchewan exploratory expedition, 1858; later led surveying expeditions to eastern parts of Canada, including Labrador (Wallace, <i>Dictionary of Canadian biography</i>). // Lefroy, John Henry (Sir): 1817-1890. English military officer and scientist; conducted magnetic survey of Canada, from Lachine to Fort Simpson, 1843-1844, which established his reputation as a geographer; in charge of magnetic observatory in Toronto, 1844-1853; elected Fellow of the Royal Society, 1848, and Fellow of Royal Geographical Society, 1853; returned to England (<i>Dictionary of National Biography</i>). // Palliser, John: 1817-1887. Born in Ireland and largely educated there; went on hunting expedition in western USA, 1847, described in his <i>Solitary rambles and adventures of a hunter in the prairies</i>, first published 1853; in command of the British government expedition sent out with instructions to explore British North America between parallels 49º and 50º N, and 100º and 115º W, 1857-1860; died at his home in Ireland (<i>Dictionary of National Biography</i>; Wallace, <i>Dictionary of Canadian biography</i>). // \"Compiled in the Topographical Department of the War Office, Colonel Sir Henry James, director.\"",
+  "format": "iv, 58 p., tables.; 33 cm.",
+  "identifier-bib": [
+    "local:peel1: 243",
+    "local:peel2: 306",
+    "local:peel3: 558",
+    "local:peel-procite-id: 558"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Great Britain, War Office (London)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Communications--Communications with Red River",
+    "Canada--Transportation",
+    "Great Britain--Parliament",
+    "Red River Valley (Man.)--Description and travel",
+    "Trade routes",
+    "Routes commerciales",
+    "1870"
+  ],
+  "title": "Notes on the routes from Lake Superior to the Red River, and on the settlement itself: Compiled from reports by Captain Palliser, Professor Hind, and Messrs. Dawson and Napier, with notes relating to the transport of troops, &c. by Colonel Crofton and Captain (now General) Lefroy",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 02:23:17",
+  "addeddate": "2025-03-19 02:23:17",
+  "identifier-access": "http://archive.org/details/P000558",
+  "identifier-ark": "ark:/13960/s2zhtf5tz0r",
+  "imagecount": "64",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8501",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "58",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

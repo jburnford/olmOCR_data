@@ -1,0 +1,63 @@
+{
+  "identifier": "P001517",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Ouimet, Adolphe, 1840-1910. (author)",
+    "Montigny, B. A. Testard de, 1838-1899. (author)"
+  ],
+  "date": "1889",
+  "description": "Ouimet, Adolphe: 1840-1910. Montreal lawyer and journalist (Wallace, <i>Dictionary of Canadian biography</i>). // Montigny, B. A. Testard de: 1838-1899. // \"Édition illustrée avec portraits véritables de Riel et Dumont.\" Ouimet's text has the title \"Sommaire: étude sur la question métisse.\" Montigny's text, \"Récits de Gabriel Dumont…Mémoires et documents\" is on pages 314-398. Also published as <i>Riel: la vérité sur la question métisse </i>, Westmount, Que.: Desclez, [1979?] (292p.). Ouimet's work is included in Gilles Boileau, editor, <i>Louis Riel et les troubles du nord-ouest: de la Rivière-Rouge à Batoche </i>, Montreal: Novalis, 2000 (208p.). For an English translation by George Francis Gilman Stanley of Gabriel Dumont's account <i>see </i>\"Gabriel Dumont's account of the North West Rebellion, 1881\" in <i>Canadian Historical Review </i>, vol.30, no.3, September 1949:249-269.",
+  "format": "400 p., illus, port.; 23 cm.",
+  "identifier-bib": [
+    "local:peel1: 827",
+    "local:peel2: 1123",
+    "local:peel3: 1517",
+    "local:peel-procite-id: 1515"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "s.n. (Montreal)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "The People--Métis",
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Biography",
+    "Biographies",
+    "Dumont, Gabriel, 1837-1906",
+    "Métis",
+    "Métis--Canada",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Riel, Louis, 1844-1885",
+    "1885"
+  ],
+  "title": "La vérité sur la question métisse au nord-ouest par Adolphe Ouimet: biographie et récit de Gabriel Dumont sur les événements de 1885 par B.A.T. de Montigny",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:07:18",
+  "addeddate": "2025-03-19 10:07:18",
+  "identifier-access": "http://archive.org/details/P001517",
+  "identifier-ark": "ark:/13960/s29f2mj8dt2",
+  "imagecount": "404",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9777",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "89",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

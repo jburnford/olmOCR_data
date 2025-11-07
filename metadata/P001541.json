@@ -1,0 +1,57 @@
+{
+  "identifier": "P001541",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Sherlock, Robert A. (author)",
+  "date": "1885",
+  "description": "Sherlock, Robert A.: Halifax resident; came west as a member of the militia during the Saskatchewan Rebellion. // Also published, with an introduction by Donald E. Graves, Bloomfield, Ont.: Museum Restoration Service, 1985 (28p.). The battalion was stationed at Swift Current, Saskatchewan.",
+  "format": "23 p.; 18 cm.",
+  "identifier-bib": [
+    "local:peel1: 617",
+    "local:peel2: 846",
+    "local:peel3: 1541",
+    "local:peel-procite-id: 1539"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Printed by Jas. W. Doley (Halifax, N.S.)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Service men",
+    "Soldiers",
+    "Militaires",
+    "Swift Current, Saskatchewan--Military history",
+    "1885"
+  ],
+  "title": "Experiences of the Halifax Battalion in the North West",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:23:08",
+  "addeddate": "2025-03-19 10:23:08",
+  "identifier-access": "http://archive.org/details/P001541",
+  "identifier-ark": "ark:/13960/s2bt51tk4z8",
+  "imagecount": "25",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "60",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

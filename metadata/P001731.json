@@ -1,0 +1,60 @@
+{
+  "identifier": "P001731",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Ham, George Henry, 1847-1926. (author)",
+  "date": "1888",
+  "description": "Ham, George Henry: 1847-1926. Arrived in Winnipeg, 1875; on staff of <i>Free Press</i>, 1875-1879; founder of ephemeral <i>Tribune</i>, 1879; editor of <i>Winnipeg Times</i>, 1880-1882; registrar for the county of Selkirk for some years after 1882; reporter for <i>Toronto Mail</i> during Saskatchewan Rebellion, 1885; advertising manager for CPR stationed in Montreal, 1891-1926 (Robertson, <i>A political manual of the province of Manitoba</i>; Winshop, <i>The story of the press</i>). // A heavily illustrated directory of places of business in the larger towns along the CPR. Pages [206-220] are advertising. // Digitization of this title was sponsored by the Board of Governors of the University of Alberta to commemorate the service of Mr. Marc de La Bruyère, Member of the Board, 2006-2012",
+  "format": "[8], [9]-205, [206-220] p., ports., plates (part. fold.), fold. maps.; 26.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 774",
+    "local:peel2: 1055",
+    "local:peel3: 1731",
+    "local:peel-procite-id: 1729"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Canadian Historical Publishing Co. (Winnipeg)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "The People--Directories",
+    "Explorers, Surveyors and Travellers--Description and Travel--General",
+    "Advertising",
+    "Publicité",
+    "Cities and towns",
+    "Villes",
+    "Directories",
+    "Répertoires",
+    "Prairie Provinces--Commerce",
+    "Prairie Provinces--Industries and resources",
+    "1888"
+  ],
+  "title": "The new West: Extending from the Great Lakes across plain and mountain to the golden shores of the Pacific: Wealth and growth: Manufacturing and commercial interests: Historical, statistical, biographical",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-05-26 20:23:27",
+  "addeddate": "2025-05-26 20:23:27",
+  "identifier-access": "http://archive.org/details/P001731",
+  "identifier-ark": "ark:/13960/s29mp4gmx51",
+  "imagecount": "318",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7521",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "45",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

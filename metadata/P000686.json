@@ -1,0 +1,53 @@
+{
+  "identifier": "P000686",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Anderson, David, 1814-1885. (author)",
+  "date": "1874",
+  "description": "Anderson, David: 1814-1885. Church of England clergyman; first Bishop of Rupert's Land, 1849-1864; resigned his See and returned to England (Wallace, <i>Dictionary of Canadian biography</i>). // The bishops ordained were William Carpenter Bompas and John McLean.",
+  "format": "16 p.; 21 cm.",
+  "identifier-bib": [
+    "local:peel3: 686",
+    "local:peel-procite-id: 686"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Hatchards (London)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "The Spiritual Life--Church of England",
+    "Bompas, William Carpenter, 1834-1906",
+    "McLean, John, 1828-1886",
+    "Sermons",
+    "Sermons",
+    "1874"
+  ],
+  "title": "The Gospel in the regions beyond: A sermon preached in Lambeth Church, on Sunday, May 3, 1874, at the consecration of the bishops of Athabasca and Saskatchewan: Published at the request of His Grace the Archbishop of Canterbury",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 03:31:46",
+  "addeddate": "2025-03-19 03:31:46",
+  "identifier-access": "http://archive.org/details/P000686",
+  "identifier-ark": "ark:/13960/s2mmbhkw6p6",
+  "imagecount": "19",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7175",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "52",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

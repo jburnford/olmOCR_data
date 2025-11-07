@@ -1,0 +1,53 @@
+{
+  "identifier": "P001505",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Le Monde, Montreal (author)",
+  "date": "1885",
+  "description": "Text in triple columns. Also published, 2e édition, Montreal: Propriétaires du Monde, [1885] (39p.); 3e édition, Montreal: Propriétaires du Monde, [1885] (40p.).",
+  "format": "39 p., illus., maps, ports.; 31 cm.",
+  "identifier-bib": [
+    "local:peel1: 609",
+    "local:peel2: 832",
+    "local:peel3: 1505",
+    "local:peel-procite-id: 1503"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "Propriétaires du Monde ([Montreal])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "1885"
+  ],
+  "title": "L'insurrection du nord-ouest, 1885",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:02:39",
+  "addeddate": "2025-03-19 10:02:39",
+  "identifier-access": "http://archive.org/details/P001505",
+  "identifier-ark": "ark:/13960/s280m50x66x",
+  "imagecount": "41",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9646",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "75",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

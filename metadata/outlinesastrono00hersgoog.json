@@ -1,0 +1,50 @@
+{
+  "publisher": "London : Longman, Brown, Green, and Longmans",
+  "identifier": "outlinesastrono00hersgoog",
+  "scanner": "google",
+  "title": "Outlines of astronomy",
+  "creator": "Herschel, John F. W. (John Frederick William), Sir, 1792-1871",
+  "mediatype": "texts",
+  "collection": "americana",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "identifier-access": "http://www.archive.org/details/outlinesastrono00hersgoog",
+  "year": "1851",
+  "date": "1851",
+  "oclc-id": "77473160",
+  "scandate": "20060622",
+  "copyright-region": "US",
+  "description": [
+    "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.",
+    "8 microfiches (364 images) :",
+    "Table",
+    "Xvi, 661, [1] p. : ill. ; 22 cm",
+    "Microfiche de l'exemplaire de l'édition originale se trouvant à l'University of Saskatchewan, Saskatoon. Ottawa : Institut canadien de microreproductions historiques",
+    "s 1985 n"
+  ],
+  "identifier-ark": "ark:/13960/t0qr5068b",
+  "imagecount": "705",
+  "publicdate": "2008-08-11 13:37:16",
+  "source": "http://books.google.com/books?id=zo8AAAAAMAAJ&oe=UTF-8",
+  "contributor": "New York Public Library",
+  "sponsor": "Google",
+  "uploader": "tpb",
+  "language": "eng",
+  "repub_state": "4",
+  "backup_location": "ia903602_9",
+  "addeddate": "2008-08-11 13:37:16",
+  "subject": [
+    "Astronomy",
+    "Astronomie",
+    "Astronomy"
+  ],
+  "isbn": [
+    "0665187440",
+    "9780665187445"
+  ],
+  "foldoutcount": "0",
+  "ocr_module_version": "0.0.14",
+  "ocr_converted": "abbyy-to-hocr 1.1.11",
+  "page_number_confidence": "100",
+  "page_number_module_version": "1.0.5",
+  "pdf_module_version": "0.0.23"
+}

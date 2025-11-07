@@ -1,0 +1,78 @@
+{
+  "title": "American ornithology, or, The natural history of the birds of the United States [microform]",
+  "creator": [
+    "Wilson, Alexander, 1766-1813",
+    "Canino, Charles Lucien Jules Laurent Bonaparte, Prince de"
+  ],
+  "subject": [
+    "Birds",
+    "Oiseaux"
+  ],
+  "description": [
+    "\"Vol. III.\"",
+    "Part of a CIHM set. For individual microfiches in this set see CIHM microfiche nos. 18758-18761",
+    "Filmed from a copy of the original publication held by the University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "Philadelphia : Porter & Coates",
+  "date": "1878",
+  "language": "eng",
+  "isbn": "0665187610",
+  "page-progression": "lr",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "operator": "zack@archive.org",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scandate": "20091106221949",
+  "imagecount": "440",
+  "updatedate": "2009-11-09 18:29:05",
+  "updater": "zack@archive.org",
+  "identifier": "cihm_18761",
+  "uploader": "curtisficheop@archive.org",
+  "addeddate": "2009-11-09 18:29:05",
+  "publicdate": "2009-11-09 18:29:08",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_18761",
+  "identifier-ark": "ark:/13960/t3gx4w734",
+  "curation": "[curator]sharda@archive.org[/curator][date]20091124201714[/date][state]approved[/state]",
+  "sponsordate": "20091130",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "city": "Philadelphia",
+  "edition": "Popular ed.",
+  "oclc-id": [
+    "14095115",
+    "243481487",
+    "317781800",
+    "456704767",
+    "670080256",
+    "77473254"
+  ],
+  "related-external-id": [
+    "urn:isbn:0665507720",
+    "urn:oclc:15079754",
+    "urn:oclc:317725617",
+    "urn:oclc:421541253",
+    "urn:oclc:455956477",
+    "urn:oclc:77117866"
+  ],
+  "backup_location": "ia903604_11",
+  "openlibrary_edition": "OL16935335M",
+  "openlibrary_work": "OL3715968W",
+  "external-identifier": "urn:oclc:record:719186132",
+  "filesxml": "Sun Oct 3 14:43:41 UTC 2021",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "47",
+  "page_number_module_version": "1.0.3"
+}

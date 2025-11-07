@@ -1,0 +1,54 @@
+{
+  "identifier": "P001372",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Canada. Department of the Secretary of State (author)",
+  "date": "1886",
+  "description": "The <i>Epitome </i>contains Sessional papers 43, 43a-e, the trial of Riel and documents bearing on it; 45a-c, documents on the claims to title to land by Métis; 52a-c, other trials arising out of the Rebellion. No.45c is not the document with this number in the Sessional papers; 45c in the latter is \"copies of all depositions in favor of half-breeds.\" <i>See also </i>Peel 1533 and 1534.",
+  "format": "389 p., tables.; 26 cm.",
+  "identifier-bib": [
+    "local:peel1: 657",
+    "local:peel2: 903",
+    "local:peel3: 1372",
+    "local:peel-procite-id: 1370"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[Department of the Secretary of State] (Ottawa)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Parliament",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "1885"
+  ],
+  "title": "Epitome of parliamentary documents in connection with the North-West Rebellion, 1885",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 08:54:30",
+  "addeddate": "2025-03-19 08:54:30",
+  "identifier-access": "http://archive.org/details/P001372",
+  "identifier-ark": "ark:/13960/s21q0v2sr1x",
+  "imagecount": "390",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "86",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

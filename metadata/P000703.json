@@ -1,0 +1,61 @@
+{
+  "identifier": "P000703",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Fleming, Sandford (Sir), 1827-1915. (author)",
+  "date": "1874",
+  "description": "Fleming, Sandford (Sir): 1827-1915. Born and educated as surveyor and engineer in Scotland; became engineer for Northern Railway, 1845; chief engineer of Intercolonial Railway during its construction; engineer-in-chief of surveys for CPR, 1871-1880; proponent of 24-hour-per-day system of time reckoning and intra-imperial system of cable communication; created C.M.G. (1877), K.C.M.G. (1897); charter member of Royal Society of Canada, 1882; chancellor of Queen's University, 1880-1915; director of HBC and CPR for some years (Wallace, <i>Dictionary of Canadian biography</i>). // At head of title: \"Canadian Pacific Railway. Sandford Fleming, Engineer-in-Chief.\" Plates 8, 10-11, and 13-16 were issued later in a case lettered: \"Canadian Pacific Railway, Sandford Fleming, engineer-in-chief. Maps and charts to accompany Report on the explorations and surveys up to January, 1874.\" Appendices contain reports of explorations and surveys by Charles Horetzky, Sir Alexander Mackenzie, John Macoun, Walter Moberly, Henry Spencer Palmer, James H. Rowan, Alfred Richard Cecil Selwyn, Marcus Smith, and George Vancouver. Of particular interest are: A. \"Expedition across the continent, notes on the character of the country\"; B. \"Peace River expedition\" by Horetzky; C. \"Botanical report, Lake Superior to the North Saskatchewan\" by Macoun; M. \"Extracts from Sir Alexander Mackenzie's journal\"; and O. \"Navigation of lakes and rivers in the prairie region\" by Selwyn. <i>See also </i>Peel 706, for a detailed account of Horetzky's journey through the Peace River Valley",
+  "format": "xi, 2 leaves, 286 (i.e. 294) p., fold. maps + case of illustrations.; 25 cm.",
+  "identifier-bib": [
+    "local:peel1: 309",
+    "local:peel2: 390",
+    "local:peel3: 703",
+    "local:peel-procite-id: 703"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Printed by MacLean, Roger & Co. (Ottawa)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Communications--Canadian Pacific Railway",
+    "Canada--Transportation",
+    "Discoveries in geography",
+    "Découvertes géographiques",
+    "Prairie Provinces--Description and travel",
+    "Railroads",
+    "Railroads",
+    "Chemins de fer",
+    "Surveys, Governmental",
+    "Surveys",
+    "Levés",
+    "1874"
+  ],
+  "title": "Report of progress on the explorations and surveys up to January, 1874",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-06-25 16:08:20",
+  "addeddate": "2025-06-25 16:08:20",
+  "identifier-access": "http://archive.org/details/P000703",
+  "identifier-ark": "ark:/13960/s21bn92m5h7",
+  "imagecount": "372",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9475",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "61",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

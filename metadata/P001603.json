@@ -1,0 +1,53 @@
+{
+  "identifier": "P001603",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Clark, William, 1841-1902. (author)",
+  "date": "1886",
+  "description": "Clark, William: 1841-1902. Miller in Scotland; to Canada, 1880; second editor of <i>Nor'West Farmer</i>, 1884; captain in the 90th Winnipeg Rifles in Saskatchewan Rebellion, and wounded at Fish Creek, April 24, 1885; member of Canadian rifle team at Wimbledon, 1885; represented Dominion government at Royal Colonial Exhibition, 1886; first grain inspector appointed by Dominion government at Winnipeg; later immigration official (<i>Winnipeg Free Press</i>, July 10, 1902; <i>Nor'West Farmer</i>, June 20, 1932; Morgan, <i>Dominion Annual Register</i>, 1885) // On cover: \"Reprinted by permission from the <i>Canadian Gazette </i>.\"",
+  "format": "12 p.; 18.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 666",
+    "local:peel2: 914",
+    "local:peel3: 1603",
+    "local:peel-procite-id: 1601"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[Printed by Cassell & Co.] ([London])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Settling the West--Immigration Literature",
+    "Prairie Provinces--Description and travel",
+    "Prairie Provinces--Economic conditions",
+    "1886"
+  ],
+  "title": "The Canadian North-West",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:56:39",
+  "addeddate": "2025-03-19 10:56:39",
+  "identifier-access": "http://archive.org/details/P001603",
+  "identifier-ark": "ark:/13960/s2z7j8h3dgp",
+  "imagecount": "16",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Cyrillic",
+  "ocr_detected_script_conf": "0.5413",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "63",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

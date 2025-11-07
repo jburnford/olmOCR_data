@@ -1,0 +1,59 @@
+{
+  "identifier": "P001549",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Temperance Colonization Society",
+  "date": "1885",
+  "description": "Includes advertising.",
+  "format": "23 p., illus.; 18 cm.",
+  "identifier-bib": [
+    "local:peel1: 621",
+    "local:peel2: 850",
+    "local:peel3: 1549",
+    "local:peel-procite-id: 1547"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Hunter, Rose & Co. (Toronto)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "History, Local--Saskatchewan--Saskatoon",
+    "Settling the West--Immigration and Settlement",
+    "Advertising",
+    "Publicit?",
+    "Land settlement",
+    "Colonisation int?rieure",
+    "Saskatoon (Sask.)--History",
+    "Societies",
+    "Associations",
+    "1885"
+  ],
+  "title": "Interim report of the management of the Temperance Colonization Society Limited: Containing important judgment re. scrip, and other information for shareholders and scripholders, September, 1885",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:28:20",
+  "addeddate": "2025-03-19 10:28:20",
+  "identifier-access": "http://archive.org/details/P001549",
+  "identifier-ark": "ark:/13960/s2rgg28wkt2",
+  "imagecount": "32",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9605",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

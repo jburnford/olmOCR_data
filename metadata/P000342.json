@@ -1,0 +1,55 @@
+{
+  "identifier": "P000342",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Dawson, Simon James, 1820-1902. (author)",
+    "Taché, Alexandre-Antonin, 1823-1894. (author)"
+  ],
+  "date": "1859",
+  "description": "Dawson, Simon James: 1820-1902. Civil engineer; appointed to survey the country west of Lake Superior, 1857; employed in the opening up of the Dawson Route, 1868; superintended transportation of troops in Red River expedition, 1870 (Wallace, <i>Dictionary of Canadian biography</i>). // Taché, Alexandre-Antonin: 1823-1894. Arrived in Red River as a Catholic missionary, 1845; coadjutor bishop of Saint-Boniface, 1851; succeeded Bishop Provencher, 1853; created archbishop, 1871; acted as a mediator during Red River Rebellion; prominent participant in the dispute over Manitoba separate schools in the early 1890s (Wallace, <i>Dictionary of Canadian biography</i>). // For English version, <i>see </i>Peel 361.",
+  "format": "47 p., fold. maps, fold. plan.; 32 cm.",
+  "identifier-bib": [
+    "local:peel3: 342",
+    "local:peel-procite-id: 342"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "John Lovell (Toronto)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Canada--Politics and government",
+    "Discoveries in geography",
+    "Découvertes géographiques",
+    "Red River Valley (Man.)--Description and travel",
+    "1857"
+  ],
+  "title": "Rapport sur l'exploration de la contrée entre le lac Supérieur et la colonie de la rivière Rouge, et entre ce dernier endroit et les rivières Assiniboine et Saskatchewan",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 00:04:20",
+  "addeddate": "2025-03-19 00:04:20",
+  "identifier-access": "http://archive.org/details/P000342",
+  "identifier-ark": "ark:/13960/s2xsd940703",
+  "imagecount": "68",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9287",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "32",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

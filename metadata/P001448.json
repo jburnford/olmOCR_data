@@ -1,0 +1,53 @@
+{
+  "identifier": "P001448",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Garçon, Augustin, b.1845. (author)",
+  "date": "1890",
+  "description": "Garçon, Augustin: b.1845. Professor of engineering in Paris; interested in military strategy. // On pages 65-75 is an essay on Riel, on whose behalf Garçon had petitioned Queen Victoria. The others included are Ulysses S. Grant, Sir James Brooke, and Mikhail Dmitrievich Skobelev.",
+  "format": "75 p.; 22 cm.",
+  "identifier-bib": [
+    "local:peel1: 855",
+    "local:peel2: 1174",
+    "local:peel3: 1448",
+    "local:peel-procite-id: 1446"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "Henri Charles-Lavauzelle (Paris)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "1885"
+  ],
+  "title": "Quatre hommes: Skobeleff, Brooke, Grant, Riel",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 09:35:15",
+  "addeddate": "2025-03-19 09:35:15",
+  "identifier-access": "http://archive.org/details/P001448",
+  "identifier-ark": "ark:/13960/s2m9v22s72t",
+  "imagecount": "78",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.9390",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

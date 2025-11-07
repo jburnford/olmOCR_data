@@ -1,0 +1,67 @@
+{
+  "title": "Chemical contributions to the geology of Canada from the laboratory of the survey [microform]",
+  "creator": [
+    "Hoffmann, G. Christian (George Christian), 1837-1917",
+    "Geological Survey of Canada"
+  ],
+  "subject": [
+    "Geochemistry",
+    "Mineralogical chemistry",
+    "Geology",
+    "Géochimie",
+    "Chimie minérale",
+    "Géologie"
+  ],
+  "description": [
+    "At head of title: Geological Survey of Canada",
+    "\"Published by authority of parliament.\"",
+    "Filmed from a copy of the original publication held by the University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "Montreal : Dawson",
+  "date": "1880",
+  "language": "eng",
+  "possible-copyright-status": "NOT_IN_COPYRIGHT",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "operator": "microficheop@archive.org",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scandate": "20090109190704",
+  "imagecount": "39",
+  "updatedate": "2009-01-09 21:21:40",
+  "updater": "Microfiche Operator",
+  "identifier": "cihm_01215",
+  "uploader": "microficheop@archive.org",
+  "addeddate": "2009-01-09 21:21:40",
+  "publicdate": "2009-01-09 21:21:45",
+  "notes": "This microform is of good quality.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_01215",
+  "identifier-ark": "ark:/13960/t6b285531",
+  "scanfactors": "5",
+  "curation": "[curator]julie@archive.org[/curator][date]20090222052732[/date][state]approved[/state]",
+  "sponsordate": "20090930",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "backup_location": "ia903602_23",
+  "external-identifier": "urn:oclc:record:1041807643",
+  "filesxml": [
+    "Thu Dec 31 21:37:18 UTC 2020",
+    "Sun Oct 3 14:17:34 UTC 2021"
+  ],
+  "isbn": "0665012152",
+  "associated-names": "Geological Survey of Canada",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.3"
+}

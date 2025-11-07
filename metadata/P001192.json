@@ -1,0 +1,56 @@
+{
+  "identifier": "P001192",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Abernethy, W. J. (author)",
+  "date": "1884",
+  "description": "Abernethy, W. J.: Originator of Fife wheat. // Also published as <i>The Saskatchewan Fife wheat: A history from its first importation from the northwestern territory of Manitoba in 1879, till the present time </i>, Detroit Lakes, Minn.: Minnesota Record Steam Print. Office, 1886 (16p.).",
+  "format": "17 p.",
+  "identifier-bib": [
+    "local:peel2: 707",
+    "local:peel3: 1192",
+    "local:peel-procite-id: 1191"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[The Author]? (Minneapolis, Minn.)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "The Wheat Economy--Wheat",
+    "Grain",
+    "Céréales",
+    "Grain trade",
+    "Céréales--Commerce",
+    "Manitoba--Commerce",
+    "Saskatchewan--Commerce",
+    "1884"
+  ],
+  "title": "The Saskatchewan Fife wheat: A history of this remarkable grain from its first importation from the Saskatchewan Valley in Manitoba till the present time",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 07:34:29",
+  "addeddate": "2025-03-19 07:34:29",
+  "identifier-access": "http://archive.org/details/P001192",
+  "identifier-ark": "ark:/13960/s2mk14hx6kt",
+  "imagecount": "27",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.7262",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "68",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

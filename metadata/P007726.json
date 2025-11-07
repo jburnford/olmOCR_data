@@ -1,0 +1,66 @@
+{
+  "identifier": "P007726",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Le Manitoba (author)",
+    "Oblates of Mary Immaculate (author)"
+  ],
+  "date": "1885",
+  "description": "Source: <i>Missions de la Congrégation des missionnaires oblats de Marie Immaculée</i> no. 91 (September 1885), pp. 319-321.",
+  "format": "3 p. ; 22 cm.",
+  "identifier-bib": [
+    "local:peel_new: 714",
+    "local:peel3: 7726"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "A. Hennuyer (Paris)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Fafard, Flix-Adlard-Lon, 1850-1885",
+    "Frog Lake, Saskatchewan",
+    "Grandin, Vital Justin, 1829-1902",
+    "Marchand, Flix, 1858-1885",
+    "Missionaries--Saskatchewan",
+    "Missionnaires--Saskatchewan",
+    "Missions--Saskatchewan",
+    "Missions--Saskatchewan",
+    "Qu'Appelle, Saskatchewan",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Violent deaths",
+    "Morts violentes",
+    "Qu'Appelle, Saskatchewan",
+    "Frog Lake, Saskatchewan",
+    "1885"
+  ],
+  "title": "Fort-Qu'Appelle, Assiniboia, 24 juin",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-06-13 21:26:10",
+  "addeddate": "2025-06-13 21:26:10",
+  "identifier-access": "http://archive.org/details/P007726",
+  "identifier-ark": "ark:/13960/s2g8gdm6np9",
+  "imagecount": "3",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

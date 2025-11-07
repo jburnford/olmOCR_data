@@ -1,0 +1,29 @@
+{
+  "identifier": "P009539.7",
+  "collection": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "North-west Territories:",
+  "date": "1888-1897",
+  "description": " \n",
+  "extent": "v. ; 21 cm.",
+  "genre": "Item",
+  "issuance": "continuing",
+  "language": "English",
+  "mediatype": "texts",
+  "notes": "[public]: Annual. From 1890 to 1892, reporting year ends 30 June. From 1894 to 1897, reporting year ends 31 August. From 1899 to 1904, reporting year ends 31 December. Final issue covers eight-month period ending 31 August 1905. Earlier report issued under the title &lt;i&gt;Public accounts of \"The General Revenue Fund of the North-West Territories\" from the 1st July 1884, to the 31st October, 1885&lt;/i&gt;. From 1898 to 1905, issued under the title &lt;i&gt;Public accounts of the North-west Territories&lt;/i&gt;.  [public]: Following the entry of Alberta and Saskatchewan into Confederation in 1905, the publication is continued, in part, by reports from similar departments established in the new provinces. These new provincial reports - Alberta Treasury Department, &lt;i&gt;Public accounts of the Province of Alberta for the year ending December 31 ...&lt;/i&gt;, Edmonton: Alberta Treasury Department, 1907-1973 and Province of Saskatchewan, &lt;i&gt;Public accounts of the Province of Saskatchewan for the financial years ...&lt;/i&gt;, Regina: [Province of Saskatchewan], 1907-1956 - are described separately in the bibliography.  ",
+  "publisher": "Government of the North-west Territories.",
+  "scanner": "Internet Archive Python library 1.9.3",
+  "subject": "Statement of the public accounts of the North-west Territories",
+  "title": "Statement of the public accounts of the North-west Territories",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "publicdate": "2020-05-14 17:36:07",
+  "addeddate": "2020-05-14 17:36:07",
+  "identifier-access": "http://archive.org/details/P009539.7",
+  "identifier-ark": "ark:/13960/t6k15tv7g",
+  "imagecount": "227",
+  "ocr": "ABBYY FineReader 11.0 (Extended OCR)",
+  "page_number_confidence": "91.11"
+}

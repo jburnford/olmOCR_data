@@ -1,0 +1,60 @@
+{
+  "identifier": "P000900",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Artigue, Jean d', b.1854?. (author)",
+    "Corbett, Lewis Christopher (translator)",
+    "Smith, Sylvester Lorne (translator)"
+  ],
+  "date": "1882",
+  "description": "Artigue, Jean d': b.1854?. Citizen of France; in Montreal intending to be a teacher when advertisement for NWMP appeared; member of NWMP, 1874-1880; returned to Europe. // Smith, Sylvester Lorne: Member of the clergy. // Also published, Belleville, Ont.: Mika Pub., 1973 (1 leaf, [4], viii, [9]-206p.). Artigue was one of the original members of the NWMP. According to the introduction to the reprint, this was the first autobiographical sketch of Mounted Police life to appear in print. From the author's preface: \"This book is divided into three parts, the first of which contains a history of the campaign of the North-West Mounted Police, in the year 1874, under command of Colonel French…. The second part contains the history of our sojourn in the far North-West, and gives an account of the journeys made by myself over vast plains; the first, undertaken to acquaint myself with the manners and actions of the Indians in their primeval state, and the second, in discharge of official duty, and to study further the Indian character. The third part is an account of my return journey from Fort Saskatchewan <i>via </i>Saskatchewan and Red River, and Lakes Winnipeg, Superior, and Huron to Sarnia, and thence by rail to Quebec. This part will be found the most interesting of the three, and also the most useful to intending settlers in the North-West as it contains geographical and agricultural information which will give an idea of the future of that region traversed by the Saskatchewan\" (iii-iv). The French from which it was translated does not appear to have ever been published.",
+  "format": "viii, [9]-206 p.; 18.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 455",
+    "local:peel2: 595",
+    "local:peel3: 900",
+    "local:peel-procite-id: 900"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Hunter, Rose & Co. (Toronto)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Explorers, Surveyors and Travellers--Description and Travel--General",
+    "Maintiens Le Droit: Royal Canadian Mounted Police",
+    "Artigue, Jean d'",
+    "Autobiography",
+    "Autobiographie",
+    "Prairie Provinces--Description and travel",
+    "1880"
+  ],
+  "title": "Six years in the Canadian North-West",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 05:08:00",
+  "addeddate": "2025-03-19 05:08:00",
+  "identifier-access": "http://archive.org/details/P000900",
+  "identifier-ark": "ark:/13960/s253d4xpmbg",
+  "imagecount": "210",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8915",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "94",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

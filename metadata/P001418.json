@@ -1,0 +1,56 @@
+{
+  "identifier": "P001418",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Costigan, John, 1835-1916. (author)",
+  "date": "1887",
+  "description": "Costigan, John: 1835-1916. Member of House of Commons from New Brunswick, 1867-1905; cabinet minister, 1882-1896 (Wallace, <i>Dictionary of Canadian biography</i>). // Pamphlet for election of 1887 correlating the Riel Rebellion with Irish Home Rule. Curran is John Joseph Curran (1842-1909); Coughlin is Timothy Coughlin (1834-1912).",
+  "format": "27 p.; 21 cm.",
+  "identifier-bib": [
+    "local:peel2: 1003",
+    "local:peel3: 1418",
+    "local:peel-procite-id: 1416"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([St John, N.B.]?)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Politics and Government--General",
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Parliament",
+    "Political campaigns",
+    "Campagnes électorales",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "1885"
+  ],
+  "title": "The Riel and Home Rule questions: Hon. John Costigan's speech at Woodstock, N.B.: Mr. Costigan's letter to Lord Lorne on Home Rule for Ireland: Gladstone's bill foreshadowed: Opinions of the Irish national newspapers: Messrs. Curran, Coughlin, &c., &c.",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 09:19:46",
+  "addeddate": "2025-03-19 09:19:46",
+  "identifier-access": "http://archive.org/details/P001418",
+  "identifier-ark": "ark:/13960/s2w9c8j3b6v",
+  "imagecount": "27",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "59",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

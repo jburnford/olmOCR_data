@@ -1,0 +1,62 @@
+{
+  "identifier": "P001174",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Saskatchewan Land and Homestead Company (author)",
+    "Moore, John Thomas, 1844-1917. (author)"
+  ],
+  "date": "1883",
+  "description": "Moore, John Thomas: 1844-1917. Toronto businessman interested in the West; lived in Red Deer, Alberta, for a decade after 1901; member of Alberta Legislative Assembly, 1905-1909; returned to Toronto. // Settlers declare the plan a good one and that it is being unjustly criticized. Pages 3-8 contain a list of the writers with location of their land at Crescent Lake, Assiniboia.",
+  "format": "8 p.; 19 cm.",
+  "identifier-bib": [
+    "local:peel1: 525",
+    "local:peel2: 699",
+    "local:peel3: 1174",
+    "local:peel-procite-id: 1173"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[Saskatchewan Homestead Company] (Toronto)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Settling the West--Immigration and Settlement",
+    "Immigrants--Canada",
+    "Immigrants--Canada",
+    "Land settlement",
+    "Colonisation intérieure",
+    "Prairie Provinces--Description and travel",
+    "Trust companies--Real estate operations",
+    "Trust companies--Real estate investments",
+    "Sociétés fiduciaires--Immeubles--Investissements",
+    "1883"
+  ],
+  "title": "The memorial of settlers in the tract granted to the Saskatchewan Homestead Company in the Canadian North-West: John T. Moore, managing director",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 07:26:47",
+  "addeddate": "2025-03-19 07:26:47",
+  "identifier-access": "http://archive.org/details/P001174",
+  "identifier-ark": "ark:/13960/s2gvfgfv9tk",
+  "imagecount": "12",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Arabic",
+  "ocr_detected_script_conf": "0.5060",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

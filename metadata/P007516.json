@@ -1,0 +1,56 @@
+{
+  "identifier": "P007516",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Oblates of Mary Immaculate (author)",
+    "Grandin, Vital Justin, 1829-1902 (author)",
+    "Leduc, H. (Hippolyte), 1842-1918 (author)"
+  ],
+  "date": "1870",
+  "description": "Source: <i>Missions de la Congrégation des missionnaires oblats de Marie Immaculée</i> no. 34 (June 1870), pp. 165-186.",
+  "format": "22 p. ; 22 cm.",
+  "identifier-bib": [
+    "local:peel_new: 546",
+    "local:peel3: 7516"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "A. Hennuyer (Paris)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Grandin, Vital Justin, 1829-1902",
+    "Leduc, H. (Hippolyte), 1842-1918",
+    "Vicariate of Saskatchewan",
+    "Vicariate of Siskatchewan",
+    "1868"
+  ],
+  "title": "Missions de la Siskatchewan [i.e. Saskatchewan]",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-06-13 17:14:50",
+  "addeddate": "2025-06-13 17:14:50",
+  "identifier-access": "http://archive.org/details/P007516",
+  "identifier-ark": "ark:/13960/s2fv687cwp8",
+  "imagecount": "22",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "62",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

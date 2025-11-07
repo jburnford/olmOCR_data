@@ -1,0 +1,60 @@
+{
+  "identifier": "P001562",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "White, Thomas, 1830-1888. (author)",
+    "Foster, George Eulas (Sir), 1847-1931. (author)"
+  ],
+  "date": "1886",
+  "description": "White, Thomas: 1830-1888. Born and educated in Montreal; journalist; founded and operated <i>Peterborough Review</i>, 1853-1860; founded <i>Hamilton Spectator</i>, 1864; immigration agent in England for Canada, 1869; assumed control of <i>Montreal Gazette</i>, 1870; elected to House of Commons, 1878-1888; Minister of the Interior, 1885-1888 and thus responsible for reorganizing government of North West Territories after the second Riel Rebellion (Wallace, <i>Dictionary of Canadian biography</i>). // Foster, George Eulas (Sir): 1847-1931. Born and educated in New Brunswick; professor of Classics at University of New Brunswick, 1873-1879; in House of Commons, 1882-1900, 1904-1921; in Senate, 1921-1931; created K.C.M.G. (1912) and G.C.M.G. (1918) (Wallace, <i>Dictionary of Canadian biography</i>).",
+  "format": "16 p.; 22 cm.",
+  "identifier-bib": [
+    "local:peel3: 1562",
+    "local:peel-procite-id: 1560"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "[s.n.] ([London, Ont.])",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Rebellions and Regimental Histories--Saskatchewan Rebellion",
+    "Canada--Finance",
+    "Canada--Politics and government",
+    "Métis--Government relations",
+    "Métis--Canada--Relations avec l'État",
+    "Riel Rebellion, 1885",
+    "Riel, Rébellion de, 1885",
+    "Speeches, addresses, etc.",
+    "Discours",
+    "1885"
+  ],
+  "title": "Two great speeches: Hon. Thos. White on the alleged half-breed grievances: Hon. Geo. E. Foster on the national policy, the debt, and the Riel issue: Delivered in the City Hall, London, Ont., Saturday, Dec. 18, 1886",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 10:34:04",
+  "addeddate": "2025-03-19 10:34:04",
+  "identifier-access": "http://archive.org/details/P001562",
+  "identifier-ark": "ark:/13960/s29bcvknk2j",
+  "imagecount": "16",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8725",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "55",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

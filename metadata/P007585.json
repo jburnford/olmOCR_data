@@ -1,0 +1,56 @@
+{
+  "identifier": "P007585",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": [
+    "Oblates of Mary Immaculate (author)",
+    "Gasté, Alphonse, 1830-1919 (author)"
+  ],
+  "date": "1876",
+  "description": "Source: <i>Missions de la Congrégation des missionnaires oblats de Marie Immaculée</i> no. 55 (September 1876), pp. 254-268.",
+  "format": "15 p. ; 22 cm.",
+  "identifier-bib": [
+    "local:peel_new: 649",
+    "local:peel3: 7585"
+  ],
+  "language": "French",
+  "mediatype": "texts",
+  "publisher": "A. Hennuyer (Paris)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "Gast, Alphonse, 1830-1919",
+    "Saskatchewan",
+    "St.Albert Mission",
+    "St.Albert Mission",
+    "Saskatchewan",
+    "1876"
+  ],
+  "title": "Saint-Albert: rapport du R.P. Gasté adressé au T.R.P. Supérieur Général: mission de Saint-Pierre du lac Caribou, le 3 janvier 1876",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-06-13 18:31:57",
+  "addeddate": "2025-06-13 18:31:57",
+  "identifier-access": "http://archive.org/details/P007585",
+  "identifier-ark": "ark:/13960/s2khmtq3fnc",
+  "imagecount": "15",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l fra",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "1.0000",
+  "ocr_detected_lang": "fr",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "28",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

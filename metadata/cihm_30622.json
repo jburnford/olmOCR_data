@@ -1,0 +1,72 @@
+{
+  "title": "A prairie tragedy [microform] : the fate of Thomas Simpson, the arctic explorer : read before the Historical and Scientific Society of Manitoba (Transaction no. 26 [i.e. 27])",
+  "creator": [
+    "McArthur, Alexander, 1842-1887",
+    "Historical and Scientific Society of Manitoba"
+  ],
+  "subject": [
+    "Simpson, T. (Thomas), 1808-1840",
+    "Simpson, T. (Thomas), 1808-1840",
+    "Explorers",
+    "Explorateurs"
+  ],
+  "description": [
+    "Cover title",
+    "Caption title: A tragedy of the plains : the fate of Thomas Simpson, the arctic explorer",
+    "Filmed from a copy of the original publication held by the University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "Winnipeg : G.C. Mortimore",
+  "date": "1887",
+  "language": "eng",
+  "isbn": "0665306229",
+  "page-progression": "lr",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "operator": "zack@archive.org",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scandate": "20100610114350",
+  "imagecount": "20",
+  "updatedate": "2010-06-10 18:50:13",
+  "updater": "zack@archive.org",
+  "identifier": "cihm_30622",
+  "uploader": "curtisficheop@archive.org",
+  "addeddate": "2010-06-10 18:50:13",
+  "publicdate": "2010-06-10 18:50:28",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_30622",
+  "identifier-ark": "ark:/13960/t6zw24w5k",
+  "curation": "[curator]sharda@archive.org[/curator][date]20100702202605[/date][state]approved[/state]",
+  "sponsordate": "20100630",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "city": "Winnipeg",
+  "oclc-id": [
+    "13419867",
+    "265747087",
+    "427382535",
+    "471078508",
+    "719971318",
+    "77469370",
+    "833508926"
+  ],
+  "lccn": "nuc87605520",
+  "backup_location": "ia903605_22",
+  "openlibrary_edition": "OL24243374M",
+  "openlibrary_work": "OL16740412W",
+  "external-identifier": "urn:oclc:record:1042053611",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "0",
+  "page_number_module_version": "1.0.3"
+}

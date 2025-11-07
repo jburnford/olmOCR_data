@@ -1,0 +1,56 @@
+{
+  "identifier": "P000940",
+  "adaptive_ocr": "true",
+  "collection": [
+    "peel_print",
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "creator": "Morris, Alexander, 1826-1889. (author)",
+  "date": "1880",
+  "description": "Morris, Alexander: 1826-1889. Member of Legislative Assembly of Canada, 1861-1872; appointed chief justice of Manitoba Court of Queen's Bench, 1872; few months later appointed Lieutenant-Governor of Manitoba and NWT and during term of office negotiated the more important of the First Nations treaties in NWT, 1872-1877; returned to Ontario (Wallace, <i>Dictionary of Canadian biography</i>). // Cover title: \"The treaties of Canada with the Indians of Manitoba, the North-West Territories and Kee-Wa-Tin.\" On pages 299-375: \"Texts of the treaties and supplementary adhesion thereto.\" Also published, Toronto: Willing & Williamson, [1880] (375p.); Toronto: Coles Pub. Co., 1971 & 1979 (375p.); Saskatoon: Fifth House Publishers, 1991 (375p.); Toronto: Prospero Books, 2000 (375p.). Parts of Morris' text reprinted in <i>The treaties between Her Majesty, Queen Victoria, and the Indians of British North America </i>, Regina?: T.C. Douglas, 1946 and [Regina]: Provincial Committee on Minority Groups in co-operation with the Federation of Saskatchewan Indians, 1961 (45, 44 leaves). A valuable source book by one who played a leading role in negotiating with the Natives.",
+  "format": "375 p., map.; 19.5 cm.",
+  "identifier-bib": [
+    "local:peel1: 419",
+    "local:peel2: 544",
+    "local:peel3: 940",
+    "local:peel-procite-id: 940"
+  ],
+  "language": "English",
+  "mediatype": "texts",
+  "publisher": "Belfords, Clarke & Co. (Toronto)",
+  "scanner": "Internet Archive Python library 5.0.5",
+  "subject": [
+    "The People--Natives",
+    "Canada--Politics and government",
+    "Indians of North America--Government relations",
+    "Indiens d'Amérique--Amérique du Nord--Relations avec l'état",
+    "Indians of North America--Treaties",
+    "Indiens d'Amérique--Amérique du Nord--Traité",
+    "1880"
+  ],
+  "title": "The treaties of Canada with the Indians of Manitoba and the North-West Territories: Including the negotiations on which they were based, and other information relating thereto",
+  "uploader": "digitization.IAscript@ualberta.ca",
+  "collection_added": [
+    "peel",
+    "university_of_alberta_libraries",
+    "toronto"
+  ],
+  "publicdate": "2025-03-19 05:21:39",
+  "addeddate": "2025-03-19 05:21:39",
+  "identifier-access": "http://archive.org/details/P000940",
+  "identifier-ark": "ark:/13960/s2g0gr8xjps",
+  "imagecount": "387",
+  "ocr": "tesseract 5.3.0-6-g76ae",
+  "ocr_parameters": "-l eng",
+  "ocr_module_version": "0.0.21",
+  "ocr_detected_script": "Latin",
+  "ocr_detected_script_conf": "0.8981",
+  "ocr_detected_lang": "en",
+  "ocr_detected_lang_conf": "1.0000",
+  "page_number_confidence": "99",
+  "page_number_module_version": "1.0.5",
+  "pdf_degraded": "invalid-jp2-headers",
+  "pdf_module_version": "0.0.25"
+}

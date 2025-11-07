@@ -1,0 +1,72 @@
+{
+  "title": "Report of the visit of the British Association to the Canadian North-West [microform] : description of the trip to the Rocky Mountains, addresses presented, report of speeches delivered, doings in Winnipeg",
+  "creator": [
+    "Richardson, R. L. (Robert Lorne), 1860-1921",
+    "British Association for the Advancement of Science"
+  ],
+  "description": [
+    "Includes advertising matter",
+    "Filmed from a copy of the original publication held by the University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "[Winnipeg? : s.n.]",
+  "date": "1884",
+  "language": "eng",
+  "isbn": "0665258585",
+  "page-progression": "lr",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "operator": "zack@archive.org",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scandate": "20100104222005",
+  "imagecount": "75",
+  "updatedate": "2010-01-05 15:46:31",
+  "updater": "zack@archive.org",
+  "identifier": "cihm_25858",
+  "uploader": "curtisficheop@archive.org",
+  "addeddate": "2010-01-05 15:46:31",
+  "publicdate": "2010-01-05 15:46:35",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_25858",
+  "identifier-ark": "ark:/13960/t72v35d7x",
+  "curation": "[curator]sharda@archive.org[/curator][date]20100208030300[/date][state]approved[/state]",
+  "sponsordate": "20100131",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "city": "[Winnipeg",
+  "oclc-id": [
+    "11457928",
+    "317920334",
+    "422274551",
+    "471056178",
+    "77467898"
+  ],
+  "related-external-id": [
+    "urn:isbn:0665124422",
+    "urn:oclc:317907839",
+    "urn:oclc:422220904",
+    "urn:oclc:471003056",
+    "urn:oclc:718367023",
+    "urn:oclc:77428307",
+    "urn:oclc:9985800"
+  ],
+  "backup_location": "ia903604_23",
+  "openlibrary_edition": "OL24141048M",
+  "openlibrary_work": "OL16739340W",
+  "external-identifier": "urn:oclc:record:768279552",
+  "filesxml": "Sun Oct 3 14:56:30 UTC 2021",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "45",
+  "page_number_module_version": "1.0.3"
+}

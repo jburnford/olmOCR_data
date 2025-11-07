@@ -1,0 +1,76 @@
+{
+  "title": "Throwing-sticks in the national museum [microform]",
+  "creator": [
+    "Mason, Otis T., 1838-1908",
+    "Smithsonian Institution"
+  ],
+  "subject": [
+    "Weapons",
+    "Inuit",
+    "Armes et armures primitives",
+    "Inuit"
+  ],
+  "description": [
+    "Cover title",
+    "At head of title: Smithsonian Institution, United States National Museum",
+    "\"[Fro]m the Report of the Smithsonian Institution, 1883-'84, Part II, pages 279-289, and plates I-XVII.\"",
+    "Filmed from a copy of the original publication held by the University of Saskatchewan, Saskatoon",
+    "43"
+  ],
+  "publisher": "Washington : G.P.O.",
+  "date": "1890",
+  "language": "eng",
+  "isbn": "0665266685",
+  "page-progression": "lr",
+  "sponsor": "University of Alberta Libraries",
+  "contributor": "Canadiana.org",
+  "scanningcenter": "alberta",
+  "mediatype": "texts",
+  "repub_state": "6",
+  "operator": "zack@archive.org",
+  "scanner": "microfiche01.alberta.archive.org",
+  "scandate": "20100125172901",
+  "imagecount": "54",
+  "updatedate": "2010-01-26 14:57:20",
+  "updater": "zack@archive.org",
+  "identifier": "cihm_26668",
+  "uploader": "curtisficheop@archive.org",
+  "addeddate": "2010-01-26 14:57:20",
+  "publicdate": "2010-01-26 14:58:07",
+  "notes": "Film/Fiche is presented as originally captured.",
+  "ppi": "300",
+  "foldoutcount": "0",
+  "identifier-access": "http://www.archive.org/details/cihm_26668",
+  "identifier-ark": "ark:/13960/t24b3q71g",
+  "curation": "[curator]sharda@archive.org[/curator][date]20100208030300[/date][state]approved[/state]",
+  "sponsordate": "20100131",
+  "collection": [
+    "university_of_alberta_libraries_microfilm",
+    "university_of_alberta_libraries",
+    "toronto",
+    "microfilm",
+    "additional_collections"
+  ],
+  "city": "Washington",
+  "oclc-id": [
+    "11719954",
+    "422278993",
+    "471057216",
+    "719239274",
+    "768299609",
+    "77468581"
+  ],
+  "related-external-id": [
+    "urn:isbn:0659970880",
+    "urn:oclc:70584818",
+    "urn:oclc:77171010"
+  ],
+  "backup_location": "ia903604_26",
+  "openlibrary_edition": "OL24141156M",
+  "openlibrary_work": "OL11917936W",
+  "external-identifier": "urn:oclc:record:1042006476",
+  "ocr_module_version": "0.0.21",
+  "ocr_converted": "abbyy-to-hocr 1.1.37",
+  "page_number_confidence": "18",
+  "page_number_module_version": "1.0.3"
+}
