@@ -1,0 +1,1563 @@
+{
+  "document_id": "P000342",
+  "metadata": {
+    "title": "Rapport sur l'exploration de la contrée entre le lac Supérieur et la colonie de la rivière Rouge, et entre ce dernier endroit et les rivières Assiniboine et Saskatchewan",
+    "year": 1859,
+    "language": "French",
+    "collection": "peel_print; peel; university_of_alberta_libraries; toronto",
+    "doc_type": "book",
+    "word_count": 50252,
+    "char_count": 314228,
+    "total_pages": 68,
+    "extraction_strategy": "large_doc",
+    "num_snippets": 15,
+    "annotation_date": "2025-11-07",
+    "annotator": "claude_ai",
+    "annotation_purpose": "gold_standard_ner_dataset"
+  },
+  "total_entities": 203,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "text": "Le 10 de mai, nous étant munis des approvisionnements qu'il fut possible de nous procurer dans l'établissement, nous nous mîmes en route vers le Lac Manitobas. Roulant là, nous traversâmes en canot, et fîmes un passage très ennuyeux, un fort et un contraire tout le temps, pour nous rendre à l'extrémité Nord-Ouest du Lac Winipégoz ; de là, nous traversâmes au Lac Bourbon par le Poirage de la Mousse.\n\nAvant laissé mes aides à mesurer la distance et à constater la différence de niveau entre les deux lacs, je descendis la Saskatchewan jusqu'au Grand Rapide que je visais dans toutes mes recherches. Arrivant ensuite au Poirage de la Moine, je divisaï le parti-renvoyant mon premier aide, Mr. Wells, par la côte occidentale du Lac Winipégoz, le Lac Dauphin et la Petite Saskatchewan, ainsi qu'il est dit dans son rapport que je vous covoie avec le présent, tandis qu'avec l'autre escouade je remontai la Rivière au Cygne et traversai de là au Fort Pelly, pour revenir par l'Assiniboine.",
+      "char_start": 2580,
+      "char_end": 3569,
+      "entities": [
+        {
+          "text": "Lac Manitobas",
+          "start": 2727,
+          "end": 2740,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Lake Manitoba"
+        },
+        {
+          "text": "Lac Winipégoz",
+          "start": 2902,
+          "end": 2915,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Lake Winnipegosis"
+        },
+        {
+          "text": "Lac Bourbon",
+          "start": 2948,
+          "end": 2959,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Cedar Lake (historic French name)"
+        },
+        {
+          "text": "Poirage de la Mousse",
+          "start": 2967,
+          "end": 2987,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Mossy Portage"
+        },
+        {
+          "text": "Saskatchewan",
+          "start": 3109,
+          "end": 3121,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Saskatchewan River"
+        },
+        {
+          "text": "Grand Rapide",
+          "start": 3133,
+          "end": 3145,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Grand Rapids on Saskatchewan River"
+        },
+        {
+          "text": "Poirage de la Moine",
+          "start": 3204,
+          "end": 3223,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Portage location"
+        },
+        {
+          "text": "Mr. Wells",
+          "start": 3270,
+          "end": 3279,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "First assistant on expedition"
+        },
+        {
+          "text": "Lac Winipégoz",
+          "start": 3311,
+          "end": 3324,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Lake Winnipegosis"
+        },
+        {
+          "text": "Lac Dauphin",
+          "start": 3329,
+          "end": 3340,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Lake Dauphin"
+        },
+        {
+          "text": "Petite Saskatchewan",
+          "start": 3348,
+          "end": 3367,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Little Saskatchewan River"
+        },
+        {
+          "text": "Rivière au Cygne",
+          "start": 3486,
+          "end": 3502,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Swan River"
+        },
+        {
+          "text": "Fort Pelly",
+          "start": 3528,
+          "end": 3538,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Hudson's Bay Company fort"
+        },
+        {
+          "text": "Assiniboine",
+          "start": 3567,
+          "end": 3578,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Assiniboine River"
+        }
+      ]
+    },
+    {
+      "snippet_id": 2,
+      "text": "Au Lac Dauphin, les colons se contentent de produire des paniers et du blé d'Inde. Ils se font graduellement aux besoins de l'industrie, mais ils peuvent vivre si facilement de la pêche et de la chasse, comme dit M. Wells dans son rapport, qu'ils sont lents à adopter les occupations plus laborieuses de la vie civilisée. Les eaux de l'endroit abondent en canards, oies et autre gibier de toutes sortes, et les lacs et les rivières littéralement fourmillent de poisson.\n\nPrès du Grand Rapide de la Saskatchewan, nous avons vu environ 15 familles de Sauvages, de la Rivière au Cygne, qui émigrent à tous les ans pour faire la pêche à l'esturgeon. Ces pauvres gens m'ont semblé parfaitement innocents et tranquilles, et j'ai cru découvrir par leur manière d'agir, qu'ils n'étaient pas entièrement d'origine sauvage; m'étant informé à eux, plusieurs se sont vantés avec orgueil d'être descendants de Trappeurs Canadiens qui ont occupé le pays il y a bien des années. À l'extrémité supérieure du Lac Winipegoos, nous n'en avons vu qu'une seule famille, (les gens dont j'ai déjà parlé comme engagés dans la fabrication du sel,) et...\nde là, dans un voyage de cinq cents milles par les vallées de la Rivière au Cygne et de l'Assiniboine, à part les quelques personnes au service de la Compagnie de la Baie d'Hudson et en charge de ses établissements aux Forts Pelly et Ellice, nous n'avons pas rencontré un seul être vivant qu'en arrivant aux défrichements de ces environs.",
+      "char_start": 30177,
+      "char_end": 31645,
+      "entities": [
+        {
+          "text": "Lac Dauphin",
+          "start": 30180,
+          "end": 30191,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Lake Dauphin"
+        },
+        {
+          "text": "M. Wells",
+          "start": 30393,
+          "end": 30401,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Assistant who wrote report"
+        },
+        {
+          "text": "Grand Rapide",
+          "start": 30664,
+          "end": 30676,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Grand Rapids"
+        },
+        {
+          "text": "Saskatchewan",
+          "start": 30683,
+          "end": 30695,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Saskatchewan River"
+        },
+        {
+          "text": "Sauvages",
+          "start": 30733,
+          "end": 30741,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Historical French term for Indigenous peoples"
+        },
+        {
+          "text": "Rivière au Cygne",
+          "start": 30750,
+          "end": 30766,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Swan River"
+        },
+        {
+          "text": "Trappeurs Canadiens",
+          "start": 31087,
+          "end": 31106,
+          "type": "MISC",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Canadian trappers/fur traders"
+        },
+        {
+          "text": "Lac Winipegoos",
+          "start": 31193,
+          "end": 31207,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Lake Winnipegosis (alternate spelling)"
+        },
+        {
+          "text": "Rivière au Cygne",
+          "start": 31382,
+          "end": 31398,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Swan River"
+        },
+        {
+          "text": "Assiniboine",
+          "start": 31408,
+          "end": 31419,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Assiniboine River"
+        },
+        {
+          "text": "Compagnie de la Baie d'Hudson",
+          "start": 31476,
+          "end": 31506,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson's Bay Company (French)"
+        },
+        {
+          "text": "Forts Pelly",
+          "start": 31552,
+          "end": 31563,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Fort Pelly"
+        },
+        {
+          "text": "Ellice",
+          "start": 31567,
+          "end": 31573,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Fort Ellice"
+        }
+      ]
+    },
+    {
+      "snippet_id": 3,
+      "text": "Quant à cela, il est prouvé qu'on pourra y réussir, en les traitant bien, par le succès qu'on a obtenu les laborieux et zélés missionnaires du Grand Portage, de la Rivière Rouge, de \"La Pale de Perdrix,\" et d'ailleurs. Quant à la population des établissements de la Rivière Rouge, elle est aussi paisible et tranquille, je puis le dire sans crainte d'être réfuté, que toute autre société que l'on rencontre partout ailleurs, et je crois qu'il n'y a rien qu'elle ne désire aussi ardemment que de voir ouvrir le pays.\n\nEn quittant cette partie du pays, j'ai beaucoup de plaisir à témoigner de la bonne et de la courtoisie dont nous ont accablés les habitants de la colonie, ainsi que tous les officiers de l'hon. Compagnie de la Baie d'Hudson. Crainte de blesser les sentiments d'aucun de ces braves gens, je ne voudrais nommer personne ; mais il m'est impossible de ne pas mentionner les noms du facteur en chef McTavish, du Fort Garry, qui nous a fourni un grand nombre de choses qu'il nous aurait été impossible de nous procurer ailleurs, et du traiteur en chef Murray, de Pembina, dont la porte hospitalière a toujours été ouverte à tous ceux de notre parti qui ont eu occasion de passer par là.",
+      "char_start": 33299,
+      "char_end": 34497,
+      "entities": [
+        {
+          "text": "Grand Portage",
+          "start": 33443,
+          "end": 33456,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Grand Portage mission location"
+        },
+        {
+          "text": "Rivière Rouge",
+          "start": 33464,
+          "end": 33477,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Red River"
+        },
+        {
+          "text": "La Pale de Perdrix",
+          "start": 33483,
+          "end": 33501,
+          "type": "LOC",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Mission location (Partridge Crop)"
+        },
+        {
+          "text": "Rivière Rouge",
+          "start": 33565,
+          "end": 33578,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Red River settlement"
+        },
+        {
+          "text": "Compagnie de la Baie d'Hudson",
+          "start": 34020,
+          "end": 34050,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson's Bay Company (French)"
+        },
+        {
+          "text": "McTavish",
+          "start": 34229,
+          "end": 34237,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Chief Factor at Fort Garry"
+        },
+        {
+          "text": "Fort Garry",
+          "start": 34242,
+          "end": 34252,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Hudson's Bay Company fort"
+        },
+        {
+          "text": "Murray",
+          "start": 34379,
+          "end": 34385,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Chief Trader at Pembina"
+        },
+        {
+          "text": "Pembina",
+          "start": 34390,
+          "end": 34397,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Pembina settlement/post"
+        }
+      ]
+    },
+    {
+      "snippet_id": 4,
+      "text": "Bien au delà des sources de l'Assiniboine, sur le versant des Montagnes Rocheuses, et vers le Nord, jusqu'à la Rivière La Paix, il y a une vaste région où le climat, en moyenne, n'est pas inférieur à celui du Haut Canada. Conformément que les isothermes d'été aient une direction Nord-Ouest, comme il est prouvé d'une manière incontestable par Lorin Budgett et autres, le climat de la Rivière La Paix, dans la latitude Nord 50°, est de l'Ouest 117° doit être égal, sinon supérieur à celui de la Rivière Rouge dans la 50e parallèle, et les observations des voyageurs semblent confirmer cette présomption. Sir Alexander McKenzie, en écrivant, le 10 de mai, sur la vallée de la Rivière La Paix, dit : \"Toute la contrée déployait une verdure exubérante.\" Maintenant, à la Rivière Rouge, le même jour l'année dernière, les arbres ne faisaient que prendre leurs feuilles, et le gazon des prairies ne commençait qu'à se montrer par dessus les herbes dépérissantes de l'année précédente, de sorte que la Rivière La Paix semblerait avoir l'avantage.",
+      "char_start": 106771,
+      "char_end": 107812,
+      "entities": [
+        {
+          "text": "Assiniboine",
+          "start": 106800,
+          "end": 106811,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Assiniboine River"
+        },
+        {
+          "text": "Montagnes Rocheuses",
+          "start": 106833,
+          "end": 106852,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Rocky Mountains (French)"
+        },
+        {
+          "text": "Rivière La Paix",
+          "start": 106883,
+          "end": 106898,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Peace River"
+        },
+        {
+          "text": "Haut Canada",
+          "start": 106982,
+          "end": 106993,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Upper Canada (historic Ontario)"
+        },
+        {
+          "text": "Lorin Budgett",
+          "start": 107119,
+          "end": 107132,
+          "type": "PER",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Scientist/researcher on isotherms"
+        },
+        {
+          "text": "Rivière La Paix",
+          "start": 107159,
+          "end": 107174,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Peace River"
+        },
+        {
+          "text": "Rivière Rouge",
+          "start": 107271,
+          "end": 107284,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Red River"
+        },
+        {
+          "text": "Sir Alexander McKenzie",
+          "start": 107383,
+          "end": 107405,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Famous explorer (Alexander Mackenzie)"
+        },
+        {
+          "text": "Rivière La Paix",
+          "start": 107457,
+          "end": 107472,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Peace River"
+        },
+        {
+          "text": "Rivière Rouge",
+          "start": 107555,
+          "end": 107568,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Red River"
+        },
+        {
+          "text": "Rivière La Paix",
+          "start": 107781,
+          "end": 107796,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Peace River"
+        }
+      ]
+    },
+    {
+      "snippet_id": 5,
+      "text": "J'ai soumis ces échantillons à Sir William Logan et à M. Billings, comme il a déjà été dit, et je dois attirer votre attention d'une manière particulière sur la communication suivante de M. Billings, qui est toute pleine d'intérêt.\n\nEXPLORATION GÉOLOGIQUE DU CANADA.\n\nMontréal, 21 février 1859.\n\nCHER MONSIEUR,\n\nLes échantillons de fossiles et de roches que vous m'avez soumis pour en faire l'examen, sont de haute importance scientifique, vu qu'ils démontrent l'existence, dans la contrée située à l'Ouest de la Rivière Rouge, d'une formation qui n'avait pas encore été reconnue dans les territoires britanniques du Nord-Ouest. Il était connu depuis longtemps par les écrits du Dr. Bigsby, de Sir John Robinson et autres, que partant des environs du Lac des Bois il y avait une bande de calcaires et de schistes siluriens qui s'étendait vers le Nord-Ouest jusqu'à la rivière du Grand Lac des Ours ; mais jusqu'à présent nous n'avions aucune donnée qui nous permette de nous faire une opinion sur l'âge géologique de cette bande et les Montagnes Rocheuses.",
+      "char_start": 112055,
+      "char_end": 113112,
+      "entities": [
+        {
+          "text": "Sir William Logan",
+          "start": 112087,
+          "end": 112104,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Geologist, founder of Geological Survey of Canada"
+        },
+        {
+          "text": "M. Billings",
+          "start": 112110,
+          "end": 112121,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Geologist/paleontologist"
+        },
+        {
+          "text": "M. Billings",
+          "start": 112244,
+          "end": 112255,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Author of geological communication"
+        },
+        {
+          "text": "CANADA",
+          "start": 112318,
+          "end": 112324,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Canada (Geological Survey)"
+        },
+        {
+          "text": "Montréal",
+          "start": 112327,
+          "end": 112335,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Montreal city"
+        },
+        {
+          "text": "Rivière Rouge",
+          "start": 112576,
+          "end": 112589,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Red River"
+        },
+        {
+          "text": "Nord-Ouest",
+          "start": 112680,
+          "end": 112690,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Northwest territories"
+        },
+        {
+          "text": "Dr. Bigsby",
+          "start": 112743,
+          "end": 112753,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Geologist/scientist"
+        },
+        {
+          "text": "Sir John Robinson",
+          "start": 112758,
+          "end": 112775,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Geologist/scientist"
+        },
+        {
+          "text": "Lac des Bois",
+          "start": 112822,
+          "end": 112834,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Lake of the Woods"
+        },
+        {
+          "text": "Grand Lac des Ours",
+          "start": 112942,
+          "end": 112960,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Great Bear Lake"
+        },
+        {
+          "text": "Montagnes Rocheuses",
+          "start": 113092,
+          "end": 113111,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Rocky Mountains (French)"
+        }
+      ]
+    },
+    {
+      "snippet_id": 6,
+      "text": "Il se trouve en plusieurs endroits dans toute la grande région qui est située entre la chaîne de roches siluriques et les Montagnes Rocheuses, et bien plus au Sud, dans les États-Unis. Sir John Richardson dit qu'il se trouve des formations de charbon de terre sur le versant des Montagnes Rocheuses, la plus méridionale étant au Passage du Raton, dans la latitude 37° 15' Nord, longitude 104° 35' Ouest, et au-delà de 7000 pieds au-dessus du niveau de la mer. Des feuillets de Dioclylédones, trouvées dans ces couches par le lieutenant Abern, en 1847, sont représentées dans le rapport du colonel Emory au Congrès, (pp. 528-517.) Nuttal a observé des couches de lignite, associées avec de la terre à pipe couleur rose, sur l'Arkansas, près de la 45e parallèle. Sir Alexander McKenzie rapporte qu'une étroite fissure de terrain marécageux, bourbeux et inégal, produisant du charbon et du bitume, s'étend le long de la base orientale des Montagnes Rocheuses, et il en fixe la latitude à 52° Nord, et la longitude à 112° Ouest, sur le Bras Sud de la Saskatchewan, et la latitude à 56° Nord, et la longitude à 116° Ouest, (Edge Coal Creek) sur la Rivière Pare, comme localités de la formation de charbon affleurant.",
+      "char_start": 127621,
+      "char_end": 128833,
+      "entities": [
+        {
+          "text": "Montagnes Rocheuses",
+          "start": 127744,
+          "end": 127763,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Rocky Mountains (French)"
+        },
+        {
+          "text": "États-Unis",
+          "start": 127795,
+          "end": 127805,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "United States"
+        },
+        {
+          "text": "Sir John Richardson",
+          "start": 127807,
+          "end": 127826,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Explorer/scientist"
+        },
+        {
+          "text": "Montagnes Rocheuses",
+          "start": 127901,
+          "end": 127920,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Rocky Mountains (French)"
+        },
+        {
+          "text": "Passage du Raton",
+          "start": 127955,
+          "end": 127971,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Raton Pass"
+        },
+        {
+          "text": "lieutenant Abern",
+          "start": 128154,
+          "end": 128170,
+          "type": "PER",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Lieutenant who found plant fossils"
+        },
+        {
+          "text": "colonel Emory",
+          "start": 128218,
+          "end": 128231,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Colonel who wrote report to Congress"
+        },
+        {
+          "text": "Congrès",
+          "start": 128235,
+          "end": 128242,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "U.S. Congress"
+        },
+        {
+          "text": "Nuttal",
+          "start": 128261,
+          "end": 128267,
+          "type": "PER",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Scientist who observed lignite"
+        },
+        {
+          "text": "Arkansas",
+          "start": 128357,
+          "end": 128365,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Arkansas River"
+        },
+        {
+          "text": "Sir Alexander McKenzie",
+          "start": 128391,
+          "end": 128413,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Famous explorer"
+        },
+        {
+          "text": "Montagnes Rocheuses",
+          "start": 128564,
+          "end": 128583,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Rocky Mountains (French)"
+        },
+        {
+          "text": "Bras Sud de la Saskatchewan",
+          "start": 128652,
+          "end": 128679,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "South Saskatchewan River"
+        },
+        {
+          "text": "Edge Coal Creek",
+          "start": 128737,
+          "end": 128752,
+          "type": "LOC",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Coal creek location"
+        },
+        {
+          "text": "Rivière Pare",
+          "start": 128762,
+          "end": 128774,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Peace River (alternate spelling)"
+        }
+      ]
+    },
+    {
+      "snippet_id": 7,
+      "text": "Des spécimens recueillis à la main ne sauraient être distingués d'autres qui viennent des caps de schiste sur la Rivière Athabasca. Il existe dans les environs du charbon d'Edmonton, du schiste hautement bitumineux et considérablement durci, et dans les couches d'argile il se trouve du minerai de fer gréseux.\n\n* Ibister. Journal of Geological Survey. Vol. II.\n† Goeppart. Monographie des conifères.\n\nL'on a remarqué des couches de charbon en feu sur la rivière à la Boueuse et près de Dunvegan sur la Rivière la Paix, (Journal of a Boat Journey through Rupert's Land. Par Sir J. Richardson, 1851, vol. I, p. 197.)\n\nLes spécimens siluriens des Lacs Winnipeg et Winipegoos comprennent plusieurs espèces qui sont nouvelles à la science, mais comme avant de les décrire il est à propos de s'en procurer un plus grand nombre, pour en donner des définitions aussi parfaites que possible, je n'en ferai rien de plus pour le moment et je me bornerai à citer de la lettre de M.",
+      "char_start": 129978,
+      "char_end": 130949,
+      "entities": [
+        {
+          "text": "Rivière Athabasca",
+          "start": 130092,
+          "end": 130109,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Athabasca River"
+        },
+        {
+          "text": "Edmonton",
+          "start": 130154,
+          "end": 130162,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Edmonton area"
+        },
+        {
+          "text": "Ibister",
+          "start": 130296,
+          "end": 130303,
+          "type": "PER",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Author in Journal of Geological Survey"
+        },
+        {
+          "text": "Goeppart",
+          "start": 130349,
+          "end": 130357,
+          "type": "PER",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Author of conifer monograph"
+        },
+        {
+          "text": "rivière à la Boueuse",
+          "start": 130435,
+          "end": 130455,
+          "type": "LOC",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Muddy River"
+        },
+        {
+          "text": "Dunvegan",
+          "start": 130468,
+          "end": 130476,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Dunvegan on Peace River"
+        },
+        {
+          "text": "Rivière la Paix",
+          "start": 130484,
+          "end": 130499,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Peace River"
+        },
+        {
+          "text": "Rupert's Land",
+          "start": 130539,
+          "end": 130552,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Rupert's Land territory"
+        },
+        {
+          "text": "Sir J. Richardson",
+          "start": 130558,
+          "end": 130575,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Explorer/author Sir John Richardson"
+        },
+        {
+          "text": "Lacs Winnipeg",
+          "start": 130633,
+          "end": 130646,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Lake Winnipeg"
+        },
+        {
+          "text": "Winipegoos",
+          "start": 130650,
+          "end": 130660,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Lake Winnipegosis"
+        }
+      ]
+    },
+    {
+      "snippet_id": 8,
+      "text": "Maintenant, comme je l'ai déjà dit plus haut, les Sauvages rapportent qu'il y a du charbon à la Montagne du Canard, à la Montagne de la Fenêtre, et à la Rivière au Coq, et précédemment la région de la rivière de l'Étoile est recommandée. À la Montagne du Canard, surtout, ils disent qu'il existe de la substance en grande quantité. Je crois donc qu'il serait à propos l'été prochain de faire accompagner l'expédition d'un géologue pratique ; ce ne serait ajouter que peu aux dépenses, tandis que ce serait le moyen de résoudre une question de la plus haute importance.\n\nSir William Logan, comme je l'ai dit dans une communication précédente, est prêt à nous en fournir un très qualifié, pour nous accompagner, et il suggère le nom de M. Richardson dont les recherches ont déjà amené de si importants résultats pour la science.",
+      "char_start": 133068,
+      "char_end": 133895,
+      "entities": [
+        {
+          "text": "Sauvages",
+          "start": 133119,
+          "end": 133127,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Historical French term for Indigenous peoples"
+        },
+        {
+          "text": "Montagne du Canard",
+          "start": 133165,
+          "end": 133183,
+          "type": "LOC",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Duck Mountain"
+        },
+        {
+          "text": "Montagne de la Fenêtre",
+          "start": 133190,
+          "end": 133212,
+          "type": "LOC",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Window Mountain"
+        },
+        {
+          "text": "Rivière au Coq",
+          "start": 133221,
+          "end": 133235,
+          "type": "LOC",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Cock River"
+        },
+        {
+          "text": "rivière de l'Étoile",
+          "start": 133268,
+          "end": 133287,
+          "type": "LOC",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Star River"
+        },
+        {
+          "text": "Montagne du Canard",
+          "start": 133315,
+          "end": 133333,
+          "type": "LOC",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Duck Mountain"
+        },
+        {
+          "text": "Sir William Logan",
+          "start": 133649,
+          "end": 133666,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Geologist, founder of Geological Survey of Canada"
+        },
+        {
+          "text": "M. Richardson",
+          "start": 133803,
+          "end": 133816,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Geologist suggested for expedition"
+        }
+      ]
+    },
+    {
+      "snippet_id": 9,
+      "text": "La première place de quelque importance sur la route est le Fort William, à l'embouchure de la Kaministikwa, établissement qui possède un intérêt particulier pour avoir été autrefois le grand comptoir de la Compagnie du Nord-Ouest du Canada. Autrefois, il y réunissait parfois jusqu'à trois mille personnes, avec de riches cargaisons de pelleteries de l'intérieur, ou de marchandises de Montréal; mais depuis la fusion des deux compagnies, le commerce a été détourné vers la Baie d'Hudson, et le Fort William a beaucoup perdu de son importance. Il est aujourd'hui de résidence à un chef de trafiquants, et est encore le centre d'affaires considérables en été. M. MacIntyre, qui en a la charge, ayant établi des pêcheries qui prennent de l'emploi à bon nombre de personnes de race mixte, qui se sont établies un peu plus haut sur la Kaministikwa.",
+      "char_start": 180338,
+      "char_end": 181185,
+      "entities": [
+        {
+          "text": "Fort William",
+          "start": 180398,
+          "end": 180410,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Hudson's Bay Company fort"
+        },
+        {
+          "text": "Kaministikwa",
+          "start": 180433,
+          "end": 180445,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Kaministiquia River"
+        },
+        {
+          "text": "Compagnie du Nord-Ouest du Canada",
+          "start": 180547,
+          "end": 180580,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "North West Company (French)"
+        },
+        {
+          "text": "Montréal",
+          "start": 180729,
+          "end": 180737,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Montreal city"
+        },
+        {
+          "text": "Baie d'Hudson",
+          "start": 180819,
+          "end": 180832,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Hudson Bay"
+        },
+        {
+          "text": "Fort William",
+          "start": 180841,
+          "end": 180853,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Fort William post"
+        },
+        {
+          "text": "M. MacIntyre",
+          "start": 181007,
+          "end": 181019,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Person in charge of Fort William fisheries"
+        },
+        {
+          "text": "Kaministikwa",
+          "start": 181172,
+          "end": 181184,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Kaministiquia River"
+        }
+      ]
+    },
+    {
+      "snippet_id": 10,
+      "text": "Le Fort Garry d'En Haut, situé au confluent de la Rivière Rouge et de l'Assiniboine, est un établissement semblable, excepté que l'espace enclos n'est pas tout-à-fait aussi considérable, et qu'il y a un plus grand nombre de bâtisses. Il est la résidence du facteur en chef du district et du gouverneur d'Assiniboine, et c'est aussi là que sont logées les troupes de la compagnie. C'est le principal comptoir commercial de l'établissement, et des gens de toutes couleurs, depuis le Sauvage bronzé des plaines, jusqu'au blond fils des Îles, se conduisent constamment à ses portes.\n\nOutre ces établissements nous avons encore visité Pembina, le Fort Ellice, le Fort Polley, et le Poste de la Rivière au Cygne; mais il a été parlé de tous ces établissements dans les rapports précédents.\n\nEn résumant que depuis la fondation de la compagnie du Nord-Ouest du Canada avec la Compagnie de la Baie d'Hudson, lorsqu'elle a été réunie à la seule sous-division, nommée établissemens, elle s'est graduellement étendue sur la moitié d'un continent, depuis la Baie d'Hudson jusqu'au Pacifique, et depuis la frontière jusqu'à la Mer Arctique, il est impossible de ne pas admirer l'ordre et le système qui se font remarquer partout dans leur administration.",
+      "char_start": 183066,
+      "char_end": 184309,
+      "entities": [
+        {
+          "text": "Fort Garry d'En Haut",
+          "start": 183069,
+          "end": 183089,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Upper Fort Garry"
+        },
+        {
+          "text": "Rivière Rouge",
+          "start": 183116,
+          "end": 183129,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Red River"
+        },
+        {
+          "text": "Assiniboine",
+          "start": 183138,
+          "end": 183149,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Assiniboine River"
+        },
+        {
+          "text": "Assiniboine",
+          "start": 183369,
+          "end": 183380,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Assiniboine district"
+        },
+        {
+          "text": "Pembina",
+          "start": 183692,
+          "end": 183699,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Pembina post"
+        },
+        {
+          "text": "Fort Ellice",
+          "start": 183704,
+          "end": 183715,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Fort Ellice post"
+        },
+        {
+          "text": "Fort Polley",
+          "start": 183720,
+          "end": 183731,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Fort Pelly (alternate spelling)"
+        },
+        {
+          "text": "Poste de la Rivière au Cygne",
+          "start": 183739,
+          "end": 183767,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Swan River Post"
+        },
+        {
+          "text": "compagnie du Nord-Ouest du Canada",
+          "start": 183905,
+          "end": 183938,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "North West Company (French)"
+        },
+        {
+          "text": "Compagnie de la Baie d'Hudson",
+          "start": 183948,
+          "end": 183978,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson's Bay Company (French)"
+        },
+        {
+          "text": "Baie d'Hudson",
+          "start": 184127,
+          "end": 184140,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Hudson Bay"
+        },
+        {
+          "text": "Pacifique",
+          "start": 184152,
+          "end": 184161,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Pacific Ocean"
+        },
+        {
+          "text": "Mer Arctique",
+          "start": 184198,
+          "end": 184210,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Arctic Ocean"
+        }
+      ]
+    },
+    {
+      "snippet_id": 11,
+      "text": "Des missionnaires ont souvent été au milieu d'eux, mais ils n'ont jamais réussi à faire assez d'impression sur eux, pour les amener à embrasser le christianisme. Leurs habitudes et coutumes sont probablement encore les mêmes qu'elles étaient lorsque les premiers trafiquants Canadiens ont pénétré dans le pays. Tous les printemps, à l'ouverture de la navigation, ils s'assemblent au Fort Francis pour célébrer le Festin du Chien et la danse des Chevalières, fête commune à toutes les tribus de cette région. L'on me dit qu'ils se réunissent en patois jusqu'au nombre de 500 dans ces occasions. Quelques-uns viennent du Lac Rouge, sur le territoire des États-Unis, d'autres du Portage du Rat, du Lac des Bois, du Lac la Pluie et du Lac des Bois Blancs.\n\nSir George Simpson estime la population entière comme suit:\n\n| Poste          | Population |\n|----------------|------------|\n| Fort Francis   | 1,560      |\n| Fort Alexander | 390        |\n| Portage du Rat | 500        |\n| Chien Blanc    | 100        |\n| Lac du Bonnet  | 50         |\n| Lac des Bois Blancs | 200     |\n| Lac Plat       | 200        |\n\nTotal: 2,850\n\nMais je suppose que ce nombre ne comprend pas ceux qui viennent du côté des États-Unis.",
+      "char_start": 188571,
+      "char_end": 189778,
+      "entities": [
+        {
+          "text": "Canadiens",
+          "start": 188846,
+          "end": 188855,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Canadian traders/voyageurs"
+        },
+        {
+          "text": "Fort Francis",
+          "start": 188966,
+          "end": 188978,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Fort Frances"
+        },
+        {
+          "text": "Festin du Chien",
+          "start": 188996,
+          "end": 189011,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Dog Feast ceremony"
+        },
+        {
+          "text": "Lac Rouge",
+          "start": 189197,
+          "end": 189206,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Red Lake"
+        },
+        {
+          "text": "États-Unis",
+          "start": 189230,
+          "end": 189240,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "United States"
+        },
+        {
+          "text": "Portage du Rat",
+          "start": 189256,
+          "end": 189270,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Rat Portage (Kenora)"
+        },
+        {
+          "text": "Lac des Bois",
+          "start": 189275,
+          "end": 189287,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Lake of the Woods"
+        },
+        {
+          "text": "Lac la Pluie",
+          "start": 189292,
+          "end": 189304,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Rainy Lake"
+        },
+        {
+          "text": "Lac des Bois Blancs",
+          "start": 189312,
+          "end": 189331,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Whitefish Lake"
+        },
+        {
+          "text": "Sir George Simpson",
+          "start": 189334,
+          "end": 189352,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Governor of Hudson's Bay Company"
+        },
+        {
+          "text": "Fort Francis",
+          "start": 189453,
+          "end": 189465,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Fort Frances"
+        },
+        {
+          "text": "Fort Alexander",
+          "start": 189478,
+          "end": 189492,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Fort Alexander post"
+        },
+        {
+          "text": "Portage du Rat",
+          "start": 189504,
+          "end": 189518,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Rat Portage"
+        },
+        {
+          "text": "Chien Blanc",
+          "start": 189530,
+          "end": 189541,
+          "type": "LOC",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "White Dog location"
+        },
+        {
+          "text": "Lac du Bonnet",
+          "start": 189553,
+          "end": 189566,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Lac du Bonnet"
+        },
+        {
+          "text": "Lac des Bois Blancs",
+          "start": 189577,
+          "end": 189596,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Whitefish Lake"
+        },
+        {
+          "text": "Lac Plat",
+          "start": 189609,
+          "end": 189617,
+          "type": "LOC",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Flat Lake"
+        },
+        {
+          "text": "États-Unis",
+          "start": 189767,
+          "end": 189777,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "United States"
+        }
+      ]
+    },
+    {
+      "snippet_id": 12,
+      "text": "Sir John Richardson, qui a plusieurs fois traversé leur pays, les décrit comme \"insolents, et indépendants de la Compagnie de la Baie d'Hudson, par le fait qu'ils ont de l'esturgeon en abondance et de grandes quantités de riz sauvage, de sorte qu'ils peuvent subsister sans avoir recours aux approvisionnements de munitions ou de vivres de la Compagnie de la Baie d'Hudson fournis à la Saugaze.\" Cela est vrai, et je pense que leur pays est passablement riche en fourrures, et qu'aux près de la frontière ils en obtiennent un bon prix, soit de la Compagnie de la Baie d'Hudson, soit des trafiquants américains.\n\nIls sont certainement d'un caractère indépendant, je puis même dire intractable; et leur fermeté naturelle est loin d'être perdue par leurs guerres continues avec les Sioux, sur les confins des grandes prairies, auxquelles chaque branche de la tribu envoie son contingent de temps à autre.",
+      "char_start": 190164,
+      "char_end": 191066,
+      "entities": [
+        {
+          "text": "Sir John Richardson",
+          "start": 190164,
+          "end": 190183,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Explorer who described Indigenous peoples"
+        },
+        {
+          "text": "Compagnie de la Baie d'Hudson",
+          "start": 190278,
+          "end": 190308,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson's Bay Company (French)"
+        },
+        {
+          "text": "Compagnie de la Baie d'Hudson",
+          "start": 190510,
+          "end": 190540,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson's Bay Company (French)"
+        },
+        {
+          "text": "Compagnie de la Baie d'Hudson",
+          "start": 190713,
+          "end": 190743,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson's Bay Company (French)"
+        },
+        {
+          "text": "Sioux",
+          "start": 190948,
+          "end": 190953,
+          "type": "MISC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Sioux people/nation"
+        }
+      ]
+    },
+    {
+      "snippet_id": 13,
+      "text": "Toutes les digues auraient un fond de roc solide, et l'on trouve partout en abondance le bois de la meilleure qualité pour leur construction.\n\nPour cette partie de la route, des bateaux comme ceux de la Compagnie de la Baie d'Hudson pourraient être employés, car on les transporte facilement sur un court\nau moyen d'une simple glissière ou plan incliné fait en billots, sur lequel ils pourraient être promptement tirés.\n\nCependant, si l'on croit qu'un chemin de roulage offrirait un moyen de communication plus rapide dans le cas où il faudrait faire le service de la malle, il pourrait aussi être construit. Pour la rapidité, la route de terre serait certainement préférable ; mais la rivière offrirait de plus grandes facilités pour le transport des marchandises pesantes.\n\nDes Douze Portages, par le Lac la Pluie et une partie de la Rivière la Pluie, au Fort Francis, la distance est de 30 milles ; et sur cette étendue ne gêne la navigation.",
+      "char_start": 205573,
+      "char_end": 206519,
+      "entities": [
+        {
+          "text": "Compagnie de la Baie d'Hudson",
+          "start": 205780,
+          "end": 205810,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson's Bay Company (French)"
+        },
+        {
+          "text": "Douze Portages",
+          "start": 206352,
+          "end": 206366,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Twelve Portages location"
+        },
+        {
+          "text": "Lac la Pluie",
+          "start": 206375,
+          "end": 206387,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Rainy Lake"
+        },
+        {
+          "text": "Rivière la Pluie",
+          "start": 206412,
+          "end": 206428,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Rainy River"
+        },
+        {
+          "text": "Fort Francis",
+          "start": 206433,
+          "end": 206445,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Fort Frances"
+        }
+      ]
+    },
+    {
+      "snippet_id": 14,
+      "text": "Cela ne représente pas la distance en ligne droite, mais la distance à parcourir, en tenant compte des similitudes de la route.\n\nMaintenant, quant aux moyens de transport qui seraient le plus avantageusement et le plus économiquement employés :\n\nIl faudrait des chariots ou des charrettes sur le chemin entre la Baie du Tonnerre et le Lac du Chien.\n\nSur le Lac et la Rivière du Chien ces bateaux comme ceux dont se sert la Compagnie de la Baie d'Hudson, ou même un steamer, pourraient être mis en usage.\n\nAux Portages de la Plaine, des charrettes ou des chariots seraient nécessairement employés.\n\nSur la Rivière de la Savane, le Lac des Mille Lacs, et la Seine, jusqu'aux Petites Chutes, après que la digue aurait été construite à ce dernier endroit, il y aurait une nappe d'eau non interrompue de 65 milles, et sur cette section il serait avantageux d'avoir un petit steamer.",
+      "char_start": 208067,
+      "char_end": 208946,
+      "entities": [
+        {
+          "text": "Baie du Tonnerre",
+          "start": 208380,
+          "end": 208396,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Thunder Bay"
+        },
+        {
+          "text": "Lac du Chien",
+          "start": 208403,
+          "end": 208415,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Dog Lake"
+        },
+        {
+          "text": "Lac",
+          "start": 208422,
+          "end": 208425,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Dog Lake (continuation)"
+        },
+        {
+          "text": "Rivière du Chien",
+          "start": 208433,
+          "end": 208449,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Dog River"
+        },
+        {
+          "text": "Compagnie de la Baie d'Hudson",
+          "start": 208492,
+          "end": 208522,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson's Bay Company (French)"
+        },
+        {
+          "text": "Portages de la Plaine",
+          "start": 208584,
+          "end": 208605,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Prairie Portages"
+        },
+        {
+          "text": "Rivière de la Savane",
+          "start": 208681,
+          "end": 208701,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Savannah River"
+        },
+        {
+          "text": "Lac des Mille Lacs",
+          "start": 208706,
+          "end": 208724,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Lac des Mille Lacs"
+        },
+        {
+          "text": "Seine",
+          "start": 208732,
+          "end": 208737,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Seine River"
+        },
+        {
+          "text": "Petites Chutes",
+          "start": 208752,
+          "end": 208766,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Little Falls"
+        }
+      ]
+    },
+    {
+      "snippet_id": 15,
+      "text": "S. J. Dawson, écuyer,\nEtc., etc., etc.\n\nREGISTRE MÉTÉOROLOGIQUE.\n\nJusqu'au 25 mars 1858, le registre suivant a été tenu près du Fort Garry,—lat. 49° 55' N ; long. 97° 21' O,—et depuis cette époque jusqu'au 6 juillet, au cottage du Dr. Bunn—lat. 50° 1' N ; long. 97° 20' O,—l'élévation approximative de ces deux endroits au-dessus du niveau de la mer étant de 700 pieds, ou à peu près.\n\nDans la quatrième colonne, le minimum de la température de la nuit précédente est portée à l'heure d'observation du matin. À cause des autres occupations de la personne qui a fait les observations, quelques jours sont omis, et pour la même cause, il n'a pas été fait d'observations au milieu du jour durant le mois de novembre et une partie du mois de décembre.\n\nLe registre du Fort William a été tenu par M. McIntyre, Policier en charge de l'établissement de la Compagnie de la Baie d'Hudson en cet endroit.",
+      "char_start": 229353,
+      "char_end": 230249,
+      "entities": [
+        {
+          "text": "S. J. Dawson",
+          "start": 229353,
+          "end": 229365,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Author/surveyor of report"
+        },
+        {
+          "text": "Fort Garry",
+          "start": 229489,
+          "end": 229499,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Fort Garry location"
+        },
+        {
+          "text": "Dr. Bunn",
+          "start": 229590,
+          "end": 229598,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Doctor whose cottage was observation site"
+        },
+        {
+          "text": "Fort William",
+          "start": 230192,
+          "end": 230204,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Fort William location"
+        },
+        {
+          "text": "M. McIntyre",
+          "start": 230223,
+          "end": 230234,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Officer in charge at Fort William"
+        },
+        {
+          "text": "Compagnie de la Baie d'Hudson",
+          "start": 230283,
+          "end": 230313,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson's Bay Company (French)"
+        }
+      ]
+    }
+  ]
+}

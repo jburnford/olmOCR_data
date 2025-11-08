@@ -1,0 +1,139 @@
+{
+  "document_id": "BDM_1883042601",
+  "metadata": {
+    "title": "Daily mail (1883-04-26)",
+    "year": 1883,
+    "language": "English",
+    "collection": "peel_newspapers; peel; university_of_alberta_libraries; toronto",
+    "doc_type": "newspaper",
+    "word_count": 395,
+    "char_count": 2478,
+    "total_pages": 4,
+    "extraction_strategy": "full_text",
+    "num_snippets": 1
+  },
+  "annotation_date": "2025-11-07T19:35:00",
+  "annotator": "claude_ai",
+  "model": "claude-sonnet-4-5",
+  "status": "draft",
+  "total_snippets": 1,
+  "total_entities": 13,
+  "snippets": [
+    {
+      "snippet_id": "001",
+      "text": "NO SMALL POX HERE.\n\nSTABLES, STABLES, STABLES.\n\nJUST OPENED.\n\nON\n\nTenth Street Between Rosser and Pacific Avenues,\n\nLivery, Sale and Feed Stables\n\nTHE BEST STOCK OF HORSES EVER IMPORTED INTO THE COUNTRY. DEAL\n\nIN THE GLEN, WAGONS, ETC.\n\nPOWELL & EDMUNDS.\n\nJUST RECEIVED\n\nAT THE Glasgow Warehouse\n\nREADY-MADE CLOTHING\n\nwhich I am offering at a\n\nGreat Reduction in Prices.\n\nCome Early and see Them.\n\nJ. Blackhall,\n\n11th street near Rosser Ave.\n\nAgent for the Williams Singer Sewing Machines Organs, etc.\n\nCraig Selling Off!\n\nSelling Off the Whole Stock\n\nAT COST!\n\nGIVING UP BUSINESS.\n\nImmigrants\n\nExpected this Spring and Summer to the North-West,\n\nNow is the Time\n\nfor home Capitalists, Speculators, and others desirous of purchasing\n\nTOWN LOTS\n\nCOUNTRY PROPERTY\n\nto secure the same before the Spring Boom sets in.",
+      "char_start": 0,
+      "char_end": 814,
+      "entities": [
+        {
+          "text": "Tenth Street",
+          "start": 67,
+          "end": 79,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Street name in town (likely Brandon or Regina)"
+        },
+        {
+          "text": "Rosser",
+          "start": 88,
+          "end": 94,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Rosser Avenue - street name"
+        },
+        {
+          "text": "Pacific Avenues",
+          "start": 99,
+          "end": 114,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Avenue name"
+        },
+        {
+          "text": "POWELL",
+          "start": 248,
+          "end": 254,
+          "type": "PER",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Business partner/owner"
+        },
+        {
+          "text": "EDMUNDS",
+          "start": 257,
+          "end": 264,
+          "type": "PER",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Business partner/owner"
+        },
+        {
+          "text": "Glasgow Warehouse",
+          "start": 288,
+          "end": 305,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Business name (warehouse/store)"
+        },
+        {
+          "text": "J. Blackhall",
+          "start": 392,
+          "end": 404,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Merchant/business owner with initial"
+        },
+        {
+          "text": "11th street",
+          "start": 407,
+          "end": 418,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Street name"
+        },
+        {
+          "text": "Rosser Ave",
+          "start": 424,
+          "end": 434,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Avenue name (abbreviated form)"
+        },
+        {
+          "text": "Williams Singer",
+          "start": 450,
+          "end": 465,
+          "type": "ORG",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Sewing machine company/brand"
+        },
+        {
+          "text": "Craig",
+          "start": 502,
+          "end": 507,
+          "type": "PER",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Business owner selling off stock"
+        },
+        {
+          "text": "North-West",
+          "start": 639,
+          "end": 649,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "North-West Territories of Canada"
+        }
+      ]
+    }
+  ]
+}

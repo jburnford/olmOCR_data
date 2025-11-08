@@ -1,0 +1,117 @@
+{
+  "document_id": "P000644",
+  "metadata": {
+    "title": "[Lettre adressée à ses confrères par le Père Lacombe. sollicitant une aide financière pour le diocèse de Saint-Albert, Saskatchewan]",
+    "year": 1872,
+    "language": "French",
+    "collection": "peel_print; peel; university_of_alberta_libraries; toronto",
+    "doc_type": "book",
+    "word_count": 2221,
+    "char_count": 13251,
+    "total_pages": 10,
+    "extraction_strategy": "medium_doc",
+    "num_snippets": 5
+  },
+  "annotation_date": "2025-11-07T20:00:00",
+  "annotator": "claude_ai",
+  "model": "claude-sonnet-4-5",
+  "status": "draft",
+  "total_snippets": 5,
+  "total_entities": 85,
+  "snippets": [
+    {
+      "snippet_id": "001",
+      "text": "Pour vous mettre plus à même de connaître notre position et nos besoins, je me permettrai de mettre sous vos yeux un aperçu du Diocèse de St. Albert, pour lequel je viens implorer votre sympathie, ce qui vous permettra de juger combien nous méritons votre bienveillance et votre charité.\n\nCe Diocèse, formé d'une partie de celui de St. Boniface, a été canoniquement érigé, sous le titre de St. Albert, par le Souverain Pontife, dans le mois de Septembre dernier, c'est-à-dire Dimanche in albis dernier que Mgr. Grandin, transféré du siège de Satala, prenait possession du nouveau siège de St. Albert et en devenait le premier Evêque.\nCe nouveau Diocèse du Nord-Ouest comprend quatre grands districts, celui de Saskatchewan, de Cumberland, de la rivière aux Anglais et d'une partie d'York. Le District de Saskatchewan, dans lequel se trouve St.",
+      "char_start": 3321,
+      "char_end": 4166,
+      "entities": [
+        {"text": "St. Albert", "start": 3458, "end": 3468, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Diocese location in Saskatchewan"},
+        {"text": "St. Boniface", "start": 3651, "end": 3663, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Original diocese from which St. Albert was formed"},
+        {"text": "St. Albert", "start": 3714, "end": 3724, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "New diocese name"},
+        {"text": "Mgr. Grandin", "start": 3831, "end": 3843, "type": "PER", "confidence": 0.98, "source": "claude_ai", "notes": "Bishop transferred to St. Albert"},
+        {"text": "Satala", "start": 3868, "end": 3874, "type": "LOC", "confidence": 0.90, "source": "claude_ai", "notes": "Previous episcopal see"},
+        {"text": "St. Albert", "start": 3923, "end": 3933, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "New episcopal see"},
+        {"text": "Nord-Ouest", "start": 3988, "end": 3998, "type": "LOC", "confidence": 0.95, "source": "claude_ai", "notes": "North-West region"},
+        {"text": "Saskatchewan", "start": 4046, "end": 4058, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "District name"},
+        {"text": "Cumberland", "start": 4063, "end": 4073, "type": "LOC", "confidence": 0.95, "source": "claude_ai", "notes": "District name"},
+        {"text": "rivière aux Anglais", "start": 4081, "end": 4100, "type": "LOC", "confidence": 0.95, "source": "claude_ai", "notes": "Churchill River (French name)"},
+        {"text": "York", "start": 4123, "end": 4127, "type": "LOC", "confidence": 0.90, "source": "claude_ai", "notes": "York district"},
+        {"text": "Saskatchewan", "start": 4144, "end": 4156, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "District repeated"}
+      ]
+    },
+    {
+      "snippet_id": "002",
+      "text": "St. Albert, résidence de l'Évêque, est la principale station et se forme d'une population principalement composée de Métis—à 45 milles de là se trouve la mission du lac Ste. Anne, la plus ancienne des missions de tout le Nord-Ouest, elle a été fondée par le premier missionnaire de ce pays, le vénérable M. Thibeault, qui le premier a enseigné notre sainte Religion aux Métis, aux Cris, aux Assiniboines et aux Montagnais. Ce zèle et saint prêtre mérite, à plus d'un titre, le souvenir et l'estime de tous ceux qui marchent sur ces traces. La mission du lac Ste. Anne se compose de Métis et d'Assiniboines.\n\nDe St. Albert, à 8 milles se trouve le fort Edmonton, qui forme une desserte, ainsi que le fort des Montagnes Rocheuses, à 180 milles d'Edmonton, que nous visitons en différents temps—à 120 milles plus bas que St.",
+      "char_start": 4885,
+      "char_end": 5708,
+      "entities": [
+        {"text": "St. Albert", "start": 4885, "end": 4895, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Bishop's residence"},
+        {"text": "Métis", "start": 5003, "end": 5008, "type": "MISC", "confidence": 0.95, "source": "claude_ai", "notes": "Indigenous/French mixed population"},
+        {"text": "lac Ste. Anne", "start": 5056, "end": 5069, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Mission location, oldest in North-West"},
+        {"text": "Nord-Ouest", "start": 5111, "end": 5121, "type": "LOC", "confidence": 0.95, "source": "claude_ai", "notes": "North-West region"},
+        {"text": "M. Thibeault", "start": 5194, "end": 5206, "type": "PER", "confidence": 0.98, "source": "claude_ai", "notes": "First missionary of the region"},
+        {"text": "Métis", "start": 5257, "end": 5262, "type": "MISC", "confidence": 0.95, "source": "claude_ai", "notes": "Indigenous group"},
+        {"text": "Cris", "start": 5268, "end": 5272, "type": "MISC", "confidence": 0.95, "source": "claude_ai", "notes": "Cree indigenous people"},
+        {"text": "Assiniboines", "start": 5278, "end": 5290, "type": "MISC", "confidence": 0.95, "source": "claude_ai", "notes": "Assiniboine indigenous people"},
+        {"text": "Montagnais", "start": 5298, "end": 5308, "type": "MISC", "confidence": 0.95, "source": "claude_ai", "notes": "Indigenous people"},
+        {"text": "lac Ste. Anne", "start": 5453, "end": 5466, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Mission location repeated"},
+        {"text": "Métis", "start": 5482, "end": 5487, "type": "MISC", "confidence": 0.95, "source": "claude_ai", "notes": "Population group"},
+        {"text": "Assiniboines", "start": 5494, "end": 5506, "type": "MISC", "confidence": 0.95, "source": "claude_ai", "notes": "Indigenous group"},
+        {"text": "St. Albert", "start": 5511, "end": 5521, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Reference location"},
+        {"text": "fort Edmonton", "start": 5549, "end": 5562, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Hudson's Bay Company fort"},
+        {"text": "fort des Montagnes Rocheuses", "start": 5601, "end": 5630, "type": "LOC", "confidence": 0.95, "source": "claude_ai", "notes": "Fort in Rocky Mountains"},
+        {"text": "Edmonton", "start": 5648, "end": 5656, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Fort Edmonton reference"}
+      ]
+    },
+    {
+      "snippet_id": "003",
+      "text": "Albert, sur la Saskatchewan, se trouve la mission de St. Paul des Cris, exclusivement pour ces Sauvages. Les missionnaires de cette place sont obligés presque continuellement d'accompagner les Indiens pendant leur chasse à la prairie. Ils sont, l'hiver et l'été, forcés de vivre comme leurs néophytes et de se soumettre à toutes les misères et privations de ces peuplades nomades. Il y en a déjà un bon nombre qui\nsont d'assez bons chrétiens, et ce nombre augmenterait vite, si nous pouvions faire quelque chose pour ces pauvres Sauvages. Si nous pouvions faire quelques dépenses, pour les aider à se former en réductions, nous aurions l'espoir de former des chrétiens sur un bien meilleur pied et avec bien plus d'avenir que nous ne pouvons le faire à présent.\n\nNous avons aussi dans le District de Saskatchewan, les quatre tribus des Pieds-Noirs, des Gens du Sang, des Piegan et des Sarcis, qui forment une seul et même nation, qui occupent le centre des grandes prairies, entre le Missouri et la Saskatchewan.",
+      "char_start": 5708,
+      "char_end": 6721,
+      "entities": [
+        {"text": "Saskatchewan", "start": 5723, "end": 5735, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "River name"},
+        {"text": "St. Paul des Cris", "start": 5761, "end": 5778, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Mission name for Cree people"},
+        {"text": "Cris", "start": 5774, "end": 5778, "type": "MISC", "confidence": 0.95, "source": "claude_ai", "notes": "Cree people (part of mission name)"},
+        {"text": "Saskatchewan", "start": 6470, "end": 6482, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "District name"},
+        {"text": "Pieds-Noirs", "start": 6511, "end": 6522, "type": "MISC", "confidence": 0.98, "source": "claude_ai", "notes": "Blackfoot indigenous nation"},
+        {"text": "Gens du Sang", "start": 6528, "end": 6540, "type": "MISC", "confidence": 0.98, "source": "claude_ai", "notes": "Blood tribe (Kainai)"},
+        {"text": "Piegan", "start": 6546, "end": 6552, "type": "MISC", "confidence": 0.98, "source": "claude_ai", "notes": "Piegan/Piikani tribe"},
+        {"text": "Sarcis", "start": 6560, "end": 6566, "type": "MISC", "confidence": 0.98, "source": "claude_ai", "notes": "Tsuu T'ina (Sarcee) people"},
+        {"text": "Missouri", "start": 6682, "end": 6690, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Missouri River"},
+        {"text": "Saskatchewan", "start": 6697, "end": 6709, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Saskatchewan River"}
+      ]
+    },
+    {
+      "snippet_id": "004",
+      "text": "Si nous avions les moyens, déjà nous aurions commencé un établissement bien intéressant sur la rivière des Arcs, aux pieds des Monts Rocheux.\n\nÀ 400 milles plus bas que St. Albert, se trouve le fort de traite de Carlton, sur la Saskatchewan, où se forme en ce moment une mission, qui bientôt sera un poste important, vu que le commerce va se porter de ce côté. Déjà un grand nombre de famille métisses, faisant place à l'émigration à la Rivière-Rouge, viennent chercher des terres, plus proches du buffalos, et se ré-\nunissent autour des prêtres qui sont à la tête de cette nouvelle mission.\n\nLe District de Saskatchewan est desservi par sept prêtres et leur Evêque. Ces missionnaires sont aidés par cinq frères convers, qui s'occupent des travaux manuels. St. Albert possède un couvent de cinq Sœurs Grises, qui tiennent une école et un orphelinat, prenant soin en même temps de notre linge et de celui de nos chapelles.",
+      "char_start": 7723,
+      "char_end": 8645,
+      "entities": [
+        {"text": "rivière des Arcs", "start": 7819, "end": 7835, "type": "LOC", "confidence": 0.95, "source": "claude_ai", "notes": "Bow River (French name)"},
+        {"text": "Monts Rocheux", "start": 7851, "end": 7864, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Rocky Mountains"},
+        {"text": "St. Albert", "start": 7894, "end": 7904, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Reference location"},
+        {"text": "fort de traite de Carlton", "start": 7921, "end": 7946, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Fort Carlton trading post"},
+        {"text": "Saskatchewan", "start": 7956, "end": 7968, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "River location"},
+        {"text": "Rivière-Rouge", "start": 8162, "end": 8175, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Red River settlement"},
+        {"text": "Saskatchewan", "start": 8333, "end": 8345, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "District name"},
+        {"text": "St. Albert", "start": 8480, "end": 8490, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Location with convent"}
+      ]
+    },
+    {
+      "snippet_id": "005",
+      "text": "Elles se dévouent là comme partout ailleurs, aux œuvres de charité, avec un zèle admirable.\n\nLe District de la Rivière-aux-Anglais comprend deux établissements, celui de l'Ile à la Crosse et celui du lac Caribou. Ces deux missions se composent principalement de Montagnais et de Cris, qui sont presque tous chrétiens. Ces districts offrent moins d'avantages pour la civilisation et l'amélioration matérielle, que celui de Saskatchewan. Ces deux missions sont desservies par cinq prêtres, aidés par cinq frères. Il y a aussi à l'Ile à la Crosse un couvent de quatre sœurs Grises, qui ont une école et un orphelinat. Il y a encore quelques autres postes; qui dépendent de ces deux missions, et qui en peu de temps formeraient des chrétiens intéressants, s'il y avait des moyens pour bâtir. Pour préparer les voies à la civilisation dans tout cet immense pays, quel plus puissant moyen que celui employé par les missionnaires, formant de côté et d'autre, des chrétiens parmi les Indiens et les Métis, qui, plus tard, seront des centres, où de préférence viendront se grouper les émigrants canadiens.",
+      "char_start": 8645,
+      "char_end": 9742,
+      "entities": [
+        {"text": "Rivière-aux-Anglais", "start": 8759, "end": 8778, "type": "LOC", "confidence": 0.95, "source": "claude_ai", "notes": "Churchill River district"},
+        {"text": "Ile à la Crosse", "start": 8822, "end": 8837, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Mission location"},
+        {"text": "lac Caribou", "start": 8852, "end": 8863, "type": "LOC", "confidence": 0.95, "source": "claude_ai", "notes": "Mission location"},
+        {"text": "Montagnais", "start": 8915, "end": 8925, "type": "MISC", "confidence": 0.95, "source": "claude_ai", "notes": "Indigenous people"},
+        {"text": "Cris", "start": 8932, "end": 8936, "type": "MISC", "confidence": 0.95, "source": "claude_ai", "notes": "Cree people"},
+        {"text": "Saskatchewan", "start": 9074, "end": 9086, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "District reference"},
+        {"text": "Ile à la Crosse", "start": 9176, "end": 9191, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Convent location"},
+        {"text": "Métis", "start": 9628, "end": 9633, "type": "MISC", "confidence": 0.95, "source": "claude_ai", "notes": "Mixed population group"}
+      ]
+    }
+  ]
+}

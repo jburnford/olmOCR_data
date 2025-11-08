@@ -1,0 +1,166 @@
+{
+  "document_id": "bp_2820",
+  "metadata": {
+    "title": "Map of the North-West Territory of the Province of Canada from actual survey during the years 1792 to 1812 .",
+    "year": 1814,
+    "language": "English; French",
+    "collection": "wcw_gale; wcw; university_of_alberta_libraries; toronto",
+    "doc_type": "book",
+    "word_count": 126,
+    "char_count": 735,
+    "total_pages": 5,
+    "extraction_strategy": "full_text",
+    "num_snippets": 1
+  },
+  "annotation_date": "2025-11-07T19:40:00",
+  "annotator": "claude_ai",
+  "model": "claude-sonnet-4-5",
+  "status": "draft",
+  "total_snippets": 1,
+  "total_entities": 15,
+  "snippets": [
+    {
+      "snippet_id": "001",
+      "text": "This Map made for the North West Company in 1813 and 1814 and delivered to\nThe Honourable William M. Gilmore, then Agent. Embraces the Region\nlying between 45 and 60 degrees North Latitude and 95 and 120 degrees\nWest Longitude comprising the Surveys and Discoveries of 20 years namely:\nthe Discovery and Survey of the Oregon Territory to the Pacific Ocean,\nthe survey of the Athabasca Lake, Slave River and Lake, from which\nflows Mackenzie River to the Arctic Ocean by Mr. Simpson, the Route of Sir\nAlexander Mackenzie in 1782 down part of Peace River\ntogether with the Survey of this River to the\nPacific Ocean by the late John Stuart\nof the North West Company\nby David Thompson\nAstronomer and Surveyor\n\n[Signature]\n\nDavid Thompson",
+      "char_start": 0,
+      "char_end": 735,
+      "entities": [
+        {
+          "text": "North West Company",
+          "start": 22,
+          "end": 40,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Famous fur trading company"
+        },
+        {
+          "text": "William M. Gilmore",
+          "start": 90,
+          "end": 108,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Agent of North West Company"
+        },
+        {
+          "text": "Oregon Territory",
+          "start": 289,
+          "end": 305,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Historical territory in Pacific Northwest"
+        },
+        {
+          "text": "Pacific Ocean",
+          "start": 313,
+          "end": 326,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Ocean body"
+        },
+        {
+          "text": "Athabasca Lake",
+          "start": 347,
+          "end": 361,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Major lake in northern Canada"
+        },
+        {
+          "text": "Slave River",
+          "start": 363,
+          "end": 374,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "River in Northwest Territories"
+        },
+        {
+          "text": "Lake",
+          "start": 379,
+          "end": 383,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Slave Lake (abbreviated form)"
+        },
+        {
+          "text": "Mackenzie River",
+          "start": 402,
+          "end": 417,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Major river to Arctic Ocean"
+        },
+        {
+          "text": "Arctic Ocean",
+          "start": 425,
+          "end": 437,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Ocean body"
+        },
+        {
+          "text": "Simpson",
+          "start": 445,
+          "end": 452,
+          "type": "PER",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Explorer/surveyor (Mr. Simpson)"
+        },
+        {
+          "text": "Alexander Mackenzie",
+          "start": 472,
+          "end": 491,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Famous explorer Sir Alexander Mackenzie"
+        },
+        {
+          "text": "Peace River",
+          "start": 515,
+          "end": 526,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Major river in northern Canada"
+        },
+        {
+          "text": "Pacific Ocean",
+          "start": 576,
+          "end": 589,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Second mention of Pacific Ocean"
+        },
+        {
+          "text": "John Stuart",
+          "start": 602,
+          "end": 613,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Explorer (late John Stuart)"
+        },
+        {
+          "text": "David Thompson",
+          "start": 643,
+          "end": 657,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Famous astronomer and surveyor, map creator"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "document_id": "PTR_1885081401",
+  "metadata": {
+    "title": "Prince Albert times and Saskatchewan review (1885-08-14)",
+    "year": 1885,
+    "language": "English",
+    "collection": "peel_newspapers; peel; university_of_alberta_libraries; toronto",
+    "doc_type": "newspaper",
+    "word_count": 3866,
+    "char_count": 22453,
+    "total_pages": 4,
+    "extraction_strategy": "medium_doc",
+    "num_snippets": 5
+  },
+  "annotation_date": "2025-11-07T20:30:00",
+  "annotator": "claude_ai",
+  "model": "claude-sonnet-4-5",
+  "status": "draft",
+  "total_snippets": 5,
+  "total_entities": 38,
+  "snippets": [
+    {
+      "snippet_id": "001",
+      "text": "The recently appointed Governor of the Hudson Bay Company, who has been making a tour of inspection through the Territory, gave a banquet on Saturday night to an assemblage of about forty-five, composed of members of the district and a number of others who happen to be here on Government business of various sorts. This entertainment turned out a complete success, and Mr. H. B. Co. Wingfield made a most happy impression upon those who had the honor of making his acquaintance for the first time. An interesting feature of the occasion was the appearance of Messrs. Munro and Quinn, the Government Commissioners who have come to inquire into the claims of those who have suffered loss in consequence of the late rebellion. We regretted not having known of this before making some remarks which appear in our last issue.",
+      "char_start": 6718,
+      "char_end": 7541,
+      "entities": [
+        {"text": "Hudson Bay Company", "start": 6757, "end": 6775, "type": "ORG", "confidence": 0.98, "source": "claude_ai", "notes": "Hudson's Bay Company"},
+        {"text": "Wingfield", "start": 7089, "end": 7098, "type": "PER", "confidence": 0.95, "source": "claude_ai", "notes": "H.B. Co. official"},
+        {"text": "Munro", "start": 7287, "end": 7292, "type": "PER", "confidence": 0.95, "source": "claude_ai", "notes": "Government Commissioner"},
+        {"text": "Quinn", "start": 7297, "end": 7302, "type": "PER", "confidence": 0.95, "source": "claude_ai", "notes": "Government Commissioner"}
+      ]
+    },
+    {
+      "snippet_id": "002",
+      "text": "Mr. Quinn represents Lower Canada upon this Commission, and a very few words with him impresses one with the idea that his ability for the work is such that in which he is engaged alone it has never been desired. We were delighted with the way in which he explained the public sentiment of Quebec with regard to the unfortunate rebellion.\n\nWe learn from reliable sources that the distress at Dartmouth has been considerably exaggerated when reported, and that all cases of real necessity have been attended to by direction of the Government. If we have not been giving the Government credit for such discretion as it has already been making it is only because we have been kept in the dark with regard to their proceedings.\n\nCOMMUNICATIONS.\n\nWHAT WAS IT?\n\nTo the Editor of The Times,\n\nSir,—Last Friday night about eleven o'clock there was seen a bright light rising up from the summit of the hill.",
+      "char_start": 8223,
+      "char_end": 9121,
+      "entities": [
+        {"text": "Quinn", "start": 8227, "end": 8232, "type": "PER", "confidence": 0.95, "source": "claude_ai", "notes": "Commissioner"},
+        {"text": "Lower Canada", "start": 8244, "end": 8256, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Historical region (Quebec)"},
+        {"text": "Quebec", "start": 8509, "end": 8515, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Province"},
+        {"text": "Dartmouth", "start": 8619, "end": 8628, "type": "LOC", "confidence": 0.90, "source": "claude_ai", "notes": "Dartmouth location"}
+      ]
+    },
+    {
+      "snippet_id": "003",
+      "text": "At the last meeting of the Council of\nthe Saskatchewan Rifle Association the\ndifferent matches were discussed and\nsatisfactory reports, showing that the\narrangements for the different matches\nwere about completed and that we\nexpect a first-class affair in the month of\nSeptember.\n\nA team match is being ar-\nranged for between the Police, R. Butten\nand residents of the town.\n\n**THE MEMORIAL.**\n\nAt a meeting of the residents of Prince\nAlbert and the surrounding districts, to\ntake steps towards erecting a suitable\nmemorial to the brave soldiers and\nmen who fell fighting in honor of their\nQueen and country, Mr. T. N. Camp-\nbell was called to the chair, with Mr. S.\nB. Spratt as secretary.\n\nMoved by Col. Spratt and seconded by\nGen. Brown that in view of the sad and\nterrible loss which has been incurred in\nthe death of nine of our brave citizen\nsoldiers, and three of the equally brave\nmembers of the volunteer force, stationed\nat Bear Lake, we do hereby express\nour heartfelt appreciation of their ser-\nvices and regret for their loss by an\nappropriation of suitable amounts which\nwill stand forth in years to come as a memo-\nrial of their worth to generations here-\nafter.",
+      "char_start": 14034,
+      "char_end": 15213,
+      "entities": [
+        {"text": "Saskatchewan Rifle Association", "start": 14073, "end": 14103, "type": "ORG", "confidence": 0.95, "source": "claude_ai", "notes": "Local rifle association"},
+        {"text": "R. Butten", "start": 14331, "end": 14340, "type": "PER", "confidence": 0.90, "source": "claude_ai", "notes": "Rifle team member"},
+        {"text": "Prince\nAlbert", "start": 14437, "end": 14451, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Town in Saskatchewan"},
+        {"text": "T. N. Camp-\nbell", "start": 14623, "end": 14639, "type": "PER", "confidence": 0.95, "source": "claude_ai", "notes": "Meeting chairman"},
+        {"text": "S.\nB. Spratt", "start": 14678, "end": 14689, "type": "PER", "confidence": 0.95, "source": "claude_ai", "notes": "Meeting secretary"},
+        {"text": "Col. Spratt", "start": 14716, "end": 14727, "type": "PER", "confidence": 0.95, "source": "claude_ai", "notes": "Colonel Spratt"},
+        {"text": "Gen. Brown", "start": 14744, "end": 14754, "type": "PER", "confidence": 0.95, "source": "claude_ai", "notes": "General Brown"},
+        {"text": "Bear Lake", "start": 14989, "end": 14998, "type": "LOC", "confidence": 0.90, "source": "claude_ai", "notes": "Battle location"}
+      ]
+    },
+    {
+      "snippet_id": "004",
+      "text": "Resolved that a committee be appointed\nwith full powers to collect funds for\nsuch purpose.\n\nMoved by Mr. M. McWillie-\nson seconded by Mr. Macdonald, that\nthe committee, after having collected the\nnecessary funds, do call a meeting of the\ncommittee and decide upon the site and\ndesign of the monument.\n\nMoved by Mr. T. Agnew and seconded\nby Mr. J. Murray that the monument\nbe open for two months, and that\nin the meantime a suitable fence be\nerected around the grounds St. Mary's\nchurchyard, where the Monument will be\nerected to be admired by the Monctonians\nand to be asked to remove the bodies of\nthe three Mounties. Polkton buried at\nCypress Point, together with those of\nthose of the volunteers.\n\nIt was unanimously resolved that the\ncommittee report in the subdivision of\nThursday evening and make all the ne-\ncessary arrangements for a general can-\nvas of the country.\n\n**A TORONTO FIRE.**\n\n*Toronto, Aug. 1.* One of the most\ndestructive fires that has ever taken\nplace in Toronto commenced about 12.30\nthis morning in the large brick building\noccupied by the English Sugar Refining\nCompany, the English Sugar Company\nbeing the largest fire in the city.",
+      "char_start": 15213,
+      "char_end": 16374,
+      "entities": [
+        {"text": "M. McWillie-\nson", "start": 15296, "end": 15312, "type": "PER", "confidence": 0.90, "source": "claude_ai", "notes": "Committee member"},
+        {"text": "Macdonald", "start": 15329, "end": 15338, "type": "PER", "confidence": 0.90, "source": "claude_ai", "notes": "Committee member"},
+        {"text": "T. Agnew", "start": 15548, "end": 15556, "type": "PER", "confidence": 0.90, "source": "claude_ai", "notes": "Proposer"},
+        {"text": "J. Murray", "start": 15574, "end": 15583, "type": "PER", "confidence": 0.90, "source": "claude_ai", "notes": "Seconder"},
+        {"text": "St. Mary's\nchurchyard", "start": 15702, "end": 15722, "type": "LOC", "confidence": 0.95, "source": "claude_ai", "notes": "Cemetery location"},
+        {"text": "Cypress Point", "start": 15881, "end": 15894, "type": "LOC", "confidence": 0.90, "source": "claude_ai", "notes": "Burial location"},
+        {"text": "Toronto", "start": 16108, "end": 16115, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "City in Ontario"},
+        {"text": "Toronto", "start": 16184, "end": 16191, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "City"},
+        {"text": "English Sugar Refining\nCompany", "start": 16277, "end": 16308, "type": "ORG", "confidence": 0.95, "source": "claude_ai", "notes": "Sugar company"},
+        {"text": "English Sugar Company", "start": 16314, "end": 16335, "type": "ORG", "confidence": 0.95, "source": "claude_ai", "notes": "Company name"}
+      ]
+    },
+    {
+      "snippet_id": "005",
+      "text": "It would have been easy to maintain the strength of the force which was to be used against them.\n\nGREAT CANADA\n\nWe take the following from the Senate Debates, Hon. Dr. SCHULZELL—Besides, to consider whether the Government intends that greater Canada, comprising the two Provinces of Ontario and Quebec, together with the Lakes of the Woods and the Pacific Ocean, which contain our greatest natural resources, shall be represented in the Imperial Parliament by a single member, or whether it will be represented by two members, one for each Province.\n\nThe question is one of great importance, and I trust that the House will give it its attention.\n\nSASKATCHEWAN RIFLE ASSOCIATION.\n\nThe first meeting of the Association will take place on its rifle grounds, Prince Albert, on Tuesday, September 1st, when a series of matches will take place.",
+      "char_start": 20612,
+      "char_end": 21452,
+      "entities": [
+        {"text": "Dr. SCHULZELL", "start": 20775, "end": 20788, "type": "PER", "confidence": 0.90, "source": "claude_ai", "notes": "Senator, likely Dr. Schultz"},
+        {"text": "Canada", "start": 20851, "end": 20857, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Country"},
+        {"text": "Ontario", "start": 20896, "end": 20903, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Province"},
+        {"text": "Quebec", "start": 20908, "end": 20914, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Province"},
+        {"text": "Lakes of the Woods", "start": 20935, "end": 20953, "type": "LOC", "confidence": 0.95, "source": "claude_ai", "notes": "Lake of the Woods"},
+        {"text": "Pacific Ocean", "start": 20962, "end": 20975, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Ocean"},
+        {"text": "SASKATCHEWAN RIFLE ASSOCIATION", "start": 21242, "end": 21272, "type": "ORG", "confidence": 0.95, "source": "claude_ai", "notes": "Rifle association"},
+        {"text": "Prince Albert", "start": 21353, "end": 21366, "type": "LOC", "confidence": 0.98, "source": "claude_ai", "notes": "Town in Saskatchewan"}
+      ]
+    }
+  ]
+}

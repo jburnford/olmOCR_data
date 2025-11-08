@@ -1,0 +1,583 @@
+{
+  "document_id": "P001454",
+  "metadata": {
+    "title": "Louis Riel: assemblée de Lachine, 10 août 1885: discours de M. Girouard, député de comté Jacques-Cartier: sommaire complet corrigé par lui-même, du Monde, 12 août, 1885",
+    "year": 1885,
+    "language": "French",
+    "collection": "peel_print; peel; university_of_alberta_libraries; toronto",
+    "doc_type": "book",
+    "word_count": 4726,
+    "char_count": 28662,
+    "total_pages": 8,
+    "extraction_strategy": "medium_doc",
+    "num_snippets": 5,
+    "annotation_date": "2025-11-07",
+    "annotator": "claude_ai",
+    "annotation_purpose": "gold_standard_ner_dataset"
+  },
+  "total_entities": 77,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "text": "LOUIS RIEL\n\nASSEMBLÉE DE LACHINE,\n10 AOÛT 1885.\n\nDISCOURS DE M. GIROUARD,\nDÉPUTÉ DU COMTÉ JACQUES-CARTIER\n\nSOMMAIRE COMPLET\n\nCORRIGÉ PAR LUI-MÊME.\n\nDU MONDE, 12 Août 1885.\n\nDepuis 50 ans, la plus parfaite tranquillité a régné dans le pays ; toutes les provinces ont eu des griefs ; par exemple les réserves du clergé protestant et la représentation basée sur la population à l'Ontario ; l'abolition de la tenure seigneuriale à Québec, la question des écoles séparées au Nouveau-Brunswick. Encore dernièrement la Nouvelle-Écosse lançait le cri d'indépendance en pleine législature, mais quelques jours après elle envoyait ses soldats pour défendre le drapeau de l'Union.\n\nLa question des terres à l'Île-du-Prince-Edouard, celle des pêcheries pour toutes les Provinces Maritimes, celle de la frontière de l'Ontario et encore plus récemment la question chinoise pour la Colombie Britannique, toutes autant de questions plus brûlantes et plus pressantes que celle des Métis de Saint-Laurent, qui, avec le temps ont reçu une solution pacifique et à la fois satisfaisante.",
+      "char_start": 0,
+      "char_end": 1067,
+      "entities": [
+        {
+          "text": "LOUIS RIEL",
+          "start": 0,
+          "end": 10,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Famous Métis leader, central figure of Northwest Rebellion"
+        },
+        {
+          "text": "LACHINE",
+          "start": 26,
+          "end": 33,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Location of assembly"
+        },
+        {
+          "text": "M. GIROUARD",
+          "start": 63,
+          "end": 74,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Speaker, deputy of Jacques-Cartier county"
+        },
+        {
+          "text": "JACQUES-CARTIER",
+          "start": 98,
+          "end": 113,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Electoral district/county"
+        },
+        {
+          "text": "Ontario",
+          "start": 406,
+          "end": 413,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Canadian province"
+        },
+        {
+          "text": "Québec",
+          "start": 458,
+          "end": 464,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Canadian province"
+        },
+        {
+          "text": "Nouveau-Brunswick",
+          "start": 500,
+          "end": 517,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Canadian province (New Brunswick)"
+        },
+        {
+          "text": "Nouvelle-Écosse",
+          "start": 544,
+          "end": 559,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Canadian province (Nova Scotia)"
+        },
+        {
+          "text": "Île-du-Prince-Edouard",
+          "start": 727,
+          "end": 748,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Canadian province (Prince Edward Island)"
+        },
+        {
+          "text": "Provinces Maritimes",
+          "start": 779,
+          "end": 798,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Maritime provinces region"
+        },
+        {
+          "text": "Ontario",
+          "start": 830,
+          "end": 837,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Canadian province"
+        },
+        {
+          "text": "Colombie Britannique",
+          "start": 893,
+          "end": 913,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Canadian province (British Columbia)"
+        },
+        {
+          "text": "Métis",
+          "start": 994,
+          "end": 999,
+          "type": "MISC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Indigenous people of mixed European and First Nations ancestry"
+        },
+        {
+          "text": "Saint-Laurent",
+          "start": 1003,
+          "end": 1016,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Location/settlement of Métis people"
+        }
+      ]
+    },
+    {
+      "snippet_id": 2,
+      "text": "Dubuc juge à Manitoba et récemment M. Prud'homme juge de comté de cette même province et M. George Roy registraire d'Edmonton. À part M. Brelan, M. Mackenzie n'a fait aucune nomination parmi les résidents. La conséquence a été que les intérêts du Nord-Ouest ont été négligés. Depuis 1875 jusqu'à 1877, le gouvernement libéral a été sollicité d'adopter une loi pour protéger le buffle, la nourriture principale des Sauvages et des Métis.\n\nLe Père Lacombe recommanda d'empêcher la chasse du buffle du 1er novembre au 1er mai, et en tous temps des vaches et des veaux. M. Schultz et M. D. A. Smith, députés de Manitoba, en 1876 et 1877, ont demandé au gouvernement d'adopter des mesures de protection.\n\nDe longs débats eurent lieu alors en Parlement. On citait surtout le rapport de M. Dickinson, employé du gouvernement, envoyé tout exprès pour faire une étude de la question ; cet employé d'expérience recommandait l'adoption du plan du Père Lacombe ; il disait que si le gouvernement continuait de ne rien faire, qu'il nous faudrait bientôt faire vivre les Sauvages.",
+      "char_start": 4902,
+      "char_end": 5969,
+      "entities": [
+        {
+          "text": "Dubuc",
+          "start": 4902,
+          "end": 4907,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Judge in Manitoba"
+        },
+        {
+          "text": "Manitoba",
+          "start": 4916,
+          "end": 4924,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Canadian province"
+        },
+        {
+          "text": "M. Prud'homme",
+          "start": 4938,
+          "end": 4951,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "County judge in Manitoba"
+        },
+        {
+          "text": "M. George Roy",
+          "start": 4994,
+          "end": 5007,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Registrar of Edmonton"
+        },
+        {
+          "text": "Edmonton",
+          "start": 5023,
+          "end": 5031,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "City in Northwest"
+        },
+        {
+          "text": "M. Brelan",
+          "start": 5041,
+          "end": 5050,
+          "type": "PER",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Resident mentioned as exception"
+        },
+        {
+          "text": "M. Mackenzie",
+          "start": 5052,
+          "end": 5064,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Government official/leader who made nominations"
+        },
+        {
+          "text": "Nord-Ouest",
+          "start": 5153,
+          "end": 5163,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Northwest Territories"
+        },
+        {
+          "text": "Sauvages",
+          "start": 5325,
+          "end": 5333,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Historical French term for Indigenous peoples"
+        },
+        {
+          "text": "Métis",
+          "start": 5341,
+          "end": 5346,
+          "type": "MISC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Indigenous people of mixed ancestry"
+        },
+        {
+          "text": "Père Lacombe",
+          "start": 5351,
+          "end": 5363,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Catholic missionary, influential in Northwest"
+        },
+        {
+          "text": "M. Schultz",
+          "start": 5475,
+          "end": 5485,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Deputy from Manitoba"
+        },
+        {
+          "text": "M. D. A. Smith",
+          "start": 5489,
+          "end": 5503,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Deputy from Manitoba"
+        },
+        {
+          "text": "Manitoba",
+          "start": 5517,
+          "end": 5525,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Canadian province"
+        },
+        {
+          "text": "M. Dickinson",
+          "start": 5704,
+          "end": 5716,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Government employee studying buffalo question"
+        },
+        {
+          "text": "Père Lacombe",
+          "start": 5864,
+          "end": 5876,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Catholic missionary whose plan was recommended"
+        },
+        {
+          "text": "Sauvages",
+          "start": 5960,
+          "end": 5968,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Historical French term for Indigenous peoples"
+        }
+      ]
+    },
+    {
+      "snippet_id": 3,
+      "text": "Ainsi en 1878, lors que Sir John A. Macdonald est arrivé au pouvoir, il n'a trouvé que trois écoles sauvages au Nord-Ouest et sept au Manitoba soutenues ou aidées par le gouvernement. Aujourd'hui il y en a 53 coûtant $12,241, par an ou $240 par école. Bon nombre de ces écoles sont sous le contrôle des pères ou des sœurs.\n\nMais il ne suffisait pas d'instruire l'enfant sauvage, il fallait aussi l'initier aux secrets de la vie domestique et pour cela lui donner une idée des diverses industries qui s'y rattachent.\n\nEn 1883, le gouvernement a ordonné l'ouverture de trois écoles industrielles, une à la Grande Rivière sous le Père Lacombe, une à Qu'Appelle sous le Père Hugonard et une à Battleford sous le Rèv Thomas Clarke, ministre anglican. De plus il a accordé $1,500 à l'école industrielle de Monseigneur Grandin à St Albert.",
+      "char_start": 9943,
+      "char_end": 10777,
+      "entities": [
+        {
+          "text": "Sir John A. Macdonald",
+          "start": 9968,
+          "end": 9989,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Prime Minister of Canada"
+        },
+        {
+          "text": "Nord-Ouest",
+          "start": 10061,
+          "end": 10071,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Northwest Territories"
+        },
+        {
+          "text": "Manitoba",
+          "start": 10083,
+          "end": 10091,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Canadian province"
+        },
+        {
+          "text": "Grande Rivière",
+          "start": 10562,
+          "end": 10576,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Location of industrial school"
+        },
+        {
+          "text": "Père Lacombe",
+          "start": 10585,
+          "end": 10597,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Catholic missionary running industrial school"
+        },
+        {
+          "text": "Qu'Appelle",
+          "start": 10606,
+          "end": 10616,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Location of industrial school"
+        },
+        {
+          "text": "Père Hugonard",
+          "start": 10625,
+          "end": 10638,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Catholic priest running industrial school"
+        },
+        {
+          "text": "Battleford",
+          "start": 10648,
+          "end": 10658,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Location of industrial school"
+        },
+        {
+          "text": "Rèv Thomas Clarke",
+          "start": 10667,
+          "end": 10684,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Anglican minister running industrial school"
+        },
+        {
+          "text": "Monseigneur Grandin",
+          "start": 10756,
+          "end": 10775,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Bishop running industrial school"
+        },
+        {
+          "text": "St Albert",
+          "start": 10778,
+          "end": 10787,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Location of industrial school"
+        }
+      ]
+    },
+    {
+      "snippet_id": 4,
+      "text": "Que voulaient donc ces Métis ? Ils demandaient d'abord l'inauguration du gouvernement responsable et la création d'autant de provinces qu'il y a de districts, en tout cinq nouvelles provinces et toutes les terres qui en dépendent. Constatons d'abord que les colons blancs qui ont aussi eu leurs assemblées et leurs listes de réformes ne demandent pas cela. Ils sont satisfaits de la constitution actuelle du Nord-Ouest, au moins pour le moment. We are not in favor of a division of the Territories into Provinces, disaient les habitants d'Assiniboia à l'assemblée de Mooseomin de janvier 1885. En 1875, le gouvernement McKenzie l'a doté d'une constitution. Six membres sont d'abord nommés par le gouvernement et compris les trois magistrats stipendiaires. Puis aussitôt qu'un district de 1,000 milles carrés aura une population de mille adultes, sans compter les étrangers et les Sauvages, il aura droit à un député au Conseil, et à un deuxième aussitôt que sa population sera de 2,000 habitants.",
+      "char_start": 11678,
+      "char_end": 12675,
+      "entities": [
+        {
+          "text": "Métis",
+          "start": 11701,
+          "end": 11706,
+          "type": "MISC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Indigenous people of mixed ancestry"
+        },
+        {
+          "text": "Nord-Ouest",
+          "start": 12092,
+          "end": 12102,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Northwest Territories"
+        },
+        {
+          "text": "Assiniboia",
+          "start": 12219,
+          "end": 12229,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "District in Northwest Territories"
+        },
+        {
+          "text": "Mooseomin",
+          "start": 12246,
+          "end": 12255,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Location of assembly"
+        },
+        {
+          "text": "McKenzie",
+          "start": 12294,
+          "end": 12302,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Government leader who created constitution"
+        },
+        {
+          "text": "Sauvages",
+          "start": 12576,
+          "end": 12584,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Historical French term for Indigenous peoples"
+        }
+      ]
+    },
+    {
+      "snippet_id": 5,
+      "text": "Il forme et le gouvernement et le corps législatif et de cette façon le peuple y jouit pour les fins locales des avantages du gouvernement responsable. L'on voit de suite la différence entre la situation du peuple du Nord-Ouest et celle du Bas Canada avant 1837, entre la rébellion de 37 et celle de 85.\n\nLe peuple du Bas Canada avait fait de l'agitation politique pendant 25 ans au moins, pour avoir le gouvernement responsable. Bien qu'en grande majorité à l'assemblée législative, il était taxé par un gouverneur et un conseil non responsables. Au contraire au Nord-Ouest le peuple à ses représentants et est même en majorité au seul corps qui peut taxer, et l'on voit de suite qu'il n'y a aucune analogie entre les deux cas.\n\nLes Métis demandent cinq nouvelles pro-\nvinces, Assiniboia, Alberta, Saskatchewan, Athabasca et Keewatin qui forment les districts des territoires.",
+      "char_start": 13513,
+      "char_end": 14391,
+      "entities": [
+        {
+          "text": "Nord-Ouest",
+          "start": 13735,
+          "end": 13745,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Northwest Territories"
+        },
+        {
+          "text": "Bas Canada",
+          "start": 13763,
+          "end": 13773,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Lower Canada, pre-Confederation Quebec"
+        },
+        {
+          "text": "Bas Canada",
+          "start": 13835,
+          "end": 13845,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Lower Canada, pre-Confederation Quebec"
+        },
+        {
+          "text": "Nord-Ouest",
+          "start": 14086,
+          "end": 14096,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Northwest Territories"
+        },
+        {
+          "text": "Métis",
+          "start": 14244,
+          "end": 14249,
+          "type": "MISC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Indigenous people of mixed ancestry"
+        },
+        {
+          "text": "Assiniboia",
+          "start": 14283,
+          "end": 14293,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Proposed province/district"
+        },
+        {
+          "text": "Alberta",
+          "start": 14295,
+          "end": 14302,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Proposed province/district, later became province"
+        },
+        {
+          "text": "Saskatchewan",
+          "start": 14304,
+          "end": 14316,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Proposed province/district, later became province"
+        },
+        {
+          "text": "Athabasca",
+          "start": 14318,
+          "end": 14327,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Proposed province/district"
+        },
+        {
+          "text": "Keewatin",
+          "start": 14331,
+          "end": 14339,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Proposed province/district"
+        }
+      ]
+    }
+  ]
+}

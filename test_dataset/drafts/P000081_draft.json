@@ -1,0 +1,1484 @@
+{
+  "document_id": "P000081",
+  "metadata": {
+    "title": "Relation d'un voyage à la côte du nord-ouest de l'Amérique septentrionale, dans les années 1810, 11, 12, 13 et 14",
+    "year": 1820,
+    "language": "French",
+    "collection": "peel_print; peel; university_of_alberta_libraries; toronto",
+    "doc_type": "book",
+    "word_count": 55300,
+    "char_count": 323909,
+    "total_pages": 290,
+    "extraction_strategy": "large_doc",
+    "num_snippets": 15
+  },
+  "annotation_date": "2025-11-07T20:25:00",
+  "annotator": "claude_ai",
+  "model": "claude-sonnet-4-5",
+  "status": "draft",
+  "total_snippets": 15,
+  "total_entities": 168,
+  "snippets": [
+    {
+      "snippet_id": "001",
+      "text": "Le rapport qu'ils firent de leur voyage intéressa vivement.\n\nMr. John Jacob Astor, négociant de New-York, qui faisait presque seul la traite des pelleteries au sud des grands lacs Huron et Supérieur, et qui avait acquis par ce commerce une fortune prodigieuse, crut pouvoir augmenter encore cette fortune en formant sur les bords de la Rivière Columbia un établissement dont l'entrepôt serait à son embouchure. Il commuqua ses vues aux agens de la Compagnie du Nord-Ouest : il voulut même former cet établissement de concert avec eux ; mais après quelques négociations, les propriétaires hivernants ayant rejeté ses propositions, Mr. Astor se détermina à faire seul la tentative. Il lui fallait pour réussir des gens habitués de longue-main au commerce avec les Sauvages, et il ne tarda pas à en trouver.",
+      "char_start": 4200,
+      "char_end": 5005,
+      "entities": [
+        {
+          "text": "Mr. John Jacob Astor",
+          "start": 64,
+          "end": 84,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Famous New York merchant and fur trader"
+        },
+        {
+          "text": "New-York",
+          "start": 100,
+          "end": 108,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "New York City"
+        },
+        {
+          "text": "Huron",
+          "start": 183,
+          "end": 188,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Lake Huron"
+        },
+        {
+          "text": "Supérieur",
+          "start": 192,
+          "end": 201,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Lake Superior"
+        },
+        {
+          "text": "Rivière Columbia",
+          "start": 335,
+          "end": 351,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Columbia River on Pacific coast"
+        },
+        {
+          "text": "Compagnie du Nord-Ouest",
+          "start": 453,
+          "end": 476,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "North West Company fur trading organization"
+        },
+        {
+          "text": "Mr. Astor",
+          "start": 638,
+          "end": 647,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "John Jacob Astor second mention"
+        }
+      ]
+    },
+    {
+      "snippet_id": "002",
+      "text": "Nous étions débarqués à l'extrémité septentrionale de New-York, et le lendemain, qui était un Dimanche, nous nous rembarquâmes, et fûmes obligés de faire le tour de la ville, pour nous rendre à notre logis sur Long-Island. Nous chantions en voguant, ce qui joint à la vue d'un canot d'écorce, attira une foule de monde sur les quais. Nous trouvâmes sur Long-Island les jeunes messieurs, engagés au service de la Compagnie, qui étaient partis du Canada avant nous.\n\nLe vaisseau sur lequel nous devions nous embarquer n'étant pas prêt, je me serais trouvé tout-à-fait isolé et étranger dans la grande ville de New-York, sans une lettre de recommandation pour Mr. G——, que madame sa sœur m'avait remise à mon départ. J'avais acquis la connaissance de ce Monsieur pendant le séjour qu'il avait fait à Montréal en 1801 ; mais comme j'étais alors fort jeune, il aurait probablement eu de la peine à me reconnaître sans la lettre de sa sœur.",
+      "char_start": 8319,
+      "char_end": 9254,
+      "entities": [
+        {
+          "text": "New-York",
+          "start": 54,
+          "end": 62,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "New York City"
+        },
+        {
+          "text": "Long-Island",
+          "start": 213,
+          "end": 224,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Long Island"
+        },
+        {
+          "text": "Long-Island",
+          "start": 359,
+          "end": 370,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Long Island second mention"
+        },
+        {
+          "text": "Canada",
+          "start": 446,
+          "end": 452,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Canada"
+        },
+        {
+          "text": "New-York",
+          "start": 621,
+          "end": 629,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "New York City"
+        },
+        {
+          "text": "Mr. G——",
+          "start": 665,
+          "end": 672,
+          "type": "PER",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Anonymous gentleman contact"
+        },
+        {
+          "text": "Montréal",
+          "start": 817,
+          "end": 825,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Montreal"
+        }
+      ]
+    },
+    {
+      "snippet_id": "003",
+      "text": "McKay serait du voyage, tant pour assister le capitaine, que pour prendre des informations correctes sur la nature du commerce avec les naturels de cette côte. Mr. McKay choisit pour l'accompagner MM. J. Lewis et O. Montigny ; mais ce dernier ayant représenté que la mer le rendait malade, fut laissé à l'Etablissement ; et Mr. McKay emmena un jeune homme du nom de Brulé, pour lui servir de domestique. J'eus la bonne fortune de n'être pas choisi pour ce malheureux voyage, grâce à ce que je m'étais rendu utile à l'Etablissement. Mr. Mumford, (le contre-maitre,) dut le même bonheur à l'incompatibilité de son humeur avec celle du capitaine : il obtint la permission de rester à terre, et s'engagea à la Compagnie, comme caboteur. Le navire sortit de la rivière le 5 au matin, par un bon vent. Nous continuâmes cependant à travailler sans relâche à l'achèvement du hangard, et à l'érection d'une maison et d'un magasin à poudre.",
+      "char_start": 95722,
+      "char_end": 96653,
+      "entities": [
+        {
+          "text": "McKay",
+          "start": 0,
+          "end": 5,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Expedition leader"
+        },
+        {
+          "text": "Mr. McKay",
+          "start": 162,
+          "end": 171,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Second mention of McKay"
+        },
+        {
+          "text": "J. Lewis",
+          "start": 203,
+          "end": 211,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Expedition member"
+        },
+        {
+          "text": "O. Montigny",
+          "start": 215,
+          "end": 226,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Left behind due to seasickness"
+        },
+        {
+          "text": "Mr. McKay",
+          "start": 327,
+          "end": 336,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Third mention"
+        },
+        {
+          "text": "Brulé",
+          "start": 368,
+          "end": 373,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Young servant"
+        },
+        {
+          "text": "Mr. Mumford",
+          "start": 533,
+          "end": 544,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Foreman who stayed behind"
+        }
+      ]
+    },
+    {
+      "snippet_id": "004",
+      "text": "Le 15, des naturels du haut de la rivière nous amenèrent deux sauvages étrangers, un homme et une femme. Ces sauvages n'étaient pas habillés comme ceux qui nous avoisinaient ; ils portaient de longues casques de peaux de chevreuil, garnies à la façon des tribus situées à l'Est des montagnes. Nous leur fisimes plusieurs questions en différentes langues ; mais ils ne nous comprirent pas. Ils nous montrèrent une lettre adressée à \"Mr. John Stuart, Fort Estekatodene, New Caledonia.\" Mr. Pillot leur ayant adressé la parole en Kinistineaux, ils répondirent, bien qu'ils ne parussent pas entendre parfaitement cette langue. Nous apprîmes pourtant d'eux, qu'ils avaient été envoyés par un Mr. Finnian M'Donald, commis au service de la Compagnie du N. O. et qui avait un établissement sur une rivière qu'ils nommèrent Spokan, ou Spokane ; qu'ayant perdu leur route, ils avaient suivi le cours du Tacoutche Tesse, (nom que les naturels du pays donnent à la Rivière Columbia;) qu'arrivés près des chutes, les naturels leur avaient fait comprendre qu'il y avait des blancs à l'embouchure de la rivière ; que ne doutant point que la personne à qui la lettre était adressée ne s'y trouvât, ils étaient venus nous la remettre.",
+      "char_start": 96878,
+      "char_end": 98096,
+      "entities": [
+        {
+          "text": "Mr. John Stuart",
+          "start": 432,
+          "end": 447,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Letter addressee"
+        },
+        {
+          "text": "Fort Estekatodene",
+          "start": 449,
+          "end": 466,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Fort location"
+        },
+        {
+          "text": "New Caledonia",
+          "start": 468,
+          "end": 481,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Region in British Columbia"
+        },
+        {
+          "text": "Mr. Pillot",
+          "start": 484,
+          "end": 494,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Translator who spoke Cree"
+        },
+        {
+          "text": "Kinistineaux",
+          "start": 527,
+          "end": 539,
+          "type": "MISC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Cree language (French spelling)"
+        },
+        {
+          "text": "Mr. Finnian M'Donald",
+          "start": 697,
+          "end": 717,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "North West Company clerk"
+        },
+        {
+          "text": "Compagnie du N. O.",
+          "start": 741,
+          "end": 759,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "North West Company (abbreviated)"
+        },
+        {
+          "text": "Spokan",
+          "start": 819,
+          "end": 825,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Spokane River"
+        },
+        {
+          "text": "Spokane",
+          "start": 830,
+          "end": 837,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Spokane River (alternative spelling)"
+        },
+        {
+          "text": "Tacoutche Tesse",
+          "start": 897,
+          "end": 912,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Indigenous name for Columbia River"
+        },
+        {
+          "text": "Rivière Columbia",
+          "start": 966,
+          "end": 982,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Columbia River"
+        }
+      ]
+    },
+    {
+      "snippet_id": "005",
+      "text": "Wallace et Halsey avaient construit une maison, dans une grande prairie, à 50 lieues de l'embouchure de cette rivière. Mr. McKenzie et son parti nous quittèrent de nouveau, le 31, pour aller faire part des résolutions prises à Astoria, aux messieurs qui hivernaient dans l'intérieur.\n\nLe 11 Avril, deux canots d'écorce, portant le pavillon Britannique, arrivèrent à Astoria. Ces canots étaient commandés par MM. J. G. McTavish et Joseph Laroque, qui avaient sous eux dix-neuf voyageurs Canadiens. Ils formèrent leur camp, sur une pointe de terre, à la portée du canon de notre Fort. Nous invitémes ces messieurs à monter au logis, et nous apprîmes d'eux le sujet de leur voyage. Ils étaient descendus pour attendre l'arrivée du navire l'Isaac Todd, qui était parti du Canada, en Octobre, 1811, et d'Angleterre, en Mars, 1812, chargé de marchandises pour la Compagnie du N.",
+      "char_start": 139721,
+      "char_end": 140594,
+      "entities": [
+        {
+          "text": "Wallace",
+          "start": 0,
+          "end": 7,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Built house in prairie"
+        },
+        {
+          "text": "Halsey",
+          "start": 11,
+          "end": 17,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Built house with Wallace"
+        },
+        {
+          "text": "Mr. McKenzie",
+          "start": 119,
+          "end": 131,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Party leader going to interior"
+        },
+        {
+          "text": "Astoria",
+          "start": 228,
+          "end": 235,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Fort Astoria trading post"
+        },
+        {
+          "text": "Astoria",
+          "start": 368,
+          "end": 375,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Fort Astoria second mention"
+        },
+        {
+          "text": "J. G. McTavish",
+          "start": 412,
+          "end": 426,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "North West Company canoe commander"
+        },
+        {
+          "text": "Joseph Laroque",
+          "start": 430,
+          "end": 444,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "North West Company canoe commander"
+        },
+        {
+          "text": "Canadiens",
+          "start": 489,
+          "end": 498,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Canadian voyageurs"
+        },
+        {
+          "text": "Isaac Todd",
+          "start": 756,
+          "end": 766,
+          "type": "MISC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Ship name"
+        },
+        {
+          "text": "Canada",
+          "start": 789,
+          "end": 795,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Ship departure point"
+        },
+        {
+          "text": "Angleterre",
+          "start": 819,
+          "end": 829,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "England"
+        },
+        {
+          "text": "Compagnie du N.",
+          "start": 872,
+          "end": 887,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "North West Company (abbreviated)"
+        }
+      ]
+    },
+    {
+      "snippet_id": "006",
+      "text": "O., nous entrâmes en arrangement avec Mr. M'Tavish. Ce monsieur nous ayant représenté qu'il manquait absolument des effets nécessaires, pour se procurer des vivres, en remontant la rivière, nous lui en fournissons de nos magasins ; avec promesse de sa part, que ces effets nous seraient payés, le printemps suivant, ou en fourrures, ou en lettres de change sur la Compagnie du N. O. à Montréal.\nCHAPITRE XIV.\n\nArrivée du Navire l'Albatros.—Raisons pour lesquelles le Beaver n'était pas revenu à Astoria.—Tentative infructueuse du Capitaine Smith.—Étonnement et Régret de Mr. Hunt.—Son Départ—Relation de la Destruction du Tonquin—Causes de ce Désastre—Réflexions.\n\nLe 4 Août, nous vîmes, contre toute attente, une voile à l'entrée de la rivière. Un de nos messieurs s'embarqua aussitôt dans la barge, pour l'aller reconnaître ; mais avant qu'il eût traversé la rivière, ce vaisseau entra en dedans de la barre, et dirigea sa course vers Astoria.",
+      "char_start": 142733,
+      "char_end": 143679,
+      "entities": [
+        {
+          "text": "Mr. M'Tavish",
+          "start": 39,
+          "end": 51,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "North West Company representative"
+        },
+        {
+          "text": "Compagnie du N. O.",
+          "start": 364,
+          "end": 382,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "North West Company"
+        },
+        {
+          "text": "Montréal",
+          "start": 385,
+          "end": 393,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Montreal headquarters"
+        },
+        {
+          "text": "Albatros",
+          "start": 431,
+          "end": 439,
+          "type": "MISC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Ship name"
+        },
+        {
+          "text": "Beaver",
+          "start": 472,
+          "end": 478,
+          "type": "MISC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Ship name"
+        },
+        {
+          "text": "Astoria",
+          "start": 499,
+          "end": 506,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Fort Astoria"
+        },
+        {
+          "text": "Capitaine Smith",
+          "start": 534,
+          "end": 549,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Ship captain"
+        },
+        {
+          "text": "Mr. Hunt",
+          "start": 580,
+          "end": 588,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Expedition leader"
+        },
+        {
+          "text": "Tonquin",
+          "start": 641,
+          "end": 648,
+          "type": "MISC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Ship name (destroyed)"
+        },
+        {
+          "text": "Astoria",
+          "start": 971,
+          "end": 978,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Fort Astoria destination"
+        }
+      ]
+    },
+    {
+      "snippet_id": "007",
+      "text": "Ouest : les autres aimèrent mieux s'en retourner dans leur pays, et je fus du nombre de ces derniers. Néanmoins, Mr. M'Tavish m'ayant intimé que l'on aurait besoin de mes services à l'Etablissement, je m'engageai pour l'espace de cinq mois, c'est à dire, jusqu'au départ du parti qui devait remonter le fleuve au printemps, pour se rendre en Canada, par la voie des Montagnes de Roches, et des rivières de l'intérieur. MM. John Stuart et M'Kenzie partirent vers la fin du mois, le dernier pour faire remettre au premier les comptoirs qui avaient été établis dans l'intérieur par la ci-devant société.\n\nLe 15 Novembre, MM. Alex. Stuart et Alex. Henry, tous deux propriétaires dans la Compagnie du N. O. arrivèrent à l'Etablissement, dans deux canots d'écorce conduits par seize hommes. Ces messieurs étaient partis.\ndu Fort William sur le Lac Supérieur, dans le mois de Juillet.",
+      "char_start": 162053,
+      "char_end": 162931,
+      "entities": [
+        {
+          "text": "Mr. M'Tavish",
+          "start": 114,
+          "end": 126,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Employer at establishment"
+        },
+        {
+          "text": "Canada",
+          "start": 337,
+          "end": 343,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Destination via Rocky Mountains"
+        },
+        {
+          "text": "Montagnes de Roches",
+          "start": 364,
+          "end": 383,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Rocky Mountains"
+        },
+        {
+          "text": "John Stuart",
+          "start": 425,
+          "end": 436,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "North West Company partner"
+        },
+        {
+          "text": "M'Kenzie",
+          "start": 440,
+          "end": 448,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "North West Company partner"
+        },
+        {
+          "text": "Alex. Stuart",
+          "start": 628,
+          "end": 640,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "North West Company proprietor"
+        },
+        {
+          "text": "Alex. Henry",
+          "start": 644,
+          "end": 655,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "North West Company proprietor"
+        },
+        {
+          "text": "Compagnie du N. O.",
+          "start": 686,
+          "end": 704,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "North West Company"
+        },
+        {
+          "text": "Fort William",
+          "start": 835,
+          "end": 847,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Fort William trading post"
+        },
+        {
+          "text": "Lac Supérieur",
+          "start": 855,
+          "end": 868,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Lake Superior"
+        }
+      ]
+    },
+    {
+      "snippet_id": "008",
+      "text": "Ils nous confirmèrent aussi la nouvelle qu'une frégate Anglaise devait venir s'emparer de notre ci-devant Établissement : ils furent même fort surpris de ne pas voir l'Isaac Todd en rade.\n\nLe 30 au matin, nous apperçûmes un bâtiment qui doublait le Cap Disappointment, et qui mouilla bientôt après dans la baie de Baker. Ignorant si c'était un vaisseau ami ou ennemi, nous crûmes prudent d'y envoyer Mr. M'Dougall dans un canot, avec ceux des hommes qui avaient été au service de la ci-devant P. F. C. avec l'injonction de se dire Américains, si le vaisseau était Américain, et Anglais, dans le cas contraire. Tandis qu'ils étaient en route, Mr. M'Tavish fit embarquer toutes les pelleteries qui étaient marquées au nom de la Compagnie du N. O. sur deux barges qui se trouvaient au Fort, et remonta la rivière jusqu'à Tongue Point, où il devait attendre un signal convenu.",
+      "char_start": 163074,
+      "char_end": 163947,
+      "entities": [
+        {
+          "text": "Anglaise",
+          "start": 55,
+          "end": 63,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "English/British frigate"
+        },
+        {
+          "text": "Isaac Todd",
+          "start": 169,
+          "end": 179,
+          "type": "MISC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Ship name"
+        },
+        {
+          "text": "Cap Disappointment",
+          "start": 250,
+          "end": 268,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Cape Disappointment at Columbia River mouth"
+        },
+        {
+          "text": "baie de Baker",
+          "start": 311,
+          "end": 324,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Baker Bay"
+        },
+        {
+          "text": "Mr. M'Dougall",
+          "start": 407,
+          "end": 420,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Sent to investigate ship"
+        },
+        {
+          "text": "P. F. C.",
+          "start": 505,
+          "end": 513,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Pacific Fur Company (abbreviated)"
+        },
+        {
+          "text": "Américains",
+          "start": 540,
+          "end": 550,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Americans"
+        },
+        {
+          "text": "Américain",
+          "start": 573,
+          "end": 582,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "American"
+        },
+        {
+          "text": "Anglais",
+          "start": 587,
+          "end": 594,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "English/British"
+        },
+        {
+          "text": "Mr. M'Tavish",
+          "start": 657,
+          "end": 669,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Moved furs up river"
+        },
+        {
+          "text": "Compagnie du N. O.",
+          "start": 730,
+          "end": 748,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "North West Company"
+        },
+        {
+          "text": "Tongue Point",
+          "start": 827,
+          "end": 839,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Point on Columbia River"
+        }
+      ]
+    },
+    {
+      "snippet_id": "009",
+      "text": "Vers minuit, Mr. Halsey, qui avait accompagné Mr. M'Dougall au vaisseau, revint au Fort, et nous annonça\nque c'était la corvette Britannique Racoon, de 26 pi ces de canon, et de 120 hommes d'équipage, commandée par le Capitaine Black. Mr. John M'Donald, propriétaire dans la Compagnie du N. O. était venu passager dans le Racoon, accompagné de cinq engagés. Ce monsieur était parti d'Angleterre dans la frégate la Phœbe, qui avait fait voile avec l'Isaac Todd jusqu'à Rio-Janeiro ; ayant rejoint là une escadre Anglaise, l'amiral leur avait donné pour convoy les corvettes Racoon et Cherub ; ces quatre bâtiments avaient fait voile de compagnie jusqu'au Cap de Horn, où ils s'étaient séparés, après s'être donné rendez-vous à l'île de Juan Fernandez. Les trois vaisseaux de guerre s'y étaient effectivement rendus ; mais après avoir attendu longtemps en vain l'Isaac Todd, le Commodore Hillier, qui commandait cette petite escadre, ayant appris que le Commodore Américain Porter faisait un tort considérable au commerce Anglais, surtout parmi les baleiniers qui fréquentent ces mers, il résolut de l'aller chercher, et de lui livrer combat, et chargea le Capitaine Black d'aller détruire l'Etablissement Américain de la Rivière Columbia.",
+      "char_start": 163947,
+      "char_end": 165185,
+      "entities": [
+        {
+          "text": "Mr. Halsey",
+          "start": 13,
+          "end": 23,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Returned from ship"
+        },
+        {
+          "text": "Mr. M'Dougall",
+          "start": 46,
+          "end": 59,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Visited ship"
+        },
+        {
+          "text": "Britannique",
+          "start": 132,
+          "end": 143,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "British"
+        },
+        {
+          "text": "Racoon",
+          "start": 144,
+          "end": 150,
+          "type": "MISC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "British sloop-of-war ship name"
+        },
+        {
+          "text": "Capitaine Black",
+          "start": 219,
+          "end": 234,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Commander of Racoon"
+        },
+        {
+          "text": "Mr. John M'Donald",
+          "start": 236,
+          "end": 253,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "North West Company proprietor passenger"
+        },
+        {
+          "text": "Compagnie du N. O.",
+          "start": 278,
+          "end": 296,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "North West Company"
+        },
+        {
+          "text": "Racoon",
+          "start": 323,
+          "end": 329,
+          "type": "MISC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Ship name second mention"
+        },
+        {
+          "text": "Angleterre",
+          "start": 391,
+          "end": 401,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "England departure point"
+        },
+        {
+          "text": "Phœbe",
+          "start": 419,
+          "end": 424,
+          "type": "MISC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "British frigate ship name"
+        },
+        {
+          "text": "Isaac Todd",
+          "start": 455,
+          "end": 465,
+          "type": "MISC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Ship name"
+        },
+        {
+          "text": "Rio-Janeiro",
+          "start": 474,
+          "end": 485,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Rio de Janeiro"
+        },
+        {
+          "text": "Anglaise",
+          "start": 515,
+          "end": 523,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "English/British squadron"
+        },
+        {
+          "text": "Racoon",
+          "start": 583,
+          "end": 589,
+          "type": "MISC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Ship name third mention"
+        },
+        {
+          "text": "Cherub",
+          "start": 593,
+          "end": 599,
+          "type": "MISC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "British sloop ship name"
+        },
+        {
+          "text": "Cap de Horn",
+          "start": 671,
+          "end": 682,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Cape Horn"
+        },
+        {
+          "text": "île de Juan Fernandez",
+          "start": 733,
+          "end": 754,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Juan Fernandez Islands"
+        },
+        {
+          "text": "Isaac Todd",
+          "start": 876,
+          "end": 886,
+          "type": "MISC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Ship name fourth mention"
+        },
+        {
+          "text": "Commodore Hillier",
+          "start": 891,
+          "end": 908,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "British squadron commander"
+        },
+        {
+          "text": "Commodore Américain Porter",
+          "start": 963,
+          "end": 989,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "American Commodore Porter"
+        },
+        {
+          "text": "Anglais",
+          "start": 1029,
+          "end": 1036,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "English/British commerce"
+        },
+        {
+          "text": "Capitaine Black",
+          "start": 1181,
+          "end": 1196,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Ordered to destroy Astoria"
+        },
+        {
+          "text": "Américain",
+          "start": 1226,
+          "end": 1235,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "American establishment"
+        },
+        {
+          "text": "Rivière Columbia",
+          "start": 1242,
+          "end": 1258,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Columbia River"
+        }
+      ]
+    },
+    {
+      "snippet_id": "010",
+      "text": "Tandis que les barbares pillaien ces effets, plus précieux pour eux que les pommes d'or du jardin des Hespérides, nos gens s'éloignèrent, et se mirent hors de leur vue. La retraite avait pourtant été si précipitée, qu'ils avaient laissé à terre un sauvage du Lac des Deux Montagnes, engagé à la Compagnie comme chasseur. Ce sauvage s'était caché derrière des rochers, voulant, à ce qu'il disait, tuer quelqu'un des voitures, et n'était pas revenu lors du rembarquement. Mr. Keith le regrettait beaucoup, craignant à juste titre qu'il ne fût découvert, et massacré par les naturels. Nous voguâmes toute la journée et une partie de la nuit du 8, et arrivâmes au Fort le 9, au soleil levant. Notre premier soin, après avoir annoncé le désastre de nos gens, fut de panser les blessures de Mr. Stewart, qui n'étaient enveloppées que d'un méchant morceau de toile de coton.",
+      "char_start": 176319,
+      "char_end": 177187,
+      "entities": [
+        {
+          "text": "Hespérides",
+          "start": 103,
+          "end": 113,
+          "type": "MISC",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Greek mythological reference"
+        },
+        {
+          "text": "Lac des Deux Montagnes",
+          "start": 259,
+          "end": 281,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Lake of Two Mountains near Montreal"
+        },
+        {
+          "text": "Mr. Keith",
+          "start": 471,
+          "end": 480,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Concerned about lost hunter"
+        },
+        {
+          "text": "Mr. Stewart",
+          "start": 799,
+          "end": 810,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Wounded person"
+        }
+      ]
+    },
+    {
+      "snippet_id": "011",
+      "text": "Le 23, vers neuf heures du matin, nous arrivâmes au poste que Mr. D. Stuart avait établi à l'entrée de la rivière Okenakane. L'endroit nous parut charmant, en comparaison du pays par lequel nous voyagions depuis 12 jours : les deux rivières, et d'immenses prairies couvertes d'une belle verdure, frappent agréablement les yeux de l'observateur ; mais il n'y a ni arbre ni arbuste pour diversifier la scène, et la rendre un peu moins nue et moins monotone. Nous trouvâmes à ce poste, M.M. Jos. M'Gillivray et Ross, Mr. O. Montigny, qui s'était engagé à la Compagnie du N. O. y demeura aussi, et me chargea d'une lettre pour son frère.\n\nNous nous rembarquâmes vers midi, pour continuer notre route. Après avoir passé sans accident plusieurs rapides dangereux, toujours par un pays entrecoupé de rochers escarpés, de\ncollines, et de prairies verdoyantes, nous arrivâmes, le 29, au portage des Chaudières.",
+      "char_start": 246788,
+      "char_end": 247691,
+      "entities": [
+        {
+          "text": "Mr. D. Stuart",
+          "start": 63,
+          "end": 76,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Established trading post"
+        },
+        {
+          "text": "rivière Okenakane",
+          "start": 107,
+          "end": 124,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Okanagan River"
+        },
+        {
+          "text": "Jos. M'Gillivray",
+          "start": 497,
+          "end": 513,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "At trading post"
+        },
+        {
+          "text": "Ross",
+          "start": 517,
+          "end": 521,
+          "type": "PER",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "At trading post"
+        },
+        {
+          "text": "Mr. O. Montigny",
+          "start": 523,
+          "end": 538,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Stayed at post"
+        },
+        {
+          "text": "Compagnie du N. O.",
+          "start": 568,
+          "end": 586,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "North West Company"
+        },
+        {
+          "text": "portage des Chaudières",
+          "start": 889,
+          "end": 911,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Kettle Falls portage"
+        }
+      ]
+    },
+    {
+      "snippet_id": "012",
+      "text": "Nous essuyâmes un orage accompagné de grêle, mais de peu de durée. Sur le soir, nous arrivâmes au Fort de la Montée, ainsi nommé, de ce que ceux qui remontent la rivière laissent là leurs canots, pour prendre des chevaux. Nous trouvâmes à la Montée, comme à Vermillon, deux comptoirs, joints ensemble, pour faire cause commune contre les sauvages, l'un appartenant à la Compagnie de la Baie d'Hudson, et l'autre à celle du Nord-Ouest : le premier était sous la conduite d'un Mr Prudent, et le dernier, sous celle d'un Mr. M'Lean. Mr. de Rocheblave, qui avait hiverné à ce post.\nte, en était parti, il y avait quelque temps. Il y avait des champs cultivés autour de la maison ; l'orge et les pois paraissaient promettre une récolte abondante. Mr. McClean nous reçut aussi bien que les circonstances le permettaient ; mais ce Monsieur n'ayant pas de vivres à nous donner, et notre bœuf commençant à se gâter, nous partîmes, le lendemain matin, pour gagner au plus vite, Fort Cumberland.",
+      "char_start": 291756,
+      "char_end": 292741,
+      "entities": [
+        {
+          "text": "Fort de la Montée",
+          "start": 98,
+          "end": 115,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Fort at portage location"
+        },
+        {
+          "text": "Montée",
+          "start": 244,
+          "end": 250,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Fort de la Montée (abbreviated)"
+        },
+        {
+          "text": "Vermillon",
+          "start": 261,
+          "end": 270,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Vermilion location"
+        },
+        {
+          "text": "Compagnie de la Baie d'Hudson",
+          "start": 371,
+          "end": 401,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson's Bay Company"
+        },
+        {
+          "text": "Nord-Ouest",
+          "start": 425,
+          "end": 435,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "North West Company (French)"
+        },
+        {
+          "text": "Mr Prudent",
+          "start": 479,
+          "end": 489,
+          "type": "PER",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Hudson's Bay Company clerk"
+        },
+        {
+          "text": "Mr. M'Lean",
+          "start": 524,
+          "end": 534,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "North West Company clerk"
+        },
+        {
+          "text": "Mr. de Rocheblave",
+          "start": 536,
+          "end": 553,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Previously wintered at fort"
+        },
+        {
+          "text": "Mr. McClean",
+          "start": 743,
+          "end": 754,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Host at fort"
+        },
+        {
+          "text": "Fort Cumberland",
+          "start": 984,
+          "end": 999,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Destination fort"
+        }
+      ]
+    },
+    {
+      "snippet_id": "013",
+      "text": "Ils nous apprirent aussi que MM. M'Donald et Rocheblave étaient passés, peu de jours avant notre arrivée, ayant été obligés de remonter la Rivière Rouge, pour arrêter l'effusion de sang, qui aurait probablement eu lieu, sans leur intervention, à la Colonie fondée sur cette rivière, par le Comte de Selkirk. Mr. Miles M'Donell, gouverneur de cette Colonie, ou plutôt du district d'Assiniboya, avait émané une proclamation défendant à toute personne quelconque de faire sortir des provisions du pays. Les traiteurs de la Baie d'Hudson s'étaient conformés à cette proclamation ; mais\nceux de la Compagnie du N. O. n'en avaient tenu compte, la croyant illégale, et avaient envoyé, comme de coutume, leurs serviteurs faire des provisions, dans le haut de la rivière. Mr. McDonell ayant su qu'il y avait plusieurs centaines de sacs de pétanque amassés, dans un hangard aux soins d'un Mr.",
+      "char_start": 297709,
+      "char_end": 298593,
+      "entities": [
+        {
+          "text": "M'Donald",
+          "start": 33,
+          "end": 41,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Intervened at Red River"
+        },
+        {
+          "text": "Rocheblave",
+          "start": 45,
+          "end": 55,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Intervened at Red River"
+        },
+        {
+          "text": "Rivière Rouge",
+          "start": 139,
+          "end": 152,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Red River"
+        },
+        {
+          "text": "Comte de Selkirk",
+          "start": 292,
+          "end": 308,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Earl of Selkirk, founded Red River Colony"
+        },
+        {
+          "text": "Mr. Miles M'Donell",
+          "start": 310,
+          "end": 328,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Governor of colony"
+        },
+        {
+          "text": "district d'Assiniboya",
+          "start": 368,
+          "end": 389,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Assiniboia district"
+        },
+        {
+          "text": "Baie d'Hudson",
+          "start": 523,
+          "end": 536,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson's Bay"
+        },
+        {
+          "text": "Compagnie du N. O.",
+          "start": 600,
+          "end": 618,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "North West Company"
+        },
+        {
+          "text": "Mr. McDonell",
+          "start": 770,
+          "end": 782,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Governor learning of provisions"
+        }
+      ]
+    },
+    {
+      "snippet_id": "014",
+      "text": "M'Donnell, et lui ayant exposé la situation où se trouvaient les traiteurs de la Compagnie du N. O., par le manque de vivres nécessaires pour transporter leurs pelleteeries jusqu'au Fort William, et la sureur des engagés, qui ne voyaient pour eux d'autre alternative que de s'emparer de ces provisions, ou de périr de faim, il le somma de les lui remettre sans délai. Mr. M'Donnell exposa, de son côté, à Mr. M'Donald la misère où se trouveraient les colons; par le manque de vivres. En conséquence de ces représentations mutuelles, on convint que la moitié des provisions resterait à la Colonie, et que l'autre moitié serait remise à la Compagnie du N. O. Ce fut ainsi que s'arrangea, sans effusion de sang, ce premier différent entre les deux Compagnies rivales du N. O. et de la Baie d'Hudson.\n\nAyant employé le 1er Juillet à réparer nos canots, nous rembarquâmes, le 2, et continuâmes à remonter la Rivière Ouénipic, appelée aussi Riviere Blanche, à cause d'un grand nombre de cascades, qui étant fort proches les unes\ndes autres, offrent à la vue une écumée et des bouillons presque continuels.",
+      "char_start": 299919,
+      "char_end": 301019,
+      "entities": [
+        {
+          "text": "M'Donnell",
+          "start": 0,
+          "end": 9,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Exposed situation to governor"
+        },
+        {
+          "text": "Compagnie du N. O.",
+          "start": 81,
+          "end": 99,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "North West Company"
+        },
+        {
+          "text": "Fort William",
+          "start": 182,
+          "end": 194,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Destination for furs"
+        },
+        {
+          "text": "Mr. M'Donnell",
+          "start": 368,
+          "end": 381,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Explained colonists' situation"
+        },
+        {
+          "text": "Mr. M'Donald",
+          "start": 409,
+          "end": 421,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Negotiating provisions"
+        },
+        {
+          "text": "Compagnie du N. O.",
+          "start": 651,
+          "end": 669,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "North West Company received half"
+        },
+        {
+          "text": "N. O.",
+          "start": 768,
+          "end": 773,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "North West (abbreviated)"
+        },
+        {
+          "text": "Baie d'Hudson",
+          "start": 783,
+          "end": 796,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson's Bay"
+        },
+        {
+          "text": "Rivière Ouénipic",
+          "start": 915,
+          "end": 931,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Winnipeg River"
+        },
+        {
+          "text": "Riviere Blanche",
+          "start": 948,
+          "end": 963,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "White River (alternative name)"
+        }
+      ]
+    },
+    {
+      "snippet_id": "015",
+      "text": "La navigation de ce superbe lac serait fort agréable, sans les brumes épaisse qui règnent une partie du jour, et ne permettent pas d'avancer. Le 24, nous dinâmes à un petit établissement appelé Le Pic.\n\nLe 26, nous traversâmes la baie de Michipicoton, qui peut avoir trois lieues de largeur, à son entrée. Comme nous arrivions à l'Est, nous rencontrâmes un petit canot sur lequel étaient le Capitaine M'Cargo et l'équipage d'une des goëlettes de la Compagnie. Mr. M'Cargo nous dit qu'il s'était échappé du Saut Ste. Marie, où les Américains avaient envoyé un détachement de 150 hommes; et que, se voyant forcé d'abandonner sa goëlette, il y avait mis le feu. En conséquence de ces avis, il fut résolu que le canot sur lequel nous étions retournerait au Fort William. Je m'embarquai avec Mr. D. Stuart et deux hommes, dans le canot du Capitaine M'Cargo, qui prenait notre place.",
+      "char_start": 313703,
+      "char_end": 314581,
+      "entities": [
+        {
+          "text": "Le Pic",
+          "start": 194,
+          "end": 200,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Trading post"
+        },
+        {
+          "text": "baie de Michipicoton",
+          "start": 232,
+          "end": 252,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Michipicoten Bay on Lake Superior"
+        },
+        {
+          "text": "Capitaine M'Cargo",
+          "start": 393,
+          "end": 410,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Ship captain"
+        },
+        {
+          "text": "Mr. M'Cargo",
+          "start": 467,
+          "end": 478,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Escaped from Sault Ste. Marie"
+        },
+        {
+          "text": "Saut Ste. Marie",
+          "start": 510,
+          "end": 525,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Sault Ste. Marie"
+        },
+        {
+          "text": "Américains",
+          "start": 534,
+          "end": 544,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Americans (War of 1812)"
+        },
+        {
+          "text": "Fort William",
+          "start": 763,
+          "end": 775,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Return destination"
+        },
+        {
+          "text": "Mr. D. Stuart",
+          "start": 797,
+          "end": 810,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Travel companion"
+        },
+        {
+          "text": "Capitaine M'Cargo",
+          "start": 851,
+          "end": 868,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Provided canot"
+        }
+      ]
+    }
+  ]
+}

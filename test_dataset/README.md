@@ -5,6 +5,32 @@
 
 ---
 
+## 🚀 Quick Start: Create Gold Standard Annotations
+
+### Recommended: Claude-Assisted Workflow (Fast & Accurate!)
+
+**Step 1:** Ask Claude to create draft annotations
+```
+"Claude, please analyze the snippets and create draft annotations for [document_id]"
+```
+
+**Step 2:** Review Claude's work (5-10 min per document)
+```bash
+python test_dataset/review_annotations.py [document_id]
+```
+
+**See full guide**: [CLAUDE_ASSISTED_WORKFLOW.md](CLAUDE_ASSISTED_WORKFLOW.md)
+
+**Time savings**: 80% faster than manual annotation!
+
+### Alternative: Manual Annotation
+```bash
+python test_dataset/create_gold_standard.py [document_id]
+```
+See: [ANNOTATION_GUIDE.md](ANNOTATION_GUIDE.md)
+
+---
+
 ## Dataset Overview
 
 This test dataset contains **20 carefully selected documents** representing the diversity of the Saskatchewan 1808-1946 OCR collection:

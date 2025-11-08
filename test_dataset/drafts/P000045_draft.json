@@ -1,0 +1,1268 @@
+{
+  "document_id": "P000045",
+  "metadata": {
+    "title": "Travels and adventures in Canada and the Indian territories between the years 1761 and 1776: In two parts",
+    "year": 1809,
+    "language": "English",
+    "collection": "peel_print; peel; university_of_alberta_libraries; toronto",
+    "doc_type": "book",
+    "word_count": 68561,
+    "char_count": 390104,
+    "total_pages": 340,
+    "extraction_strategy": "large_doc",
+    "num_snippets": 15
+  },
+  "annotation_date": "2025-11-07T20:15:00",
+  "annotator": "claude_ai",
+  "model": "claude-sonnet-4-5",
+  "status": "draft",
+  "total_snippets": 15,
+  "total_entities": 127,
+  "snippets": [
+    {
+      "snippet_id": "001",
+      "text": "Author sees and is recognised by Wawatam.\n\nThe soldier, who was our companion in misfortune, was made fast to a bar of the canoe, by a rope tied round his neck, as is the manner of the Indians, in transporting their prisoners. The rest were left unconfined; but a paddle was put into each of our hands, and we were made to use it. The Indians in the canoe were seven in number; the prisoners four. I had left, as it will be recollected, Major Etherington, Lieutenant Lesslie and Mr. Bostwick, at M. Langlade's, and was now joined in misery with Mr. Ezekiel Solomons, the soldier, and the Englishman who had newly arrived from Détroit. This was on the sixth day of June. The fort was taken on the fourth; I surrendered myself to Wenniway on the fifth; and this was the third day of our distress.\nWe were bound, as I have said, for the Isles du Castor, which lie in the mouth of Lake Michigan; and we should have crossed the lake, but that a thick fog came on, on account of which the Indians deemed it safer to keep the shore close under their lee.",
+      "char_start": 116675,
+      "char_end": 117723,
+      "entities": [
+        {
+          "text": "Wawatam",
+          "start": 34,
+          "end": 41,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Indigenous person who recognized the author"
+        },
+        {
+          "text": "Major Etherington",
+          "start": 444,
+          "end": 461,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "British military officer"
+        },
+        {
+          "text": "Lieutenant Lesslie",
+          "start": 463,
+          "end": 481,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "British military officer"
+        },
+        {
+          "text": "Mr. Bostwick",
+          "start": 486,
+          "end": 498,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "British trader/officer"
+        },
+        {
+          "text": "M. Langlade",
+          "start": 503,
+          "end": 514,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "French resident at the fort"
+        },
+        {
+          "text": "Mr. Ezekiel Solomons",
+          "start": 550,
+          "end": 571,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "English trader taken prisoner"
+        },
+        {
+          "text": "Détroit",
+          "start": 630,
+          "end": 637,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Fort Detroit (French spelling)"
+        },
+        {
+          "text": "Wenniway",
+          "start": 733,
+          "end": 741,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Indigenous captor"
+        },
+        {
+          "text": "Isles du Castor",
+          "start": 838,
+          "end": 853,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Islands in mouth of Lake Michigan"
+        },
+        {
+          "text": "Lake Michigan",
+          "start": 886,
+          "end": 899,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Great Lake"
+        }
+      ]
+    },
+    {
+      "snippet_id": "002",
+      "text": "In the evening of the same day, a large canoe, such as those which came from Montréal, was seen advancing to the fort. It was full of men, and I distinguished several passengers. The Indian cry was made in the village; a general muster ordered; and, to the number of two hundred, they marched up to the fort, where the canoe was expected to land. The canoe, suspecting nothing, came boldly to the fort, where the passengers, as being English traders, were seized, dragged through the water, beat, reviled, marched to the prison-lodge, and there stripped of their clothes, and confined.\n\nOf the English traders that fell into the hands of the Indians, at the capture of the fort, Mr. Tracy was the only one who lost his life. Mr. Ezekiel Solomons and Mr. Henry Bostwick were taken by the Otawas, and, after the peace, carried down to Montréal, and there ransomed.",
+      "char_start": 129715,
+      "char_end": 130579,
+      "entities": [
+        {
+          "text": "Montréal",
+          "start": 78,
+          "end": 86,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Montreal, major French Canadian city"
+        },
+        {
+          "text": "Mr. Tracy",
+          "start": 685,
+          "end": 694,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "English trader killed by Indians"
+        },
+        {
+          "text": "Mr. Ezekiel Solomons",
+          "start": 728,
+          "end": 749,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "English trader taken prisoner"
+        },
+        {
+          "text": "Mr. Henry Bostwick",
+          "start": 754,
+          "end": 772,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "English trader taken prisoner"
+        },
+        {
+          "text": "Otawas",
+          "start": 791,
+          "end": 797,
+          "type": "MISC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Ottawa indigenous group"
+        },
+        {
+          "text": "Montréal",
+          "start": 837,
+          "end": 845,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Montreal, where prisoners were ransomed"
+        }
+      ]
+    },
+    {
+      "snippet_id": "003",
+      "text": "No prospect opened to console me. To return to Michilimackinac could only ensure my destruction; and to remain at the island was to brave almost equal danger, since it lay in the direct route between the fort\nand the Mississaki, along which the Indians from Detroit were hourly expected to pass, on the business of their mission. I doubted not, but, taking advantage of the solitary situation of the family, they would carry into execution their design of killing me.\nCHAPTER XX.\n\nAuthor is again relieved—takes leave of Wawatam and his Family—is hospitably received by M. Cadotte, at the Sault de Sainte-Marie—pursued by the Indians. Embassy from Sir William Johnson. Deputation to Sir William—Author to accompany it. Great Turtle to be consulted.\n\nUNABLE therefore to take any part in the direction of our course, but a prey at the same time to the most anxious thoughts as to my own condition, I passed all the day on the highest part, to which I could climb, of a tall tree, and whence the lake, on both sides of the island, lay open to my view.",
+      "char_start": 188952,
+      "char_end": 190002,
+      "entities": [
+        {
+          "text": "Michilimackinac",
+          "start": 47,
+          "end": 62,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Fort Michilimackinac in Great Lakes region"
+        },
+        {
+          "text": "Mississaki",
+          "start": 219,
+          "end": 229,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Indigenous settlement or location"
+        },
+        {
+          "text": "Detroit",
+          "start": 263,
+          "end": 270,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Fort Detroit"
+        },
+        {
+          "text": "Wawatam",
+          "start": 519,
+          "end": 526,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Indigenous host/protector of author"
+        },
+        {
+          "text": "M. Cadotte",
+          "start": 573,
+          "end": 583,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "French trader at Sault Ste. Marie"
+        },
+        {
+          "text": "Sault de Sainte-Marie",
+          "start": 592,
+          "end": 613,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Sault Ste. Marie, major trading post"
+        },
+        {
+          "text": "Sir William Johnson",
+          "start": 655,
+          "end": 674,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "British Superintendent of Indian Affairs"
+        }
+      ]
+    },
+    {
+      "snippet_id": "004",
+      "text": "The spirit, as we were now informed by the priest, had, during his short absence, crossed Lake Huron, and even proceeded as far as Fort Niagara, which is at the head of Lake Ontario, and thence to Montréal. At Fort Niagara, he had seen no great number of soldiers; but, on descending the Saint Lawrence, as low as Montréal, he had found the river covered with boats, and the boats filled with soldiers, in number like the leaves of the\ntrees. He had met them on their way up the river, coming to make war upon the Indians.\n\nThe chief had a third question to propose, and the spirit, without a fresh journey to Fort Niagara, was able to give it an instant and most favourable answer: \"If,\" said the chief, \"the Indians visit Sir William Johnson, will they be received as friends?\"\n\n\"Sir William Johnson,\" said the spirit, (and after the spirit, the priest,) \"Sir William Johnson will fill their canoes with presents; with blankets, kettles, guns, gun-powder and shot, and large barrels of rum, such as the stoutest of the Indians will not be able to lift; and every man will return in safety to his family.\"\n\nAt this, the transport was universal; and, amid the clapping of hands, a hundred voices exclaimed, \"I will go, too!",
+      "char_start": 202318,
+      "char_end": 203543,
+      "entities": [
+        {
+          "text": "Lake Huron",
+          "start": 91,
+          "end": 101,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "One of the Great Lakes"
+        },
+        {
+          "text": "Fort Niagara",
+          "start": 132,
+          "end": 144,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "British fort at Lake Ontario"
+        },
+        {
+          "text": "Lake Ontario",
+          "start": 169,
+          "end": 181,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Great Lake"
+        },
+        {
+          "text": "Montréal",
+          "start": 197,
+          "end": 205,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Montreal"
+        },
+        {
+          "text": "Fort Niagara",
+          "start": 210,
+          "end": 222,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Second mention of Fort Niagara"
+        },
+        {
+          "text": "Saint Lawrence",
+          "start": 287,
+          "end": 301,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "St. Lawrence River"
+        },
+        {
+          "text": "Montréal",
+          "start": 314,
+          "end": 322,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Montreal"
+        },
+        {
+          "text": "Fort Niagara",
+          "start": 622,
+          "end": 634,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Third mention"
+        },
+        {
+          "text": "Sir William Johnson",
+          "start": 737,
+          "end": 756,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "British Superintendent of Indian Affairs"
+        },
+        {
+          "text": "Sir William Johnson",
+          "start": 794,
+          "end": 813,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Second mention"
+        },
+        {
+          "text": "Sir William Johnson",
+          "start": 862,
+          "end": 881,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Third mention"
+        }
+      ]
+    },
+    {
+      "snippet_id": "005",
+      "text": "Sugar-making continued till the twelfth of May. On the mountain, we eat nothing but our sugar, during the whole period. Each man consumed a pound a day, desired no other food, and was visibly nourished by it.\n\nAfter returning to the banks of the river, wild-fowl appeared in such abundance that a day's subsistence, for fifty men, could without difficulty be shot daily by one; but, all this was the affair of less than a week, before the end of which the water, which had been covered, was left naked; and the birds had fled away to the northward.\n\nOn the twentieth day of the month, the first party of Indians came in from their winter's hunt. During the season, some of them had visited one of the factories of the Hudson's Bay Company. Within a few days following, I had the satisfaction of seeing all those to whom I had advanced goods return.",
+      "char_start": 254512,
+      "char_end": 255362,
+      "entities": [
+        {
+          "text": "Hudson's Bay Company",
+          "start": 722,
+          "end": 742,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Famous fur trading company"
+        }
+      ]
+    },
+    {
+      "snippet_id": "006",
+      "text": "We paddled all night, but continually fell asleep; and whenever my own eyes were closed, I dreamed of tempting food.\n\nThe next morning, we discovered two canoes of Indians, on their way from the Sault. On informing them of our condition, they supplied us with as many fish as we were willing to accept; and no sooner were we possessed of this treasure, than we put ashore, made a fire, and refreshed ourselves with a plentiful breakfast. At night, we reached the Sault. Our change of diet had very serious effects upon our health; so that, for myself, I had nearly fallen a victim: but, after a few days, we recovered, and returned safely to Michipicoten.\nCHAPTER VI.\n\n*Île de Maurepas. Island of Yellow Sands. Fables and Traditions. Attempt to cultivate a Garden at Michipicoten. Mine-Company of Lake Superior established.*\n\nIn the spring of 1769, as soon as the lake was cleared of ice, I embarked with two Indians, to visit the Island of Michipicoten, or Île de Maurepas, distant ten leagues.",
+      "char_start": 259682,
+      "char_end": 260678,
+      "entities": [
+        {
+          "text": "Sault",
+          "start": 198,
+          "end": 203,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Sault Ste. Marie (abbreviated)"
+        },
+        {
+          "text": "Sault",
+          "start": 466,
+          "end": 471,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Sault Ste. Marie"
+        },
+        {
+          "text": "Michipicoten",
+          "start": 644,
+          "end": 656,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Trading post on Lake Superior"
+        },
+        {
+          "text": "Île de Maurepas",
+          "start": 681,
+          "end": 696,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "French name for island"
+        },
+        {
+          "text": "Island of Yellow Sands",
+          "start": 698,
+          "end": 720,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "English name for island"
+        },
+        {
+          "text": "Michipicoten",
+          "start": 778,
+          "end": 790,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Location where garden was cultivated"
+        },
+        {
+          "text": "Lake Superior",
+          "start": 810,
+          "end": 823,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Largest Great Lake"
+        },
+        {
+          "text": "Island of Michipicoten",
+          "start": 944,
+          "end": 966,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Island in Lake Superior"
+        },
+        {
+          "text": "Île de Maurepas",
+          "start": 971,
+          "end": 986,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "French name for island"
+        }
+      ]
+    },
+    {
+      "snippet_id": "007",
+      "text": "In 1770, Mr. Baxter, who had sailed for England, returned, bringing with him papers, by which, with Mr. Bostwick and himself, I was constituted a joint-agent and partner, in and for a company of adventurers for working the mines of Lake Superior. We passed the winter together at the Sault de Sainte-Marie, and built a barge, fit for the navigation of the lake; at the same time laying the keel of a sloop of forty tons. Early in May, 1771, the lake becoming navigable, we departed from Point aux Pins, our ship-yard, at which there is a safe harbour, and of which the distance from the Sault is three leagues. We sailed for the Island of Yellow Sands, promising ourselves to make our fortunes, in defiance of its serpents.\nCHAPTER VII.\n\nVisit the Island of Yellow Sands. Operations of the Mine-Company—its dissolution.",
+      "char_start": 264874,
+      "char_end": 265695,
+      "entities": [
+        {
+          "text": "Mr. Baxter",
+          "start": 9,
+          "end": 19,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Mining company partner"
+        },
+        {
+          "text": "England",
+          "start": 41,
+          "end": 48,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "United Kingdom"
+        },
+        {
+          "text": "Mr. Bostwick",
+          "start": 103,
+          "end": 115,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Mining company partner"
+        },
+        {
+          "text": "Lake Superior",
+          "start": 233,
+          "end": 246,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Great Lake with mines"
+        },
+        {
+          "text": "Sault de Sainte-Marie",
+          "start": 285,
+          "end": 306,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Winter location"
+        },
+        {
+          "text": "Point aux Pins",
+          "start": 489,
+          "end": 503,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Shipyard location"
+        },
+        {
+          "text": "Sault",
+          "start": 591,
+          "end": 596,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Sault Ste. Marie"
+        },
+        {
+          "text": "Island of Yellow Sands",
+          "start": 632,
+          "end": 654,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Mining destination"
+        },
+        {
+          "text": "Island of Yellow Sands",
+          "start": 763,
+          "end": 785,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Chapter title location"
+        }
+      ]
+    },
+    {
+      "snippet_id": "008",
+      "text": "The assayer made a report on the ores which we had collected, stating that the lead-ore contained silver in the proportion of forty ounces to a ton; but, the copper-ore, only in very small proportion indeed.\n\nFrom Point aux Pins, we crossed to the south side of the lake, and encamped on Point aux Iroquois.\n\nMr. Norburg, a Russian gentleman, acquainted with metals, and holding a commission in the sixtieth regiment, and then in garrison at Michilimackinac, accompanied us on this latter expedition. As we rambled, examining the shods, or loose\n\n*The reader is not to look into any gazetteer for the Island of Yellow Sands. It is perhaps that which the French denominated, the Ile de Pontchartrain.\nstones, in search of minerals, Mr. Norburg chanced to meet with one, of eight pounds weight, of a blue colour, and semi-transparent.",
+      "char_start": 269536,
+      "char_end": 270369,
+      "entities": [
+        {
+          "text": "Point aux Pins",
+          "start": 214,
+          "end": 228,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Departure point"
+        },
+        {
+          "text": "Point aux Iroquois",
+          "start": 291,
+          "end": 309,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Encampment location"
+        },
+        {
+          "text": "Mr. Norburg",
+          "start": 312,
+          "end": 323,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Russian gentleman and metal expert"
+        },
+        {
+          "text": "Michilimackinac",
+          "start": 436,
+          "end": 451,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Fort where regiment garrisoned"
+        },
+        {
+          "text": "Island of Yellow Sands",
+          "start": 614,
+          "end": 636,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Island mentioned in footnote"
+        },
+        {
+          "text": "Ile de Pontchartrain",
+          "start": 680,
+          "end": 700,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "French name for the island"
+        },
+        {
+          "text": "Mr. Norburg",
+          "start": 738,
+          "end": 749,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Found blue stone"
+        }
+      ]
+    },
+    {
+      "snippet_id": "009",
+      "text": "This year, therefore, 1774, Mr. Baxter disposed of the sloop, and other effects of the Company, and paid its debts.\n\nThe partners, in England, were His Royal Highness the Duke of Gloucester, Mr. Secretary Townshend, Sir Samuel Tutchet, Baronet; Mr. Baxter; consul of the empress of Russia; and Mr. Cruickshank: in America, Sir William Johnson, Baronet; Mr. Bostwick, Mr. Baxter and myself.\n\nA charter had been petitioned for, and obtained; but, owing to our ill success, it was never taken from the seal-office.\nCHAPTER VIII.\n\nAuthor goes into the North-West. Tete de la Louitre. River Pijitie. Pays Plat. River Nipigon. Grand Portage. Commercial animosities. Carrying-place. River aux Groseilles. Height of Land. Lake Sagunac. Chipeway Village. Lake à la Pluie. Second Chipeway Village. River à la Pluie.",
+      "char_start": 276058,
+      "char_end": 276864,
+      "entities": [
+        {
+          "text": "Mr. Baxter",
+          "start": 28,
+          "end": 38,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Company liquidator"
+        },
+        {
+          "text": "England",
+          "start": 133,
+          "end": 140,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Location of some partners"
+        },
+        {
+          "text": "Duke of Gloucester",
+          "start": 169,
+          "end": 187,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Royal partner"
+        },
+        {
+          "text": "Mr. Secretary Townshend",
+          "start": 189,
+          "end": 212,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "British Secretary, partner"
+        },
+        {
+          "text": "Sir Samuel Tutchet",
+          "start": 214,
+          "end": 232,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Baronet partner"
+        },
+        {
+          "text": "Mr. Baxter",
+          "start": 243,
+          "end": 253,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Consul of empress of Russia, partner"
+        },
+        {
+          "text": "Mr. Cruickshank",
+          "start": 295,
+          "end": 310,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "English partner"
+        },
+        {
+          "text": "America",
+          "start": 315,
+          "end": 322,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Location of American partners"
+        },
+        {
+          "text": "Sir William Johnson",
+          "start": 324,
+          "end": 343,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Baronet, American partner"
+        },
+        {
+          "text": "Mr. Bostwick",
+          "start": 355,
+          "end": 367,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "American partner"
+        },
+        {
+          "text": "Mr. Baxter",
+          "start": 369,
+          "end": 379,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Also American partner"
+        },
+        {
+          "text": "Tete de la Louitre",
+          "start": 558,
+          "end": 576,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Location in North-West"
+        },
+        {
+          "text": "River Pijitie",
+          "start": 578,
+          "end": 591,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "River in North-West"
+        },
+        {
+          "text": "Pays Plat",
+          "start": 593,
+          "end": 602,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Location in North-West"
+        },
+        {
+          "text": "River Nipigon",
+          "start": 604,
+          "end": 617,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "River in North-West"
+        },
+        {
+          "text": "Grand Portage",
+          "start": 619,
+          "end": 632,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Major portage location"
+        },
+        {
+          "text": "River aux Groseilles",
+          "start": 679,
+          "end": 699,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "River in North-West"
+        },
+        {
+          "text": "Height of Land",
+          "start": 701,
+          "end": 715,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Geographic feature/location"
+        },
+        {
+          "text": "Lake Sagunac",
+          "start": 717,
+          "end": 729,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Lake in North-West"
+        },
+        {
+          "text": "Chipeway Village",
+          "start": 731,
+          "end": 747,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Ojibwe village"
+        },
+        {
+          "text": "Lake à la Pluie",
+          "start": 749,
+          "end": 764,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Lake of the Woods"
+        },
+        {
+          "text": "River à la Pluie",
+          "start": 790,
+          "end": 806,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "River near Lake à la Pluie"
+        }
+      ]
+    },
+    {
+      "snippet_id": "010",
+      "text": "On receiving the rum, he saluted us with the Indian cry, and departed.\n\nEvery day, we were on the water before dawn, and paddled along till dark. The nights were frosty; and no provisions, excepting a few wild fowl, were to be procured. We were in daily fear that our progress would be arrested by the ice.\n\nOn the twenty-sixth, we reached Cumberland House, one of the factories of the Hudson's Bay Company, seated on Sturgeon Lake, in about 54° north latitude, and 102° longitude west from Greenwich. This house had been built the year before, by Mr. Hearne, who was now absent, on his well-known journey of discovery. We found it garrisoned by Highlanders, from the Orkney Islands, and under the command of a Mr. Cockings, by whom, though unwelcome guests, we were treated with much civility. The design, in building this house, was to prevent the Indians from dealing with the Canadian merchants, and to induce them to go to\nHudson's Bay.",
+      "char_start": 304279,
+      "char_end": 305221,
+      "entities": [
+        {
+          "text": "Cumberland House",
+          "start": 336,
+          "end": 352,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Hudson's Bay Company trading post"
+        },
+        {
+          "text": "Hudson's Bay Company",
+          "start": 383,
+          "end": 403,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Major fur trading company"
+        },
+        {
+          "text": "Sturgeon Lake",
+          "start": 415,
+          "end": 428,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Lake location of Cumberland House"
+        },
+        {
+          "text": "Greenwich",
+          "start": 487,
+          "end": 496,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Prime meridian reference point"
+        },
+        {
+          "text": "Mr. Hearne",
+          "start": 544,
+          "end": 554,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Builder of Cumberland House, famous explorer"
+        },
+        {
+          "text": "Highlanders",
+          "start": 652,
+          "end": 663,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Scottish garrison members"
+        },
+        {
+          "text": "Orkney Islands",
+          "start": 675,
+          "end": 689,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Origin of garrison members"
+        },
+        {
+          "text": "Mr. Cockings",
+          "start": 720,
+          "end": 732,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Commander of Cumberland House"
+        },
+        {
+          "text": "Hudson's Bay",
+          "start": 929,
+          "end": 941,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Bay and company destination"
+        }
+      ]
+    },
+    {
+      "snippet_id": "011",
+      "text": "On the following evening, we encamped at the mouth of the same river. The snow was four feet deep; and we found it impossible to keep ourselves warm, even with the aid of a large fire.\n\nOn the fourth day, as well of the month as of our journey, we arrived at Cumberland House. Mr. Cockings received us with much hospitality,\nmaking us partake of all he had, which, however, was but little. Himself and his men subsisted wholly upon fish, in which sturgeon bore the largest proportion; and this was caught near the house. The next morning, I took leave of Mr. Frobisher, who is certainly the first man that ever went the same distance, in such a climate, and upon snow-shoes, to convoy a friend!\n\nFrom Cumberland House, I pursued a westerly course, on the ice, following the southern bank of Sturgeon Lake, till I crossed the neck of land by which alone it is separated from the great river Pasquayah, or Sascatchiwaine.",
+      "char_start": 311053,
+      "char_end": 311974,
+      "entities": [
+        {
+          "text": "Cumberland House",
+          "start": 263,
+          "end": 279,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Trading post destination"
+        },
+        {
+          "text": "Mr. Cockings",
+          "start": 281,
+          "end": 293,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Host at Cumberland House"
+        },
+        {
+          "text": "Mr. Frobisher",
+          "start": 562,
+          "end": 575,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Travel companion who returned"
+        },
+        {
+          "text": "Cumberland House",
+          "start": 706,
+          "end": 722,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Departure point"
+        },
+        {
+          "text": "Sturgeon Lake",
+          "start": 793,
+          "end": 806,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Lake traveled on ice"
+        },
+        {
+          "text": "Pasquayah",
+          "start": 888,
+          "end": 897,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Indigenous name for Saskatchewan River"
+        },
+        {
+          "text": "Sascatchiwaine",
+          "start": 902,
+          "end": 916,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Saskatchewan River"
+        }
+      ]
+    },
+    {
+      "snippet_id": "012",
+      "text": "On the seventh, we left Cumberland House; and on the ninth, in the morning, reached our fort on Beaver Lake, where I had the pleasure of finding my friends well.\n\nIn my absence, the men had supported themselves by fishing; and they were all in health, with the exception of one, who was hurt at the Grand Portage, by a canoe's falling upon him.\n\nOn the twelfth, Mr. Thomas Frobisher, with six men, was despatched to the river Churchill, where he was to prepare a fort, and inform such Indians, as he might see on their way to Hudson's Bay, of the approaching arrival of his partners.\n\nThe ice was still in the same state as in January; but, as the season advanced, the quantity of fish diminished, insomuch that Mr. Joseph Frobisher and myself were obliged to fish incessantly; and often, notwithstanding every exertion, the men went supperless to bed.",
+      "char_start": 372936,
+      "char_end": 373789,
+      "entities": [
+        {
+          "text": "Cumberland House",
+          "start": 25,
+          "end": 41,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Departure location"
+        },
+        {
+          "text": "Beaver Lake",
+          "start": 96,
+          "end": 107,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Fort location"
+        },
+        {
+          "text": "Grand Portage",
+          "start": 299,
+          "end": 312,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Location of injury"
+        },
+        {
+          "text": "Mr. Thomas Frobisher",
+          "start": 360,
+          "end": 380,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Dispatched to build fort"
+        },
+        {
+          "text": "river Churchill",
+          "start": 421,
+          "end": 436,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Churchill River destination"
+        },
+        {
+          "text": "Hudson's Bay",
+          "start": 526,
+          "end": 538,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Destination of Indians"
+        },
+        {
+          "text": "Mr. Joseph Frobisher",
+          "start": 715,
+          "end": 735,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Fishing companion"
+        }
+      ]
+    },
+    {
+      "snippet_id": "013",
+      "text": "On the tenth, with some difficulty, we crossed the lake, which is twenty miles in length, through a channel opened in the ice. On the fifteenth, after passing several carrying-places, we reached the river Churchill, Missinibi, or Missinipi, where we found Mr. Thomas Frobisher and his men, who were in good health, and had built a house for our reception.\n\nThe whole country, from Beaver Lake to the Missinipi, is low near the water, with mountains in the distance. The uplands have a growth of small pine-trees, and the valleys, of birch and spruce. The river is called the Churchill River, from Fort Churchill, in Hudson's Bay, the most northerly of the company's factories or trading-houses, and which is seated at its mouth. By Mr. Joseph Frobisher, it was named English River. At the spot where our\nhouse was built, the river is five miles wide, and very deep.",
+      "char_start": 375946,
+      "char_end": 376812,
+      "entities": [
+        {
+          "text": "river Churchill",
+          "start": 199,
+          "end": 214,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Churchill River"
+        },
+        {
+          "text": "Missinibi",
+          "start": 216,
+          "end": 225,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Alternative name for Churchill River"
+        },
+        {
+          "text": "Missinipi",
+          "start": 230,
+          "end": 239,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Alternative name for Churchill River"
+        },
+        {
+          "text": "Mr. Thomas Frobisher",
+          "start": 257,
+          "end": 277,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Built house at river"
+        },
+        {
+          "text": "Beaver Lake",
+          "start": 384,
+          "end": 395,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Starting point"
+        },
+        {
+          "text": "Missinipi",
+          "start": 403,
+          "end": 412,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Destination"
+        },
+        {
+          "text": "Churchill River",
+          "start": 576,
+          "end": 591,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Full name of river"
+        },
+        {
+          "text": "Fort Churchill",
+          "start": 598,
+          "end": 612,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Fort at mouth of river"
+        },
+        {
+          "text": "Hudson's Bay",
+          "start": 617,
+          "end": 629,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Location of Fort Churchill"
+        },
+        {
+          "text": "Mr. Joseph Frobisher",
+          "start": 730,
+          "end": 750,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Named it English River"
+        },
+        {
+          "text": "English River",
+          "start": 766,
+          "end": 779,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Frobisher's name for Churchill River"
+        }
+      ]
+    },
+    {
+      "snippet_id": "014",
+      "text": "The men, who no doubt thought with the Cristinaux on this subject,* were the first to speak in behalf of their wives; and, were even in the practice of carrying them to Hudson's Bay, a journey of many hundred miles, on no other errand.\n\nHaving been fortunate enough to administer medical relief to one of these Indians, during their stay, I came to be considered as a physician, and found that this was a character held in high veneration. Their solicitude and credulity, as to drugs and nostrums, had exposed them to gross deceptions, on the part of the agents of the Hudson's Bay Company. One of the chiefs informed me, that he had been at the Bay the year before, and there purchased a quantity of medicines, which he would allow me to inspect. Accordingly, he brought a bag, containing numerous small papers, in which I found lumps of white sugar, grains of coffee, pepper, allspice, cloves, tea, nutmegs, ginger and other things of this kind, sold as specifics against evil spirits, and against the dangers of battle; as giving power over enemies, and particularly the white bear, of which the Indians in these latitudes are much afraid:—others were infallible\n\n* See page 249.\nagainst barrenness in women; against difficult labours; and against a variety of other afflictions.",
+      "char_start": 384485,
+      "char_end": 385768,
+      "entities": [
+        {
+          "text": "Cristinaux",
+          "start": 39,
+          "end": 49,
+          "type": "MISC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Cree indigenous group (French spelling)"
+        },
+        {
+          "text": "Hudson's Bay",
+          "start": 169,
+          "end": 181,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Long journey destination"
+        },
+        {
+          "text": "Hudson's Bay Company",
+          "start": 574,
+          "end": 594,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Company selling fake medicines"
+        }
+      ]
+    },
+    {
+      "snippet_id": "015",
+      "text": "No. 2. \"A soldier in arms;\"—this poured a sentiment of valour into the possessor, and gave him the strength of a giant!\n\nBy means of these commodities, many customers were secured to the company; and even those Indians, who shortened their voyage by dealing with us, sent forward one canoe, laden with beaver-skins, to purchase articles of this kind, at Cumberland House. I did not venture to dispute their value.\n\nThis part of our commercial adventure completed, Mr. Frobisher and myself left the remainder of our merchandise in the care of Mr. Thomas Frobisher, who was to proceed with them to Lake Arabuthcow; and, on the fourth of July, set out on our return to the Grand Portage.\nIn recrossing Beaver Lake, the wind obliged us to put into a bay which I had not visited before. Taking my gun, I went into the woods, in search of game; but, I had not advanced more than half a mile, when I found the country almost inaccessible, by reason of masses of rock, which were scattered in all directions: some were as large as houses, and lay as if they had been first thrown into the air, and then suffered to fall into their present posture.",
+      "char_start": 386165,
+      "char_end": 387305,
+      "entities": [
+        {
+          "text": "Cumberland House",
+          "start": 354,
+          "end": 370,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Trading post for purchasing goods"
+        },
+        {
+          "text": "Mr. Frobisher",
+          "start": 462,
+          "end": 475,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Travel companion"
+        },
+        {
+          "text": "Mr. Thomas Frobisher",
+          "start": 540,
+          "end": 560,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Left in charge of merchandise"
+        },
+        {
+          "text": "Lake Arabuthcow",
+          "start": 596,
+          "end": 611,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Destination with merchandise"
+        },
+        {
+          "text": "Grand Portage",
+          "start": 675,
+          "end": 688,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Return destination"
+        },
+        {
+          "text": "Beaver Lake",
+          "start": 705,
+          "end": 716,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Lake being recrossed"
+        }
+      ]
+    }
+  ]
+}
