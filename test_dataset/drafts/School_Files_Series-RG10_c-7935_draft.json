@@ -1,0 +1,263 @@
+{
+  "document_id": "School_Files_Series-RG10_c-7935",
+  "metadata": {
+    "title": "School Files Series - 1879-1953 (RG10) — c-7935",
+    "year": 1879,
+    "language": "eng",
+    "collection": "opensource; community",
+    "doc_type": "government",
+    "word_count": 377255,
+    "char_count": 2495258,
+    "total_pages": 2345,
+    "extraction_strategy": "large_doc",
+    "num_snippets": 15,
+    "annotation_date": "2025-11-07",
+    "annotator": "claude_ai",
+    "annotation_purpose": "gold_standard_ner_dataset"
+  },
+  "total_entities": 156,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "text": "Dear Sir,\n\nI have seen Dr. Brass and Mr. Rogers concerning Dr. Brass's account and am enclosing the account as amended according to your instructions. The two Cayuga boys were sent after I came to complete a course of treatment begun before the holiday. There is no charge appearing in the account for those former treatments.\n\nThe mastoid operation for Ralph Smart was an emergency operation. He has been directed by his doctor to go to the hospital. The Rogers' agent Department was notified by telegram and the following letter follows, but that no letter of explanation was received.\n\nThere was no additional fee paid or account from the agent before I met it in his neglected to do so.\n\nThis is to certify that,\n\nHorace W. Smith\n\n[Signature]\n\n[Stamp: DEPT. OF INDIAN AFFAIRS]\n**DOCTORS' MONTHLY ACCOUNT FORM**\n\nFor the Month of February 1920 Date March 1, 1920\n\n| Date in month | NAME OF PATIENT | DISEASE | SERVICE RENDERED | CHARGES |\n|---------------|-----------------|---------|------------------|---------|\n| Feb 3         | Beulah Snake    | 1 p Extraction & 1 silver filling | 250     |\n|               | Reva Hill       | 1 silver filling | 150     |\n|               | Gerdt Smart, Harold | Pyorrhea treat | 75      |\n|               | Walter Lewis    | 2 p.extractions | 45      |\n|               | Edgar Fraser    | 3 sil.fillings | 45      |\n| Feb 10        | Ambrose Cayuga  | 2 large porcelain fillings | 50      |\n|               | Alfred Grant    | 2 t.extras | 50      |\n|               | Peter Smith     | 1 sil.fill | 50      |\n|               | Grace Obie      | 6 p.extras | 50      |\n|               | Isobel Hill     | 2 p.extras & 1 sil.fill & 1 porcelain fill | 50      |\n| Feb 23        | Ralph Smart     | 2 sil.fill | 250     |\n|               | Neil Garlow     | 2 p.extras & 5t.extras & 1 sil.fill | 60      |\n|               | Geo.Mt.Pleasant | 2 large sil.fill | 40      |\n|               | Orval Jamieson  | 2 t.extras | 100     |\n| Feb 28        | Calvin Miller   | 2 t.extras | 100     |\n|               | Raymond Gatlow  | 1 p.extras & 1 large & 1 medium sil.fill | 100     |\n|               | John Chrysler    | 8 t.extras | 400     |\n|               | Oneissa Hill    | 4 t.extras | 200     |\n|               | David Turkey    | 4 t.extras | 200     |",
+      "char_start": 870454,
+      "char_end": 872962,
+      "entities": [
+        {
+          "text": "Dr. Brass",
+          "start": 870473,
+          "end": 870482,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Doctor providing services"
+        },
+        {
+          "text": "Mr. Rogers",
+          "start": 870487,
+          "end": 870497,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Person consulted about account"
+        },
+        {
+          "text": "Cayuga",
+          "start": 870635,
+          "end": 870641,
+          "type": "MISC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Cayuga boys, Indigenous students"
+        },
+        {
+          "text": "Ralph Smart",
+          "start": 870866,
+          "end": 870877,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Patient requiring mastoid operation"
+        },
+        {
+          "text": "Horace W. Smith",
+          "start": 871239,
+          "end": 871254,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Person certifying document"
+        },
+        {
+          "text": "DEPT. OF INDIAN AFFAIRS",
+          "start": 871284,
+          "end": 871307,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Department of Indian Affairs"
+        },
+        {
+          "text": "Beulah Snake",
+          "start": 871590,
+          "end": 871602,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Patient receiving dental treatment"
+        },
+        {
+          "text": "Reva Hill",
+          "start": 871676,
+          "end": 871685,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Patient receiving dental treatment"
+        },
+        {
+          "text": "Gerdt Smart",
+          "start": 871740,
+          "end": 871751,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Patient receiving pyorrhea treatment"
+        },
+        {
+          "text": "Harold",
+          "start": 871753,
+          "end": 871759,
+          "type": "PER",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "Additional patient name"
+        },
+        {
+          "text": "Walter Lewis",
+          "start": 871809,
+          "end": 871821,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Patient receiving dental extractions"
+        },
+        {
+          "text": "Edgar Fraser",
+          "start": 871877,
+          "end": 871889,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Patient receiving dental fillings"
+        },
+        {
+          "text": "Ambrose Cayuga",
+          "start": 871943,
+          "end": 871957,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Patient receiving porcelain fillings"
+        },
+        {
+          "text": "Alfred Grant",
+          "start": 872028,
+          "end": 872040,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Patient receiving dental extractions"
+        },
+        {
+          "text": "Peter Smith",
+          "start": 872086,
+          "end": 872097,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Patient receiving dental filling"
+        },
+        {
+          "text": "Grace Obie",
+          "start": 872139,
+          "end": 872149,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Patient receiving dental extractions"
+        },
+        {
+          "text": "Isobel Hill",
+          "start": 872191,
+          "end": 872202,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Patient receiving multiple dental services"
+        },
+        {
+          "text": "Ralph Smart",
+          "start": 872296,
+          "end": 872307,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Patient receiving dental fillings"
+        },
+        {
+          "text": "Neil Garlow",
+          "start": 872359,
+          "end": 872370,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Patient receiving multiple dental services"
+        },
+        {
+          "text": "Geo.Mt.Pleasant",
+          "start": 872449,
+          "end": 872464,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Patient receiving large fillings"
+        },
+        {
+          "text": "Orval Jamieson",
+          "start": 872521,
+          "end": 872535,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Patient receiving dental extractions"
+        },
+        {
+          "text": "Calvin Miller",
+          "start": 872583,
+          "end": 872596,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Patient receiving dental extractions"
+        },
+        {
+          "text": "Raymond Gatlow",
+          "start": 872644,
+          "end": 872658,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Patient receiving multiple dental services"
+        },
+        {
+          "text": "John Chrysler",
+          "start": 872748,
+          "end": 872761,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Patient receiving dental extractions"
+        },
+        {
+          "text": "Oneissa Hill",
+          "start": 872811,
+          "end": 872823,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Patient receiving dental extractions"
+        },
+        {
+          "text": "David Turkey",
+          "start": 872871,
+          "end": 872883,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Patient receiving dental extractions"
+        }
+      ]
+    }
+  ]
+}
