@@ -1,0 +1,173 @@
+{
+  "document_id": "P000151",
+  "metadata": {
+    "title": "Narrative of a journey to the shores of the polar sea in the years 1819, 20, 21, and 22: With an appendix on various subjects relating to science and natural history",
+    "year": 1823,
+    "language": "English",
+    "collection": "peel_print; peel; university_of_alberta_libraries; toronto",
+    "doc_type": "book",
+    "word_count": 297290,
+    "char_count": 1730845,
+    "total_pages": 845,
+    "extraction_strategy": "large_doc",
+    "num_snippets": 15,
+    "annotation_date": "2025-11-07",
+    "annotator": "claude_ai",
+    "annotation_purpose": "gold_standard_ner_dataset"
+  },
+  "total_entities": 215,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "text": "INTRODUCTION.\n\nHis Majesty's Government having determined upon sending an Expedition from the Shores of Hudson's Bay by land, to explore the Northern Coast of America, from the Mouth of the Copper-Mine River to the eastward, I had the honour to be appointed to this service by Earl Bathurst, on the recommendation of the Lords Commissioners of the Admiralty; who, at the same time, nominated Doctor John Richardson, a Surgeon in the Royal Navy, Mr. George Back, and Mr. Robert Hood, two Admiralty Midshipmen, to be joined with me in the Expedition. My instructions in substance informed me, that the main object of the Expedition was that of determining the latitudes and longitudes of the Northern Coast of North America, and the trending of that Coast from the Mouth of the Copper-Mine River to the eastern extremity of that Continent; that it was left for me to determine, according to circumstances, whether it might be most advisable to proceed, at once, directly to the northward till I arrived at the sea-coast, and proceed westerly towards the Copper-Mine River; or advance, in the first instance, by the usual route to the Mouth of the Copper-Mine River, and from thence easterly till I should arrive at the eastern\nextremity of that Continent; that, in the adoption of either of these plans, I was to be guided by the advice and information which I should receive from the wintering servants of the Hudson's Bay Company, who would be instructed by their employers to co-operate cordially in the prosecution of the objects of the Expedition, and who would provide me with the necessary escort of Indians to act as guides, interpreters, game-killers, &c.; and also with such articles of clothing, ammunition, snow-shoes, presents, &c., as should be deemed expedient for me to take.",
+      "char_start": 7420,
+      "char_end": 9210,
+      "entities": [
+        {
+          "text": "His Majesty's Government",
+          "start": 7434,
+          "end": 7458,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "British government"
+        },
+        {
+          "text": "Hudson's Bay",
+          "start": 7517,
+          "end": 7529,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Hudson Bay region"
+        },
+        {
+          "text": "Northern Coast of America",
+          "start": 7555,
+          "end": 7580,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Northern coastline of North America"
+        },
+        {
+          "text": "Copper-Mine River",
+          "start": 7605,
+          "end": 7622,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Coppermine River in Arctic Canada"
+        },
+        {
+          "text": "Earl Bathurst",
+          "start": 7697,
+          "end": 7710,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "British Secretary of State who appointed expedition"
+        },
+        {
+          "text": "Lords Commissioners of the Admiralty",
+          "start": 7739,
+          "end": 7775,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "British naval authority"
+        },
+        {
+          "text": "Doctor John Richardson",
+          "start": 7813,
+          "end": 7835,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Surgeon in Royal Navy, expedition member"
+        },
+        {
+          "text": "Royal Navy",
+          "start": 7855,
+          "end": 7865,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "British Royal Navy"
+        },
+        {
+          "text": "Mr. George Back",
+          "start": 7867,
+          "end": 7882,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Admiralty Midshipman, expedition member"
+        },
+        {
+          "text": "Mr. Robert Hood",
+          "start": 7888,
+          "end": 7903,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Admiralty Midshipman, expedition member"
+        },
+        {
+          "text": "Admiralty",
+          "start": 7909,
+          "end": 7918,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "British Admiralty"
+        },
+        {
+          "text": "Northern Coast of North America",
+          "start": 8153,
+          "end": 8185,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Northern coastline of North America"
+        },
+        {
+          "text": "Copper-Mine River",
+          "start": 8239,
+          "end": 8256,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Coppermine River"
+        },
+        {
+          "text": "Copper-Mine River",
+          "start": 8556,
+          "end": 8573,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Coppermine River"
+        },
+        {
+          "text": "Copper-Mine River",
+          "start": 8654,
+          "end": 8671,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Coppermine River"
+        },
+        {
+          "text": "Hudson's Bay Company",
+          "start": 8962,
+          "end": 8982,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Major fur trading company"
+        }
+      ]
+    }
+  ]
+}

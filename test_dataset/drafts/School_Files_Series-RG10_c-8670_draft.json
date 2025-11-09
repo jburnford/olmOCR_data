@@ -1,0 +1,173 @@
+{
+  "document_id": "School_Files_Series-RG10_c-8670",
+  "metadata": {
+    "title": "School Files Series - 1879-1953 (RG10) — c-8670",
+    "year": 1879,
+    "language": "eng",
+    "collection": "opensource; community",
+    "doc_type": "government",
+    "word_count": 303524,
+    "char_count": 1901572,
+    "total_pages": 2381,
+    "extraction_strategy": "large_doc",
+    "num_snippets": 15,
+    "annotation_date": "2025-11-07",
+    "annotator": "claude_ai",
+    "annotation_purpose": "gold_standard_ner_dataset"
+  },
+  "total_entities": 142,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "text": "For Deputy Minister.\nBishop\nThe Rt.Rev.Henry D.Martin, D.D.\n\nMr. R.A. Hoey\nDepartment of Indian Affairs,\nOttawa, Ontario.\n\nDear Mr. Hoey:\n\nI now wish to nominate Miss Mildred Hitchcock as teacher at the South School on Fort a la Corne Reserve. I have given Miss Hitchcock's qualifications in a previous letter, and I would like to add that she is most anxious to help in Indian work. I have every confidence that she would do good and faithful work on a reserve. I have not heard from you regarding the transfer of Mr. L. Ahenakew from the South School to the North School at Fort a la Corne and of course Miss Hitchcock's nomination is subject to your agreement of the proposed change.\n\nFaithfully yours,\n\n(Sgd.) Henry D. Saskatchewan.\nOttawa, July 17, 1945.\n\nMr. H.J. McLeod, Acting Indian Agent,\nDuck Lake, Sask.",
+      "char_start": 4318,
+      "char_end": 5135,
+      "entities": [
+        {
+          "text": "Rt.Rev.Henry D.Martin",
+          "start": 4346,
+          "end": 4367,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Bishop, Right Reverend"
+        },
+        {
+          "text": "Mr. R.A. Hoey",
+          "start": 4377,
+          "end": 4390,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Department of Indian Affairs official"
+        },
+        {
+          "text": "Department of Indian Affairs",
+          "start": 4391,
+          "end": 4419,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Canadian government department"
+        },
+        {
+          "text": "Ottawa",
+          "start": 4421,
+          "end": 4427,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Capital of Canada"
+        },
+        {
+          "text": "Ontario",
+          "start": 4429,
+          "end": 4436,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Province of Canada"
+        },
+        {
+          "text": "Miss Mildred Hitchcock",
+          "start": 4482,
+          "end": 4504,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Teacher nominee"
+        },
+        {
+          "text": "South School",
+          "start": 4526,
+          "end": 4538,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "School on Fort a la Corne Reserve"
+        },
+        {
+          "text": "Fort a la Corne Reserve",
+          "start": 4542,
+          "end": 4565,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Indigenous reserve in Saskatchewan"
+        },
+        {
+          "text": "Mr. L. Ahenakew",
+          "start": 4836,
+          "end": 4851,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Teacher transferring schools"
+        },
+        {
+          "text": "North School",
+          "start": 4884,
+          "end": 4896,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "School at Fort a la Corne"
+        },
+        {
+          "text": "Fort a la Corne",
+          "start": 4900,
+          "end": 4915,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Location in Saskatchewan"
+        },
+        {
+          "text": "Henry D. Saskatchewan",
+          "start": 5062,
+          "end": 5083,
+          "type": "PER",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Bishop signing letter"
+        },
+        {
+          "text": "Ottawa",
+          "start": 5085,
+          "end": 5091,
+          "type": "LOC",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Capital of Canada"
+        },
+        {
+          "text": "Mr. H.J. McLeod",
+          "start": 5109,
+          "end": 5124,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Acting Indian Agent"
+        },
+        {
+          "text": "Duck Lake",
+          "start": 5126,
+          "end": 5135,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Location in Saskatchewan"
+        },
+        {
+          "text": "Sask",
+          "start": 5137,
+          "end": 5141,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Saskatchewan province abbreviation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "document_id": "cihm_38152",
+  "metadata": {
+    "title": "Bracebridge Hall, or, The humorists [microform] : a medley",
+    "year": 1850,
+    "language": "eng",
+    "collection": "university_of_alberta_libraries_microfilm; university_of_alberta_libraries; toronto; microfilm; additional_collections",
+    "doc_type": "book",
+    "word_count": 194836,
+    "char_count": 1107660,
+    "total_pages": 498,
+    "extraction_strategy": "large_doc",
+    "num_snippets": 15,
+    "annotation_date": "2025-11-07",
+    "annotator": "claude_ai",
+    "annotation_purpose": "gold_standard_ner_dataset"
+  },
+  "total_entities": 165,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "text": "Complete in 2 vols. Portraits.\n\n7. ROSCOE'S LIFE OF LORENZO DE' MEDICI, CALLED THE MAGNIFICENT, including the Copyright Notes and Illustrations, new Memoir by his Son.\n\n8. SCHLEGEL'S LECTURES ON DRAMATIC LITERATURE, TRANSLATED BY Mr. Black, of the Morning Chronicle. New Edition, carefully revised from the last German Edition by A. J. W. Morrison. With Memoir and Portrait.\n\n9. BECKMANN'S HISTORY OF INVENTIONS, DISCOVERIES, AND ORIGINS. Fourth Edition, carefully revised and enlarged by Drs. Francis and Griffith. With Memoir and Portrait. Complete in 2 Vols., Vol. I.\n\n10. SCHILLER'S HISTORY OF THE THIRTY YEARS' WAR AND REVOLT OF THE NETHERLANDS, translated by A. J. W. Morrison. Portrait.\n\n11. BECKMANN'S HISTORY OF INVENTIONS. VOL. 2. Portrait of James Watt.\n\n12. SCHILLER'S WORKS, VOL. 2, CONTAINING, CONTINUATION OF \"THE Revolt of the Netherlanders;\" \"Wallenstein's Camp;\" \"The Piccolomini;\" \"The Death of Wallenstein;\" and \"Wilhelm Tell.\" With Portrait of Wallenstein.\n\n13.",
+      "char_start": 4723,
+      "char_end": 5706,
+      "entities": [
+        {
+          "text": "ROSCOE",
+          "start": 4760,
+          "end": 4766,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Author of Life of Lorenzo de' Medici"
+        },
+        {
+          "text": "LORENZO DE' MEDICI",
+          "start": 4779,
+          "end": 4797,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "The Magnificent, Renaissance ruler"
+        },
+        {
+          "text": "SCHLEGEL",
+          "start": 4904,
+          "end": 4912,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Author of Lectures on Dramatic Literature"
+        },
+        {
+          "text": "Mr. Black",
+          "start": 4963,
+          "end": 4972,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Translator"
+        },
+        {
+          "text": "Morning Chronicle",
+          "start": 4981,
+          "end": 4998,
+          "type": "ORG",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Newspaper"
+        },
+        {
+          "text": "A. J. W. Morrison",
+          "start": 5066,
+          "end": 5083,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Editor/reviser"
+        },
+        {
+          "text": "BECKMANN",
+          "start": 5122,
+          "end": 5130,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Author of History of Inventions"
+        },
+        {
+          "text": "Drs. Francis and Griffith",
+          "start": 5243,
+          "end": 5268,
+          "type": "PER",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Editors who revised and enlarged work"
+        },
+        {
+          "text": "SCHILLER",
+          "start": 5347,
+          "end": 5355,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "German poet and historian"
+        },
+        {
+          "text": "THIRTY YEARS' WAR",
+          "start": 5378,
+          "end": 5395,
+          "type": "MISC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Historical war 1618-1648"
+        },
+        {
+          "text": "NETHERLANDS",
+          "start": 5417,
+          "end": 5428,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Country/region"
+        },
+        {
+          "text": "A. J. W. Morrison",
+          "start": 5444,
+          "end": 5461,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Translator"
+        },
+        {
+          "text": "BECKMANN",
+          "start": 5477,
+          "end": 5485,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Author"
+        },
+        {
+          "text": "James Watt",
+          "start": 5532,
+          "end": 5542,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Famous inventor, steam engine"
+        },
+        {
+          "text": "SCHILLER",
+          "start": 5548,
+          "end": 5556,
+          "type": "PER",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "German author"
+        },
+        {
+          "text": "Wallenstein",
+          "start": 5645,
+          "end": 5656,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Historical military commander"
+        },
+        {
+          "text": "Piccolomini",
+          "start": 5670,
+          "end": 5681,
+          "type": "PER",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Character in Schiller's work"
+        },
+        {
+          "text": "Wallenstein",
+          "start": 5697,
+          "end": 5708,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Subject of Schiller's work"
+        },
+        {
+          "text": "Wilhelm Tell",
+          "start": 5719,
+          "end": 5731,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "William Tell, legendary hero"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "document_id": "cihm_41970",
+  "metadata": {
+    "title": "Copy of a letter from James Stuart, Esq. to the Right Hon. Lord Viscount Goderich [microform] : relating to animadversions and importations on his conduct and character in certain proceedings of the assembly of Lower Canada = Copie d'une lettre de James Stuart, Ecr. au Très-Honorable Lord Vicomte Goderich : au sujet des accusations et imputations contenues contre sa conduite et son caractere dans certains procédés de l'Assemblée du Bas-Canada",
+    "year": 1831,
+    "language": "eng",
+    "collection": "university_of_alberta_libraries_microfilm; university_of_alberta_libraries; toronto; microfilm; additional_collections",
+    "doc_type": "book",
+    "word_count": 111989,
+    "char_count": 684660,
+    "total_pages": 203,
+    "extraction_strategy": "large_doc",
+    "num_snippets": 15,
+    "annotation_date": "2025-11-07",
+    "annotator": "claude_ai",
+    "annotation_purpose": "gold_standard_ner_dataset"
+  },
+  "total_entities": 198,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "text": "In July, 1822, a lease for a term of twenty years was granted, by the Provincial Government of Lower Canada, to Mr. John Goudie, of an extensive tract of country in that Province, known by the name of the King's Posts, upon which trade with the Indians for a long period of time has been carried on.—In the succeeding year, a claim was preferred to the Government, on the part of Mr. Goudie, to the Post of Portneuf, then in the possession of the Hudson's Bay Company, as lessees of the proprietors of a seigniory called Mille-Vaches, adjoining to the King's Posts; which Post of Portneuf was represented by Mr. Goudie, to be comprised within the limits of the King's Posts.—Upon the investigation of this matter, which then took place, although an opinion favourable to the pretensions of Mr. Goudie had been given by Mr.",
+      "char_start": 40070,
+      "char_end": 40894,
+      "entities": [
+        {
+          "text": "Provincial Government of Lower Canada",
+          "start": 40137,
+          "end": 40174,
+          "type": "ORG",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Government of Lower Canada"
+        },
+        {
+          "text": "Lower Canada",
+          "start": 40162,
+          "end": 40174,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Lower Canada province"
+        },
+        {
+          "text": "Mr. John Goudie",
+          "start": 40179,
+          "end": 40194,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Lessee of King's Posts"
+        },
+        {
+          "text": "King's Posts",
+          "start": 40277,
+          "end": 40289,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Trading posts territory"
+        },
+        {
+          "text": "Mr. Goudie",
+          "start": 40461,
+          "end": 40471,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "John Goudie making claim"
+        },
+        {
+          "text": "Post of Portneuf",
+          "start": 40480,
+          "end": 40496,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Trading post location"
+        },
+        {
+          "text": "Hudson's Bay Company",
+          "start": 40530,
+          "end": 40550,
+          "type": "ORG",
+          "confidence": 0.98,
+          "source": "claude_ai",
+          "notes": "Major fur trading company"
+        },
+        {
+          "text": "Mille-Vaches",
+          "start": 40601,
+          "end": 40613,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Seigniory name"
+        },
+        {
+          "text": "King's Posts",
+          "start": 40632,
+          "end": 40644,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Trading posts territory"
+        },
+        {
+          "text": "Post of Portneuf",
+          "start": 40652,
+          "end": 40668,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Trading post"
+        },
+        {
+          "text": "Mr. Goudie",
+          "start": 40690,
+          "end": 40700,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "John Goudie"
+        },
+        {
+          "text": "King's Posts",
+          "start": 40746,
+          "end": 40758,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Trading posts territory"
+        },
+        {
+          "text": "Mr. Goudie",
+          "start": 40881,
+          "end": 40891,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "John Goudie"
+        }
+      ]
+    }
+  ]
+}
