@@ -1,0 +1,181 @@
+{
+  "document_id": "cihm_21045",
+  "metadata": {
+    "title": "A brief description of Nova Scotia with plates of the principal harbors [microform] : including a particular account of the Island of Grand Manan",
+    "year": 1818,
+    "language": "eng",
+    "collection": "university_of_alberta_libraries_microfilm; university_of_alberta_libraries; toronto; microfilm; additional_collections",
+    "doc_type": "book",
+    "word_count": 35915,
+    "char_count": 206051,
+    "total_pages": 165,
+    "extraction_strategy": "large_doc",
+    "num_snippets": 15,
+    "annotation_date": "2025-11-07",
+    "annotator": "claude_ai",
+    "annotation_purpose": "gold_standard_ner_dataset"
+  },
+  "total_entities": 178,
+  "snippets": [
+    {
+      "snippet_id": 1,
+      "text": "The features of the Northern Coast are soft, and free from rocks: the combined effects of heavy rain, severe frosts, and the sea, make a sensible alteration in its appearance. The few harbors along its whole range, are of very limited capacity. The coal, gypsum, and other minerals, abounding here, are probably of the same strata with those in Cape Breton, as they appear in the same direct line.\n\nThe soil of the interior is generally of a good quality: a great portion of it, free of stone, is easily tilled, and very productive. The forests are composed of Beech; Elm; Oak; black, white, and yellow Birch; Maple; white, prickly, and black Ash; pitch, white, and yellow Pine; white, black, and red Spruce; Larch; Hakmetak, or Juniper; Hemlock; and Fir.\n\nThe temperature, or rather intemperature, is the most equivocal of any part of the world.",
+      "char_start": 7560,
+      "char_end": 8408,
+      "entities": [
+        {
+          "text": "Northern Coast",
+          "start": 7576,
+          "end": 7590,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Northern coast of Nova Scotia"
+        },
+        {
+          "text": "Cape Breton",
+          "start": 7904,
+          "end": 7915,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Cape Breton Island"
+        }
+      ]
+    },
+    {
+      "snippet_id": 2,
+      "text": "Sir And. Hammond . . . . . . . 1781  \nJohn Parr, 1782, died . . . . . . . . . . . 1791  \nRichard Bulkely, president and commander in chief, Nov. 26, to May 14 . . . . . . . . 1791  \nLieut.-Gov. Sir John Wentworth, arrived Jan. and sworn, May . . . . . . . . . . . . . . 1792  \nLieut.-Gov. Sir G. Prevost, Jan. 17 . . . . . 1808  \nSir J C. Sherbrooke, Aug. 19 . . . . . . . . 1811  \nEarl Dalhousie.\n\nOpposite Halifax, on the Eastern side of the harbor, which is there about nine-tenths of a mile wide, the town of Dartmouth was laid out in 1750, and settled; but in the war of 1756, the Indians collected in great force on the Bason of Mines, ascended the Shubenacadie river in their canoes, and at night, surprising the guard, scalped or carried away most of the settlers. From this period the settlement was almost derelict, till Governor Parr, in 1784, encouraged 20 families to remove hither from Nantucket, to carry on the South Sea fishery.",
+      "char_start": 16983,
+      "char_end": 17929,
+      "entities": [
+        {
+          "text": "Sir And. Hammond",
+          "start": 16983,
+          "end": 16999,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Governor 1781"
+        },
+        {
+          "text": "John Parr",
+          "start": 17020,
+          "end": 17029,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Governor 1782-1791"
+        },
+        {
+          "text": "Richard Bulkely",
+          "start": 17065,
+          "end": 17080,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "President and commander in chief 1791"
+        },
+        {
+          "text": "Sir John Wentworth",
+          "start": 17159,
+          "end": 17177,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Lieutenant-Governor 1792"
+        },
+        {
+          "text": "Sir G. Prevost",
+          "start": 17247,
+          "end": 17261,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Lieutenant-Governor 1808"
+        },
+        {
+          "text": "Sir J C. Sherbrooke",
+          "start": 17282,
+          "end": 17301,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Governor 1811"
+        },
+        {
+          "text": "Earl Dalhousie",
+          "start": 17331,
+          "end": 17345,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Governor"
+        },
+        {
+          "text": "Halifax",
+          "start": 17357,
+          "end": 17364,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Capital of Nova Scotia"
+        },
+        {
+          "text": "Dartmouth",
+          "start": 17468,
+          "end": 17477,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Town opposite Halifax"
+        },
+        {
+          "text": "Bason of Mines",
+          "start": 17594,
+          "end": 17608,
+          "type": "LOC",
+          "confidence": 0.92,
+          "source": "claude_ai",
+          "notes": "Basin of Minas location"
+        },
+        {
+          "text": "Shubenacadie river",
+          "start": 17623,
+          "end": 17641,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "River in Nova Scotia"
+        },
+        {
+          "text": "Governor Parr",
+          "start": 17821,
+          "end": 17834,
+          "type": "PER",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Governor encouraging settlement"
+        },
+        {
+          "text": "Nantucket",
+          "start": 17888,
+          "end": 17897,
+          "type": "LOC",
+          "confidence": 0.95,
+          "source": "claude_ai",
+          "notes": "Island families came from"
+        },
+        {
+          "text": "South Sea",
+          "start": 17918,
+          "end": 17927,
+          "type": "LOC",
+          "confidence": 0.90,
+          "source": "claude_ai",
+          "notes": "South Sea fishery"
+        }
+      ]
+    }
+  ]
+}
